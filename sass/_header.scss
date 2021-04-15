@@ -15,6 +15,10 @@ header {
             display: inline;
             margin: 0 .4em;
         }
+    
+        a {
+            text-decoration: none;
+        }
     }
 
     .parks .parks a, .map .map a, .about .about a {
