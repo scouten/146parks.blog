@@ -3,7 +3,12 @@
 
 <head>
   <meta charset="utf-8">
-  <title>MyBlog</title>
+  <title>
+    {% if page.title %}
+      {{ page.title }} |
+    {% endif %}
+    146 Parks
+  </title>
   <link rel="stylesheet" href="/style.css">
 </head>
 
