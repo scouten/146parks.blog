@@ -4,4 +4,9 @@ Eric's blog about visiting all of Washington's state parks.
 
 (Currently) experimental rewrite of this site using Zola SSG.
 
-See [Zola CLI options](https://www.getzola.org/documentation/getting-started/cli-usage/) for how to build and deploy.
+## Important How-To Links
+
+* [Zola](https://www.getzola.org/documentation)
+* [Bulma](https://bulma.io/documentation/customize/with-sass-cli/) - SCSS framework
+* [Jamie's website](https://github.com/jamiebrynes7/website) - example of customizing Bulma SCSS framework
+* [Tera](https://tera.netlify.app) - templating framework
