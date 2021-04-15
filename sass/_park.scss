@@ -1,5 +1,6 @@
 .park {
     .title-assembly {
+        display: flex;
         max-width: $preferred-text-width;
         margin: 3em auto 4em auto;
         color: white;
@@ -7,19 +8,26 @@
         .sequence-assembly {
             position: relative;
             width: 99px;
+            height: 64px;
         }
 
         .sequence {
             position: absolute;
-            bottom: 20px;
+            bottom: 4px;
             right: 2px;
             text-align: center;
 
             width: 64px;
+            height: 64px;
             color: $dark-accent-background;
             font-family: interstate, sans-serif;
             font-size: 160%;
             font-weight: 700;
+        }
+
+        .title-and-visited {
+            margin-left: 1em;
+            margin-top: -.1em;
         }
 
         .name {
@@ -27,15 +35,16 @@
             font-family: interstate, sans-serif;
             font-size: 150%;
             font-weight: 700;
+            padding-right: .15em;
         }
 
         .designator {
             color: white;
             opacity: 50%;
-            margin-left: .25em;
             font-family: interstate, sans-serif;
             font-size: 80%;
             font-weight: 400;
+            white-space: nowrap;
         }
 
         .visited {
