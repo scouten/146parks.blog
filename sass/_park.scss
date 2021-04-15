@@ -4,6 +4,24 @@
         margin: 3em auto 4em auto;
         color: white;
 
+        .sequence-assembly {
+            position: relative;
+            width: 99px;
+        }
+
+        .sequence {
+            position: absolute;
+            bottom: 20px;
+            right: 2px;
+            text-align: center;
+
+            width: 64px;
+            color: $dark-accent-background;
+            font-family: interstate, sans-serif;
+            font-size: 160%;
+            font-weight: 700;
+        }
+
         .name {
             color: white;
             font-family: interstate, sans-serif;
