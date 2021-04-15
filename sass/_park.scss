@@ -1,0 +1,20 @@
+.park {
+    p:first-of-type {
+        font-size: 120%;
+        max-width: 28.3em; // 34em / 1.30
+    }
+
+    p, ul {
+        max-width: 34em;
+        margin: 1.6em auto;
+    }
+
+    ul {
+        margin: -1em auto;
+    }
+
+    ul li {
+        margin: .25em 0 .25em 1.5em;
+        list-style: disc;
+    }
+}

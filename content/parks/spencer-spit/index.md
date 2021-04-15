@@ -8,8 +8,8 @@ seq = 1
 visited = "9 October 2020"
 +++
 
-20201009-104444-es-4126-052.jpg
-Visited: 9 October 2020
+<!-- img 20201009-104444-es-4126-052.jpg -->
+<!-- Visited: 9 October 2020 -->
 
 I decided to start this project in the San Juan Islands. I made time to visit Spencer Spit State Park on Lopez Island as a day trip on my way to Friday Harbor, where I am spending a long weekend vacation.
 
@@ -19,7 +19,7 @@ Spencer Spit is one of the few parks in the San Juans that is accessible by car.
 
 Even so, on this fall day, the park was far more popular with seagulls than humans. I spent most of an hour in the park before seeing another person.
 
-20201009-104043-es-4126-050.jpg
+<!-- 20201009-104043-es-4126-050.jpg
 20201009-104218-es-4126-051.jpg
 20201009-104225-es-4127-013.jpg
 20201009-104312-es-4127-017.jpg
@@ -28,7 +28,7 @@ Even so, on this fall day, the park was far more popular with seagulls than huma
 20201009-105748-es-4127-026.jpg
 20201009-105855-es-4127-028.jpg
 20201009-110118-es-4126-061.jpg
-20201009-111021-es-4127-042.jpg
+20201009-111021-es-4127-042.jpg -->
 
 For more information:
 
