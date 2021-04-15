@@ -1,4 +1,35 @@
 .park {
+    .title-assembly {
+        max-width: $preferred-text-width;
+        margin: 3em auto 4em auto;
+        color: white;
+
+        .name {
+            color: white;
+            font-family: interstate, sans-serif;
+            font-size: 150%;
+            font-weight: 700;
+        }
+
+        .designator {
+            color: white;
+            opacity: 50%;
+            margin-left: .25em;
+            font-family: interstate, sans-serif;
+            font-size: 80%;
+            font-weight: 400;
+        }
+
+        .visited {
+            color: white;
+            opacity: 50%;
+            margin-top: -1.5em;
+            font-family: interstate, sans-serif;
+            font-size: 80%;
+            font-weight: 400;
+        }
+    }
+
     p:first-of-type {
         font-size: 120%;
         max-width: 28.3em; // 34em / 1.30
