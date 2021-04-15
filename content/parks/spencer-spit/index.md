@@ -17,16 +17,16 @@ Spencer Spit is one of the few parks in the San Juans that is accessible by car.
 
 Even so, on this fall day, the park was far more popular with seagulls than humans. I spent most of an hour in the park before seeing another person.
 
-<!-- 20201009-104043-es-4126-050.jpg
-20201009-104218-es-4126-051.jpg
-20201009-104225-es-4127-013.jpg
-20201009-104312-es-4127-017.jpg
-20201009-105046-es-4127-021.jpg
-20201009-105615-es-4127-025.jpg
-20201009-105748-es-4127-026.jpg
-20201009-105855-es-4127-028.jpg
-20201009-110118-es-4126-061.jpg
-20201009-111021-es-4127-042.jpg -->
+{{ es_image(id="es-4126-050") }}
+{{ es_image(id="es-4126-051") }}
+{{ es_image(id="es-4127-013") }}
+{{ es_image(id="es-4127-017") }}
+{{ es_image(id="es-4127-021") }}
+{{ es_image(id="es-4127-025") }}
+{{ es_image(id="es-4127-026") }}
+{{ es_image(id="es-4127-028") }}
+{{ es_image(id="es-4126-061") }}
+{{ es_image(id="es-4127-042") }}
 
 For more information:
 
