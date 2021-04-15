@@ -1,6 +1,11 @@
 +++
 title = "Spencer Spit"
 date = 2020-10-09
+weight = 1
+
+[extra]
+seq = 1
+visited = "9 October 2020"
 +++
 
 20201009-104444-es-4126-052.jpg
