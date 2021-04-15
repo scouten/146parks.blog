@@ -7,22 +7,18 @@
       <img src="/wa-shape.png" alt="" width="99" height="64">
       <div class="sequence">{{ page.extra.seq }}</div>
     </div>
-    <h1 class="title">
-      <span class="name">{{ page.title }}</span>
-      <span class="designator">
-        {% if page.extras.designator %}
-          {{ page.extras.designator }}
+    <div class="title-and-visited">
+      <h1 class="title">
+        <span class="name">{{ page.title }}</span>
+        <span class="designator">{% if page.extras.designator %}{{ page.extras.designator }}{% else %}State Park{% endif %}</span>
+      </h1>
+      <div class="visited">
+        Visited {% if page.extras.visited %}
+          {{ page.extras.visited }}
         {% else %}
-          State Park
+          {{ page.date | date(format="%e %B %Y") }}
         {% endif %}
-      </span>
-    </h1>
-    <div class="visited">
-      Visited {% if page.extras.visited %}
-        {{ page.extras.visited }}
-      {% else %}
-        {{ page.date | date(format="%e %B %Y") }}
-      {% endif %}
+      </div>
     </div>
   </div>
 {{ page.content | safe }}
