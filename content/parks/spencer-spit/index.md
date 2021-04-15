@@ -5,11 +5,9 @@ weight = 1
 
 [extra]
 seq = 1
-visited = "9 October 2020"
 +++
 
 <!-- img 20201009-104444-es-4126-052.jpg -->
-<!-- Visited: 9 October 2020 -->
 
 I decided to start this project in the San Juan Islands. I made time to visit Spencer Spit State Park on Lopez Island as a day trip on my way to Friday Harbor, where I am spending a long weekend vacation.
 
