@@ -26,9 +26,13 @@
             font-weight: 700;
         }
 
+        h1.title {
+            line-height: 1;
+        }
+
         .title-and-visited {
             margin-left: 1em;
-            margin-top: -.05em;
+            margin-top: .04em;
         }
 
         .name {
@@ -45,6 +49,7 @@
             font-family: interstate, sans-serif;
             font-size: 80%;
             font-weight: 400;
+            line-height: 1.95;
             white-space: nowrap;
         }
 
