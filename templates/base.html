@@ -8,6 +8,18 @@
 </head>
 
 <body>
+  <header>
+    <div class="brand">
+      <a href="/"><img src="/146-parks.png" width="246" height="80"></a>
+    </div>
+    {% set current_section = current_path | as_str | split(pat="/") | nth(n=1) %}
+    <ul class="nav {{ current_section }}">
+      <li class="parks"><a href="/parks">Blog</a></li>
+      <li class="map"><a href="/map">Map</a></li>
+      <li class="about"><a href="/about">About</a></li>
+    </ul>
+
+  </header>
   <section class="section">
     <div class="container">
       {% block content %} {% endblock %}
