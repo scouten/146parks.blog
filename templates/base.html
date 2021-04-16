@@ -13,6 +13,9 @@
   <meta name="msapplication-TileColor" content="#352d28">
   <meta name="theme-color" content="#1f1a17">
 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous"></script>
+  <script src="/header-scroll.js"></script>
+
   <title>
     {% if page.title %}
       {{ page.title }} |
@@ -23,7 +26,7 @@
 </head>
 
 <body>
-  <header>
+  <header id="header">
     <div class="brand">
       <a href="/"><img src="/146-parks.png" width="246" height="80"></a>
     </div>
@@ -33,7 +36,9 @@
       <li class="map"><a href="/map">Map</a></li>
       <li class="about"><a href="/about">About</a></li>
     </ul>
-
+    <div class="scrolled">
+      <a href="/"><img src="/146-parks.png" width="123" height="40"></a>
+    </div>
   </header>
   <section class="section root">
     <div class="container">
