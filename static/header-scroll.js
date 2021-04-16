@@ -1,20 +1,24 @@
-function resizeHeaderOnScroll() {
-    const distanceY = window.pageYOffset || document.documentElement.scrollTop,
-    shrinkOn = 40,
-    titleAppear = 415,
-    headerEl = document.getElementById('header');
+function addMiniHeaderOnScroll() {
+    const distanceY = window.pageYOffset || document.documentElement.scrollTop;
+    const miniHeader = document.getElementById('mini-header');
     
-    if (distanceY > titleAppear) {
-        headerEl.classList.add("add-title");
+    if (distanceY > 430) {
+        miniHeader.classList.add("add-title");
     } else {
-        headerEl.classList.remove("add-title");
+        miniHeader.classList.remove("add-title");
     }
 
-    if (distanceY > shrinkOn) {
-        headerEl.classList.add("smaller");
+    if (distanceY > 120) {
+        miniHeader.classList.add("active");
     } else {
-        headerEl.classList.remove("smaller");
+        miniHeader.classList.remove("active");
+    }
+
+    if (distanceY > 20) {
+        miniHeader.classList.add("visible");
+    } else {
+        miniHeader.classList.remove("visible");
     }
 }
   
-window.addEventListener('scroll', resizeHeaderOnScroll);
+window.addEventListener('scroll', addMiniHeaderOnScroll);
