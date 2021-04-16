@@ -39,9 +39,13 @@ header {
 }
 
 header.smaller {
-    background: linear-gradient( rgba(31, 26, 23, .8), 75%, transparent);
-    height: 44px;
-    padding: 6px 8px;
+    background: linear-gradient( rgba(31, 26, 23, .8), 60%, rgba(31, 26, 23, 0));
+    height: 50px;
+    padding: 6px 8px 12px;
+
+    a {
+        text-decoration: none !important;
+    }
 
     .brand, .nav {
         display: none;
@@ -72,6 +76,10 @@ header.smaller {
             font-family: interstate, sans-serif;
             font-size: 90%;
             font-weight: 700;
+
+            a {
+                color: $dark-accent-background !important;
+            }
         }
 
         div.title {

@@ -38,20 +38,17 @@
     </ul>
     <div class="scrolled">
       <div class="sequence-assembly">
-        <a href="/"><img src="/wa-shape.png" alt="" width="49" height="32"></a>
-        <div class="sequence">{% if page.extra.seq %}{{ page.extra.seq }}{% endif %}</div>
+        <a href="#top"><img src="/wa-shape.png" alt="" width="49" height="32"></a>
+        <div class="sequence"><a href="#top">{% if page.extra.seq %}{{ page.extra.seq }}{% endif %}</a></div>
       </div>
       {% if page.title %}
       <div class="title">
+        <a href="#top">
         <span class="name">{{ page.title }}</span>
         <span class="designator">{% if page.extras.designator %}{{ page.extras.designator }}{% else %}State Park{% endif %}</span>
+        </a>
       </div>
       {% endif %}
-      <ul class="nav {{ current_section }}">
-        <li class="parks"><a href="/parks">Blog</a></li>
-        <li class="map"><a href="/map">Map</a></li>
-        <li class="about"><a href="/about">About</a></li>
-      </ul>
       </div>
   </header>
   <section class="section root">
