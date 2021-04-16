@@ -39,7 +39,7 @@ header {
 }
 
 header.smaller {
-    background: linear-gradient( rgba(0, 0, 0, .7), 50%, transparent);
+    background: linear-gradient( rgba(31, 26, 23, .8), 75%, transparent);
     height: 44px;
     padding: 6px 8px;
 
@@ -63,6 +63,8 @@ header.smaller {
             bottom: 3px;
             right: 2px;
             text-align: center;
+            opacity: 0;
+            transition: opacity 0.5s;
 
             width: 32px;
             height: 32px;
@@ -73,9 +75,10 @@ header.smaller {
         }
 
         div.title {
-            opacity: 70%;
-            margin-top: -.1em;
-            padding-left: .25em;
+            opacity: 0;
+            transition: opacity 0.5s;
+            margin-top: .075em;
+            padding-left: .5em;
             line-height: 1;
             white-space: nowrap;
             overflow: hidden;
@@ -86,19 +89,28 @@ header.smaller {
             color: white;
             font-family: interstate, sans-serif;
             font-size: 80%;
-            font-weight: 700;
+            font-weight: 400;
             padding-right: .05em;
         }
 
         .designator {
             color: white;
-            opacity: 50%;
             font-family: interstate, sans-serif;
             font-size: 60%;
             font-weight: 400;
-            line-height: 1.95;
             white-space: nowrap;
         }
+    }
+}
 
+header.add-title .scrolled {
+    .sequence {
+        opacity: 1;
+        transition: opacity 0.5s;
+    }
+
+    div.title {
+        opacity: 0.5;
+        transition: opacity 0.5s;
     }
 }
