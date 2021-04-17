@@ -1,0 +1,2 @@
+content/**.jpg filter=lfs diff=lfs merge=lfs -text
+*.lfsconfig filter=lfs diff=lfs merge=lfs -text
