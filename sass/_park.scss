@@ -61,6 +61,18 @@
             font-size: 80%;
             font-weight: 400;
         }
+
+        .near {
+            color: white;
+            opacity: 50%;
+            font-family: interstate, sans-serif;
+            font-size: 80%;
+            font-weight: 400;
+
+            a {
+                color: white !important;
+            }
+        }
     }
 
     p:first-of-type {
@@ -80,5 +92,10 @@
     ul li {
         margin: .25em 0 .25em 1.5em;
         list-style: disc;
+    }
+
+    #map {
+        margin-top: 3em;
+        height: 60vh;
     }
 }
