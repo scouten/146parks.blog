@@ -12,15 +12,15 @@
         <span class="name">{{ page.title }}</span>
         <span class="designator">{% if page.extra.designator %}{{ page.extra.designator }}{% else %}State Park{% endif %}</span>
       </h1>
+      <div class="near">
+        <a href="#map">{{ page.extra.near }}, Washington</a>
+      </div>
       <div class="visited">
         Visited {% if page.extra.visited %}
           {{ page.extra.visited }}
         {% else %}
           {{ page.date | date(format="%e %B %Y") }}
         {% endif %}
-      </div>
-      <div class="near">
-        <a href="#map">{{ page.extra.near }}, Washington</a>
       </div>
     </div>
   </div>
