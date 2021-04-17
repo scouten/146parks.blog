@@ -53,18 +53,10 @@
             white-space: nowrap;
         }
 
-        .visited {
-            color: white;
-            opacity: 50%;
-            margin-top: -1.5em;
-            font-family: interstate, sans-serif;
-            font-size: 80%;
-            font-weight: 400;
-        }
-
         .near {
             color: white;
             opacity: 50%;
+            margin-top: -1.5em;
             font-family: interstate, sans-serif;
             font-size: 80%;
             font-weight: 400;
@@ -72,6 +64,14 @@
             a {
                 color: white !important;
             }
+        }
+
+        .visited {
+            color: white;
+            opacity: 50%;
+            font-family: interstate, sans-serif;
+            font-size: 80%;
+            font-weight: 400;
         }
     }
 
