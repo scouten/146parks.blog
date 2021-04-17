@@ -5,6 +5,9 @@ weight = 1
 
 [extra]
 seq = 1
+lat = 48.5353
+lon = -122.8575
+near = "Lopez Island"
 +++
 
 I decided to start this project in the San Juan Islands. I made time to visit Spencer Spit State Park on Lopez Island as a day trip on my way to Friday Harbor, where I am spending a long weekend vacation.
