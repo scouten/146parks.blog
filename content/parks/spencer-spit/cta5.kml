@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.1">
   <Document>
-    <name>Spencer Spit</name>
-    <description>Spencer Spit park visit, 9 Oct 2020</description>
-
-    <Style id="blueLine">
+    <Style id="blue">
       <LineStyle>
         <color>ffff0000</color>
-        <width>4</width>
+        <width>3</width>
       </LineStyle>
     </Style>
 
     <Placemark>
-      <name>Blue Line</name>
-      <styleUrl>#blueLine</styleUrl>
+      <styleUrl>#blue</styleUrl>
       <LineString>
         <altitudeMode>relative</altitudeMode>
         <coordinates>
