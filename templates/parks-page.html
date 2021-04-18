@@ -26,6 +26,9 @@
   </div>
   {{ page.content | safe }}
   <div id="map"></div>
+  {% if page.extra.markers %}
+  <script src="{{ page.extra.markers }}"></script>
+  {% endif %}
   <script>
     let map;
 
@@ -49,6 +52,9 @@
         preserveViewport: true,
         map: map
       });
+      {% endif %}
+      {% if page.extra.markers %}
+      addGpxMarkers(map);
       {% endif %}
     }
   </script>
