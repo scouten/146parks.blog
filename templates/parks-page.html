@@ -31,28 +31,22 @@
 
     function initMap() {
       const map = new google.maps.Map(document.getElementById("map"), {
-        zoom: 11,
-        center: { lat: 41.876, lng: -87.624 },
+        zoom: 12,
+        center: { lat: {{ page.extra.lat }}, lng: {{ page.extra.lon }} },
+        // mapTypeId: "terrain",
       });
+
+      // map.setOptions('TERRAIN');
 
       const ctaLayer = new google.maps.KmlLayer({
         url: "https://googlearchive.github.io/js-v2-samples/ggeoxml/cta.kml",
         map: map,
       });
 
-
-      // map = new google.maps.Map(document.getElementById("map"), {
-      //   center: { lat: {{ page.extra.lat }}, lng: {{ page.extra.lon }} },
-      //   zoom: 12,
-      //   mapTypeId: "terrain",
-      // });
-
-      // map.setOptions('TERRAIN');
-      
-      // const marker = new google.maps.Marker({
-      //   position: { lat: {{ page.extra.lat }}, lng: {{ page.extra.lon }} },
-      //   map: map,
-      // });
+      const marker = new google.maps.Marker({
+        position: { lat: {{ page.extra.lat }}, lng: {{ page.extra.lon }} },
+        map: map,
+      });
 
       // {% if page.extra.track %}
       // var kmlLayer = new google.maps.KmlLayer({
