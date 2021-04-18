@@ -26,7 +26,7 @@ function addGpxMarker(map, id, lat, lon) {
 
     const infoWindow = new google.maps.InfoWindow({
         content: contentString,
-        maxWidth: 240,
+        maxWidth: 200,
     });
 
     const marker = new google.maps.Marker({
