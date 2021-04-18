@@ -41,10 +41,6 @@
 
       map.setOptions('TERRAIN');
 
-      const marker = new google.maps.Marker({
-        position: { lat: {{ page.extra.lat }}, lng: {{ page.extra.lon }} },
-        map: map,
-      });
 
       {% if page.extra.track %}
       var kmlLayer = new google.maps.KmlLayer({
@@ -55,6 +51,11 @@
       {% endif %}
       {% if page.extra.markers %}
       addGpxMarkers(map);
+      {% else %}
+      const marker = new google.maps.Marker({
+        position: { lat: {{ page.extra.lat }}, lng: {{ page.extra.lon }} },
+        map: map,
+      });
       {% endif %}
     }
   </script>
