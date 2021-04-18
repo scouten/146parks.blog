@@ -42,4 +42,6 @@ function addGpxMarker(map, id, lat, lon) {
     marker.addListener("mouseover", () => {
         openInfoWindow(map, infoWindow, marker);
     });
+
+    return marker;
 }

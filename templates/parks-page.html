@@ -28,6 +28,7 @@
   <div id="map"></div>
   {% if page.extra.markers %}
   <script src="/common/add-gps-markers.js"></script>
+  <script src="https://unpkg.com/@googlemaps/markerclustererplus/dist/index.min.js"></script>
   <script src="{{ page.extra.markers }}"></script>
   {% endif %}
   <script>
@@ -41,8 +42,7 @@
       });
 
       map.setOptions('TERRAIN');
-
-
+ 
       {% if page.extra.track %}
       var kmlLayer = new google.maps.KmlLayer({
         url: '{{ current_url | safe }}{{ page.extra.track }}',
@@ -51,7 +51,9 @@
       });
       {% endif %}
       {% if page.extra.markers %}
-      addGpxMarkers(map);
+      markers = addGpxMarkers(map);
+      const markerCluster = new MarkerClusterer(map, markers,
+            { imagePath: "{{ config.base_url | safe }}common/m"} );
       {% else %}
       const marker = new google.maps.Marker({
         position: { lat: {{ page.extra.lat }}, lng: {{ page.extra.lon }} },
