@@ -30,18 +30,26 @@
     let map;
 
     function initMap() {
-      map = new google.maps.Map(document.getElementById("map"), {
-        center: { lat: {{ page.extra.lat }}, lng: {{ page.extra.lon }} },
+      const map = new google.maps.Map(document.getElementById("map"), {
         zoom: 12,
+        center: { lat: {{ page.extra.lat }}, lng: {{ page.extra.lon }} },
         mapTypeId: "terrain",
       });
 
       map.setOptions('TERRAIN');
-      
+
       const marker = new google.maps.Marker({
         position: { lat: {{ page.extra.lat }}, lng: {{ page.extra.lon }} },
         map: map,
       });
+
+      {% if page.extra.track %}
+      var kmlLayer = new google.maps.KmlLayer({
+        url: '{{ current_url | safe }}{{ page.extra.track }}',
+        preserveViewport: true,
+        map: map
+      });
+      {% endif %}
     }
   </script>
   <script
