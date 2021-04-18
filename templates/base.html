@@ -14,7 +14,7 @@
   <meta name="theme-color" content="#1f1a17">
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous"></script>
-  <script src="/header-scroll.js"></script>
+  <script src="/common/header-scroll.js"></script>
 
   <title>
     {% if page.title %}
@@ -28,7 +28,7 @@
 <body>
   <header id="header">
     <div class="brand">
-      <a href="/"><img src="/146-parks.png" width="246" height="80"></a>
+      <a href="/"><img src="/common/146-parks.png" width="246" height="80"></a>
     </div>
     {% set current_section = current_path | as_str | split(pat="/") | nth(n=1) %}
     <ul class="nav {{ current_section }}">
@@ -39,7 +39,7 @@
   </header>
   <mini-header id="mini-header">
     <div class="sequence-assembly">
-      <a href="#top"><img src="/wa-shape.png" alt="" width="49" height="32"></a>
+      <a href="#top"><img src="/common/wa-shape.png" alt="" width="49" height="32"></a>
       <div class="sequence"><a href="#top">{% if page.extra.seq %}{{ page.extra.seq }}{% endif %}</a></div>
     </div>
     {% if page.title %}
