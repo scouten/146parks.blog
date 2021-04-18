@@ -44,9 +44,8 @@
       });
 
       {% if page.extra.track %}
-      var kmlLayer = new google.maps.KmlLayer('{{ current_url | safe }}{{ page.extra.track }}', {
-        suppressInfoWindows: true,
-        preserveViewport: false,
+      var kmlLayer = new google.maps.KmlLayer({
+        url: '{{ current_url | safe }}{{ page.extra.track }}',
         map: map
       });
       {% endif %}
