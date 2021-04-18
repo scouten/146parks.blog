@@ -42,6 +42,14 @@
         position: { lat: {{ page.extra.lat }}, lng: {{ page.extra.lon }} },
         map: map,
       });
+
+      {% if page.extra.track %}
+      var kmlLayer = new google.maps.KmlLayer('{{ current_url }}{{ page.extra.track }}', {
+        suppressInfoWindows: true,
+        preserveViewport: false,
+        map: map
+      });
+      {% endif %}
     }
   </script>
   <script
