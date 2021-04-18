@@ -27,6 +27,7 @@
   {{ page.content | safe }}
   <div id="map"></div>
   {% if page.extra.markers %}
+  <script src="/common/add-gps-markers.js"></script>
   <script src="{{ page.extra.markers }}"></script>
   {% endif %}
   <script>
