@@ -26,6 +26,8 @@ Even so, on this fall day, the park was far more popular with seagulls than huma
 {{ es_image(id="es-4126-051") }}
 {{ es_image(id="es-4127-013") }}
 {{ es_image(id="es-4127-017") }}
+{{ es_image(id="es-4126-052") }}
+{{ es_image(id="es-4126-056") }}
 {{ es_image(id="es-4127-021") }}
 {{ es_image(id="es-4127-025") }}
 {{ es_image(id="es-4127-026") }}
