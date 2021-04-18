@@ -33,10 +33,10 @@
       const map = new google.maps.Map(document.getElementById("map"), {
         zoom: 12,
         center: { lat: {{ page.extra.lat }}, lng: {{ page.extra.lon }} },
-        // mapTypeId: "terrain",
+        mapTypeId: "terrain",
       });
 
-      // map.setOptions('TERRAIN');
+      map.setOptions('TERRAIN');
 
       const ctaLayer = new google.maps.KmlLayer({
         url: "https://googlearchive.github.io/js-v2-samples/ggeoxml/cta.kml",
