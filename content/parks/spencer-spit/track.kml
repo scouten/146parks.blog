@@ -4,7 +4,7 @@
     <name>Spencer Spit</name>
     <description>Spencer Spit park visit, 9 Oct 2020</description>
 
-    <Style id="blue">
+    <Style id="myBlue">
       <LineStyle>
         <color>ffff0000</color>
         <width>4</width>
@@ -13,7 +13,7 @@
 
     <Placemark>
         <name>Track 1</name>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#myBlue</styleUrl>
                    
         <LineString>
             <altitudeMode>clampToGround</altitudeMode> 
