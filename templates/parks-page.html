@@ -38,22 +38,22 @@
 
       map.setOptions('TERRAIN');
 
-      const ctaLayer = new google.maps.KmlLayer({
-        url: "https://googlearchive.github.io/js-v2-samples/ggeoxml/cta.kml",
-        map: map,
-      });
-
       const marker = new google.maps.Marker({
         position: { lat: {{ page.extra.lat }}, lng: {{ page.extra.lon }} },
         map: map,
       });
 
-      // {% if page.extra.track %}
-      // var kmlLayer = new google.maps.KmlLayer({
-      //   url: '{{ current_url | safe }}{{ page.extra.track }}',
-      //   map: map
-      // });
-      // {% endif %}
+      const ctaLayer = new google.maps.KmlLayer({
+        url: "https://googlearchive.github.io/js-v2-samples/ggeoxml/cta.kml",
+        map: map,
+      });
+
+      {% if page.extra.track %}
+      var kmlLayer = new google.maps.KmlLayer({
+        url: '{{ current_url | safe }}{{ page.extra.track }}',
+        map: map
+      });
+      {% endif %}
     }
   </script>
   <script
