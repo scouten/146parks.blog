@@ -61,6 +61,7 @@
       const marker = new google.maps.Marker({
         position: { lat: {{ page.extra.lat }}, lng: {{ page.extra.lon }} },
         map: map,
+        preserveViewport: false,
       });
       {% endif %}
     }
