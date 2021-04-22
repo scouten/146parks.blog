@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="park">
+  <div class="title-assembly">
+    <div class="sequence-assembly">
+      <img src="/common/wa-shape.png" alt="" width="99" height="64">
+      <div class="sequence sequence-narrow">404</div>
+    </div>
+    <div class="title-and-visited">
+      <h1 class="title">
+        <span class="name">Lost Lake</span>
+        <span class="designator">Mythical State Park</span>
+      </h1>
+      <div class="near">
+        <a href="#map">Somewhere in Washington</a>
+      </div>
+      <div class="visited">
+        Visited {{ now() | date(format="%e %B %Y") }}
+      </div>
+    </div>
+  </div>
+  <p>I’m sorry, but I don’t quite know what you’re looking for.</p>
+  <div class="es_image anti-section" style="margin-top: 4em">
+    <img src="/common/es-4189-008.jpg" alt="Trail dead ends">
+  </div>
+  <p>You might try:</p>
+  <ul>
+    <li class="parks"><a href="/parks">The blog</a></li>
+    <li class="map"><a href="/map">The map</a></li>
+    <li class="about"><a href="/about">The about page</a></li>
+  </ul>
+</div>
+{% endblock content %}
