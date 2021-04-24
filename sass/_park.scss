@@ -111,10 +111,12 @@
 }
 
 #next_prev {
+    margin: 4em auto;
 
     #next, #prev {
         max-width: $preferred-text-width;
-        margin: 3em auto 4em auto;
+        margin: 1em auto;
+        justify-content: center;
         display: flex;
 
         .sequence-assembly {
@@ -167,5 +169,10 @@
             padding-left: .15em;
             white-space: nowrap;
         }
+    }
+
+    #next ~ #prev {
+        border-top: 1px solid white;
+        padding-top: 1em;
     }
 }
