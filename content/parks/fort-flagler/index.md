@@ -1,6 +1,5 @@
 +++
 title = "Fort Flagler"
-designator = "Historical State Park"
 date = 2020-10-13
 weight = 4
 
@@ -9,6 +8,7 @@ seq = 4
 lat = 48.0928
 lon = -122.7062
 near = "Marrowstone Island"
+designator = "Historical State Park"
 markers = "markers.js"
 track = "track.kml"
 feature = "es-4131-093"
