@@ -8,7 +8,6 @@ seq = 3
 lat = 48.0587
 lon = -122.6946
 near = "Marrowstone Island"
-track = "track.kml"
 feature = "es-4131-029"
 +++
 
