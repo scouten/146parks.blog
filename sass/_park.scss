@@ -160,26 +160,26 @@
 
         .title {
             margin-left: .4em;
-            margin-top: -.19em;
-            line-height: 1em;
+            margin-top: 0;
+            line-height: 18px;
         }
 
         .name {
             color: white;
             opacity: 80%;
             font-family: interstate, sans-serif;
-            font-size: 85%;
+            font-size: 24px;
             font-weight: 700;
+            padding-right: .15em;
         }
 
         .designator {
             color: white;
             opacity: 50%;
             font-family: interstate, sans-serif;
-            font-size: 65%;
+            font-size: 1rem;
             font-weight: 400;
             line-height: 1.95;
-            padding-left: .15em;
             white-space: nowrap;
         }
     }
