@@ -11,6 +11,7 @@ lon = -122.7062
 near = "Marrowstone Island"
 markers = "markers.js"
 track = "track.kml"
+feature = "es-4131-093"
 +++
 
 {{ es_image(id="es-4131-061", caption="Looking across Port Townsend Bay to the city itself from the Lower Campground area.") }}
