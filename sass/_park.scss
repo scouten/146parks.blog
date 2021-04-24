@@ -117,6 +117,7 @@
         max-width: $preferred-text-width;
         margin: 1em auto;
         justify-content: center;
+        align-items: start;
         display: flex;
 
         .arrow-l, .arrow-r {
@@ -188,6 +189,7 @@
         margin: 0 auto;
         padding: 2px;
         height: 2px;
-        width: 40%;
+        width: 15em;
+        max-width: 60% !important;
     }
 }
