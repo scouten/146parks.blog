@@ -71,4 +71,40 @@
     async>
   </script>
 </div>
+
+<div id="next_prev">
+  {% if page.heavier %}
+  <div id="next">
+    <div class="sequence-assembly">
+      <a href="{{ page.heavier.permalink | safe }}"><img src="/common/wa-shape.png" alt="" width="49" height="32"></a>
+      <div class="sequence"><a href="{{ page.heavier.permalink | safe }}">{% if page.heavier.extra.seq %}{{ page.heavier.extra.seq }}{% endif %}</a></div>
+    </div>
+    {% if page.heavier.title %}
+    <div class="title">
+      <a href="{{ page.heavier.permalink | safe }}">
+      <span class="name">{{ page.heavier.title }}</span>
+      <span class="designator">{% if page.heavier.extras.designator %}{{ page.heavier.extras.designator }}{% else %}State Park{% endif %}</span>
+      </a>
+    </div>
+    {% endif %}
+  </div>
+  {% endif %}
+  {% if page.lighter %}
+  <div id="prev">
+    <div class="sequence-assembly">
+      <a href="{{ page.lighter.permalink | safe }}"><img src="/common/wa-shape.png" alt="" width="49" height="32"></a>
+      <div class="sequence"><a href="{{ page.lighter.permalink | safe }}">{% if page.lighter.extra.seq %}{{ page.lighter.extra.seq }}{% endif %}</a></div>
+    </div>
+    {% if page.lighter.title %}
+    <div class="title">
+      <a href="{{ page.lighter.permalink | safe }}">
+      <span class="name">{{ page.lighter.title }}</span>
+      <span class="designator">{% if page.lighter.extras.designator %}{{ page.lighter.extras.designator }}{% else %}State Park{% endif %}</span>
+      </a>
+    </div>
+    {% endif %}
+  </div>
+  {% endif %}
+</div>
+
 {% endblock content %}
