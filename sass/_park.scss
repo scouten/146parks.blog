@@ -119,6 +119,18 @@
         justify-content: center;
         display: flex;
 
+        .arrow-l, .arrow-r {
+            height: 32px !important;
+            margin: 0;
+        }
+
+        .arrow-l {
+            margin-right: .8em;
+        }
+        .arrow-r {
+            margin-left: .8em;
+        }
+
         .sequence-assembly {
             flex: none;
             position: relative;
@@ -171,8 +183,11 @@
         }
     }
 
-    #next ~ #prev {
-        border-top: 1px solid white;
-        padding-top: 1em;
+    #divider {
+        border-top: 2px solid white;
+        margin: 0 auto;
+        padding: 2px;
+        height: 2px;
+        width: 40%;
     }
 }

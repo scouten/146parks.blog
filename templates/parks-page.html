@@ -75,6 +75,9 @@
 <div id="next_prev">
   {% if page.heavier %}
   <div id="next">
+    <div class="arrow-l">
+      <a href="{{ page.heavier.permalink | safe }}"><img src="/common/arrow-l.png" alt="" width="32" height="32"></a>
+    </div>
     <div class="sequence-assembly">
       <a href="{{ page.heavier.permalink | safe }}"><img src="/common/wa-shape.png" alt="" width="49" height="32"></a>
       <div class="sequence"><a href="{{ page.heavier.permalink | safe }}">{% if page.heavier.extra.seq %}{{ page.heavier.extra.seq }}{% endif %}</a></div>
@@ -88,6 +91,9 @@
     </div>
     {% endif %}
   </div>
+  {% endif %}
+  {% if page.heavier and page.lighter %}
+  <div id="divider"></div>
   {% endif %}
   {% if page.lighter %}
   <div id="prev">
@@ -103,6 +109,9 @@
       </a>
     </div>
     {% endif %}
+    <div class="arrow-r">
+      <a href="{{ page.lighter.permalink | safe }}"><img src="/common/arrow-r.png" alt="" width="32" height="32"></a>
+    </div>
   </div>
   {% endif %}
 </div>
