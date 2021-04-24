@@ -86,7 +86,7 @@
     <div class="title">
       <a href="{{ page.heavier.permalink | safe }}">
       <span class="name">{{ page.heavier.title }}</span>
-      <span class="designator">{% if page.heavier.extras.designator %}{{ page.heavier.extras.designator }}{% else %}State Park{% endif %}</span>
+      <span class="designator">{% if page.heavier.extra.designator %}{{ page.heavier.extra.designator }}{% else %}State Park{% endif %}</span>
       </a>
     </div>
     {% endif %}
@@ -105,7 +105,7 @@
     <div class="title">
       <a href="{{ page.lighter.permalink | safe }}">
       <span class="name">{{ page.lighter.title }}</span>
-      <span class="designator">{% if page.lighter.extras.designator %}{{ page.lighter.extras.designator }}{% else %}State Park{% endif %}</span>
+      <span class="designator">{% if page.lighter.extra.designator %}{{ page.lighter.extra.designator }}{% else %}State Park{% endif %}</span>
       </a>
     </div>
     {% endif %}
