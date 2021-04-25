@@ -9,7 +9,7 @@ lat = 48.6532
 lon = -122.4901
 near = "south of Bellingham"
 markers = "markers.js"
-track = "track1.kml"
+track = "track.kml"
 feature = "es-4152-086p"
 +++
 
