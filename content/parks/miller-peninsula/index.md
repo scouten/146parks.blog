@@ -5,8 +5,8 @@ weight = 11
 
 [extra]
 seq = 11
-lat = 48.5159
-lon = -123.1524
+lat = 48.0659
+lon = -122.9464
 near = "east of Sequim"
 designator = "State Park Property"
 markers = "markers.js"
