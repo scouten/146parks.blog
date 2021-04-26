@@ -10,7 +10,7 @@ lon = -122.9464
 near = "east of Sequim"
 designator = "State Park Property"
 markers = "markers.js"
-track = "track.kml"
+track = "track1.kml"
 feature = "es-4156-112"
 +++
 
