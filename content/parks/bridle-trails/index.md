@@ -8,6 +8,8 @@ seq = 10
 lat = 47.6550
 lon = -122.1843
 near = "Kirkland"
+markers = "markers.js"
+track = "track.kml"
 feature = "es-4156-046"
 +++
 
