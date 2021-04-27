@@ -1,0 +1,56 @@
+#next, #prev, .park-link {
+    max-width: $preferred-text-width;
+    align-items: start;
+    display: flex;
+
+    .sequence-assembly {
+        flex: none;
+        position: relative;
+        width: 49px;
+        height: 32px;
+        overflow: hidden;
+    }
+
+    .sequence {
+        position: absolute;
+        bottom: 3px;
+        right: 2px;
+        text-align: center;
+
+        width: 32px;
+        height: 32px;
+        color: $dark-accent-background;
+        font-family: interstate, sans-serif;
+        font-size: 90%;
+        font-weight: 700;
+
+        a {
+            color: $dark-accent-background !important;
+        }
+    }
+
+    .title {
+        margin-left: .4em;
+        margin-top: 0;
+        line-height: 18px;
+    }
+
+    .name {
+        color: white;
+        opacity: 80%;
+        font-family: interstate, sans-serif;
+        font-size: 24px;
+        font-weight: 700;
+        padding-right: .1em;
+    }
+
+    .designator {
+        color: white;
+        opacity: 50%;
+        font-family: interstate, sans-serif;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.95;
+        white-space: nowrap;
+    }
+}

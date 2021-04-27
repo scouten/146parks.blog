@@ -4,9 +4,22 @@
 <h1 class="title">
   {{ section.title }}
 </h1>
-<ul>
+<div class="parks-list">
   {% for page in section.pages | reverse %}
-  <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+  <div class="park-link">
+    <div class="sequence-assembly">
+      <a href="{{ page.permalink | safe }}"><img src="/common/wa-shape.png" alt="" width="49" height="32"></a>
+      <div class="sequence"><a href="{{ page.permalink | safe }}">{% if page.extra.seq %}{{ page.extra.seq }}{% endif %}</a></div>
+    </div>
+    {% if page.title %}
+    <div class="title">
+      <a href="{{ page.permalink | safe }}">
+      <span class="name">{{ page.title }}</span>
+      <span class="designator">{% if page.extra.designator %}{{ page.extra.designator }}{% else %}State Park{% endif %}</span>
+      </a>
+    </div>
+    {% endif %}
+  </div>
   {% endfor %}
-</ul>
+</div>
 {% endblock content %}
