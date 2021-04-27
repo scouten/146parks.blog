@@ -17,3 +17,4 @@ command = "zola build --base-url $DEPLOY_PRIME_URL"
   from = "/index.html"
   to = "/parks"
   status = 301
+  force = true
