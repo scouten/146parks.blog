@@ -9,6 +9,8 @@
 
 @import "./header";
 @import "./park";
+@import "./park_links";
+@import "./parks_list";
 @import "./footer";
 
 section.root {
@@ -42,4 +44,9 @@ a:hover {
         margin-left: -6em;
         margin-right: -6em;
     }
+}
+
+p, ul {
+    max-width: $preferred-text-width;
+    margin: 1.6em auto;
 }
