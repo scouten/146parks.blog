@@ -12,3 +12,18 @@ ZOLA_VERSION = "0.13.0"
 
 [context.deploy-preview]
 command = "zola build --base-url $DEPLOY_PRIME_URL"
+
+# Using 302 (temporary) redirects because I might someday
+# want to have a separate welcome page. We'll see.
+
+[[redirects]]
+  from = "/"
+  to = "/parks"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/index.html"
+  to = "/parks"
+  status = 302
+  force = true
