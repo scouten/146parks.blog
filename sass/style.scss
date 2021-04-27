@@ -45,3 +45,8 @@ a:hover {
         margin-right: -6em;
     }
 }
+
+p, ul {
+    max-width: $preferred-text-width;
+    margin: 1.6em auto;
+}
