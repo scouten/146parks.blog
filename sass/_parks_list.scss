@@ -1,0 +1,18 @@
+.park-entry {
+    position: relative;
+    max-width: 750px;
+    margin: 2.5em auto;
+
+    a:hover {
+        text-decoration: none;
+    }
+
+    .park-link {
+        flex: none;
+        position: absolute;
+        top: 0;
+        width: 100% !important;
+        padding: .5em .5em .8em .5em;
+        background: linear-gradient( rgba(31, 26, 23, .7), 65%, rgba(31, 26, 23, 0));
+    }
+}

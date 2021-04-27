@@ -85,11 +85,6 @@
         max-width: 28.3em; // 34em / 1.30
     }
 
-    p, ul {
-        max-width: $preferred-text-width;
-        margin: 1.6em auto;
-    }
-
     ul {
         margin: -1em auto;
     }
@@ -114,76 +109,23 @@
     margin: 4em auto;
 
     #next, #prev {
-        max-width: $preferred-text-width;
         margin: 1em auto;
         justify-content: center;
-        align-items: start;
-        display: flex;
-
+        max-width: $preferred-text-width;
+    
         .arrow-l, .arrow-r {
             height: 32px !important;
             margin: 0;
         }
-
+    
         .arrow-l {
             margin-right: .8em;
         }
         .arrow-r {
             margin-left: .8em;
         }
-
-        .sequence-assembly {
-            flex: none;
-            position: relative;
-            width: 49px;
-            height: 32px;
-            overflow: hidden;
-        }
-
-        .sequence {
-            position: absolute;
-            bottom: 3px;
-            right: 2px;
-            text-align: center;
-
-            width: 32px;
-            height: 32px;
-            color: $dark-accent-background;
-            font-family: interstate, sans-serif;
-            font-size: 90%;
-            font-weight: 700;
-
-            a {
-                color: $dark-accent-background !important;
-            }
-        }
-
-        .title {
-            margin-left: .4em;
-            margin-top: 0;
-            line-height: 18px;
-        }
-
-        .name {
-            color: white;
-            opacity: 80%;
-            font-family: interstate, sans-serif;
-            font-size: 24px;
-            font-weight: 700;
-            padding-right: .1em;
-        }
-
-        .designator {
-            color: white;
-            opacity: 50%;
-            font-family: interstate, sans-serif;
-            font-size: 1rem;
-            font-weight: 400;
-            line-height: 1.95;
-            white-space: nowrap;
-        }
     }
-
+    
     #divider {
         border-top: 2px solid white;
         margin: 0 auto;
