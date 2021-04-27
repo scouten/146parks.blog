@@ -14,6 +14,6 @@ ZOLA_VERSION = "0.13.0"
 command = "zola build --base-url $DEPLOY_PRIME_URL"
 
 [[redirects]]
-  from = "/"
+  from = "/index.html"
   to = "/parks"
   status = 301
