@@ -1,6 +1,6 @@
 .park-entry {
     position: relative;
-    max-width: 750px;
+    max-width: 1000px;
     margin: 2.5em auto;
 
     a:hover {
@@ -14,5 +14,11 @@
         width: 100% !important;
         padding: .5em .5em .8em .5em;
         background: linear-gradient( rgba(31, 26, 23, .7), 65%, rgba(31, 26, 23, 0));
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .park-entry {
+        margin: 1.5em auto;
     }
 }
