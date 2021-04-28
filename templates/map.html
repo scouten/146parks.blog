@@ -10,11 +10,32 @@
   <script>
     let map;
 
-    function addParkMarker(map, seq, title, lat, lon, cover) {
+    function addParkMarker(map, seq, title, lat, lon, cover, link) {
       const marker = new google.maps.Marker({
         position: { lat: lat, lng: lon },
         map,
         title: title,
+      });
+
+      const contentString =
+        '<div class="park-marker">' +
+          '<div class="park-title">' +
+          '<a href="' + link + '">' +
+          '<span class="seq">' + seq + '</span>. ' +
+          '<span class="name">' + title + '</span></a>' +
+          '<div class="cover">' +
+            '<a href="' + link + '">' +
+            '<img src="' + cover + '" width="240" height="135" /></a>' +
+          '</div>' +
+        '</div>';
+
+      const infoWindow = new google.maps.InfoWindow({
+        content: contentString,
+        maxWidth: 276,
+      });
+
+      marker.addListener("click", () => {
+        infoWindow.open(map, marker);
       });
     }
 
@@ -38,7 +59,8 @@
         "{{ page.title }}",
         {{ page.extra.lat }},
         {{ page.extra.lon }},
-        "{{ page.permalink | safe }}cover-{{ page.extra.feature | safe }}.jpg");
+        "{{ page.permalink | safe }}cover-{{ page.extra.feature | safe }}.jpg",
+        "{{ page.permalink | safe }}");
       {% endfor %}
 
     }
@@ -48,13 +70,6 @@
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDdpExDX7tY55VADRaMvxRv7PISFt67sSU&callback=initMap&libraries=&v=weekly"
     async>
   </script>
-
-  <ul>
-  {% set parks = get_section(path="parks/_index.md") %}
-  {% for page in parks.pages | reverse %}
-  <li>{{ page.extra.seq }}. {{page.title}}</li>
-  {% endfor %}
-  </ul>
 </div>
 
 {% endblock content %}
