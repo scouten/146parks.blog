@@ -12,7 +12,8 @@
 </div>
 
 <div class="parks-list">
-  {% for page in section.pages | reverse %}
+{% set parks = get_section(path="parks/_index.md") %}
+{% for page in parks.pages | reverse %}
   <div class="park-entry">
     <div class="park-link">
       <div class="sequence-assembly">
