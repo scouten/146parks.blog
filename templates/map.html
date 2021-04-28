@@ -1,7 +1,40 @@
 {% extends "base.html" %}
 
 {% block content %}
-<div class="welcome">
-<p><b>Hi, I’m Eric.</b> I like maps.</p>
+<div class="map-page">
+  {{ page.content | safe }}
+
+  <div id="parks-map"></div>
+  <script src="https://unpkg.com/@googlemaps/markerclustererplus/dist/index.min.js"></script>
+
+  <script>
+    let map;
+
+    function initMap() {
+      const map = new google.maps.Map(document.getElementById("parks-map"), {
+        mapTypeId: "terrain",
+      });
+
+      map.setOptions('TERRAIN');
+
+      const bounds = new google.maps.LatLngBounds();
+      bounds.extend(new google.maps.LatLng(45.544, -124.673));
+      bounds.extend(new google.maps.LatLng(49.003, -116.916));
+
+      map.fitBounds(bounds);
+    }
+  </script>
+  <script
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDdpExDX7tY55VADRaMvxRv7PISFt67sSU&callback=initMap&libraries=&v=weekly"
+    async>
+  </script>
+
+  <ul>
+  {% set parks = get_section(path="parks/_index.md") %}
+  {% for page in parks.pages | reverse %}
+  <li>{{ page.extra.seq }}. {{page.title}}</li>
+  {% endfor %}
+  </ul>
 </div>
+
 {% endblock content %}
