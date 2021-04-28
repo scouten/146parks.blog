@@ -1,0 +1,22 @@
+.map-page {
+    #parks-map {
+        margin-top: 3em;
+        height: 75vh;
+
+        .park-marker {
+            color: black;
+
+            img {
+                max-width: 100%;
+            }
+
+            a {
+                color: black;
+            }
+
+            a:hover {
+                text-decoration: none;
+            }
+        }
+    }
+}
