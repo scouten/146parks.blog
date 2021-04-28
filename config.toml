@@ -10,6 +10,7 @@ build_search_index = false
 
 # I like me a feed reader.
 generate_feed = true
+feed_filename = "rss.xml"
 
 [markdown]
 # Whether to do syntax highlighting
