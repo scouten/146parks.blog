@@ -10,6 +10,14 @@
   <script>
     let map;
 
+    function addParkMarker(map, seq, title, lat, lon, cover) {
+      const marker = new google.maps.Marker({
+        position: { lat: lat, lng: lon },
+        map,
+        title: title,
+      });
+    }
+
     function initMap() {
       const map = new google.maps.Map(document.getElementById("parks-map"), {
         mapTypeId: "terrain",
@@ -22,7 +30,19 @@
       bounds.extend(new google.maps.LatLng(49.003, -116.916));
 
       map.fitBounds(bounds);
+
+      {% set parks = get_section(path="parks/_index.md") %}
+      {% for page in parks.pages %}
+      addParkMarker(map,
+        {{ page.extra.seq }},
+        "{{ page.title }}",
+        {{ page.extra.lat }},
+        {{ page.extra.lon }},
+        "{{ page.permalink | safe }}cover-{{ page.extra.feature | safe }}.jpg");
+      {% endfor %}
+
     }
+    
   </script>
   <script
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDdpExDX7tY55VADRaMvxRv7PISFt67sSU&callback=initMap&libraries=&v=weekly"
