@@ -1,7 +1,18 @@
 .map-page {
     #parks-map {
-        background-color: red;
         margin-top: 3em;
-        height: 55vh;
+        height: 75vh;
+
+        .park-marker {
+            color: black;
+
+            a {
+                color: black;
+            }
+
+            a:hover {
+                text-decoration: none;
+            }
+        }
     }
 }
