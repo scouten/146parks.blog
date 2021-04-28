@@ -9,6 +9,7 @@
 
   <script>
     let map;
+    let markers = [];
     let previousWindow = false;
 
     function addParkMarker(map, seq, title, lat, lon, cover, link) {
@@ -43,6 +44,8 @@
         previousWindow = infoWindow;
         infoWindow.open(map, marker);
       });
+
+      markers.push(marker);
     }
 
     function initMap() {
@@ -68,6 +71,12 @@
         "{{ page.permalink | safe }}cover-{{ page.extra.feature | safe }}.jpg",
         "{{ page.permalink | safe }}");
       {% endfor %}
+
+      const markerCluster = new MarkerClusterer(map, markers,
+        {
+          imagePath: "{{ config.base_url | safe }}common/m",
+          maxZoom: 20,
+        } );
 
     }
     
