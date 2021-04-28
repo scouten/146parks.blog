@@ -9,6 +9,7 @@
 
   <script>
     let map;
+    let previousWindow = false;
 
     function addParkMarker(map, seq, title, lat, lon, cover, link) {
       const marker = new google.maps.Marker({
@@ -35,6 +36,11 @@
       });
 
       marker.addListener("click", () => {
+        if (previousWindow) {
+          previousWindow.close();
+        }
+
+        previousWindow = infoWindow;
         infoWindow.open(map, marker);
       });
     }
