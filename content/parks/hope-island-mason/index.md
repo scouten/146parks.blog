@@ -5,7 +5,7 @@ weight = 19
 
 [extra]
 seq = 19
-designator = "State Park (of Mason County)"
+designator = "Marine State Park (of Mason County)"
 lat = 47.1842
 lon = -122.9316
 near = "east of Shelton"
