@@ -10,7 +10,7 @@ lat = 47.1842
 lon = -122.9316
 near = "east of Shelton"
 markers = "markers.js"
-track = "track.kml"
+track = "track1.kml"
 feature = "es-4168-053p"
 +++
 
