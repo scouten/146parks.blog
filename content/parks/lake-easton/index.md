@@ -17,6 +17,8 @@ feature = "es-4136-070"
 
 The day I visited Lake Easton State Park was a chilly and snowy day, and yet the park and its forests, trails, and views offered me a warm welcome.
 
+<!-- more -->
+
 {{ es_image(id="es-4136-023") }}
 {{ es_image(id="es-4136-025") }}
 {{ es_image(id="es-4136-027") }}

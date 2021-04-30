@@ -16,6 +16,8 @@ feature = "es-4156-112"
 
 You might be forgiven for thinking that this isn’t really a full-fledged state park. From the official description, the park isn’t developed yet due to lack of funding. But, if you are looking for a great place to hike, missing this park would be a big oversight. You should go.
 
+<!-- more -->
+
 {{ es_image(id="es-4156-098", caption="Miller Peninsula State Park offers miles of well-groomed hiking trails.") }}
 
 This supposedly “undeveloped” park actually offers miles of well-groomed and well-marked hiking and biking trails. When I visited (admittedly on a cold December morning), they were little used.

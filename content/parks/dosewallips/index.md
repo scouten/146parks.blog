@@ -14,6 +14,8 @@ feature = "es-4158-127"
 
 At first glance, when you drive through this park on Highway 101, you might be tempted to say this park is for the birds. I wouldn’t blame you: from the highway, you see campsites and a parking lot full of geese. But if you stopped there, you would be missing a lot.
 
+<!-- more -->
+
 {{ es_image(id="es-4158-018") }}
 
 This park offers a lot more.

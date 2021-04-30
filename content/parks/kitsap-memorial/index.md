@@ -14,6 +14,8 @@ feature = "es-4169-006"
 
 What a difference a week makes! A week earlier, my daughter and I were kayaking and enjoying the relatively warm weather. For this holiday weekend, I had hoped to drive (solo) to some parks that were farther from home. Alas, the weather had other plans. A heavy snowfall made it unwise to travel long distances, but it also rendered one of my local parks especially interesting.
 
+<!-- more -->
+
 I started by walking down to the Hood Canal shoreline.
 
 {{ es_image(id="es-4169-014", caption="Trail down to the shoreline.") }}

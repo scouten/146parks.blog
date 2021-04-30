@@ -16,6 +16,8 @@ feature = "es-4168-053p"
 
 And now, for something completely different! By my count, 23 of Washington’s state parks are accessible only by water. No problem! Have kayak; will paddle! The first of them, Hope Island, is located a few miles east of Shelton in Puget Sound. My daughter and I set out on a mostly sunny afternoon to explore the waters and the island.
 
+<!-- more -->
+
 We set out from the landing at Arcadia a few minutes after a rainstorm had passed. Mother Nature treated us to a rainbow and some fun cloudscapes on the way.
 
 {{ es_image(id="es-4168-003") }}

@@ -34,6 +34,32 @@
             opacity: 100%;
         }
     }
+
+    .summary {
+        flex: none;
+        position: absolute;
+        top: 0;
+        width: 100%;
+        max-height: 80%;
+        opacity: 0;
+        margin: 0 auto;
+        padding: 1.5em 2em;
+        overflow: hidden;
+        text-overflow: ellipsis;
+
+        .es_image {
+            display: none;
+        }
+    }
+
+    .summary:hover {
+        background: linear-gradient(rgba(0, 0, 0, 0.7), 80%, rgba(31, 26, 23, 0));
+        opacity: 100%;
+
+        a {
+            color: white;
+        }
+    }
 }
 
 @media only screen and (max-width: 600px) {

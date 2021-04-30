@@ -33,6 +33,11 @@
         <img src="/common/arrow-r.png" alt="" width="16" height="16">
       </a>
     </div>
+    {% if page.summary %}
+    <div class="summary">
+      <a href="{{ page.permalink | safe }}">{{ page.summary | safe }}</a>
+    </div>
+    {% endif %}
   </div>
   {% endfor %}
 </div>

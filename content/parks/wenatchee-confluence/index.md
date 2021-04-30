@@ -14,6 +14,8 @@ feature = "es-4173-068"
 
 Situated at the intersection of the Wenatchee and Columbia Rivers, Wenatchee Confluence State Park offers a place to enjoy some peace and quiet or some active fun in the heart of the city that is Wenatchee.
 
+<!-- more -->
+
 {{ es_image(id="es-4173-056p") }}
 
 Bring a camp chair, a football to throw, your bike, your RV, or maybe just your walking shoes.
