@@ -28,7 +28,12 @@
         <img src="{{ page.permalink | safe }}/cover-{{ page.extra.feature | safe}}.jpg" width="1000" height="562">
       </a>
     </div>
-</div>
+    <div class="read-more">
+      <a href="{{ page.permalink | safe }}">read more
+        <img src="/common/arrow-r.png" alt="" width="16" height="16">
+      </a>
+    </div>
+  </div>
   {% endfor %}
 </div>
 {% endblock content %}

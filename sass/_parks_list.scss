@@ -15,6 +15,25 @@
         padding: .5em .5em .8em .5em;
         background: linear-gradient( rgba(31, 26, 23, .7), 65%, rgba(31, 26, 23, 0));
     }
+
+    .read-more {
+        flex: none;
+        position: absolute;
+        bottom: .8em;
+        right: .8em;
+
+        a {
+            font-family: interstate, sans-serif;
+            font-size: 95%;
+            font-weight: 700;
+            color: white;
+            opacity: 60%;
+        }
+
+        a:hover {
+            opacity: 100%;
+        }
+    }
 }
 
 @media only screen and (max-width: 600px) {
