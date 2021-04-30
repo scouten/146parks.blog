@@ -18,6 +18,8 @@ feature = "es-4128-034"
 
 The only state park on San Juan Island faces Canada’s Vancouver Island. It’s a small and busy park, containing a lighthouse that now houses an orca research project and the remains of a lime kiln built just over 100 years ago.
 
+<!-- more -->
+
 The lighthouse is an easy walk from the parking lot and, even on this blustery fall day, it was an object of much curiosity. For COVID safety reasons, it wasn’t possible to enter the lighthouse at the time, but you could look in the windows to see current information regarding the pods currently traversing local waters.
 
 Or, you could do as I did, and sit on a nearby rock and admire the structure and the surrounding waters.

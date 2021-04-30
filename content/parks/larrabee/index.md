@@ -17,6 +17,8 @@ feature = "es-4152-086p"
 
 Washington’s first state park started in 1915 as a small waterfront park donated by Charles Larrabee, a prominent Bellingham businessman and philanthropist. It has since grown to a large forest preserve with many miles of hiking trails.
 
+<!-- more -->
+
 A friend and I hiked some of these trails on a cool fall afternoon, starting from the main parking lot and trailhead and heading up to Fragrance Lake and ultimately to the Cyrus Gates Overlook. The trail is mostly forested and a moderate climb (approximately 2000 feet of elevation gain).
 
 {{ es_image(id="es-4152-014") }}
