@@ -15,6 +15,8 @@ feature = "es-4162-004"
 
 Battle Ground Lake State Park is a quiet retreat from the busy-ness that surrounds the Portland/Vancouver metropolis. Camp, hike, ride your horse, fish, … whatever it is that helps you relax, you can do it here.
 
+<!-- more -->
+
 I spent a couple hours hiking on the trails that surround the park’s namesake lake and barely saw another soul, aside from a few people riding their horses.
 
 {{ es_image(id="es-4162-021") }}

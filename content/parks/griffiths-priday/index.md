@@ -15,6 +15,8 @@ feature = "es-4149-043"
 
 I so enjoyed my [previous beach park visit](/parks/leadbetter-point) that I came back for another on the next weekend opportunity. Griffiths-Priday State Park offers an opportunity to step back and let Mother Nature bathe you in sound and sights.
 
+<!-- more -->
+
 When I visited, there were “king tides” so the drama of ocean versus land was heightened. The trail along Connor Creek often runs right along the shoreline. I arrived just as the king tide was receding. The ocean often splashed up and over the shore and onto the trail. I met a local resident and park volunteer who was wondering if this would be the day when a part of the trail gave way to the water’s siren song and she would have to build a new trail segment.
 
 {{ es_image(id="es-4149-023") }}

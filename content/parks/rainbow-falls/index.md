@@ -15,6 +15,8 @@ feature = "es-4135-013"
 
 Rainbow Falls State Park offers a moment to enjoy the sounds of rushing water along the Chehalis River or a longer rest camping among the tall trees of an of old-growth forest.
 
+<!-- more -->
+
 Take a short hike along the river and into the forest:
 
 {{ es_youtube(id="es-4135-018" ytid="xCU80lumXM8") }}

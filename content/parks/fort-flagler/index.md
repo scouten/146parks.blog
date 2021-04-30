@@ -18,6 +18,8 @@ feature = "es-4131-093"
 
 Fort Flagler is one of several former military bases in and around the Puget Sound which have been turned over to the state for use as public parks. In this park, you can camp, enjoy miles of beaches, and explore the remains of the Triangle of Fire, which once guarded access to the waters near Seattle.
 
+<!-- more -->
+
 I visited on an October afternoon with blustery winds shepherding alternating bits of clouds, rain, and sunshine through the area.
 
 

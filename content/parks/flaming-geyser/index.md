@@ -14,6 +14,8 @@ feature = "es-4165-018"
 
 Alas, there are no flames. No geyser, either. I’m told that I arrived a bit late for that party. Like several decades too late. But the park did offer a nice hike along the Green River and some fun stories from days of yore.
 
+<!-- more -->
+
 {{ es_image(id="es-4165-009" caption="For a time after the initial well was drilled in the 1910s, flames here would burn as much as 15 feet tall. But with the methane largely exhausted, the geyser is no more.") }}
 
 All is not lost, though. A short hike up Cristy Creek leads to another methane deposit that is still active.

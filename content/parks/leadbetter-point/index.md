@@ -15,6 +15,8 @@ feature = "es-4146-122"
 
 Situated at the tip of Long Beach Peninsula, Leadbetter Point State Park offers an excellent opportunity to get away from it all by clamming, birdwatching, or just enjoying the unending thunder of the ocean trying to climb up onto the dunes.
 
+<!-- more -->
+
 {{ es_image(id="es-4146-075", caption="On the east side of the peninsula, long stretches of marshy shoreline bring in birdwatchers and dog-walkers.") }}
 
 {{ es_image(id="es-4147-072", caption="Digging for clams.") }}

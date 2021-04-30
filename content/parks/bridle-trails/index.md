@@ -15,6 +15,8 @@ feature = "es-4156-046"
 
 This is perhaps less than a favorite park of mine: It’s urban, heavily traveled, and doesn’t offer the iconic views that many other parks in Washington’s system would. That said, it did offer a good opportunity for me to spend a couple of hours with a close friend who lives in Seattle as we walked the perimeter of the park grounds.
 
+<!-- more -->
+
 {{ es_image(id="es-4156-046") }}
 
 I am not currently a city dweller. For those who do live in the city, this is a delightful and convenient retreat. To have easy access to the professional and cultural opportunities that city life provided is a gift. To have the opportunity to walk into nature – combined with those proximate opportunities – is a blessing.
