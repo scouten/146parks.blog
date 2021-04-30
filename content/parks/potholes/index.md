@@ -15,6 +15,8 @@ feature = "es-4178-010"
 
 Who names a park after everyone’s “favorite” road misfeature? Sorry. I couldn’t resist. Actually, it’s not named for that. The park is named for the unique landforms created in the Ice Age, in which the land itself appeared much like a pitted road. Now flooded as part of the O’Sullivan Reservoir, these depressions form myriad small lakes that are a favorite of fisherman and birders.
 
+<!-- more -->
+
 {{ es_image(id="es-4176-169") }}
 
 I wasn’t able to explore those lakes on my visit, but I did get a chance to enjoy the camping grounds and trails of Potholes State Park.

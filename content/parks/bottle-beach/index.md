@@ -14,6 +14,8 @@ feature = "es-4164-102"
 
 Bottle Beach State Park offers more than a mile of pristine shoreline on the south shore of Grays Harbor. Known mostly for birding, this park was delightfully quiet when I visited on a gray January afternoon.
 
+<!-- more -->
+
 The first part of the park trail takes you through a marsh and over Redman Slough on your way to the beach itself.
 
 {{ es_image(id="es-4164-047") }}

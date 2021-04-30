@@ -15,6 +15,8 @@ feature = "es-4176-039"
 
 The grasslands above the Columbia River near Vantage offer expansive views and a peek back in time. This park is named for a ginkgo and sequoia forest – preserved by volcanic activity – that existed some 15 million years ago.
 
+<!-- more -->
+
 {{ es_image(id="es-4176-012p", caption="View over the Columbia from the interpretive center.") }}
 
 The interpretive center was closed at the time I visited, but from outside you can enjoy the view and see a few of the petrified logs moved from their original locations.

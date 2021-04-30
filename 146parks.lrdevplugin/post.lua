@@ -33,6 +33,9 @@ function(context)
 	index:write("\n")
 	index:write("(witty commentary goes here)\n")
 	index:write("\n")
+	index:write("<!-- more -->")
+	index:write("\n")
+
 	for _, photo in ipairs(catalog.targetPhotos) do
 		if photo.isVideo then
 			local pid = photo.path
@@ -47,6 +50,7 @@ function(context)
 		end
 	end
 	
+
 	index:write("\n")
 	index:write("For more information:\n")
 	index:write("\n")
