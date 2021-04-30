@@ -1,6 +1,5 @@
 # The URL the site will be built for
-base_url = "https://146parks.netlify.app/"
-# base_url = "https://146parks.blog"
+base_url = "https://146parks.blog"
 
 title = "146 Parks"
 description = "My quest to visit all of Washington’s state parks."
@@ -18,10 +17,7 @@ feed_filename = "rss.xml"
 
 
 [markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = false
 smart_punctuation = true
 
 [extra]
-# Put all your custom variables here
