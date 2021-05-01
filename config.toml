@@ -1,6 +1,5 @@
 # The URL the site will be built for
-base_url = "https://146parks.netlify.app"
-# base_url = "https://146parks.blog"
+base_url = "https://146parks.blog"
 
 title = "146 Parks"
 description = "My quest to visit all of Washington’s state parks."
