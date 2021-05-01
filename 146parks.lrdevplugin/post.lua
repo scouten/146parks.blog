@@ -21,7 +21,7 @@ function(context)
 	index:write("markers = \"markers.js\"\n")
 	index:write("track = \"track.kml\"\n")
 	for _, photo in ipairs(catalog.targetPhotos) do
-		if photo.isVirtualCopy then
+		if photo:getRawMetadata('isVirtualCopy') then
 			local pid = photo.path
 			pid = pid:gsub("^.*/", "")
 			pid = pid:gsub("%..*$", "")
@@ -37,12 +37,12 @@ function(context)
 	index:write("\n")
 
 	for _, photo in ipairs(catalog.targetPhotos) do
-		if photo.isVideo then
+		if photo:getRawMetadata('isVideo') then
 			local pid = photo.path
 			pid = pid:gsub("^.*/", "")
 			pid = pid:gsub("%..*$", "")
 			index:write("{{ es_youtube(id=\"" .. pid .. "\" ytid=\"zzzzzzz\") }}\n")
-		elseif not photo.isVirtualCopy then
+		elseif not photo:getRawMetadata('isVirtualCopy') then
 			local pid = photo.path
 			pid = pid:gsub("^.*/", "")
 			pid = pid:gsub("%..*$", "")
@@ -65,7 +65,7 @@ function(context)
 	markers:write("    return [\n")
 
 	for _, photo in ipairs(catalog.targetPhotos) do
-		if not photo.isVirtualCopy then
+		if not photo:getRawMetadata('isVirtualCopy') then
 
 			local pid = photo.path
 			pid = pid:gsub("^.*/", "")
