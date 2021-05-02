@@ -33,6 +33,7 @@
 
         h1.title {
             line-height: 1;
+            margin-top: 0;
         }
 
         .title-and-visited {
@@ -77,20 +78,6 @@
             font-size: 80%;
             font-weight: 400;
         }
-    }
-
-    p:first-of-type {
-        font-size: 120%;
-        max-width: 28.3em; // 34em / 1.30
-    }
-
-    ul {
-        margin: -1em auto;
-    }
-
-    ul li {
-        margin: .25em 0 .25em 1.5em;
-        list-style: disc;
     }
 
     #map {
