@@ -1,23 +1,17 @@
-# The URL the site will be built for
 base_url = "https://146parks.blog"
 
 title = "146 Parks"
 description = "My quest to visit all of Washington’s state parks."
 default_language = "en"
 
-# Whether to automatically compile all Sass files in the sass directory
-compile_sass = true
+theme = "zola-es-theme"
 
-# Whether to build a search index to be used later on by a JavaScript library
+compile_sass = true
 build_search_index = false
 
-# I like me a feed reader.
 generate_feed = true
 feed_filename = "rss.xml"
-
 
 [markdown]
 highlight_code = false
 smart_punctuation = true
-
-[extra]
