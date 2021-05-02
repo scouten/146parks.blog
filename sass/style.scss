@@ -1,5 +1,10 @@
 @charset "utf-8";
 
+$family-primary: adobe-caslon-pro, serif;
+
+$preferred-text-width: 34em;
+$first-paragraph-width: 28.33em; // 34em / 120%
+
 @import url('https://use.typekit.net/gyv3tia.css');
 @import "../themes/zola-es-theme/sass/style.scss";
 
