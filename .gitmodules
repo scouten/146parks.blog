@@ -1,3 +1,6 @@
+[submodule "themes/zola-es-theme"]
+	path = themes/zola-es-theme
+	url = https://github.com/scouten/zola-es-theme.git
 [submodule "vendor/bulma"]
 	path = vendor/bulma
 	url = https://github.com/jgthms/bulma
