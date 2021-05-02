@@ -1,5 +1,12 @@
 @charset "utf-8";
 
+// White on brown color scheme.
+$main-section-background: rgb(53, 45, 40);
+$dark-accent-background: rgb(31, 26, 23);
+$scheme-main: rgb(31, 26, 23);
+$text: hsl(0, 0%, 100%);
+$link: hsl(0, 0%, 70%);
+
 $family-primary: adobe-caslon-pro, serif;
 
 @import url('https://use.typekit.net/gyv3tia.css');
