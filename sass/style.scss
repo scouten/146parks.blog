@@ -1,57 +1,9 @@
 @charset "utf-8";
 
 @import url('https://use.typekit.net/gyv3tia.css');
-@import "./variables";
-@import "../vendor/bulma/bulma";
+@import "../themes/zola-es-theme/sass/style.scss";
 
-@import "./es_image";
-@import "./es_video";
-
-@import "./header";
 @import "./map";
 @import "./park";
 @import "./park_links";
 @import "./parks_list";
-@import "./footer";
-
-section.root {
-    background-color: $main-section-background;
-
-    .container {
-        max-width: none !important;
-    }
-}
-
-a:hover {
-    color: hsl(0, 0, 100%);
-    text-decoration: underline;
-}
-
-strong {
-    color: white;
-}
-
-.anti-section {
-    margin-left: -1.5rem;
-    margin-right: -1.5rem;
-}
-
-@media screen and (min-width: 1024px) {
-    .anti-section {
-        margin-left: -3rem;
-        margin-right: -3rem;
-    }
-    .anti-section.is-medium {
-        margin-left: -4.5em;
-        margin-right: -4.5em;
-    }
-    .anti-section.is-large {
-        margin-left: -6em;
-        margin-right: -6em;
-    }
-}
-
-p, ul {
-    max-width: $preferred-text-width;
-    margin: 1.6em auto;
-}
