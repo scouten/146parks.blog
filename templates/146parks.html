@@ -10,6 +10,12 @@
   <meta name="theme-color" content="#1f1a17">
 {% endblock favicon %}
 
+{% block brand %}
+  <div class="brand">
+    <a href="/"><img src="/common/146-parks.png" width="246" height="80"></a>
+  </div>
+{% endblock brand %}
+
 {% block nav %}
   {% if current_path and current_path == "/" %}
     {% set current_section = "parks" %}
@@ -25,25 +31,24 @@
 {% endblock nav %}
 
 {% block miniheader %}
-<mini-header id="mini-header">
-  <div class="sequence-assembly">
-    <a href="#top"><img src="/common/wa-shape.png" alt="" width="49" height="32"></a>
-    <div class="sequence"><a href="#top">{% if page.extra.seq %}{{ page.extra.seq }}{% endif %}</a></div>
-  </div>
-  {% if page.title %}
-  <div class="title">
-    <a href="#top">
-    <span class="name">{{ page.title }}</span>
-    <span class="designator">{% if page.extra.designator %}{{ page.extra.designator }}{% else %}State Park{% endif %}</span>
-    </a>
-  </div>
-  {% endif %}
-  </div>
-</mini-header>
+  <mini-header id="mini-header">
+    <div class="sequence-assembly">
+      <a href="#top"><img src="/common/wa-shape.png" alt="" width="49" height="32"></a>
+      <div class="sequence"><a href="#top">{% if page.extra.seq %}{{ page.extra.seq }}{% endif %}</a></div>
+    </div>
+    {% if page.title %}
+    <div class="title">
+      <a href="#top">
+      <span class="name">{{ page.title }}</span>
+      <span class="designator">{% if page.extra.designator %}{{ page.extra.designator }}{% else %}State Park{% endif %}</span>
+      </a>
+    </div>
+    {% endif %}
+    </div>
+  </mini-header>
 {% endblock %}
 
 {% block footer %}
-<p>All text and photography copyright © 2020 – {{ now() | date(format="%Y") }}, <a href="https://ericscouten.com">Eric Scouten</a>, unless otherwise attributed.</p>
-
-<p>This is a personal project and not affiliated with the Washington State Parks and Recreation Commission in any way.</p>
+  <p>All text and photography copyright © 2020 – {{ now() | date(format="%Y") }}, <a href="https://ericscouten.com">Eric Scouten</a>, unless otherwise attributed.</p>
+  <p>This is a personal project and not affiliated with the Washington State Parks and Recreation Commission in any way.</p>
 {% endblock %}
