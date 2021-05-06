@@ -82,8 +82,8 @@
     
   </script>
   <script
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDdpExDX7tY55VADRaMvxRv7PISFt67sSU&callback=initMap&libraries=&v=weekly"
-    async>
+  src="https://maps.googleapis.com/maps/api/js?key={{ get_env(name="GOOGLE_API_KEY", default="none") }}&callback=initMap&libraries=&v=weekly"
+  async>
   </script>
 </div>
 {% endblock content %}
