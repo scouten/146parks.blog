@@ -9,7 +9,7 @@ lat = 48.5353
 lon = -122.8575
 near = "Lopez Island"
 markers = "markers.js"
-track = "2020-10-09.kml"
+track = "2020-10-09-spencer-spit.kml"
 feature = "es-4126-050"
 +++
 
