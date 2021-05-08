@@ -9,7 +9,7 @@ lat = 46.60701
 lon = -124.0433
 near = "Ocean Park"
 markers = "markers.js"
-track = "track.kml"
+track = "2020-11-08-leadbetter-point.kml"
 feature = "es-4146-122"
 +++
 
