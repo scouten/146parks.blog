@@ -3,17 +3,18 @@
     max-width: 1000px;
     margin: 2.5em auto;
 
-    a:hover {
-        text-decoration: none;
-    }
+    a:hover { text-decoration: none; }
 
     .park-link {
         flex: none;
         position: absolute;
+        z-index: 1000;
         top: 0;
         width: 100% !important;
-        padding: .5em .5em .8em .5em;
+        padding: .5em;
         background: linear-gradient( rgba(31, 26, 23, .7), 65%, rgba(31, 26, 23, 0));
+
+        .title { margin-bottom: 0; }
     }
 
     .read-more {
@@ -30,40 +31,34 @@
             opacity: 60%;
         }
 
-        a:hover {
-            opacity: 100%;
-        }
+        a:hover { opacity: 100%; }
     }
 
     .summary {
+        background: linear-gradient(rgba(0, 0, 0, 0.7), 80%, rgba(31, 26, 23, 0));
         flex: none;
         position: absolute;
         top: 0;
+        z-index: 500;
         width: 100%;
         max-height: 80%;
         opacity: 0;
+        transition: opacity .5s;
         margin: 0 auto;
-        padding: 1.5em 2em;
+        padding: 2.5em 2em 4em 2em;
         overflow: hidden;
         text-overflow: ellipsis;
 
-        .es_image {
-            display: none;
-        }
+        .es_image { display: none; }
     }
 
     .summary:hover {
-        background: linear-gradient(rgba(0, 0, 0, 0.7), 80%, rgba(31, 26, 23, 0));
         opacity: 100%;
 
-        a {
-            color: white;
-        }
+        a { color: white; }
     }
 }
 
 @media only screen and (max-width: 600px) {
-    .park-entry {
-        margin: 1.5em auto;
-    }
+    .park-entry { margin: 1.5em auto; }
 }
