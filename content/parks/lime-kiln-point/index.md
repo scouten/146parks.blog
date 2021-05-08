@@ -10,7 +10,7 @@ lon = -123.1524
 near = "San Juan Island"
 markers = "markers.js"
 visited = "9 – 10 October 2020"
-track = "track.kml"
+track = "2020-10-09-lime-kiln-point.kml"
 feature = "es-4128-034"
 +++
 
