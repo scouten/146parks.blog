@@ -44,6 +44,6 @@ A short hike from the lighthouse brings you to the remains of a lime kiln origin
 
 For more information:
 
-* [State Parks website](https://parks.state.wa.us/540/Lime-Kiln-Point)
+* [State Parks web site](https://parks.state.wa.us/540/Lime-Kiln-Point)
 * [Wikipedia](https://en.wikipedia.org/wiki/Lime_Kiln_Point_State_Park)
 * [Friends of Lime Kiln](https://folkssji.org/)

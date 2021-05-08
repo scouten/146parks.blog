@@ -36,4 +36,4 @@ Camp among the tall trees. And maybe help somebody’s toy car get back home:
 
 For more information:
 
-* [State Parks website](https://parks.state.wa.us/570/Rainbow-Falls)
+* [State Parks web site](https://parks.state.wa.us/570/Rainbow-Falls)

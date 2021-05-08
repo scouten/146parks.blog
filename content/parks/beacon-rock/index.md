@@ -66,4 +66,4 @@ Ironically, the best view that I could find of Beacon Rock itself was from acros
 
 For more information:
 
-* [State parks web site](https://parks.state.wa.us/474/Beacon-Rock)
+* [State Parks web site](https://parks.state.wa.us/474/Beacon-Rock)

@@ -50,4 +50,4 @@ Who could miss the waterfall at Phantom Creek?
 
 For more information:
 
-* [State Parks website](https://parks.state.wa.us/499/Dosewallips)
+* [State Parks web site](https://parks.state.wa.us/499/Dosewallips)

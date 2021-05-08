@@ -61,4 +61,4 @@ So now, once again, I believe there are 146 state parks in Washington. I look fo
 
 For more information:
 
-* [State Parks website](https://parks.state.wa.us/332/Miller-Peninsula)
+* [State Parks web site](https://parks.state.wa.us/332/Miller-Peninsula)

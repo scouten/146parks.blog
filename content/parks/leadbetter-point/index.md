@@ -41,4 +41,4 @@ Most of the footprints on the beach are not human.
 
 For more information:
 
-* [State Parks website](https://parks.state.wa.us/537/Leadbetter-Point)
+* [State Parks web site](https://parks.state.wa.us/537/Leadbetter-Point)

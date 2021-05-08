@@ -38,4 +38,4 @@ The cabins, however, were open, and from what I could tell at a distance, a few 
 
 For more information:
 
-* [State parks web site](https://parks.state.wa.us/529/Kitsap-Memorial)
+* [State Parks web site](https://parks.state.wa.us/529/Kitsap-Memorial)

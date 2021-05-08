@@ -39,4 +39,4 @@ Lake Easton is a convenient stopping place for those following the Palouse to Ca
 
 For more information:
 
-* [State Parks website](https://parks.state.wa.us/532/Lake-Easton)
+* [State Parks web site](https://parks.state.wa.us/532/Lake-Easton)
