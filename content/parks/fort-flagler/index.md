@@ -10,7 +10,7 @@ lon = -122.7062
 near = "Marrowstone Island"
 designator = "Historical State Park"
 markers = "markers.js"
-track = "track.kml"
+track = "2020-10-13-fort-flagler.kml"
 feature = "es-4131-093"
 +++
 
