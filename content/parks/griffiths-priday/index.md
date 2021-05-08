@@ -9,7 +9,7 @@ lat = 47.1145
 lon = -124.1780
 near = "Ocean Shores"
 markers = "markers.js"
-track = "track1.kml"
+track = "2020-11-15-griffiths-priday.kml"
 feature = "es-4149-043"
 +++
 
