@@ -14,13 +14,46 @@ $family-primary: adobe-caslon-pro, serif;
 @import "../themes/zola-es-theme/sass/style.scss";
 
 @import "./map";
-@import "./mini_header";
+@import "./miniheader";
 @import "./park";
 @import "./park_links";
 @import "./parks_list";
 
 header {
+    background: $dark-accent-background;
     height: 13em;
     padding: 2em 0;
     color: white;
+    position: static;
+
+    .brand {
+        margin-top: 1em;
+        text-align: center;
+    }
+
+    .nav {
+        margin: .6em auto;
+        text-align: center;
+
+        li {
+            display: inline;
+            margin: 0 .4em;
+        }
+    }
+
+    a, a:hover { text-decoration: none; }
+
+    .parks .parks a, .map .map a, .about .about a {
+        border-bottom: 2px solid white;
+    }
+}
+
+.page .title-assembly h1.title {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+
+section.root {
+    padding-top: 3rem;
 }
