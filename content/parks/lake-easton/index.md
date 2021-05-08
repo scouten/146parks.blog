@@ -9,7 +9,7 @@ lat = 47.2542
 lon = -121.1974
 near = "Easton"
 markers = "markers.js"
-track = "track.kml"
+track = "2020-10-24-lake-easton.kml"
 feature = "es-4136-070"
 +++
 
