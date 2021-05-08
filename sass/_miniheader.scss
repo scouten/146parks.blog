@@ -44,9 +44,11 @@ miniheader {
     }
 
     div.title {
+        font-family: interstate, sans-serif;
+        text-align: left;
         opacity: 0;
         transition: opacity 0.5s;
-        margin-top: .075em;
+        margin: -.1em 0 0 0;
         padding-left: .35em;
         line-height: 1;
         white-space: nowrap;
