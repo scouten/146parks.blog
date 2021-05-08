@@ -1,10 +1,4 @@
-header {
-    .parks .parks a, .map .map a, .about .about a {
-        border-bottom: 2px solid white;
-    }
-}
-
-mini-header {
+miniheader {
     display: none;
     opacity: 0;
     transition: opacity 0.5s;
@@ -50,9 +44,11 @@ mini-header {
     }
 
     div.title {
+        font-family: interstate, sans-serif;
+        text-align: left;
         opacity: 0;
         transition: opacity 0.5s;
-        margin-top: .075em;
+        margin: -.1em 0 0 0;
         padding-left: .35em;
         line-height: 1;
         white-space: nowrap;
@@ -77,16 +73,16 @@ mini-header {
     }
 }
 
-mini-header.visible {
+miniheader.visible {
     display: flex;
 }
 
-mini-header.active {
+miniheader.active {
     opacity: 1;
     transition: opacity 0.5s;
 }
 
-mini-header.add-title {
+miniheader.show-title {
     .sequence {
         opacity: 1;
         transition: opacity 0.5s;

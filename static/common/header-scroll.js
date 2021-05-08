@@ -1,11 +1,11 @@
-function addMiniHeaderOnScroll() {
+function headerScroll() {
     const distanceY = window.pageYOffset || document.documentElement.scrollTop;
-    const miniHeader = document.getElementById('mini-header');
+    const miniHeader = document.getElementById('miniheader');
     
     if (distanceY > 430) {
-        miniHeader.classList.add("add-title");
+        miniHeader.classList.add("show-title");
     } else {
-        miniHeader.classList.remove("add-title");
+        miniHeader.classList.remove("show-title");
     }
 
     if (distanceY > 120) {
@@ -21,4 +21,4 @@ function addMiniHeaderOnScroll() {
     }
 }
   
-window.addEventListener('scroll', addMiniHeaderOnScroll);
+window.addEventListener('scroll', headerScroll);
