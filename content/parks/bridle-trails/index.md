@@ -9,7 +9,7 @@ lat = 47.6550
 lon = -122.1843
 near = "Kirkland"
 markers = "markers.js"
-track = "track.kml"
+track = "2020-12-06-bridle-trails.kml"
 feature = "es-4156-046"
 +++
 
