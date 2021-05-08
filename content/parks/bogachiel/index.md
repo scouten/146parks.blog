@@ -35,4 +35,4 @@ There is a short hiking trail through the woods near the river and many more hik
 
 For more information:
 
-* [State parks web site](https://parks.state.wa.us/478/Bogachiel)
+* [State Parks web site](https://parks.state.wa.us/478/Bogachiel)

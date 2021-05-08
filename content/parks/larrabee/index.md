@@ -40,5 +40,5 @@ At the end of the hike, I took a moment to walk down to the beach and enjoy the 
 
 For more information:
 
-* [State Parks Website](https://parks.state.wa.us/536/Larrabee)
+* [State Parks web site](https://parks.state.wa.us/536/Larrabee)
 * [Washington Trails Association: Fragrance Lake](https://www.wta.org/go-hiking/hikes/fragrance-lake) (As shown below, we hiked this route and then beyond to the Cyrus Gates overlook for a total of about 9 miles.)

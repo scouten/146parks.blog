@@ -37,4 +37,4 @@ You can request a tour of the site, though I don’t know if that is still possi
 
 For more information:
 
-* [State Parks website](https://parks.state.wa.us/1060/Jackson-House)
+* [State Parks web site](https://parks.state.wa.us/1060/Jackson-House)

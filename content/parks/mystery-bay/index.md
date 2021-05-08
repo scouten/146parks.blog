@@ -28,4 +28,4 @@ Located on the west shore of Marrowstone Island, Mystery Bay offers a place to r
 
 For more information:
 
-* [State Parks website](https://parks.state.wa.us/550/Mystery-Bay)
+* [State Parks web site](https://parks.state.wa.us/550/Mystery-Bay)

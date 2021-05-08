@@ -49,4 +49,4 @@ Some of the former dormitories are now used as a conference and retreat center.
 
 For more information:
 
-* [State Parks website](https://parks.state.wa.us/508/Fort-Flagler)
+* [State Parks web site](https://parks.state.wa.us/508/Fort-Flagler)

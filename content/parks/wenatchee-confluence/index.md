@@ -29,4 +29,4 @@ Bring a camp chair, a football to throw, your bike, your RV, or maybe just your 
 
 For more information:
 
-* [State parks web site](https://parks.state.wa.us/286/Wenatchee-Confluence)
+* [State Parks web site](https://parks.state.wa.us/286/Wenatchee-Confluence)

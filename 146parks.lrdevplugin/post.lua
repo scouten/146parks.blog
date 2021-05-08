@@ -54,7 +54,7 @@ function(context)
 	index:write("\n")
 	index:write("For more information:\n")
 	index:write("\n")
-	index:write("* [State parks web site](https://parks.state.wa.us/404/LostLake)\n")
+	index:write("* [State Parks web site](https://parks.state.wa.us/404/LostLake)\n")
 	index:close()
 
 	-- Create markers.js file to place photos on page.

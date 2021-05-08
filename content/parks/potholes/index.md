@@ -37,4 +37,4 @@ Inland a bit from the camping area there is a trail along an unnamed creek.
 
 For more information:
 
-* [State parks web site](https://parks.state.wa.us/568/Potholes)
+* [State Parks web site](https://parks.state.wa.us/568/Potholes)

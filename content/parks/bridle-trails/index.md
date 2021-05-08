@@ -33,4 +33,4 @@ This is called Bridle Trails State Park, but only a few of the visitors we saw i
 
 For more information:
 
-* [State Parks website](https://parks.state.wa.us/481/Bridle-Trails)
+* [State Parks web site](https://parks.state.wa.us/481/Bridle-Trails)

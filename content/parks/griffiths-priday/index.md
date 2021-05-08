@@ -41,4 +41,4 @@ Cross a footbridge at the end of a road (I have to wonder when this “closed”
 
 For more information:
 
-* [State Parks website](https://parks.state.wa.us/516/Griffiths-Priday)
+* [State Parks web site](https://parks.state.wa.us/516/Griffiths-Priday)
