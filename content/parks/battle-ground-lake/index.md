@@ -9,7 +9,7 @@ lat = 45.8036
 lon = -122.4927
 near = "east of Battle Ground"
 markers = "markers.js"
-track = "track.kml"
+track = "2021-01-01-battle-ground-lake.kml"
 feature = "es-4162-004"
 +++
 
