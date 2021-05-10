@@ -35,9 +35,6 @@ There are several miles of hiking trails on the island. Once you step away from 
 {{ es_image(id="es-4188-070") }}
 {{ es_image(id="es-4188-093") }}
 {{ es_image(id="es-4188-094") }}
-
-The campground on the northwest corner of the island was bustling, though:
-
 {{ es_image(id="es-4188-100") }}
 {{ es_image(id="es-4188-102p") }}
 
