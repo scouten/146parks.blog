@@ -21,6 +21,7 @@ Blake Island Marine State Park is a popular island boating destination near my h
 I chose to kayak over from nearby Manchester.
 
 {{ es_image(id="es-4188-022") }}
+{{ es_image(id="es-4188-020", caption="Yours truly en route to Blake Island") }}
 {{ es_image(id="es-4188-131") }}
 {{ es_image(id="es-4188-051") }}
 {{ es_image(id="es-4188-054", caption="Seattle skyline from Blake Island") }}
