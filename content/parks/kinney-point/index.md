@@ -10,7 +10,7 @@ lon = -122.6903
 designator = "State Park Property"
 near = "Marrowstone Island"
 markers = "markers.js"
-track = "track.kml"
+track = "2021-05-04-kinney-point.kml"
 feature = "es-4200-007"
 +++
 
