@@ -41,7 +41,7 @@ function(context)
 			local pid = photo.path
 			pid = pid:gsub("^.*/", "")
 			pid = pid:gsub("%..*$", "")
-			index:write("{{ es_youtube(id=\"" .. pid .. "\" ytid=\"zzzzzzz\") }}\n")
+			index:write("{{ es_vimeo(id=\"" .. pid .. "\" ytid=\"zzzzzzz\") }}\n")
 		elseif not photo:getRawMetadata('isVirtualCopy') then
 			local pid = photo.path
 			pid = pid:gsub("^.*/", "")
