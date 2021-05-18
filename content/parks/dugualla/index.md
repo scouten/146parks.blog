@@ -13,11 +13,11 @@ track = "2021-05-08-dugualla.kml"
 feature = "es-4201-101"
 +++
 
-Never heard of Dugualla State Park? Neither had I. A happy accident while surfing Google Maps pointed me in this direction, and I found a beach and a set of hiking trails popular with the locals, but seemingly unadvertized to the rest of the world.
+Never heard of Dugualla State Park? Neither had I. A happy accident while surfing Google Maps pointed me in this direction, and I found a beach and a set of hiking trails popular with the locals, but seemingly unadvertised to the rest of the world.
 
 <!-- more -->
 
-The thing is, this park isn't listed on the State Parks web site. (Why, I don't know.)
+The thing is, this park isn't listed on the State Parks web site. (Why? I don't know.)
 
 And yet, it's there on Google Maps.
 
