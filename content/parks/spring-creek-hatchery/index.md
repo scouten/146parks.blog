@@ -39,7 +39,7 @@ I don't happen to be a kite-surfer, but it's a lot of fun to watch.
 
 Sorry for the wind noise in this video, but it should at least give you an idea of the speed and fun of this sport ...
 
-{{ es_youtube(id="es-4181-116" ytid="U5pMaHiOSR4") }}
+{{ es_vimeo(id="es-4181-116" vmid="552718761") }}
 
 {{ es_image(id="es-4181-111", caption="Oh yes, there are spring flowers, too!") }}
 
