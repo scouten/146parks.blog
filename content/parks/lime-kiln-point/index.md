@@ -33,7 +33,7 @@ This is also a fantastic place to sit and watch sunset or waves crashing onto th
 
 {{ es_image(id="es-4130-015") }}
 {{ es_image(id="es-4128-034") }}
-{{ es_youtube(id="es-4130-009" ytid="S9B7gfkkRYw") }}
+{{ es_vimeo(id="es-4130-009" vmid="552713303") }}
 
 A short hike from the lighthouse brings you to the remains of a lime kiln originally built in 1918.
 
