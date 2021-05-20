@@ -36,7 +36,7 @@ At the end of the hike, I took a moment to walk down to the beach and enjoy the 
 {{ es_image(id="es-4152-071") }}
 {{ es_image(id="es-4152-083") }}
 {{ es_image(id="es-4152-086p") }}
-{{ es_youtube(id="es-4152-060" ytid="fAXCxD1wReU") }}
+{{ es_vimeo(id="es-4152-060" vmid="552712105") }}
 
 For more information:
 
