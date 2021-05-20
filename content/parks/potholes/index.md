@@ -29,7 +29,7 @@ I wasn’t able to explore those lakes on my visit, but I did get a chance to en
 
 Inland a bit from the camping area there is a trail along an unnamed creek.
 
-{{ es_youtube(id="es-4176-219" ytid="qmDe81JeHzk") }}
+{{ es_vimeo(id="es-4176-219" vmid="552716573") }}
 {{ es_image(id="es-4176-196p") }}
 {{ es_image(id="es-4176-215") }}
 {{ es_image(id="es-4178-010") }}
