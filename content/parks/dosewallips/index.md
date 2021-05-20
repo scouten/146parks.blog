@@ -46,7 +46,7 @@ A delightful mossy landscape was there for me:
 
 Who could miss the waterfall at Phantom Creek?
 
-{{ es_youtube(id="es-4158-103" ytid="wu1lt9Lpj_A") }}
+{{ es_vimeo(id="es-4158-103" vmid="552708640") }}
 
 For more information:
 
