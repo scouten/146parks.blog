@@ -19,7 +19,7 @@ Rainbow Falls State Park offers a moment to enjoy the sounds of rushing water al
 
 Take a short hike along the river and into the forest:
 
-{{ es_youtube(id="es-4135-018" ytid="xCU80lumXM8") }}
+{{ es_vimeo(id="es-4135-018" vmid="552717777") }}
 
 {{ es_image(id="es-4135-009") }}
 {{ es_image(id="es-4135-023") }}
