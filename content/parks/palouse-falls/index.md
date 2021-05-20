@@ -17,7 +17,7 @@ This park is pretty much what it says on the tin: an epic waterfall in the middl
 <!-- more -->
 
 {{ es_image(id="es-4183-024p") }}
-{{ es_youtube(id="es-4183-036" ytid="VdMikWLEgmc") }}
+{{ es_vimeo(id="es-4183-036" vmid="552715037") }}
 
 If you've read my other park pages, you've probably noticed that I avoid showing the same scene multiple times.
 
