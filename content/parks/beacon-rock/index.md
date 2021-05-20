@@ -25,12 +25,12 @@ From the former Doetsch Ranch property, you can see Beacon Rock itself and some 
 {{ es_image(id="es-4181-030") }}
 {{ es_image(id="es-4181-032p") }}
 {{ es_image(id="es-4181-051") }}
-{{ es_youtube(id="es-4181-055" ytid="bwBQ6APmqkQ") }}
+{{ es_vimeo(id="es-4181-055" vmid="552701271") }}
 {{ es_image(id="es-4181-059") }}
 
 Trains make a big impression as they pass through the park:
 
-{{ es_youtube(id="es-4181-093" ytid="M-oPVDkcpV4") }}
+{{ es_vimeo(id="es-4181-093" vmid="552701336") }}
 
 {{ es_image(id="es-4181-062") }}
 {{ es_image(id="es-4181-080") }}
@@ -45,7 +45,7 @@ To stay near the river would be to miss some of the highlights of the back part 
 {{ es_image(id="es-4181-025") }}
 {{ es_image(id="es-4186-122") }}
 {{ es_image(id="es-4186-264") }}
-{{ es_youtube(id="es-4186-277" ytid="O8crukYDWTg") }}
+{{ es_vimeo(id="es-4186-277" vmid="552701423") }}
 {{ es_image(id="es-4186-279") }}
 {{ es_image(id="es-4186-341", caption="The trails near Rodney Falls can be, shall we say, a bit muddy.") }}
 {{ es_image(id="es-4186-281") }}
