@@ -55,7 +55,14 @@ header {
     margin-bottom: 1.5rem;
 }
 
+.page, .section {
+    padding-top: 0;
+}
 
 section.root {
     padding-top: 3rem;
+}
+
+ul {
+    margin: -1em auto;
 }
