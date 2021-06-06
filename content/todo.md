@@ -124,6 +124,13 @@ lon = -120.2055
 summer_only = true
 
 [[extra.parks]]
+name = "Dash Point"
+gh_issue_id = 86
+link = "https://parks.state.wa.us/496/Dash-Point"
+lat = 47.3197
+lon = -122.4133
+
+[[extra.parks]]
 name = "Deception Pass"
 gh_issue_id = 43
 link = "https://parks.state.wa.us/497/Deception-Pass"
@@ -144,6 +151,14 @@ gh_issue_id = 4
 link = "https://parks.state.wa.us/500/Dougs-Beach"
 lat = 45.6769
 lon = -121.2353
+
+[[extra.parks]]
+name = "Federation Forest"
+gh_issue_id = 99
+link = "https://parks.state.wa.us/502/Federation-Forest"
+lat = 47.1522
+lon = -121.6872
+summer_only = true
 
 [[extra.parks]]
 name = "Fort Casey"
@@ -219,11 +234,25 @@ lon = -122.7143
 summer_only = true
 
 [[extra.parks]]
+name = "Kanaskat-Palmer"
+gh_issue_id = 96
+link = "https://parks.state.wa.us/527/Kanaskat-Palmer"
+lat = 47.3170
+lon = -121.9062
+
+[[extra.parks]]
 name = "Lake Chelan"
 gh_issue_id = 13
 link = "https://parks.state.wa.us/531/Lake-Chelan"
 lat = 47.8749
 lon = -120.1968
+
+[[extra.parks]]
+name = "Lake Sammamish"
+gh_issue_id = 92
+link = "https://parks.state.wa.us/533/Lake-Sammamish"
+lat = 47.5587
+lon = -122.0617
 
 [[extra.parks]]
 name = "Lincoln Rock"
@@ -271,6 +300,13 @@ lon = -117.1028
 winter_rec = true
 
 [[extra.parks]]
+name = "Nolte"
+gh_issue_id = 97
+link = "https://parks.state.wa.us/552/Nolte"
+lat = 47.2698
+lon = -121.9414
+
+[[extra.parks]]
 name = "Obstruction Pass"
 gh_issue_id = 82
 link = "https://parks.state.wa.us/553/Obstruction-Pass"
@@ -283,6 +319,13 @@ gh_issue_id = 67
 link = "https://parks.state.wa.us/554/Ocean-City"
 lat = 47.0333
 lon = -124.1719
+
+[[extra.parks]]
+name = "Olallie"
+gh_issue_id = 95
+link = "https://parks.state.wa.us/555/Olallie"
+lat = 47.4349
+lon = -121.7105
 
 [[extra.parks]]
 name = "Pacific Beach"
@@ -298,6 +341,14 @@ link = "https://parks.state.wa.us/558/Pacific-Pines"
 lat = 46.5015
 lon = -124.0551
 summer_only = true
+
+[[extra.parks]]
+name = "Palouse to Cascades"
+gh_issue_id = 94
+link = "https://parks.state.wa.us/521/Palouse-to-Cascades"
+lat = 47.3949
+lon = -121.4473
+trail = true
 
 [[extra.parks]]
 name = "Patos Island"
@@ -320,6 +371,13 @@ gh_issue_id = 48
 link = "https://parks.state.wa.us/562/Peace-Arch"
 lat = 48.9999
 lon = -122.7564
+
+[[extra.parks]]
+name = "Penrose Point"
+gh_issue_id = 87
+link = "https://parks.state.wa.us/564/Penrose-Point"
+lat = 47.2578
+lon = -122.7487
 
 [[extra.parks]]
 name = "Peshastin Pinnacles"
@@ -374,6 +432,20 @@ lon = -122.5569
 water_only = true
 
 [[extra.parks]]
+name = "Saint Edward"
+gh_issue_id = 90
+link = "https://parks.state.wa.us/577/Saint-Edward"
+lat = 47.7326
+lon = -122.2582
+
+[[extra.parks]]
+name = "Saltwater"
+gh_issue_id = 101
+link = "https://parks.state.wa.us/578/Saltwater"
+lat = 47.3741
+lon = -122.3238
+
+[[extra.parks]]
 name = "Skagit Island"
 gh_issue_id = 51
 link = "https://parks.state.wa.us/584/Skagit-Island"
@@ -395,6 +467,13 @@ link = "https://parks.state.wa.us/487/Centennial-Trail"
 lat = 47.7486
 lon = -117.5299
 trail = true
+
+[[extra.parks]]
+name = "Squak Mountain"
+gh_issue_id = 93
+link = "https://parks.state.wa.us/588/Squak-Mountain"
+lat = 47.4863
+lon = -122.0516
 
 [[extra.parks]]
 name = "Squilchuck"
