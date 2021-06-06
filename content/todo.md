@@ -69,6 +69,14 @@ lat = 48.1215
 lon = -122.4872
 
 [[extra.parks]]
+name = "Camp Wooten"
+gh_issue_id = 127
+link = "https://parks.state.wa.us/368/Camp-Wooten"
+lat = 46.2385
+lon = -117.6969
+summer_only = true
+
+[[extra.parks]]
 name = "Cape Disappointment"
 gh_issue_id = 61
 link = "https://parks.state.wa.us/486/Cape-Disappointment"
@@ -185,6 +193,13 @@ lon = -121.6872
 summer_only = true
 
 [[extra.parks]]
+name = "Fields Spring"
+gh_issue_id = 128
+link = "https://parks.state.wa.us/505/Fort-Casey"
+lat = 46.0855
+lon = -117.1687
+
+[[extra.parks]]
 name = "Fort Casey"
 gh_issue_id = 40
 link = "https://parks.state.wa.us/505/Fort-Casey"
@@ -242,6 +257,27 @@ lat = 46.7919
 lon = -124.0933
 
 [[extra.parks]]
+name = "Hoko River"
+link = "https://parks.state.wa.us/321/Hoko-River"
+lat = 48.2791
+lon = -124.3693
+
+[[extra.parks]]
+name = "Hope Island"
+gh_issue_id = 141
+link = "https://parks.state.wa.us/518/Hope-Island---Skagit"
+lat = 48.3980
+lon = -122.5697
+water_only = true
+
+[[extra.parks]]
+name = "Ike Kinswa"
+gh_issue_id = 136
+link = "https://parks.state.wa.us/519/Ike-Kinswa"
+lat = 46.5603
+lon = -122.5324
+
+[[extra.parks]]
 name = "Illahee"
 gh_issue_id = 116
 link = "https://parks.state.wa.us/520/Illahee"
@@ -294,6 +330,14 @@ lat = 47.3170
 lon = -121.9062
 
 [[extra.parks]]
+name = "Klickitat Trail"
+gh_issue_id = 144
+link = "https://parks.state.wa.us/869/Klickitat-Trail"
+lat = 45.6989
+lon = -121.2878
+trail = true
+
+[[extra.parks]]
 name = "Lake Chelan"
 gh_issue_id = 13
 link = "https://parks.state.wa.us/531/Lake-Chelan"
@@ -306,6 +350,28 @@ gh_issue_id = 92
 link = "https://parks.state.wa.us/533/Lake-Sammamish"
 lat = 47.5587
 lon = -122.0617
+
+[[extra.parks]]
+name = "Lake Sylvia"
+gh_issue_id = 132
+link = "https://parks.state.wa.us/534/Lake-Sylvia"
+lat = 46.9970
+lon = -123.5945
+
+[[extra.parks]]
+name = "Lewis and Clark"
+gh_issue_id = 135
+link = "https://parks.state.wa.us/538/Lewis-Clark"
+lat = 46.5259
+lon = -122.8187
+summer_only = true
+
+[[extra.parks]]
+name = "Lewis and Clark Trail"
+gh_issue_id = 122
+link = "https://parks.state.wa.us/539/Lewis-Clark-Trail"
+lat = 46.2889
+lon = -118.0711
 
 [[extra.parks]]
 name = "Lincoln Rock"
@@ -345,6 +411,13 @@ lon = -122.8629
 water_only = true
 
 [[extra.parks]]
+name = "Millersylvania"
+gh_issue_id = 134
+link = "https://parks.state.wa.us/546/Millersylvania"
+lat = 46.9155
+lon = -122.9076
+
+[[extra.parks]]
 name = "Moran"
 gh_issue_id = 81
 link = "https://parks.state.wa.us/547/Moran"
@@ -358,6 +431,14 @@ link = "https://parks.state.wa.us/548/Mount-Pilchuck"
 lat = 48.0579
 lon = -121.7977
 summer_only = true
+
+[[extra.parks]]
+name = "Mount Saint Helens"
+gh_issue_id = 138
+link = "https://parks.state.wa.us/245/Mount-St-Helens"
+lat = 46.2944
+lon = -122.8223
+closed = true
 
 [[extra.parks]]
 name = "Mount Spokane"
@@ -425,6 +506,13 @@ link = "https://parks.state.wa.us/521/Palouse-to-Cascades"
 lat = 47.3949
 lon = -121.4473
 trail = true
+
+[[extra.parks]]
+name = "Paradise Point"
+gh_issue_id = 130
+link = "https://parks.state.wa.us/560/Paradise-Point"
+lat = 45.8672
+lon = -122.7045
 
 [[extra.parks]]
 name = "Patos Island"
@@ -541,6 +629,20 @@ gh_issue_id = 115
 link = "https://parks.state.wa.us/579/Scenic-Beach"
 lat = 47.6493
 lon = -122.8457
+
+[[extra.parks]]
+name = "Schafer"
+gh_issue_id = 133
+link = "https://parks.state.wa.us/580/Schafer"
+lat = 47.0980
+lon = -123.4665
+
+[[extra.parks]]
+name = "Seaquest"
+gh_issue_id = 137
+link = "https://parks.state.wa.us/581/Seaquest"
+lat = 46.2978
+lon = -122.8194
 
 [[extra.parks]]
 name = "Skagit Island"
@@ -674,6 +776,14 @@ gh_issue_id = 66
 link = "https://parks.state.wa.us/284/Westport-Light"
 lat = 46.8997
 lon = -124.1305
+
+[[extra.parks]]
+name = "Willapa Hills Trail"
+gh_issue_id = 146
+link = "https://parks.state.wa.us/1023/Willapa-Hills-Trail"
+lat = 46.6476
+lon = -122.9741
+trail = true
 
 [[extra.parks]]
 name = "Yakima Sportsman"
