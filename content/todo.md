@@ -26,6 +26,13 @@ lat = 48.4880
 lon = -122.4810
 
 [[extra.parks]]
+name = "Belfair"
+gh_issue_id = 113
+link = "https://parks.state.wa.us/475/Belfair"
+lat = 47.4291
+lon = -122.8764
+
+[[extra.parks]]
 name = "Birch Bay"
 gh_issue_id = 46
 link = "https://parks.state.wa.us/170/Birch-Bay"
@@ -116,6 +123,15 @@ lon = -118.6623
 summer_only = true
 
 [[extra.parks]]
+name = "Cutts Island"
+gh_issue_id = 118
+link = "https://parks.state.wa.us/494/Cutts-Island"
+lat = 47.3215
+lon = -122.6872
+water_only = true
+visited = true
+
+[[extra.parks]]
 name = "Daroga"
 gh_issue_id = 16
 link = "https://parks.state.wa.us/495/Daroga"
@@ -151,6 +167,14 @@ gh_issue_id = 4
 link = "https://parks.state.wa.us/500/Dougs-Beach"
 lat = 45.6769
 lon = -121.2353
+
+[[extra.parks]]
+name = "Eagle Island"
+gh_issue_id = 121
+link = "https://parks.state.wa.us/501/Eagle-Island"
+lat = 47.1877
+lon = -122.6963
+water_only = true
 
 [[extra.parks]]
 name = "Federation Forest"
@@ -218,12 +242,33 @@ lat = 46.7919
 lon = -124.0933
 
 [[extra.parks]]
+name = "Illahee"
+gh_issue_id = 116
+link = "https://parks.state.wa.us/520/Illahee"
+lat = 47.5986
+lon = -122.5946
+
+[[extra.parks]]
+name = "Jarrell Cove"
+gh_issue_id = 110
+link = "https://parks.state.wa.us/545/McMicken-Island"
+lat = 47.2829
+lon = -122.8850
+
+[[extra.parks]]
 name = "James Island"
 gh_issue_id = 70
 link = "https://parks.state.wa.us/522/James-Island"
 lat = 48.5112
 lon = -122.7752
 water_only = true
+
+[[extra.parks]]
+name = "Joemma Beach"
+gh_issue_id = 119
+link = "https://parks.state.wa.us/524/Joemma-Beach"
+lat = 47.2255
+lon = -122.8086
 
 [[extra.parks]]
 name = "Jones Island"
@@ -270,6 +315,13 @@ lat = 47.5410
 lon = -120.2824
 
 [[extra.parks]]
+name = "Manchester"
+gh_issue_id = 117
+link = "https://parks.state.wa.us/542/Manchester"
+lat = 47.5766
+lon = -122.5461
+
+[[extra.parks]]
 name = "Maryhill"
 gh_issue_id = 6
 link = "https://parks.state.wa.us/543/Maryhill"
@@ -282,6 +334,14 @@ gh_issue_id = 79
 link = "https://parks.state.wa.us/544/Matia-Island"
 lat = 48.7481
 lon = -122.8417
+water_only = true
+
+[[extra.parks]]
+name = "McMicken Island"
+gh_issue_id = 109
+link = "https://parks.state.wa.us/545/McMicken-Island"
+lat = 47.2480
+lon = -122.8629
 water_only = true
 
 [[extra.parks]]
@@ -404,12 +464,26 @@ lon = -120.5199
 summer_only = true
 
 [[extra.parks]]
+name = "Pleasant Harbor"
+gh_issue_id = 114
+link = "https://parks.state.wa.us/566/Pleasant-Harbor"
+lat = 47.6647
+lon = -122.9135
+
+[[extra.parks]]
 name = "Posey Island"
 gh_issue_id = 75
 link = "https://parks.state.wa.us/567/Posey-Island"
 lat = 48.6183
 lon = -123.1681
 water_only = true
+
+[[extra.parks]]
+name = "Potlatch"
+gh_issue_id = 112
+link = "https://parks.state.wa.us/569/Potlatch"
+lat = 47.3615
+lon = -123.1575
 
 [[extra.parks]]
 name = "Rasar"
@@ -460,6 +534,13 @@ gh_issue_id = 101
 link = "https://parks.state.wa.us/578/Saltwater"
 lat = 47.3741
 lon = -122.3238
+
+[[extra.parks]]
+name = "Scenic Beach"
+gh_issue_id = 115
+link = "https://parks.state.wa.us/579/Scenic-Beach"
+lat = 47.6493
+lon = -122.8457
 
 [[extra.parks]]
 name = "Skagit Island"
@@ -529,6 +610,13 @@ lat = 47.5909
 lon = -119.3850
 
 [[extra.parks]]
+name = "Tolmie"
+gh_issue_id = 120
+link = "https://parks.state.wa.us/297/Tolmie"
+lat = 47.1211
+lon = -122.7767
+
+[[extra.parks]]
 name = "Triton Cove"
 gh_issue_id = 55
 link = "https://parks.state.wa.us/296/Triton-Cove"
@@ -542,6 +630,13 @@ link = "https://parks.state.wa.us/295/Turn-Island"
 lat = 48.5326
 lon = -122.9725
 water_only = true
+
+[[extra.parks]]
+name = "Twanoh"
+gh_issue_id = 111
+link = "https://parks.state.wa.us/294/Twanoh"
+lat = 47.3783
+lon = -122.9735
 
 [[extra.parks]]
 name = "Twenty-Five Mile Creek"
