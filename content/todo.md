@@ -19,6 +19,20 @@ lon = -122.8042
 summer_only = true
 
 [[extra.parks]]
+name = "Bay View"
+gh_issue_id = 44
+link = "https://parks.state.wa.us/473/Bay-View"
+lat = 48.4880
+lon = -122.4810
+
+[[extra.parks]]
+name = "Birch Bay"
+gh_issue_id = 46
+link = "https://parks.state.wa.us/170/Birch-Bay"
+lat = 48.9038
+lon = -122.7650
+
+[[extra.parks]]
 name = "Bridgeport"
 gh_issue_id = 11
 link = "https://parks.state.wa.us/480/Bridgeport"
@@ -38,6 +52,20 @@ gh_issue_id = 32
 link = "https://parks.state.wa.us/484/Camano-Island"
 lat = 48.1215
 lon = -122.4872
+
+[[extra.parks]]
+name = "Cape Disappointment"
+gh_issue_id = 61
+link = "https://parks.state.wa.us/486/Cape-Disappointment"
+lat = 46.2729
+lon = -124.0743
+
+[[extra.parks]]
+name = "Cape Disappointment - Lewis & Clark Interpretive Center"
+gh_issue_id = 60
+link = "https://parks.state.wa.us/187/Cape-Disappointment"
+lat = 46.2785
+lon = -124.0538
 
 [[extra.parks]]
 name = "Columbia Plateau Trail"
@@ -80,6 +108,13 @@ lon = -120.2055
 summer_only = true
 
 [[extra.parks]]
+name = "Deception Pass"
+gh_issue_id = 43
+link = "https://parks.state.wa.us/497/Deception-Pass"
+lat = 48.4071
+lon = -122.6447
+
+[[extra.parks]]
 name = "Doug’s Beach"
 gh_issue_id = 4
 link = "https://parks.state.wa.us/500/Dougs-Beach"
@@ -92,6 +127,20 @@ gh_issue_id = 40
 link = "https://parks.state.wa.us/505/Fort-Casey"
 lat = 48.1571
 lon = -122.6767
+
+[[extra.parks]]
+name = "Fort Columbia"
+gh_issue_id = 59
+link = "https://parks.state.wa.us/506/Fort-Columbia"
+lat = 46.2519
+lon = -123.9224
+
+[[extra.parks]]
+name = "Fort Ebey"
+gh_issue_id = 41
+link = "https://parks.state.wa.us/507/Fort-Ebey"
+lat = 48.2166
+lon = -122.7608
 
 [[extra.parks]]
 name = "Fort Townsend"
@@ -115,6 +164,37 @@ lat = 45.8389
 lon = -120.8154
 
 [[extra.parks]]
+name = "Grayland Beach"
+gh_issue_id = 58
+link = "https://parks.state.wa.us/515/Grayland-Beach"
+lat = 46.7919
+lon = -124.0933
+
+[[extra.parks]]
+name = "James Island"
+gh_issue_id = 70
+link = "https://parks.state.wa.us/522/James-Island"
+lat = 48.5112
+lon = -122.7752
+water_only = true
+
+[[extra.parks]]
+name = "Jones Island"
+gh_issue_id = 74
+link = "https://parks.state.wa.us/525/Jones-Island"
+lat = 48.6149
+lon = -123.0448
+water_only = true
+
+[[extra.parks]]
+name = "Joseph Whidbey"
+gh_issue_id = 42
+link = "https://parks.state.wa.us/526/Joseph-Whidbey"
+lat = 48.3090
+lon = -122.7143
+summer_only = true
+
+[[extra.parks]]
 name = "Lake Chelan"
 gh_issue_id = 13
 link = "https://parks.state.wa.us/531/Lake-Chelan"
@@ -136,6 +216,14 @@ lat = 45.6820
 lon = -120.8260
 
 [[extra.parks]]
+name = "Mount Pilchuck"
+gh_issue_id = 53
+link = "https://parks.state.wa.us/548/Mount-Pilchuck"
+lat = 48.0579
+lon = -121.7977
+summer_only = true
+
+[[extra.parks]]
 name = "Mount Spokane"
 gh_issue_id = 36
 link = "https://parks.state.wa.us/549/Mount-Spokane"
@@ -144,11 +232,40 @@ lon = -117.1028
 winter_rec = true
 
 [[extra.parks]]
+name = "Ocean City"
+gh_issue_id = 67
+link = "https://parks.state.wa.us/554/Ocean-City"
+lat = 47.0333
+lon = -124.1719
+
+[[extra.parks]]
+name = "Pacific Beach"
+gh_issue_id = 69
+link = "https://parks.state.wa.us/557/Pacific-Beach"
+lat = 47.2053
+lon = -124.2034
+
+[[extra.parks]]
+name = "Pacific Pines"
+gh_issue_id = 62
+link = "https://parks.state.wa.us/558/Pacific-Pines"
+lat = 46.5015
+lon = -124.0551
+summer_only = true
+
+[[extra.parks]]
 name = "Pearrygin Lake"
 gh_issue_id = 9
 link = "https://parks.state.wa.us/563/Pearrygin-Lake"
 lat = 48.4878
 lon = -120.1469
+
+[[extra.parks]]
+name = "Peace Arch"
+gh_issue_id = 48
+link = "https://parks.state.wa.us/562/Peace-Arch"
+lat = 48.9999
+lon = -122.7564
 
 [[extra.parks]]
 name = "Peshastin Pinnacles"
@@ -159,11 +276,41 @@ lon = -120.5199
 summer_only = true
 
 [[extra.parks]]
+name = "Posey Island"
+gh_issue_id = 75
+link = "https://parks.state.wa.us/567/Posey-Island"
+lat = 48.6183
+lon = -123.1681
+water_only = true
+
+[[extra.parks]]
+name = "Rasar"
+gh_issue_id = 49
+link = "https://parks.state.wa.us/571/Rasar"
+lat = 48.5185
+lon = -121.9033
+
+[[extra.parks]]
 name = "Riverside / Nine Mile Rec Area"
 gh_issue_id = 37
 link = "https://parks.state.wa.us/573/Riverside"
 lat = 47.7826
 lon = -117.5416
+
+[[extra.parks]]
+name = "Rockport"
+gh_issue_id = 50
+link = "https://parks.state.wa.us/574/Rockport"
+lat = 48.4884
+lon = -121.6150
+
+[[extra.parks]]
+name = "Skagit Island"
+gh_issue_id = 51
+link = "https://parks.state.wa.us/584/Skagit-Island"
+lat = 48.4140
+lon = -122.5785
+water_only = true
 
 [[extra.parks]]
 name = "Spokane River Centennial Trail"
@@ -209,12 +356,48 @@ lat = 47.5909
 lon = -119.3850
 
 [[extra.parks]]
+name = "Triton Cove"
+gh_issue_id = 55
+link = "https://parks.state.wa.us/296/Triton-Cove"
+lat = 47.6089
+lon = -122.9853
+
+[[extra.parks]]
+name = "Turn Island"
+gh_issue_id = 73
+link = "https://parks.state.wa.us/295/Turn-Island"
+lat = 48.5326
+lon = -122.9725
+water_only = true
+
+[[extra.parks]]
 name = "Twenty-Five Mile Creek"
 gh_issue_id = 12
 link = "https://parks.state.wa.us/293/Twenty-Five-Mile-Creek"
 lat = 47.9927
 lon = -120.2597
 summer_only = true
+
+[[extra.parks]]
+name = "Twin Harbors"
+gh_issue_id = 65
+link = "https://parks.state.wa.us/292/Twin-Harbors"
+lat = 46.8561
+lon = -124.1105
+
+[[extra.parks]]
+name = "Wallace Falls"
+gh_issue_id = 54
+link = "https://parks.state.wa.us/289/Wallace-Falls"
+lat = 47.8750
+lon = -121.6478
+
+[[extra.parks]]
+name = "Westport Light"
+gh_issue_id = 66
+link = "https://parks.state.wa.us/284/Westport-Light"
+lat = 46.8997
+lon = -124.1305
 +++
 
 **Hi, I'm Eric.** I like maps.

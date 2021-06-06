@@ -13,10 +13,10 @@
   <ul>
     <li>red - not visited yet</li>
     <li>purple - not visited yet, <i>open in summer only</i></li>
+    <li>dark blue - not visited yet, <i>water access only</i></li>
     <li>light blue - not visited yet, <i>best visited in winter</i></li>
     <li>brown - not visited yet, <i>bike trail</i></li>
     <!--
-    * blue - not visited yet, _water access only_
     * green - visited, but not blogged yet
     * orange - closed
     -->
@@ -91,6 +91,9 @@
         {% endif -%}
         {% if park.trail -%}
           {% set color = "#663300" -%}
+        {% endif -%}
+        {% if park.water_only -%}
+          {% set color = "blue" -%}
         {% endif -%}
         addParkMarker(map,
           "{{ park.name }}",
