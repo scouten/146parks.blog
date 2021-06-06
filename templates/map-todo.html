@@ -4,7 +4,7 @@
 <div class="map-page">
   {{ page.content | safe }}
 
-  <p>Here's one showing the location of the {{ page.extra.parks | length }} parks I <i>haven't</i> yet visited and documented.</p>
+  <p>Here's one showing the location of the {# { page.extra.parks | length #} parks I <i>haven't</i> yet visited and documented.</p>
 
   <div id="parks-map"></div>
 
@@ -17,9 +17,7 @@
     <li>light blue - not visited yet, <i>best visited in winter</i></li>
     <li>brown - not visited yet, <i>bike trail</i></li>
     <li>green - visited, but not blogged yet</li>
-    <!--
-    * orange - closed
-    -->
+    <li>black - not visited yet, <i>closed for now</i></li>
   </ul>
 
   <script>
@@ -34,7 +32,7 @@
         fillOpacity: .7,
         scale: 6,
         strokeColor: 'white',
-        strokeWeight: 1
+        strokeWeight: 1.5
       };
 
       const marker = new google.maps.Marker({
@@ -97,6 +95,9 @@
         {% endif -%}
         {% if park.visited -%}
           {% set color = "#006600" -%}
+        {% endif -%}
+        {% if park.closed -%}
+          {% set color = "black" -%}
         {% endif -%}
         addParkMarker(map,
           "{{ park.name }}",
