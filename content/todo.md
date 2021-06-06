@@ -182,6 +182,14 @@ lat = 48.2166
 lon = -122.7608
 
 [[extra.parks]]
+name = "Fort Simcoe"
+gh_issue_id = 103
+link = "https://parks.state.wa.us/509/Fort-Simcoe"
+lat = 46.3425
+lon = -120.8389
+visited = true
+
+[[extra.parks]]
 name = "Fort Townsend"
 gh_issue_id = 28
 link = "https://parks.state.wa.us/510/Fort-Townsend"
@@ -326,6 +334,14 @@ gh_issue_id = 95
 link = "https://parks.state.wa.us/555/Olallie"
 lat = 47.4349
 lon = -121.7105
+
+[[extra.parks]]
+name = "Olmstead Place"
+gh_issue_id = 105
+link = "https://parks.state.wa.us/556/Olmstead-Place"
+lat = 46.9710
+lon = -120.4678
+visited = true
 
 [[extra.parks]]
 name = "Pacific Beach"
@@ -550,11 +566,27 @@ lat = 47.8750
 lon = -121.6478
 
 [[extra.parks]]
+name = "Wanapum Recreation Area"
+gh_issue_id = 107
+link = "https://parks.state.wa.us/288/Ginkgo-Petrified-Forest"
+lat = 46.9013
+lon = -119.9896
+summer_only = true
+
+[[extra.parks]]
 name = "Westport Light"
 gh_issue_id = 66
 link = "https://parks.state.wa.us/284/Westport-Light"
 lat = 46.8997
 lon = -124.1305
+
+[[extra.parks]]
+name = "Yakima Sportsman"
+gh_issue_id = 104
+link = "https://parks.state.wa.us/278/Yakima-Sportsman"
+lat = 46.5926
+lon = -120.4595
+visited = true
 +++
 
 **Hi, I'm Eric.** I like maps.
