@@ -33,6 +33,14 @@ lat = 48.9038
 lon = -122.7650
 
 [[extra.parks]]
+name = "Blind Island"
+gh_issue_id = 85
+link = "https://parks.state.wa.us/477/Blind-Island"
+lat = 48.5849
+lon = -122.9371
+water_only = true
+
+[[extra.parks]]
 name = "Bridgeport"
 gh_issue_id = 11
 link = "https://parks.state.wa.us/480/Bridgeport"
@@ -66,6 +74,14 @@ gh_issue_id = 60
 link = "https://parks.state.wa.us/187/Cape-Disappointment"
 lat = 46.2785
 lon = -124.0538
+
+[[extra.parks]]
+name = "Clark Island"
+gh_issue_id = 80
+link = "https://parks.state.wa.us/488/Clark-Island"
+lat = 48.6997
+lon = -122.7645
+water_only = true
 
 [[extra.parks]]
 name = "Columbia Plateau Trail"
@@ -113,6 +129,14 @@ gh_issue_id = 43
 link = "https://parks.state.wa.us/497/Deception-Pass"
 lat = 48.4071
 lon = -122.6447
+
+[[extra.parks]]
+name = "Doe Island"
+gh_issue_id = 84
+link = "https://parks.state.wa.us/498/Doe-Island"
+lat = 48.6328
+lon = -122.7879
+water_only = true
 
 [[extra.parks]]
 name = "Doug’s Beach"
@@ -216,6 +240,21 @@ lat = 45.6820
 lon = -120.8260
 
 [[extra.parks]]
+name = "Matia Island"
+gh_issue_id = 79
+link = "https://parks.state.wa.us/544/Matia-Island"
+lat = 48.7481
+lon = -122.8417
+water_only = true
+
+[[extra.parks]]
+name = "Moran"
+gh_issue_id = 81
+link = "https://parks.state.wa.us/547/Moran"
+lat = 48.6778
+lon = -122.8316
+
+[[extra.parks]]
 name = "Mount Pilchuck"
 gh_issue_id = 53
 link = "https://parks.state.wa.us/548/Mount-Pilchuck"
@@ -230,6 +269,13 @@ link = "https://parks.state.wa.us/549/Mount-Spokane"
 lat = 47.9047
 lon = -117.1028
 winter_rec = true
+
+[[extra.parks]]
+name = "Obstruction Pass"
+gh_issue_id = 82
+link = "https://parks.state.wa.us/553/Obstruction-Pass"
+lat = 48.6020
+lon = -122.8285
 
 [[extra.parks]]
 name = "Ocean City"
@@ -252,6 +298,14 @@ link = "https://parks.state.wa.us/558/Pacific-Pines"
 lat = 46.5015
 lon = -124.0551
 summer_only = true
+
+[[extra.parks]]
+name = "Patos Island"
+gh_issue_id = 77
+link = "https://parks.state.wa.us/561/Patos-Island"
+lat = 48.7840
+lon = -122.9536
+water_only = true
 
 [[extra.parks]]
 name = "Pearrygin Lake"
@@ -305,12 +359,34 @@ lat = 48.4884
 lon = -121.6150
 
 [[extra.parks]]
+name = "Obstruction Pass"
+gh_issue_id = 82
+link = "https://parks.state.wa.us/553/Obstruction-Pass"
+lat = 48.6020
+lon = -122.8285
+
+[[extra.parks]]
+name = "Saddlebag Island"
+gh_issue_id = 83
+link = "https://parks.state.wa.us/576/Saddlebag-Island"
+lat = 48.5355
+lon = -122.5569
+water_only = true
+
+[[extra.parks]]
 name = "Skagit Island"
 gh_issue_id = 51
 link = "https://parks.state.wa.us/584/Skagit-Island"
 lat = 48.4140
 lon = -122.5785
 water_only = true
+
+[[extra.parks]]
+name = "South Whidbey"
+gh_issue_id = 33
+link = "https://parks.state.wa.us/585/South-Whidbey"
+lat = 48.0600
+lon = -122.5966
 
 [[extra.parks]]
 name = "Spokane River Centennial Trail"
@@ -321,6 +397,13 @@ lon = -117.5299
 trail = true
 
 [[extra.parks]]
+name = "Squilchuck"
+gh_issue_id = 19
+link = "https://parks.state.wa.us/589/Squilchuck"
+lat = 47.3059
+lon = -120.3731
+
+[[extra.parks]]
 name = "Steamboat Rock"
 gh_issue_id = 14
 link = "https://parks.state.wa.us/590/Steamboat-Rock"
@@ -328,25 +411,20 @@ lat = 47.8600
 lon = -119.1250
 
 [[extra.parks]]
-name = "Sequim Bay"
-gh_issue_id = 27
-link = "https://parks.state.wa.us/582/Sequim-Bay"
-lat = 48.0420
-lon = -123.0283
+name = "Stuart Island"
+gh_issue_id = 76
+link = "https://parks.state.wa.us/593/Stuart-Island"
+lat = 48.7562
+lon = -122.9044
+water_only = true
 
 [[extra.parks]]
-name = "South Whidbey"
-gh_issue_id = 33
-link = "https://parks.state.wa.us/585/South-Whidbey"
-lat = 48.0600
-lon = -122.5966
-
-[[extra.parks]]
-name = "Squilchuck"
-gh_issue_id = 19
-link = "https://parks.state.wa.us/589/Squilchuck"
-lat = 47.3059
-lon = -120.3731
+name = "Sucia Island"
+gh_issue_id = 78
+link = "https://parks.state.wa.us/594/Sucia-Island"
+lat = 48.7840
+lon = -122.9536
+water_only = true
 
 [[extra.parks]]
 name = "Sun Lakes-Dry Falls"
