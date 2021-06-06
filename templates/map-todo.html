@@ -4,7 +4,23 @@
 <div class="map-page">
   {{ page.content | safe }}
 
+  <p>Here's one showing where the {{ page.extra.parks | length }} parks I <i>haven't</i> visited and documented yet are located.</p>
+
   <div id="parks-map"></div>
+
+  <p>Color guide:</p>
+
+  <ul>
+    <li>red - not visited yet</li>
+    <li>purple - not visited yet, <i>open in summer only</i></li>
+    <li>light blue - not visited yet, <i>best visited in winter</i></li>
+    <li>brown - not visited yet, <i>bike trail</i></li>
+    <!--
+    * blue - not visited yet, _water access only_
+    * green - visited, but not blogged yet
+    * orange - closed
+    -->
+  </ul>
 
   <script>
     let map;
@@ -16,8 +32,8 @@
         path: google.maps.SymbolPath.CIRCLE,
         fillColor: fillColor,
         fillOpacity: .7,
-        scale: 4.5,
-        strokeColor: 'black',
+        scale: 6,
+        strokeColor: 'white',
         strokeWeight: 1
       };
 
@@ -66,10 +82,15 @@
       map.fitBounds(bounds);
 
       {% for park in page.extra.parks -%}
-        {% if park.color -%}
-          {% set color = park.color -%}
-        {% else -%}
-          {% set color = "red" -%}
+        {% set color = "red" -%}
+        {% if park.summer_only -%}
+          {% set color = "purple" -%}
+        {% endif -%}
+        {% if park.winter_rec -%}
+          {% set color = "#00ccff" -%}
+        {% endif -%}
+        {% if park.trail -%}
+          {% set color = "#663300" -%}
         {% endif -%}
         addParkMarker(map,
           "{{ park.name }}",
