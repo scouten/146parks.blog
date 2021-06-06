@@ -1,0 +1,90 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="map-page">
+  {{ page.content | safe }}
+
+  <div id="parks-map"></div>
+
+  <script>
+    let map;
+    let markers = [];
+    let previousWindow = false;
+
+    function addParkMarker(map, title, lat, lon, link, fillColor) {
+      const icon = {
+        path: google.maps.SymbolPath.CIRCLE,
+        fillColor: fillColor,
+        fillOpacity: .7,
+        scale: 4.5,
+        strokeColor: 'black',
+        strokeWeight: 1
+      };
+
+      const marker = new google.maps.Marker({
+        position: { lat: lat, lng: lon },
+        map,
+        title: title,
+        icon: icon,
+      });
+
+      const contentString =
+        '<div class="park-marker">' +
+          '<div class="park-title">' +
+          '<a href="' + link + '">' +
+          '<span class="name">' + title + '</span></a>' +
+        '</div>';
+
+      const infoWindow = new google.maps.InfoWindow({
+        content: contentString,
+        maxWidth: 276,
+      });
+
+      marker.addListener("click", () => {
+        if (previousWindow) {
+          previousWindow.close();
+        }
+
+        previousWindow = infoWindow;
+        infoWindow.open(map, marker);
+      });
+
+      markers.push(marker);
+    }
+
+    function initMap() {
+      const map = new google.maps.Map(document.getElementById("parks-map"), {
+        mapTypeId: "terrain",
+      });
+
+      map.setOptions('TERRAIN');
+
+      const bounds = new google.maps.LatLngBounds();
+      bounds.extend(new google.maps.LatLng(45.544, -124.673));
+      bounds.extend(new google.maps.LatLng(49.003, -116.916));
+
+      map.fitBounds(bounds);
+
+      {% for park in page.extra.parks -%}
+        {% if park.color -%}
+          {% set color = park.color -%}
+        {% else -%}
+          {% set color = "red" -%}
+        {% endif -%}
+        addParkMarker(map,
+          "{{ park.name }}",
+          {{ park.lat }},
+          {{ park.lon }},
+          "{{ park.link | safe }}",
+          "{{ color | safe }}");
+      {% endfor %}
+
+    }
+    
+  </script>
+  <script
+  src="https://maps.googleapis.com/maps/api/js?key={{ get_env(name="GOOGLE_API_KEY", default="none") }}&callback=initMap&libraries=&v=weekly"
+  async>
+  </script>
+</div>
+{% endblock content %}
