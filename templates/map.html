@@ -1,6 +1,10 @@
 {% extends "base.html" %}
 
 {% block content %}
+
+{% set parks = get_section(path="parks/_index.md") %}
+{% set n_parks = parks | get(key="pages") | length %}
+
 <div class="map-page">
   {{ page.content | safe }}
 
@@ -12,11 +16,21 @@
     let markers = [];
     let previousWindow = false;
 
-    function addParkMarker(map, seq, title, lat, lon, cover, link) {
+    function addParkMarker(map, seq, title, lat, lon, cover, link, fillColor) {
+      const icon = {
+        path: google.maps.SymbolPath.CIRCLE,
+        fillColor: fillColor,
+        fillOpacity: .7,
+        scale: 6,
+        strokeColor: 'white',
+        strokeWeight: 1.5
+      };
+
       const marker = new google.maps.Marker({
         position: { lat: lat, lng: lon },
         map,
         title: title,
+        icon: icon,
       });
 
       const contentString =
@@ -45,6 +59,15 @@
         infoWindow.open(map, marker);
       });
 
+      marker.addListener("mouseover", () => {
+        if (previousWindow) {
+          previousWindow.close();
+        }
+
+        previousWindow = infoWindow;
+        infoWindow.open(map, marker);
+      });
+
       markers.push(marker);
     }
 
@@ -61,22 +84,20 @@
 
       map.fitBounds(bounds);
 
-      {% set parks = get_section(path="parks/_index.md") %}
       {% for page in parks.pages %}
-      addParkMarker(map,
-        {{ page.extra.seq }},
-        "{{ page.title }}",
-        {{ page.extra.lat }},
-        {{ page.extra.lon }},
-        "{{ page.permalink | safe }}cover-{{ page.extra.feature | safe }}.jpg",
-        "{{ page.permalink | safe }}");
+        {% set color = "blue" -%}
+        {% if page.extra.seq > (n_parks - 10) -%}
+          {% set color = "red" -%}
+        {% endif -%}
+        addParkMarker(map,
+          {{ page.extra.seq }},
+          "{{ page.title }}",
+          {{ page.extra.lat }},
+          {{ page.extra.lon }},
+          "{{ page.permalink | safe }}cover-{{ page.extra.feature | safe }}.jpg",
+          "{{ page.permalink | safe }}",
+          "{{ color | safe }}");
       {% endfor %}
-
-      const markerCluster = new MarkerClusterer(map, markers,
-        {
-          imagePath: "{{ config.base_url | safe }}/common/m",
-          maxZoom: 20,
-        } );
 
     }
     
@@ -85,5 +106,8 @@
   src="https://maps.googleapis.com/maps/api/js?key={{ get_env(name="GOOGLE_API_KEY", default="none") }}&callback=initMap&libraries=&v=weekly"
   async>
   </script>
+
+  <p>The 10 most-recently visited parks are marked in red.</p>
 </div>
+
 {% endblock content %}
