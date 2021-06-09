@@ -29,7 +29,7 @@
       const icon = {
         path: google.maps.SymbolPath.CIRCLE,
         fillColor: fillColor,
-        fillOpacity: .7,
+        fillOpacity: 1,
         scale: 6,
         strokeColor: 'white',
         strokeWeight: 1.5
@@ -55,6 +55,15 @@
       });
 
       marker.addListener("click", () => {
+        if (previousWindow) {
+          previousWindow.close();
+        }
+
+        previousWindow = infoWindow;
+        infoWindow.open(map, marker);
+      });
+
+      marker.addListener("mouseover", () => {
         if (previousWindow) {
           previousWindow.close();
         }
