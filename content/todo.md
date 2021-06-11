@@ -221,14 +221,6 @@ lat = 48.2166
 lon = -122.7608
 
 [[extra.parks]]
-name = "Fort Simcoe"
-gh_issue_id = 103
-link = "https://parks.state.wa.us/509/Fort-Simcoe"
-lat = 46.3425
-lon = -120.8389
-visited = true
-
-[[extra.parks]]
 name = "Fort Townsend"
 gh_issue_id = 28
 link = "https://parks.state.wa.us/510/Fort-Townsend"
