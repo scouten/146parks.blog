@@ -261,6 +261,7 @@ link = "https://parks.state.wa.us/518/Hope-Island---Skagit"
 lat = 48.3980
 lon = -122.5697
 water_only = true
+visited = true
 
 [[extra.parks]]
 name = "Ike Kinswa"
@@ -328,6 +329,13 @@ link = "https://parks.state.wa.us/869/Klickitat-Trail"
 lat = 45.6989
 lon = -121.2878
 trail = true
+
+[[extra.parks]]
+name = "Kukutali"
+link = "https://parks.state.wa.us/299/Kukutali-Preserve"
+lat = 48.4201
+lon = -122.5616
+visited = true
 
 [[extra.parks]]
 name = "Lake Chelan"
@@ -643,6 +651,7 @@ link = "https://parks.state.wa.us/584/Skagit-Island"
 lat = 48.4140
 lon = -122.5785
 water_only = true
+visited = true
 
 [[extra.parks]]
 name = "South Whidbey"
