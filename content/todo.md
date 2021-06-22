@@ -24,6 +24,7 @@ gh_issue_id = 44
 link = "https://parks.state.wa.us/473/Bay-View"
 lat = 48.4880
 lon = -122.4810
+visited = true
 
 [[extra.parks]]
 name = "Belfair"
@@ -579,6 +580,7 @@ gh_issue_id = 49
 link = "https://parks.state.wa.us/571/Rasar"
 lat = 48.5185
 lon = -121.9033
+visited = true
 
 [[extra.parks]]
 name = "Riverside / Nine Mile Rec Area"
@@ -593,6 +595,7 @@ gh_issue_id = 50
 link = "https://parks.state.wa.us/574/Rockport"
 lat = 48.4884
 lon = -121.6150
+visited = true
 
 [[extra.parks]]
 name = "Obstruction Pass"
@@ -785,14 +788,6 @@ link = "https://parks.state.wa.us/1023/Willapa-Hills-Trail"
 lat = 46.6476
 lon = -122.9741
 trail = true
-
-[[extra.parks]]
-name = "Yakima Sportsman"
-gh_issue_id = 104
-link = "https://parks.state.wa.us/278/Yakima-Sportsman"
-lat = 46.5926
-lon = -120.4595
-visited = true
 +++
 
 **Hi, I'm Eric.** I like maps.
