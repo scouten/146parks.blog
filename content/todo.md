@@ -388,6 +388,7 @@ gh_issue_id = 117
 link = "https://parks.state.wa.us/542/Manchester"
 lat = 47.5766
 lon = -122.5461
+visited = true
 
 [[extra.parks]]
 name = "Maryhill"
