@@ -367,6 +367,7 @@ link = "https://parks.state.wa.us/538/Lewis-Clark"
 lat = 46.5259
 lon = -122.8187
 summer_only = true
+visited = true
 
 [[extra.parks]]
 name = "Lewis and Clark Trail"
@@ -419,6 +420,7 @@ gh_issue_id = 134
 link = "https://parks.state.wa.us/546/Millersylvania"
 lat = 46.9155
 lon = -122.9076
+visited = true
 
 [[extra.parks]]
 name = "Moran"
