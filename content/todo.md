@@ -482,14 +482,6 @@ lat = 47.4349
 lon = -121.7105
 
 [[extra.parks]]
-name = "Olmstead Place"
-gh_issue_id = 105
-link = "https://parks.state.wa.us/556/Olmstead-Place"
-lat = 46.9710
-lon = -120.4678
-visited = true
-
-[[extra.parks]]
 name = "Pacific Beach"
 gh_issue_id = 69
 link = "https://parks.state.wa.us/557/Pacific-Beach"
