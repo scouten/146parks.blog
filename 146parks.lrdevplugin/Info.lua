@@ -7,7 +7,7 @@ return {
 
 	LrExportMenuItems = {
 		{
-			title = "Create Starter Blog Post",
+			title = "Create 146parks.blog Post",
 			file = 'post.lua',
 		},
 	},
