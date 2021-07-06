@@ -10,7 +10,7 @@ lon = -122.6872
 near = "west of Gig Harbor"
 designator = "Marine State Park"
 markers = "markers.js"
-track = "2021-05-31-cutts-island.kml"
+track = "2021-05-31-cutts-island-2.kml"
 bounds = {sw = [47.308, -122.696], ne = [47.328, -122.676]}
 feature = "es-4219-114p"
 +++
