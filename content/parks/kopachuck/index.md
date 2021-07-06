@@ -21,7 +21,7 @@ Kopachuck was once a popular camping park. It has since become a day-use park wi
 {{ es_image(id="es-4166-032") }}
 {{ es_image(id="es-4166-039") }}
 
-Kopachuck offers a tease of nearby Cutts Island State Park. As the name implies, that park is an island, a mile or so away across Carr Inlet. I did not have my kayak with me that day, so that visit will be the subject of a future article. Stay tuned …
+Kopachuck offers a tease of nearby [Cutts Island State Park](/parks/cutts-island/). As the name implies, that park is an island, a mile or so away across Carr Inlet. I did not have my kayak with me that day, so that visit will be the subject of a future article. ~~Stay tuned …~~ _(I've [since been](/parks/cutts-island/).)_
 
 {{ es_image(id="es-4166-033", caption="Cutts Island, as seen from Kopachuck State Park.") }}
 
