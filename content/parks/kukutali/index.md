@@ -10,8 +10,7 @@ lon = -122.563
 near = "north of La Conner"
 designator = "Preserve"
 markers = "markers.js"
-track = "track.kml"
-markers = "markers.js"
+track = "2021-06-19-kukutali.kml"
 bounds = {sw = [48.409, -122.573], ne = [48.429, -122.553]}
 feature = "es-4221-055"
 +++
