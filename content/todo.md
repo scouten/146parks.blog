@@ -133,15 +133,6 @@ lon = -118.6623
 summer_only = true
 
 [[extra.parks]]
-name = "Cutts Island"
-gh_issue_id = 118
-link = "https://parks.state.wa.us/494/Cutts-Island"
-lat = 47.3215
-lon = -122.6872
-water_only = true
-visited = true
-
-[[extra.parks]]
 name = "Daroga"
 gh_issue_id = 16
 link = "https://parks.state.wa.us/495/Daroga"
