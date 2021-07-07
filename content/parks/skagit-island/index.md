@@ -20,7 +20,7 @@ Your own private island (for a little while, anyway)? That was my experience whe
 <!-- more -->
 
 Getting there is half the fun. I put in from [Ala Spit County Park](https://www.islandcountywa.gov/PublicWorks/Parks/Pages/ala-spit.aspx), north of Oak Harbor. It's a little less than two miles across the water from Ala Spit to the landing site on the northeast side of Skagit Island.
-«
+
 Signs at the park warn of difficult currents and tides. I was fortunate not to encounter any challenges getting to Skagit Island, but do be careful and be aware of tides, currents, and wakes from nearby boats.
 
 {{ es_image(id="es-4221-086", caption="First sighting of the island from Skagit Bay.") }}
