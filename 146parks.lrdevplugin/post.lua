@@ -148,11 +148,10 @@ function(context)
 	index:write("lon = " .. tostring(roundLatLon((e + w) / 2)) .. "\n")
 	index:write("near = \"" .. escapeHtml(location) .. "\"\n")
 	index:write("# designator = \"State Park Property\"\n")
-	index:write("markers = \"markers.js\"\n")
-	index:write("track = \"track.kml\"\n")
 
 	if showMarkers then
 		index:write("markers = \"markers.js\"\n")
+		index:write("track = \"track.kml\"\n")
 
 		if n and s and e and w then
 			if n - s < .02 then
