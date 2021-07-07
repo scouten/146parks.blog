@@ -636,15 +636,6 @@ lon = -123.0290
 visited = true
 
 [[extra.parks]]
-name = "Skagit Island"
-gh_issue_id = 51
-link = "https://parks.state.wa.us/584/Skagit-Island"
-lat = 48.4140
-lon = -122.5785
-water_only = true
-visited = true
-
-[[extra.parks]]
 name = "South Whidbey"
 gh_issue_id = 33
 link = "https://parks.state.wa.us/585/South-Whidbey"
