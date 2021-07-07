@@ -324,13 +324,6 @@ lon = -121.2878
 trail = true
 
 [[extra.parks]]
-name = "Kukutali"
-link = "https://parks.state.wa.us/299/Kukutali-Preserve"
-lat = 48.4201
-lon = -122.5616
-visited = true
-
-[[extra.parks]]
 name = "Lake Chelan"
 gh_issue_id = 13
 link = "https://parks.state.wa.us/531/Lake-Chelan"
