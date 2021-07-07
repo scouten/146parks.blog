@@ -248,15 +248,6 @@ lat = 48.2791
 lon = -124.3693
 
 [[extra.parks]]
-name = "Hope Island"
-gh_issue_id = 141
-link = "https://parks.state.wa.us/518/Hope-Island---Skagit"
-lat = 48.3980
-lon = -122.5697
-water_only = true
-visited = true
-
-[[extra.parks]]
 name = "Ike Kinswa"
 gh_issue_id = 136
 link = "https://parks.state.wa.us/519/Ike-Kinswa"

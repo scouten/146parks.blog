@@ -47,7 +47,7 @@ Skagit Island is close to [Kukutali Preserve](/parks/kukutali), which I had visi
 {{ es_image(id="es-4221-178") }}
 {{ es_image(id="es-4221-185") }}
 
-One last look back at Skagit Island as I paddled on to the next destination. Stay tuned ...
+One last look back at Skagit Island as I paddled on to the [next destination](/parks/hope-island-skagit/).
 
 {{ es_image(id="es-4221-197p") }}
 
