@@ -9,7 +9,7 @@ lat = 46.6628
 lon = -118.2276
 near = "south of Washtucna"
 markers = "markers.js"
-feature = "es-4183-024p"
+cover = "es-4183-024p"
 +++
 
 This park is pretty much what it says on the tin: an epic waterfall in the middle of the rolling hills and grasslands of the Palouse in eastern Washington.

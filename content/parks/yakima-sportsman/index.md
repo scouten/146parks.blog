@@ -9,7 +9,7 @@ lat = 46.5925
 lon = -120.4602
 near = "Yakima"
 markers = "markers.js"
-feature = "es-4213-381p"
+cover = "es-4213-381p"
 +++
 
 Who would know this was once a gravel pit? Today, this park is an examplar of wetland restoration, teeming with all manner of birds, beavers, and other wildlife in the midst of the city. A large network of hiking trails winds its way through forest, marsh, ponds, and the Yakima River itself.

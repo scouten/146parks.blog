@@ -10,7 +10,7 @@ lon = -124.1780
 near = "Ocean Shores"
 markers = "markers.js"
 track = "2020-11-15-griffiths-priday.kml"
-feature = "es-4149-043"
+cover = "es-4149-043"
 +++
 
 I so enjoyed my [previous beach park visit](/parks/leadbetter-point) that I came back for another on the next weekend opportunity. Griffiths-Priday State Park offers an opportunity to step back and let Mother Nature bathe you in sound and sights.

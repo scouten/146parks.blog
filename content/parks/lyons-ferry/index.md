@@ -9,7 +9,7 @@ lat = 46.5953
 lon = -118.2185
 near = "south of Washtucna"
 markers = "markers.js"
-feature = "es-4206-304"
+cover = "es-4206-304"
 +++
 
 Once upon a time, there was a ferry here. It's long since been superceded by a bridge which is surprisingly narrow by today's standards. Lyons Ferry State Park offers a view of the abandoned historic ferry and expansive views of the Snake and Palouse Rivers.

@@ -179,7 +179,7 @@ function(context)
 			local pid = photo.path
 			pid = pid:gsub("^.*/", "")
 			pid = pid:gsub("%..*$", "")
-			index:write("feature = \"" .. pid .. "\"\n")
+			index:write("cover = \"" .. pid .. "\"\n")
 			break
 		end
 	end

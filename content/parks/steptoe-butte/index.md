@@ -10,7 +10,7 @@ lat = 47.0321
 lon = -117.2967
 near = "north of Colfax"
 markers = "markers.js"
-feature = "es-4206-029p"
+cover = "es-4206-029p"
 +++
 
 Steptoe Butte is a geographic anomaly: a deposit of quartzite that has resisted the nature's attempts to wash it away. Today it sits a thousand feet above the surrounding landscape and offers panoramic views of the Palouse hills.

@@ -10,7 +10,7 @@ lat = 46.3425
 lon = -120.8391
 near = "west of White Swan"
 markers = "markers.js"
-feature = "es-4213-261p"
+cover = "es-4213-261p"
 +++
 
 Fort Simcoe was built to support the European expansion into Washington Territory in the 1850s, but was only actively used as a fort for a few years. Today, under an arrangement with the Yakama Nation, it serves as one of the few remaining preserved settlements in our area from that time.

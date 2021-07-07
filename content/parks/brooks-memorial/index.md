@@ -10,7 +10,7 @@ lon = -120.6655
 near = "north of Goldendale"
 markers = "markers.js"
 track = "2021-05-22-brooks-memorial.kml"
-feature = "es-4213-159"
+cover = "es-4213-159"
 +++
 
 Brooks Memorial State Park offers a chance for a hike in the woods or a game of disc golf. If you get deep enough into the woods, you are rewarded with some panoramic views of Mount Hood.

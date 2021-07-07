@@ -10,7 +10,7 @@ lon = -122.8575
 near = "Lopez Island"
 markers = "markers.js"
 track = "2020-10-09-spencer-spit.kml"
-feature = "es-4126-050"
+cover = "es-4126-050"
 +++
 
 I decided to start this project in the San Juan Islands. I made time to visit Spencer Spit State Park on Lopez Island as a day trip on my way to Friday Harbor, where I am spending a long weekend vacation.

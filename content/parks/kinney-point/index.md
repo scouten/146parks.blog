@@ -11,7 +11,7 @@ designator = "State Park Property"
 near = "Marrowstone Island"
 markers = "markers.js"
 track = "2021-05-04-kinney-point.kml"
-feature = "es-4200-007"
+cover = "es-4200-007"
 +++
 
 This is a park for those with small, beachable watercraft. Like me! I loaded up my kayak and paddled from nearby Indian Island to Kinney Point on a mild spring day. I was treated to a very quiet day on the water and in the woods.

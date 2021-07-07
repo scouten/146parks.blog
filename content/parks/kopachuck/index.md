@@ -9,7 +9,7 @@ lat = 47.3089
 lon = -122.6846
 near = "west of Gig Harbor"
 markers = "markers.js"
-feature = "es-4166-032"
+cover = "es-4166-032"
 +++
 
 Kopachuck was once a popular camping park. It has since become a day-use park with some nice hiking trails and beach access. I visited on a blustery winter day and found myself wishing I, too, had brought a dog to walk in the park.

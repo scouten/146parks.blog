@@ -10,7 +10,7 @@ lon = -122.0241
 near = "east of Stevenson"
 markers = "markers.js"
 track = "track.kml"
-feature = "es-4186-289"
+cover = "es-4186-289"
 visited = "27 March and 10 – 11 April 2021"
 +++
 

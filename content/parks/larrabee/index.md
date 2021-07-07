@@ -10,7 +10,7 @@ lon = -122.4901
 near = "south of Bellingham"
 markers = "markers.js"
 track = "2020-11-27-larrabee.kml"
-feature = "es-4152-086p"
+cover = "es-4152-086p"
 +++
 
 {{ es_image(id="es-4152-003") }}

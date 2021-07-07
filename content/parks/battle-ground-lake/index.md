@@ -10,7 +10,7 @@ lon = -122.4927
 near = "east of Battle Ground"
 markers = "markers.js"
 track = "2021-01-01-battle-ground-lake.kml"
-feature = "es-4162-004"
+cover = "es-4162-004"
 +++
 
 Battle Ground Lake State Park is a quiet retreat from the busy-ness that surrounds the Portland/Vancouver metropolis. Camp, hike, ride your horse, fish, … whatever it is that helps you relax, you can do it here.
