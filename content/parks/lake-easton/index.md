@@ -10,7 +10,7 @@ lon = -121.1974
 near = "Easton"
 markers = "markers.js"
 track = "2020-10-24-lake-easton.kml"
-feature = "es-4136-070"
+cover = "es-4136-070"
 +++
 
 {{ es_image(id="es-4136-026") }}

@@ -10,7 +10,7 @@ lat = 47.2285
 lon = -117.3649
 near = "Rosalia"
 markers = "markers.js"
-feature = "es-4206-139"
+cover = "es-4206-139"
 +++
 
 As I've written [before on this site](/parks/jackson-house/), I find commemorations of white man's "victory" over native peoples challenging to talk about. Even though this particular battle is considered a victory for the native side, we all know how this drama ultimately played out.

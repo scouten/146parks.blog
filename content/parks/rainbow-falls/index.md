@@ -8,7 +8,7 @@ seq = 5
 lat = 46.6310
 lon = -123.2322
 near = "west of Chehalis"
-feature = "es-4135-013"
+cover = "es-4135-013"
 +++
 
 {{ es_image(id="es-4135-013") }}

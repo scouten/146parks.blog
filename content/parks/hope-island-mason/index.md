@@ -11,7 +11,7 @@ lon = -122.9316
 near = "east of Shelton"
 markers = "markers.js"
 track = "2021-02-07-hope-island-mason.kml"
-feature = "es-4168-053p"
+cover = "es-4168-053p"
 +++
 
 And now, for something completely different! By my count, 23 of Washington’s state parks are accessible only by water. No problem! Have kayak; will paddle! The first of them, Hope Island, is located a few miles east of Shelton in Puget Sound. My daughter and I set out on a mostly sunny afternoon to explore the waters and the island.

@@ -9,7 +9,7 @@ lat = 47.2725
 lon = -122.0212
 near = "east of Auburn"
 markers = "markers.js"
-feature = "es-4165-018"
+cover = "es-4165-018"
 +++
 
 Alas, there are no flames. No geyser, either. I’m told that I arrived a bit late for that party. Like several decades too late. But the park did offer a nice hike along the Green River and some fun stories from days of yore.

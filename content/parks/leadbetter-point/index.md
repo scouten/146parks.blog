@@ -10,7 +10,7 @@ lon = -124.0433
 near = "Ocean Park"
 markers = "markers.js"
 track = "2020-11-08-leadbetter-point.kml"
-feature = "es-4146-122"
+cover = "es-4146-122"
 +++
 
 Situated at the tip of Long Beach Peninsula, Leadbetter Point State Park offers an excellent opportunity to get away from it all by clamming, birdwatching, or just enjoying the unending thunder of the ocean trying to climb up onto the dunes.

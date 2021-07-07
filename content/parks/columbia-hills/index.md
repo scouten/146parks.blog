@@ -10,7 +10,7 @@ lat = 45.6484
 lon = -121.0970
 near = "east of Lyle"
 markers = "markers.js"
-feature = "es-4186-204"
+cover = "es-4186-204"
 visited = "27 March and 10 – 11 April 2021"
 +++
 

@@ -94,7 +94,7 @@
           "{{ page.title }}",
           {{ page.extra.lat }},
           {{ page.extra.lon }},
-          "{{ page.permalink | safe }}cover-{{ page.extra.feature | safe }}.jpg",
+          "{{ page.permalink | safe }}cover-{{ page.extra.cover | safe }}.jpg",
           "{{ page.permalink | safe }}",
           "{{ color | safe }}");
       {% endfor %}
