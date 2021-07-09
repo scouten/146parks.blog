@@ -3,7 +3,7 @@ title = ""
 template = "parks-list.html"
 +++
 
-**Hi, I’m Eric.** I'm a photographer and software developer living near Seattle, Washington.
+**Hi, I’m Eric.** And I'm visiting Andy. I'm a photographer and software developer living near Seattle, Washington.
 
 I enjoy traveling worldwide and often blog about my travels on my main site, [ericscouten.com](https://ericscouten.com).
 
