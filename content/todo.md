@@ -20,14 +20,6 @@ summer_only = true
 visited = true
 
 [[extra.parks]]
-name = "Bay View"
-gh_issue_id = 44
-link = "https://parks.state.wa.us/473/Bay-View"
-lat = 48.4880
-lon = -122.4810
-visited = true
-
-[[extra.parks]]
 name = "Belfair"
 gh_issue_id = 113
 link = "https://parks.state.wa.us/475/Belfair"
@@ -86,7 +78,7 @@ lat = 46.2729
 lon = -124.0743
 
 [[extra.parks]]
-name = "Cape Disappointment - Lewis & Clark Interpretive Center"
+name = "Cape Disappointment - Lewis and Clark Interpretive Center"
 gh_issue_id = 60
 link = "https://parks.state.wa.us/187/Cape-Disappointment"
 lat = 46.2785
