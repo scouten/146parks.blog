@@ -274,6 +274,7 @@ gh_issue_id = 119
 link = "https://parks.state.wa.us/524/Joemma-Beach"
 lat = 47.2255
 lon = -122.8086
+visited = true
 
 [[extra.parks]]
 name = "Jones Island"
@@ -506,6 +507,7 @@ gh_issue_id = 87
 link = "https://parks.state.wa.us/564/Penrose-Point"
 lat = 47.2578
 lon = -122.7487
+visited = true
 
 [[extra.parks]]
 name = "Peshastin Pinnacles"
@@ -566,6 +568,7 @@ link = "https://parks.state.wa.us/576/Saddlebag-Island"
 lat = 48.5355
 lon = -122.5569
 water_only = true
+visited = true
 
 [[extra.parks]]
 name = "Saint Edward"
