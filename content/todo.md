@@ -553,14 +553,6 @@ lat = 47.7826
 lon = -117.5416
 
 [[extra.parks]]
-name = "Rockport"
-gh_issue_id = 50
-link = "https://parks.state.wa.us/574/Rockport"
-lat = 48.4884
-lon = -121.6150
-visited = true
-
-[[extra.parks]]
 name = "Obstruction Pass"
 gh_issue_id = 82
 link = "https://parks.state.wa.us/553/Obstruction-Pass"
