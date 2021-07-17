@@ -540,14 +540,6 @@ lat = 47.3615
 lon = -123.1575
 
 [[extra.parks]]
-name = "Rasar"
-gh_issue_id = 49
-link = "https://parks.state.wa.us/571/Rasar"
-lat = 48.5185
-lon = -121.9033
-visited = true
-
-[[extra.parks]]
 name = "Riverside / Nine Mile Rec Area"
 gh_issue_id = 37
 link = "https://parks.state.wa.us/573/Riverside"
