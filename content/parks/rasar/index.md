@@ -9,7 +9,7 @@ lat = 48.514
 lon = -121.903
 near = "west of Concrete"
 markers = "markers.js"
-# track = "2021-06-20-rasar.kml"
+track = "2021-06-20-rasar.kml"
 bounds = {sw = [48.504, -121.913], ne = [48.524, -121.893]}
 cover = "es-4222-111p"
 +++
