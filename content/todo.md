@@ -11,15 +11,6 @@ lon = -119.9354
 summer_only = true
 
 [[extra.parks]]
-name = "Anderson Lake"
-gh_issue_id = 25
-link = "https://parks.state.wa.us/240/Anderson-Lake"
-lat = 48.0180
-lon = -122.8042
-summer_only = true
-visited = true
-
-[[extra.parks]]
 name = "Belfair"
 gh_issue_id = 113
 link = "https://parks.state.wa.us/475/Belfair"
