@@ -395,6 +395,7 @@ link = "https://parks.state.wa.us/548/Mount-Pilchuck"
 lat = 48.0579
 lon = -121.7977
 summer_only = true
+visited = true
 
 [[extra.parks]]
 name = "Mount Saint Helens"
@@ -661,6 +662,7 @@ gh_issue_id = 120
 link = "https://parks.state.wa.us/297/Tolmie"
 lat = 47.1211
 lon = -122.7767
+visited = true
 
 [[extra.parks]]
 name = "Triton Cove"
