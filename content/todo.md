@@ -590,14 +590,6 @@ lat = 46.2978
 lon = -122.8194
 
 [[extra.parks]]
-name = "Sequim Bay"
-gh_issue_id = 27
-link = "https://parks.state.wa.us/582/Sequim-Bay"
-lat = 48.0415
-lon = -123.0290
-visited = true
-
-[[extra.parks]]
 name = "South Whidbey"
 gh_issue_id = 33
 link = "https://parks.state.wa.us/585/South-Whidbey"
