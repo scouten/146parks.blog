@@ -343,14 +343,6 @@ lat = 47.5410
 lon = -120.2824
 
 [[extra.parks]]
-name = "Manchester"
-gh_issue_id = 117
-link = "https://parks.state.wa.us/542/Manchester"
-lat = 47.5766
-lon = -122.5461
-visited = true
-
-[[extra.parks]]
 name = "Maryhill"
 gh_issue_id = 6
 link = "https://parks.state.wa.us/543/Maryhill"
