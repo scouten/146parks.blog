@@ -320,15 +320,6 @@ lat = 46.9970
 lon = -123.5945
 
 [[extra.parks]]
-name = "Lewis and Clark"
-gh_issue_id = 135
-link = "https://parks.state.wa.us/538/Lewis-Clark"
-lat = 46.5259
-lon = -122.8187
-summer_only = true
-visited = true
-
-[[extra.parks]]
 name = "Lewis and Clark Trail"
 gh_issue_id = 122
 link = "https://parks.state.wa.us/539/Lewis-Clark-Trail"
