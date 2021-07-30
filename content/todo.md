@@ -366,14 +366,6 @@ lon = -122.8629
 water_only = true
 
 [[extra.parks]]
-name = "Millersylvania"
-gh_issue_id = 134
-link = "https://parks.state.wa.us/546/Millersylvania"
-lat = 46.9155
-lon = -122.9076
-visited = true
-
-[[extra.parks]]
 name = "Moran"
 gh_issue_id = 81
 link = "https://parks.state.wa.us/547/Moran"
