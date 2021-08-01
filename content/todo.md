@@ -159,6 +159,7 @@ link = "https://parks.state.wa.us/501/Eagle-Island"
 lat = 47.1877
 lon = -122.6963
 water_only = true
+visited = true
 
 [[extra.parks]]
 name = "Federation Forest"
@@ -355,6 +356,7 @@ link = "https://parks.state.wa.us/545/McMicken-Island"
 lat = 47.2480
 lon = -122.8629
 water_only = true
+visited = true
 
 [[extra.parks]]
 name = "Moran"
