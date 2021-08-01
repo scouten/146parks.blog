@@ -471,14 +471,6 @@ lat = 48.9999
 lon = -122.7564
 
 [[extra.parks]]
-name = "Penrose Point"
-gh_issue_id = 87
-link = "https://parks.state.wa.us/564/Penrose-Point"
-lat = 47.2578
-lon = -122.7487
-visited = true
-
-[[extra.parks]]
 name = "Peshastin Pinnacles"
 gh_issue_id = 18
 link = "https://parks.state.wa.us/565/Peshastin-Pinnacles"
