@@ -261,14 +261,6 @@ lon = -122.7752
 water_only = true
 
 [[extra.parks]]
-name = "Joemma Beach"
-gh_issue_id = 119
-link = "https://parks.state.wa.us/524/Joemma-Beach"
-lat = 47.2255
-lon = -122.8086
-visited = true
-
-[[extra.parks]]
 name = "Jones Island"
 gh_issue_id = 74
 link = "https://parks.state.wa.us/525/Jones-Island"
