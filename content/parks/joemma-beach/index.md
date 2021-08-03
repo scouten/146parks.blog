@@ -43,4 +43,4 @@ But, really, this park is about the beach and the access to the water:
 
 For more information:
 
-* [State Parks web site](https://parks.state.wa.us/404/LostLake)
+* [State Parks web site](https://parks.state.wa.us/524/Joemma-Beach)
