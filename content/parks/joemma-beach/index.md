@@ -14,7 +14,7 @@ cover = "es-4234-042"
 visited = "10 and 23 July 2021"
 +++
 
-Joemma Beach is just what it says on the tin: a beach. Dig deeper and its two realities are, it's a great camping place and it's a great place to enjoy the waterfront.
+Joemma Beach is just what it says on the tin: a beach. Dig deeper and its two realities are: it's a great camping place and it's a great place to enjoy the waterfront.
 
 <!-- more -->
 
