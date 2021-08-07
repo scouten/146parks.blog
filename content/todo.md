@@ -601,14 +601,6 @@ lat = 47.5909
 lon = -119.3850
 
 [[extra.parks]]
-name = "Tolmie"
-gh_issue_id = 120
-link = "https://parks.state.wa.us/297/Tolmie"
-lat = 47.1211
-lon = -122.7767
-visited = true
-
-[[extra.parks]]
 name = "Triton Cove"
 gh_issue_id = 55
 link = "https://parks.state.wa.us/296/Triton-Cove"
