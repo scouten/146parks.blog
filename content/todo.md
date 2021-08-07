@@ -507,15 +507,6 @@ lat = 48.6020
 lon = -122.8285
 
 [[extra.parks]]
-name = "Saddlebag Island"
-gh_issue_id = 83
-link = "https://parks.state.wa.us/576/Saddlebag-Island"
-lat = 48.5355
-lon = -122.5569
-water_only = true
-visited = true
-
-[[extra.parks]]
 name = "Saint Edward"
 gh_issue_id = 90
 link = "https://parks.state.wa.us/577/Saint-Edward"
