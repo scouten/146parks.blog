@@ -28,7 +28,6 @@
   <div id="map"></div>
   {% if page.extra.markers %}
   <script src="/common/add-gps-markers.js"></script>
-  <script src="https://unpkg.com/@googlemaps/markerclustererplus/dist/index.min.js"></script>
   <script src="{{ page.extra.markers }}"></script>
   {% endif %}
   <script>
@@ -52,11 +51,6 @@
       {% endif %}
       {% if page.extra.markers %}
       markers = addGpxMarkers(map);
-      const markerCluster = new MarkerClusterer(map, markers,
-        {
-          imagePath: "{{ config.base_url | safe }}/common/m",
-          maxZoom: 20,
-        } );
       {% else %}
       const marker = new google.maps.Marker({
         position: { lat: {{ page.extra.lat }}, lng: {{ page.extra.lon }} },
