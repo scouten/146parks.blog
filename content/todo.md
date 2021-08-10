@@ -358,15 +358,6 @@ lat = 48.6778
 lon = -122.8316
 
 [[extra.parks]]
-name = "Mount Pilchuck"
-gh_issue_id = 53
-link = "https://parks.state.wa.us/548/Mount-Pilchuck"
-lat = 48.0579
-lon = -121.7977
-summer_only = true
-visited = true
-
-[[extra.parks]]
 name = "Mount Saint Helens"
 gh_issue_id = 138
 link = "https://parks.state.wa.us/245/Mount-St-Helens"
