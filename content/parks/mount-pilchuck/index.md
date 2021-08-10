@@ -20,7 +20,7 @@ Miles of boulders to climb over? Miles of man-eating potholes to drive through? 
 
 Mount Pilchuck is a difficult hike (just over five miles round trip, 2300’ elevation gain), but oh so worth it.
 
-**A word to the wise:** This often confuses people, but the parking lot for this hike is on National Forest property, which means you need a National Forest parking pass (or an intergovernmental pass such as the _America the Beuatiful_ pass) to park here, **not** the state Discover Pass.
+**A word to the wise:** This often confuses people, but the parking lot for this hike is on National Forest property, which means you need a National Forest parking pass (or an intergovernmental pass such as the _America the Beautiful_ pass) to park here, **not** the state Discover Pass.
 
 The actual entrance to the park is about a quarter of a mile's hike past the parking lot.
 
