@@ -342,15 +342,6 @@ lon = -122.8417
 water_only = true
 
 [[extra.parks]]
-name = "McMicken Island"
-gh_issue_id = 109
-link = "https://parks.state.wa.us/545/McMicken-Island"
-lat = 47.2480
-lon = -122.8629
-water_only = true
-visited = true
-
-[[extra.parks]]
 name = "Moran"
 gh_issue_id = 81
 link = "https://parks.state.wa.us/547/Moran"
