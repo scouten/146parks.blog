@@ -153,15 +153,6 @@ lat = 45.6769
 lon = -121.2353
 
 [[extra.parks]]
-name = "Eagle Island"
-gh_issue_id = 121
-link = "https://parks.state.wa.us/501/Eagle-Island"
-lat = 47.1877
-lon = -122.6963
-water_only = true
-visited = true
-
-[[extra.parks]]
 name = "Federation Forest"
 gh_issue_id = 99
 link = "https://parks.state.wa.us/502/Federation-Forest"
