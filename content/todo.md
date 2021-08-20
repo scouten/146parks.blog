@@ -488,13 +488,6 @@ lat = 47.7326
 lon = -122.2582
 
 [[extra.parks]]
-name = "Saltwater"
-gh_issue_id = 101
-link = "https://parks.state.wa.us/578/Saltwater"
-lat = 47.3741
-lon = -122.3238
-
-[[extra.parks]]
 name = "Scenic Beach"
 gh_issue_id = 115
 link = "https://parks.state.wa.us/579/Scenic-Beach"
