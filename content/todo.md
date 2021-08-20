@@ -215,6 +215,7 @@ gh_issue_id = 58
 link = "https://parks.state.wa.us/515/Grayland-Beach"
 lat = 46.7919
 lon = -124.0933
+visited = true
 
 [[extra.parks]]
 name = "Hoko River"
@@ -609,6 +610,7 @@ gh_issue_id = 65
 link = "https://parks.state.wa.us/292/Twin-Harbors"
 lat = 46.8561
 lon = -124.1105
+visited = true
 
 [[extra.parks]]
 name = "Wallace Falls"
