@@ -601,14 +601,6 @@ lon = -120.2597
 summer_only = true
 
 [[extra.parks]]
-name = "Twin Harbors"
-gh_issue_id = 65
-link = "https://parks.state.wa.us/292/Twin-Harbors"
-lat = 46.8561
-lon = -124.1105
-visited = true
-
-[[extra.parks]]
 name = "Wallace Falls"
 gh_issue_id = 54
 link = "https://parks.state.wa.us/289/Wallace-Falls"
