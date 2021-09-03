@@ -45,6 +45,7 @@ gh_issue_id = 31
 link = "https://parks.state.wa.us/483/Cama-Beach"
 lat = 48.1422
 lon = -122.5150
+visited = true
 
 [[extra.parks]]
 name = "Camano Island"
@@ -52,6 +53,7 @@ gh_issue_id = 32
 link = "https://parks.state.wa.us/484/Camano-Island"
 lat = 48.1215
 lon = -122.4872
+visited = true
 
 [[extra.parks]]
 name = "Camp Wooten"
@@ -383,6 +385,7 @@ gh_issue_id = 95
 link = "https://parks.state.wa.us/555/Olallie"
 lat = 47.4349
 lon = -121.7105
+visited = true
 
 [[extra.parks]]
 name = "Pacific Beach"
