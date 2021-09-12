@@ -21,7 +21,7 @@ local function canShowLocation(photo)
 
 	if photo:getRawMetadata('gps') then
 		local location = photo:getFormattedMetadata('location')
-		if location and not (location:match("^Home") or location:match("^Willow Fen") or location:match("Residence")) then
+		if location and not (location:match("^Home") or location:match("Residence")) then
 			return true	
 		end
 	end
@@ -183,24 +183,41 @@ function(context)
 			break
 		end
 	end
+
 	index:write("+++\n")
 	index:write("\n")
 	index:write("(witty commentary goes here)\n")
 	index:write("\n")
-	index:write("<!-- more -->")
+	index:write("<!-- more -->\n")
 	index:write("\n")
 
 	for _, photo in ipairs(catalog.targetPhotos) do
-		if photo:getRawMetadata('isVideo') then
-			local pid = photo.path
-			pid = pid:gsub("^.*/", "")
-			pid = pid:gsub("%..*$", "")
-			index:write("{{ es_vimeo(id=\"" .. pid .. "\" vmid=\"zzzzzzz\") }}\n")
-		elseif not photo:getRawMetadata('isVirtualCopy') then
-			local pid = photo.path
-			pid = pid:gsub("^.*/", "")
-			pid = pid:gsub("%..*$", "")
-			index:write("{{ es_image(id=\"" .. pid .. "\") }}\n")
+		if not photo:getRawMetadata('isVirtualCopy') then
+			local title = photo:getFormattedMetadata('title')
+			if title then
+				title = ", title = \"" .. title .. "\""
+			else
+				title = ""
+			end
+
+			local caption = photo:getFormattedMetadata('caption')
+			if caption then
+				caption = ", caption = \"" .. caption:gsub(", %d%d%d%d$", "") .. "\""
+			else
+				caption = ""
+			end
+
+			if photo:getRawMetadata('isVideo') then
+				local pid = photo.path
+				pid = pid:gsub("^.*/", "")
+				pid = pid:gsub("%..*$", "")
+				index:write("{{ es_vimeo(id=\"" .. pid .. "\" vmid=\"zzzzzzz\"" .. title .. caption .. ") }}\n")
+			else
+				local pid = photo.path
+				pid = pid:gsub("^.*/", "")
+				pid = pid:gsub("%..*$", "")
+				index:write("{{ es_image(id=\"" .. pid .. "\"" .. title .. caption .. ") }}\n")
+			end
 		end
 	end
 	
