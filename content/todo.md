@@ -212,14 +212,6 @@ lat = 45.8389
 lon = -120.8154
 
 [[extra.parks]]
-name = "Grayland Beach"
-gh_issue_id = 58
-link = "https://parks.state.wa.us/515/Grayland-Beach"
-lat = 46.7919
-lon = -124.0933
-visited = true
-
-[[extra.parks]]
 name = "Hoko River"
 link = "https://parks.state.wa.us/321/Hoko-River"
 lat = 48.2791
