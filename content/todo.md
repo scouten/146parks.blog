@@ -372,14 +372,6 @@ lat = 47.0333
 lon = -124.1719
 
 [[extra.parks]]
-name = "Olallie"
-gh_issue_id = 95
-link = "https://parks.state.wa.us/555/Olallie"
-lat = 47.4349
-lon = -121.7105
-visited = true
-
-[[extra.parks]]
 name = "Pacific Beach"
 gh_issue_id = 69
 link = "https://parks.state.wa.us/557/Pacific-Beach"
