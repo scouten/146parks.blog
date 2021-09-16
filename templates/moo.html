@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="welcome">
+  {{ page.content | safe }}
+</div>
+
+<!-- add a coming soon entry -->
+
+{% set parks = get_section(path="_index.md") %}
+{% for page in parks.pages | reverse %}
+  <div class="moo-entry">
+    <div class="cover">
+      <img src="{{ page.permalink | safe }}/cover-{{ page.extra.cover | safe}}.jpg" width="1098">
+    </div>
+    <div class="sequence-assembly">
+      <img src="/common/wa-shape.png" alt="" width="172" height="112">
+      <div class="sequence">{% if page.extra.seq %}{{ page.extra.seq }}{% endif %}</div>
+    </div>
+    <div class="park-link">&nbsp;</div>
+    <div class="title">
+      <span class="name">{{ page.title }}</span>
+      <span class="designator">{% if page.extra.designator %}{{ page.extra.designator }}{% else %}State Park{% endif %}</span>
+    </div>
+  </div>
+{% endfor %}
+{% endblock content %}
