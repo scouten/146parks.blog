@@ -1,0 +1,75 @@
+.moo-entry {
+    background: blue;
+    // background: #352d28;
+    position: relative;
+    width: 1138px !important;
+    height: 688px !important;
+    margin: 2.5em auto;
+    border: 20px solid white;
+
+    .sequence-assembly {
+        flex: none;
+        position: absolute;
+        z-index: 1200;
+        width: 172px;
+        height: 112px;
+        bottom: 36px;
+        left: 30px;
+        overflow: hidden;
+        // background-color: red;
+
+        .sequence {
+            position: absolute;
+            bottom: 9px;
+            right: 0px;
+            text-align: center;
+    
+            width: 122px;
+            height: 112px;
+            color: $dark-accent-background;
+            font-family: interstate, sans-serif;
+            font-size: 315%;
+            font-weight: 700;
+        }
+    }
+
+    .park-link {
+        flex: none;
+        position: absolute;
+        z-index: 1000;
+        bottom: 0;
+        width: 100% !important;
+        padding: .5em;
+        height: 180px !important;
+        font-size: 300%;
+        background: linear-gradient( rgba(52, 45, 41, 0), 10%, rgba(52, 45, 41, .3), 40%, rgba(52, 45, 41, .9), 72%,  rgba(52, 45, 41, 1), 100%, rgba(52, 45, 41, 1));
+    
+    }
+
+    .title {
+        flex: none;
+        position: absolute;
+        z-index: 2000;
+        bottom: 0;
+        margin-left: 220px;
+        margin-bottom: 59px;
+        color: white;
+
+        .name { font-size: 48px; }
+
+        .designator {
+            margin-left: .15em;
+            font-size: 36px;
+            font-weight: 400;
+            opacity: 60%;
+        }
+    }
+
+    .park-map {
+        flex: none;
+        position: absolute;
+        z-index: 1100;
+        bottom: 30px;
+        left: 30px;
+    }
+}
