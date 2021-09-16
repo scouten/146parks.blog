@@ -42,12 +42,12 @@ From the south side of the island, you can see Hope Island State Park, which I v
 {{ es_image(id="es-4221-102p") }}
 {{ es_image(id="es-4221-136") }}
 
-Skagit Island is close to [Kukutali Preserve](/parks/kukutali), which I had visited earlier in the day. It doesn't look like it's feasible to kayak from Kukutali to these islands. (At a minimum, it would involve a long portage from the parking lot to the channel and I wasn't prepared for that.) But, there's a nice view back to Kukutali from the east side of Skagit Island.
+Skagit Island is close to [Kukutali Preserve](/kukutali), which I had visited earlier in the day. It doesn't look like it's feasible to kayak from Kukutali to these islands. (At a minimum, it would involve a long portage from the parking lot to the channel and I wasn't prepared for that.) But, there's a nice view back to Kukutali from the east side of Skagit Island.
 
 {{ es_image(id="es-4221-178") }}
 {{ es_image(id="es-4221-185") }}
 
-One last look back at Skagit Island as I paddled on to the [next destination](/parks/hope-island-skagit/).
+One last look back at Skagit Island as I paddled on to the [next destination](/hope-island-skagit/).
 
 {{ es_image(id="es-4221-197p") }}
 

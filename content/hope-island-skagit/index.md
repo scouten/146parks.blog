@@ -19,7 +19,7 @@ Hope Island State Park is a well-traveled marine state park. When I visited, the
 
 <!-- more -->
 
-I approached from the north, having just visited [Skagit Island State Park](/parks/skagit-island/). Here is the first clear view of Hope Island:
+I approached from the north, having just visited [Skagit Island State Park](/skagit-island/). Here is the first clear view of Hope Island:
 
 {{ es_image(id="es-4221-200") }}
 
@@ -43,7 +43,7 @@ I eventually circled around to the north side of the island and found the landin
 {{ es_image(id="es-4221-276") }}
 {{ es_image(id="es-4221-278") }}
 
-_About the parenthesis on the title:_ There is another state park named Hope Island in the southern Puget Sound that I [visited earlier this year](/parks/hope-island-mason/).
+_About the parenthesis on the title:_ There is another state park named Hope Island in the southern Puget Sound that I [visited earlier this year](/hope-island-mason/).
 
 For more information:
 
