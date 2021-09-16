@@ -7,7 +7,7 @@ local LrFunctionContext = import 'LrFunctionContext'
 
 local ymdPattern = "^(%d+)%-(%d+)%-(%d+)T"
 
-local prefix = "/Users/scouten/Projects/146parks.blog/content/parks"
+local prefix = "/Users/scouten/Projects/146parks.blog/content"
 
 local function sitePath(title)
 	title = title:lower():gsub("\’", ""):gsub("%W+", "-"):gsub("the%-", ""):gsub("-$", "")
