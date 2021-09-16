@@ -13,7 +13,7 @@ track = "2020-11-15-griffiths-priday.kml"
 cover = "es-4149-043"
 +++
 
-I so enjoyed my [previous beach park visit](/parks/leadbetter-point) that I came back for another on the next weekend opportunity. Griffiths-Priday State Park offers an opportunity to step back and let Mother Nature bathe you in sound and sights.
+I so enjoyed my [previous beach park visit](/leadbetter-point) that I came back for another on the next weekend opportunity. Griffiths-Priday State Park offers an opportunity to step back and let Mother Nature bathe you in sound and sights.
 
 <!-- more -->
 
