@@ -2,7 +2,7 @@
 
 {% block content %}
 
-{% set parks = get_section(path="parks/_index.md") %}
+{% set parks = get_section(path="_index.md") %}
 {% set n_parks = parks | get(key="pages") | length %}
 
 <div class="map-page">

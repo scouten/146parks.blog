@@ -1,6 +1,8 @@
 +++
-title = ""
+title = "Parks I’ve Visited"
+sort_by = "weight"
 template = "parks-list.html"
+page_template = "parks-page.html"
 +++
 
 **Hi, I’m Eric.** I'm a photographer and software developer living near Seattle, Washington.

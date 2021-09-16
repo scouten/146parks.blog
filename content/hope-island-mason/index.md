@@ -39,7 +39,7 @@ I had hoped to hike a circle around the full island, but we noticed another rain
 
 {{ es_image(id="es-4168-062", caption="Escaping back to Arcadia in the now much-choppier waters. Thankfully the wind was blowing us in more or less the right direction!") }}
 
-_About the parenthesis on the title:_ There is another state park named Hope Island that I will be exploring later. The other one is in the north side of Puget Sound between Deception Pass and La Conner. _(Update: I've now [been to that one, too](/parks/hope-island-skagit/)!)_
+_About the parenthesis on the title:_ There is another state park named Hope Island that I will be exploring later. The other one is in the north side of Puget Sound between Deception Pass and La Conner. _(Update: I've now [been to that one, too](/hope-island-skagit/)!)_
 
 For more information:
 

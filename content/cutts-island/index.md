@@ -21,7 +21,7 @@ I visited Cutts Island on Memorial Day 2021 as summer weather was just beginning
 
 I paddled out from the Horsehead Bay landing, which was busy with all manner of boats, jet skis, and fellow kayakers. From Horsehead Bay, it is about 2.5 miles over the water to a landing on the north side of the island. There's a bit of a tidal current in the bay; otherwise, the main challenge is the wakes left by motorboats. On this holiday, that was a very frequent obstacle.
 
-On the way to this park, I paddled past [Kopachuck State Park](/parks/kopachuck/), which was also very popular:
+On the way to this park, I paddled past [Kopachuck State Park](/kopachuck/), which was also very popular:
 
 {{ es_image(id="es-4219-102") }}
 

@@ -6,7 +6,7 @@
 </div>
 
 <div class="parks-list">
-{% set parks = get_section(path="parks/_index.md") %}
+{% set parks = get_section(path="_index.md") %}
 {% for page in parks.pages | reverse %}
   <div class="park-entry">
     <div class="park-link">

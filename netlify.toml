@@ -3,7 +3,7 @@ publish = "public"
 command = "zola build"
 
 [build.environment]
-ZOLA_VERSION = "0.14.0"
+ZOLA_VERSION = "0.14.1"
 
 # The magic for deploying previews of branches.
 # We need to override the base url with whatever url Netlify assigns to our
@@ -17,13 +17,13 @@ command = "zola build --base-url $DEPLOY_PRIME_URL"
 # want to have a separate welcome page. We'll see.
 
 [[redirects]]
-  from = "/parks"
+  from = "/parks/index.html"
   to = "/"
   status = 302
   force = true
 
 [[redirects]]
-  from = "/parks/index.html"
-  to = "/"
+  from = "/parks/*"
+  to = "/:splat"
   status = 302
   force = true
