@@ -6,7 +6,6 @@
   {{ page.content | safe }}
 </div>
 
-<!-- add a coming soon entry -->
 
 {% set parks = get_section(path="_index.md") %}
 {% for page in parks.pages | reverse %}
@@ -25,4 +24,33 @@
     </div>
   </div>
 {% endfor %}
+
+<div class="moo-entry" style="background-color: #998579">
+  <div class="sequence-assembly">
+    <img src="/common/wa-shape.png" alt="" width="172" height="112">
+  </div>
+  <div class="extra-text">
+    <p>Thanks for your interest in the 146 Parks project!</p>
+    <p>Please visit <b>146parks.blog</b> soon. I usually post parks two to three weeks after visiting them.</p>
+  </div>
+  <div class="park-link">&nbsp;</div>
+  <div class="title">
+    <span class="name">Nice to Meet You!</span>
+  </div>
+</div>
+
+<div class="moo-entry" style="background-color: #998579">
+  <div class="sequence-assembly">
+    <img src="/common/wa-shape.png" alt="" width="172" height="112">
+  </div>
+  <div class="extra-text">
+    <p>Hi! I’m out to visit all of Washington’s state parks. I visited your park today!</p>
+    <p>If you’re curious, visit <b>146parks.blog</b> soon.<br/>I usually post new parks two to three weeks after visiting them.</p>
+  </div>
+  <div class="park-link">&nbsp;</div>
+  <div class="title">
+    <span class="name">Hello, I Enjoyed Your Park!</span>
+  </div>
+</div>
+
 {% endblock content %}
