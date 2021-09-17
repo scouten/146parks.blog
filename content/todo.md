@@ -40,14 +40,6 @@ lat = 48.0152
 lon = -119.6071
 
 [[extra.parks]]
-name = "Cama Beach"
-gh_issue_id = 31
-link = "https://parks.state.wa.us/483/Cama-Beach"
-lat = 48.1422
-lon = -122.5150
-visited = true
-
-[[extra.parks]]
 name = "Camano Island"
 gh_issue_id = 32
 link = "https://parks.state.wa.us/484/Camano-Island"
