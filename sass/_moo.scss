@@ -1,6 +1,5 @@
 .moo-entry {
-    background: blue;
-    // background: #352d28;
+    background: #352d28;
     position: relative;
     width: 1138px !important;
     height: 688px !important;
@@ -63,6 +62,17 @@
             font-weight: 400;
             opacity: 60%;
         }
+    }
+
+    .extra-text {
+        flex: none;
+        position: absolute;
+        z-index: 1000;
+        top: 20px;
+        left: 220px;
+        color: black;
+        font-family: interstate, sans-serif;
+        font-size: 150%;
     }
 
     .park-map {
