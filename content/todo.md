@@ -180,6 +180,7 @@ gh_issue_id = 28
 link = "https://parks.state.wa.us/510/Fort-Townsend"
 lat = 48.0747
 lon = -122.7896
+visited = true
 
 [[extra.parks]]
 name = "Fort Worden"
@@ -214,6 +215,7 @@ gh_issue_id = 116
 link = "https://parks.state.wa.us/520/Illahee"
 lat = 47.5986
 lon = -122.5946
+visited = true
 
 [[extra.parks]]
 name = "Jarrell Cove"
@@ -436,6 +438,7 @@ gh_issue_id = 112
 link = "https://parks.state.wa.us/569/Potlatch"
 lat = 47.3615
 lon = -123.1575
+visited = true
 
 [[extra.parks]]
 name = "Riverside / Nine Mile Rec Area"
@@ -457,6 +460,7 @@ gh_issue_id = 90
 link = "https://parks.state.wa.us/577/Saint-Edward"
 lat = 47.7326
 lon = -122.2582
+visited = true
 
 [[extra.parks]]
 name = "Scenic Beach"
