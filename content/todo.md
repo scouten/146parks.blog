@@ -40,14 +40,6 @@ lat = 48.0152
 lon = -119.6071
 
 [[extra.parks]]
-name = "Camano Island"
-gh_issue_id = 32
-link = "https://parks.state.wa.us/484/Camano-Island"
-lat = 48.1215
-lon = -122.4872
-visited = true
-
-[[extra.parks]]
 name = "Camp Wooten"
 gh_issue_id = 127
 link = "https://parks.state.wa.us/368/Camp-Wooten"
