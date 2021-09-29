@@ -34,4 +34,4 @@ My friend and I happened upon a wedding in progress. What a wonderful venue for 
 
 For more information:
 
-* [State Parks web site](https://parks.state.wa.us/404/LostLake)
+* [State Parks web site](https://parks.state.wa.us/484/Camano-Island)
