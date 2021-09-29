@@ -433,14 +433,6 @@ lon = -123.1681
 water_only = true
 
 [[extra.parks]]
-name = "Potlatch"
-gh_issue_id = 112
-link = "https://parks.state.wa.us/569/Potlatch"
-lat = 47.3615
-lon = -123.1575
-visited = true
-
-[[extra.parks]]
 name = "Riverside / Nine Mile Rec Area"
 gh_issue_id = 37
 link = "https://parks.state.wa.us/573/Riverside"
