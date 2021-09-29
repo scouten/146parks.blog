@@ -27,7 +27,7 @@ Potlatch offers camping and public access to the water. I happened to arrive at 
 {{ es_image(id="es-4253-068") }}
 {{ es_image(id="es-4253-070") }}
 
-{{ es_vimeo(id="es-4253-072" vmid="617542918", caption = "Waves ripple through the low-lying grasses as tide rolls in.") }}
+{{ es_vimeo(id="es-4253-072" vmid="617542918", caption = "Waves ripple through the low-lying grasses as the tide rolls in.") }}
 
 {{ es_image(id="es-4253-075") }}
 {{ es_image(id="es-4253-077") }}
