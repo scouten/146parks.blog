@@ -43,5 +43,5 @@ There are also a few miles of hiking trails in the hills above the park, but tho
 
 For more information:
 
-* [State Parks web site](https://parks.state.wa.us/404/LostLake)
+* [State Parks web site](https://www.parks.state.wa.us/483/Cama-Beach)
 * [Seattle Times: Launching a new era at Cama Beach State Park](https://www.seattletimes.com/outdoors/launching-a-new-era-at-cama-beach-state-park/)

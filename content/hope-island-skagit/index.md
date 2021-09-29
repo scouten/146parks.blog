@@ -47,4 +47,4 @@ _About the parenthesis on the title:_ There is another state park named Hope Isl
 
 For more information:
 
-* [State Parks web site](https://parks.state.wa.us/404/LostLake)
+* [State Parks web site](https://www.parks.state.wa.us/518/Hope-Island---Skagit)

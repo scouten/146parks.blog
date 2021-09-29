@@ -63,4 +63,4 @@ Because I was visiting the park at the edges of the day (or maybe because of COV
 
 For more information:
 
-* [State Parks web site](https://parks.state.wa.us/404/LostLake)
+* [State Parks web site](https://www.parks.state.wa.us/556/Olmstead-Place)

@@ -38,4 +38,4 @@ What you _can_ do is hike through the forest _around_ the lake, and that is what
 
 For more information:
 
-* [State Parks web site](https://parks.state.wa.us/404/LostLake)
+* [State Parks web site](https://www.parks.state.wa.us/240/Anderson-Lake)
