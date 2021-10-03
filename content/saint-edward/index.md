@@ -17,7 +17,7 @@ For decades, Saint Edward was the Northwest's preeminent Catholic seminary. It c
 
 <!-- more -->
 
-The former seminary building has recently reopened as a hotel with restaurants and bars. (Sadly, I was short on time when I visited this park so I did not step inside, but the web site makes it look charming.)
+The former seminary building has recently reopened as a hotel with restaurants and bars. (Sadly, I was short on time when I visited this park so I did not step inside, but the [web site](https://www.thelodgeatstedward.com) makes it look charming.)
 
 From the main parking lot, there are several hiking trails that can lead you down the 300-foot slope to Lake Washington.
 
