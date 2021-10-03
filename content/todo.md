@@ -447,14 +447,6 @@ lat = 48.6020
 lon = -122.8285
 
 [[extra.parks]]
-name = "Saint Edward"
-gh_issue_id = 90
-link = "https://parks.state.wa.us/577/Saint-Edward"
-lat = 47.7326
-lon = -122.2582
-visited = true
-
-[[extra.parks]]
 name = "Scenic Beach"
 gh_issue_id = 115
 link = "https://parks.state.wa.us/579/Scenic-Beach"
