@@ -203,14 +203,6 @@ lat = 46.5603
 lon = -122.5324
 
 [[extra.parks]]
-name = "Illahee"
-gh_issue_id = 116
-link = "https://parks.state.wa.us/520/Illahee"
-lat = 47.5986
-lon = -122.5946
-visited = true
-
-[[extra.parks]]
 name = "Jarrell Cove"
 gh_issue_id = 110
 link = "https://parks.state.wa.us/545/McMicken-Island"
