@@ -16,6 +16,7 @@ gh_issue_id = 113
 link = "https://parks.state.wa.us/475/Belfair"
 lat = 47.4291
 lon = -122.8764
+visited = true
 
 [[extra.parks]]
 name = "Birch Bay"
@@ -524,6 +525,7 @@ gh_issue_id = 55
 link = "https://parks.state.wa.us/296/Triton-Cove"
 lat = 47.6089
 lon = -122.9853
+visited = true
 
 [[extra.parks]]
 name = "Turn Island"
@@ -539,6 +541,7 @@ gh_issue_id = 111
 link = "https://parks.state.wa.us/294/Twanoh"
 lat = 47.3783
 lon = -122.9735
+visited = true
 
 [[extra.parks]]
 name = "Twenty-Five Mile Creek"
