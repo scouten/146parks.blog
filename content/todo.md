@@ -175,14 +175,6 @@ lat = 48.2166
 lon = -122.7608
 
 [[extra.parks]]
-name = "Fort Townsend"
-gh_issue_id = 28
-link = "https://parks.state.wa.us/510/Fort-Townsend"
-lat = 48.0747
-lon = -122.7896
-visited = true
-
-[[extra.parks]]
 name = "Fort Worden"
 gh_issue_id = 29
 link = "https://parks.state.wa.us/511/Fort-Worden"
