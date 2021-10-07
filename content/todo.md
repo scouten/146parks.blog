@@ -520,14 +520,6 @@ lon = -122.9725
 water_only = true
 
 [[extra.parks]]
-name = "Twanoh"
-gh_issue_id = 111
-link = "https://parks.state.wa.us/294/Twanoh"
-lat = 47.3783
-lon = -122.9735
-visited = true
-
-[[extra.parks]]
 name = "Twenty-Five Mile Creek"
 gh_issue_id = 12
 link = "https://parks.state.wa.us/293/Twenty-Five-Mile-Creek"
