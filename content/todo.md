@@ -512,14 +512,6 @@ lat = 47.5909
 lon = -119.3850
 
 [[extra.parks]]
-name = "Triton Cove"
-gh_issue_id = 55
-link = "https://parks.state.wa.us/296/Triton-Cove"
-lat = 47.6089
-lon = -122.9853
-visited = true
-
-[[extra.parks]]
 name = "Turn Island"
 gh_issue_id = 73
 link = "https://parks.state.wa.us/295/Turn-Island"
