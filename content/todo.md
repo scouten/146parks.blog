@@ -11,14 +11,6 @@ lon = -119.9354
 summer_only = true
 
 [[extra.parks]]
-name = "Belfair"
-gh_issue_id = 113
-link = "https://parks.state.wa.us/475/Belfair"
-lat = 47.4291
-lon = -122.8764
-visited = true
-
-[[extra.parks]]
 name = "Birch Bay"
 gh_issue_id = 46
 link = "https://parks.state.wa.us/170/Birch-Bay"
