@@ -431,13 +431,6 @@ lat = 47.6493
 lon = -122.8457
 
 [[extra.parks]]
-name = "Schafer"
-gh_issue_id = 133
-link = "https://parks.state.wa.us/580/Schafer"
-lat = 47.0980
-lon = -123.4665
-
-[[extra.parks]]
 name = "Seaquest"
 gh_issue_id = 137
 link = "https://parks.state.wa.us/581/Seaquest"
