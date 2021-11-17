@@ -200,6 +200,7 @@ gh_issue_id = 110
 link = "https://parks.state.wa.us/545/McMicken-Island"
 lat = 47.2829
 lon = -122.8850
+visited = true
 
 [[extra.parks]]
 name = "James Island"
@@ -429,6 +430,7 @@ gh_issue_id = 115
 link = "https://parks.state.wa.us/579/Scenic-Beach"
 lat = 47.6493
 lon = -122.8457
+visited = true
 
 [[extra.parks]]
 name = "Seaquest"
