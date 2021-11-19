@@ -195,14 +195,6 @@ lat = 46.5603
 lon = -122.5324
 
 [[extra.parks]]
-name = "Jarrell Cove"
-gh_issue_id = 110
-link = "https://parks.state.wa.us/545/McMicken-Island"
-lat = 47.2829
-lon = -122.8850
-visited = true
-
-[[extra.parks]]
 name = "James Island"
 gh_issue_id = 70
 link = "https://parks.state.wa.us/522/James-Island"
