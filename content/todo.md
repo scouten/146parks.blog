@@ -16,6 +16,7 @@ gh_issue_id = 46
 link = "https://parks.state.wa.us/170/Birch-Bay"
 lat = 48.9038
 lon = -122.7650
+closed = true
 
 [[extra.parks]]
 name = "Blind Island"
@@ -378,6 +379,7 @@ gh_issue_id = 48
 link = "https://parks.state.wa.us/562/Peace-Arch"
 lat = 48.9999
 lon = -122.7564
+visited = true
 
 [[extra.parks]]
 name = "Peshastin Pinnacles"
