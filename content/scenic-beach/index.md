@@ -9,7 +9,7 @@ near = "west of Seabeck"
 lat = 47.647
 lon = -122.845
 markers = "markers.js"
-track = "trackxxx.kml"
+track = "track.kml"
 bounds = {sw = [47.637, -122.855], ne = [47.657, -122.835]}
 cover = "es-4269-119p"
 +++
