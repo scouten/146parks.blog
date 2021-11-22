@@ -420,14 +420,6 @@ lat = 48.6020
 lon = -122.8285
 
 [[extra.parks]]
-name = "Scenic Beach"
-gh_issue_id = 115
-link = "https://parks.state.wa.us/579/Scenic-Beach"
-lat = 47.6493
-lon = -122.8457
-visited = true
-
-[[extra.parks]]
 name = "Seaquest"
 gh_issue_id = 137
 link = "https://parks.state.wa.us/581/Seaquest"
