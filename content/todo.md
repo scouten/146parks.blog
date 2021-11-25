@@ -390,14 +390,6 @@ lon = -120.5199
 summer_only = true
 
 [[extra.parks]]
-name = "Pleasant Harbor"
-gh_issue_id = 114
-link = "https://parks.state.wa.us/566/Pleasant-Harbor"
-lat = 47.6647
-lon = -122.9135
-visited = true
-
-[[extra.parks]]
 name = "Posey Island"
 gh_issue_id = 75
 link = "https://parks.state.wa.us/567/Posey-Island"
