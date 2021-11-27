@@ -1,0 +1,13 @@
+function addGpxMarkers(map) {
+    return [
+        addGpxMarker(map, "es-4273-020", 49.000892, -122.751572),
+        addGpxMarker(map, "es-4273-022", 49.001544, -122.753394),
+        addGpxMarker(map, "es-4273-023", 49.002044, -122.753119),
+        addGpxMarker(map, "es-4273-026", 49.001614, -122.756347),
+        addGpxMarker(map, "es-4273-029", 49.001883, -122.756356),
+        addGpxMarker(map, "es-4273-030", 49.001789, -122.756050),
+        addGpxMarker(map, "es-4273-033", 49.001667, -122.755583),
+        addGpxMarker(map, "es-4273-034", 49.001514, -122.754822),
+        addGpxMarker(map, "es-4273-035", 49.001642, -122.754417),
+    ]
+}

@@ -374,14 +374,6 @@ lat = 48.4878
 lon = -120.1469
 
 [[extra.parks]]
-name = "Peace Arch"
-gh_issue_id = 48
-link = "https://parks.state.wa.us/562/Peace-Arch"
-lat = 48.9999
-lon = -122.7564
-visited = true
-
-[[extra.parks]]
 name = "Peshastin Pinnacles"
 gh_issue_id = 18
 link = "https://parks.state.wa.us/565/Peshastin-Pinnacles"
