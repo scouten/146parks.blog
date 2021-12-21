@@ -220,13 +220,6 @@ lon = -122.7143
 summer_only = true
 
 [[extra.parks]]
-name = "Kanaskat-Palmer"
-gh_issue_id = 96
-link = "https://parks.state.wa.us/527/Kanaskat-Palmer"
-lat = 47.3170
-lon = -121.9062
-
-[[extra.parks]]
 name = "Klickitat Trail"
 gh_issue_id = 144
 link = "https://parks.state.wa.us/869/Klickitat-Trail"
