@@ -301,13 +301,6 @@ lon = -117.1028
 winter_rec = true
 
 [[extra.parks]]
-name = "Nolte"
-gh_issue_id = 97
-link = "https://parks.state.wa.us/552/Nolte"
-lat = 47.2698
-lon = -121.9414
-
-[[extra.parks]]
 name = "Obstruction Pass"
 gh_issue_id = 82
 link = "https://parks.state.wa.us/553/Obstruction-Pass"
