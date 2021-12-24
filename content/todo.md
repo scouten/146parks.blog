@@ -104,13 +104,6 @@ lon = -120.2055
 summer_only = true
 
 [[extra.parks]]
-name = "Dash Point"
-gh_issue_id = 86
-link = "https://parks.state.wa.us/496/Dash-Point"
-lat = 47.3197
-lon = -122.4133
-
-[[extra.parks]]
 name = "Deception Pass"
 gh_issue_id = 43
 link = "https://parks.state.wa.us/497/Deception-Pass"
