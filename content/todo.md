@@ -301,13 +301,6 @@ lat = 48.6020
 lon = -122.8285
 
 [[extra.parks]]
-name = "Ocean City"
-gh_issue_id = 67
-link = "https://parks.state.wa.us/554/Ocean-City"
-lat = 47.0333
-lon = -124.1719
-
-[[extra.parks]]
 name = "Pacific Beach"
 gh_issue_id = 69
 link = "https://parks.state.wa.us/557/Pacific-Beach"
