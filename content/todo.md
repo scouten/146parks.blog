@@ -301,13 +301,6 @@ lat = 48.6020
 lon = -122.8285
 
 [[extra.parks]]
-name = "Pacific Beach"
-gh_issue_id = 69
-link = "https://parks.state.wa.us/557/Pacific-Beach"
-lat = 47.2053
-lon = -124.2034
-
-[[extra.parks]]
 name = "Pacific Pines"
 gh_issue_id = 62
 link = "https://parks.state.wa.us/558/Pacific-Pines"
