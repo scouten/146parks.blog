@@ -30,7 +30,7 @@ Nonetheless, it was fun to see that this is a place that so many people could en
 {{ es_image(id="es-4304-040") }}
 {{ es_image(id="es-4304-043") }}
 {{ es_image(id="es-4304-048") }}
-{{ es_image(id="es-4304-051", caption = "Who is this creature and what does he mean to represent?") }}
+{{ es_image(id="es-4304-051", caption = "Oh, hello, Bigfoot …") }}
 {{ es_image(id="es-4304-056") }}
 {{ es_image(id="es-4304-061") }}
 
