@@ -286,14 +286,6 @@ lon = -122.8223
 closed = true
 
 [[extra.parks]]
-name = "Mount Spokane"
-gh_issue_id = 36
-link = "https://parks.state.wa.us/549/Mount-Spokane"
-lat = 47.9047
-lon = -117.1028
-winter_rec = true
-
-[[extra.parks]]
 name = "Obstruction Pass"
 gh_issue_id = 82
 link = "https://parks.state.wa.us/553/Obstruction-Pass"
