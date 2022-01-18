@@ -247,6 +247,7 @@ gh_issue_id = 122
 link = "https://parks.state.wa.us/539/Lewis-Clark-Trail"
 lat = 46.2889
 lon = -118.0711
+summer_only = true
 
 [[extra.parks]]
 name = "Lincoln Rock"
@@ -254,6 +255,7 @@ gh_issue_id = 21
 link = "https://parks.state.wa.us/541/Lincoln-Rock"
 lat = 47.5410
 lon = -120.2824
+summer_only = true
 
 [[extra.parks]]
 name = "Maryhill"
@@ -352,6 +354,7 @@ gh_issue_id = 37
 link = "https://parks.state.wa.us/573/Riverside"
 lat = 47.7826
 lon = -117.5416
+summer_only = true
 
 [[extra.parks]]
 name = "Obstruction Pass"
@@ -395,6 +398,7 @@ gh_issue_id = 19
 link = "https://parks.state.wa.us/589/Squilchuck"
 lat = 47.3059
 lon = -120.3731
+summer_only = true
 
 [[extra.parks]]
 name = "Steamboat Rock"
@@ -425,6 +429,7 @@ gh_issue_id = 15
 link = "https://parks.state.wa.us/298/Sun-Lakes-Dry-Falls"
 lat = 47.5909
 lon = -119.3850
+summer_only = true
 
 [[extra.parks]]
 name = "Turn Island"
