@@ -14,7 +14,6 @@
     <li>red - not visited yet</li>
     <li>purple - not visited yet, <i>open in summer only</i></li>
     <li>dark blue - not visited yet, <i>water access only</i></li>
-    <li>light blue - not visited yet, <i>best visited in winter</i></li>
     <li>brown - not visited yet, <i>bike trail</i></li>
     <li>green - visited, but not blogged yet</li>
     <li>black - not visited yet, <i>closed for now</i></li>
@@ -92,9 +91,6 @@
         {% set color = "red" -%}
         {% if park.summer_only -%}
           {% set color = "purple" -%}
-        {% endif -%}
-        {% if park.winter_rec -%}
-          {% set color = "#00ccff" -%}
         {% endif -%}
         {% if park.trail -%}
           {% set color = "#663300" -%}
