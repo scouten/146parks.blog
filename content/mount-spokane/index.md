@@ -9,7 +9,6 @@ near = "northeast of Mead"
 lat = 47.904
 lon = -117.112
 markers = "markers.js"
-track = "trackxxx.kml"
 bounds = {sw = [47.887, -117.131], ne = [47.922, -117.094]}
 cover = "es-4304-048"
 +++
