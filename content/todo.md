@@ -311,13 +311,6 @@ lon = -121.4473
 trail = true
 
 [[extra.parks]]
-name = "Paradise Point"
-gh_issue_id = 130
-link = "https://parks.state.wa.us/560/Paradise-Point"
-lat = 45.8672
-lon = -122.7045
-
-[[extra.parks]]
 name = "Patos Island"
 gh_issue_id = 77
 link = "https://parks.state.wa.us/561/Patos-Island"
