@@ -148,13 +148,6 @@ lat = 48.1571
 lon = -122.6767
 
 [[extra.parks]]
-name = "Fort Columbia"
-gh_issue_id = 59
-link = "https://parks.state.wa.us/506/Fort-Columbia"
-lat = 46.2519
-lon = -123.9224
-
-[[extra.parks]]
 name = "Fort Ebey"
 gh_issue_id = 41
 link = "https://parks.state.wa.us/507/Fort-Ebey"
