@@ -49,13 +49,6 @@ lat = 46.2729
 lon = -124.0743
 
 [[extra.parks]]
-name = "Cape Disappointment - Lewis and Clark Interpretive Center"
-gh_issue_id = 60
-link = "https://parks.state.wa.us/187/Cape-Disappointment"
-lat = 46.2785
-lon = -124.0538
-
-[[extra.parks]]
 name = "Clark Island"
 gh_issue_id = 80
 link = "https://parks.state.wa.us/488/Clark-Island"
