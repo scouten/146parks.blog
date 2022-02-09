@@ -112,13 +112,6 @@ lon = -122.7879
 water_only = true
 
 [[extra.parks]]
-name = "Doug’s Beach"
-gh_issue_id = 4
-link = "https://parks.state.wa.us/500/Dougs-Beach"
-lat = 45.6769
-lon = -121.2353
-
-[[extra.parks]]
 name = "Federation Forest"
 gh_issue_id = 99
 link = "https://parks.state.wa.us/502/Federation-Forest"
