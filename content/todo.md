@@ -237,13 +237,6 @@ lon = -120.2824
 summer_only = true
 
 [[extra.parks]]
-name = "Maryhill"
-gh_issue_id = 6
-link = "https://parks.state.wa.us/543/Maryhill"
-lat = 45.6820
-lon = -120.8260
-
-[[extra.parks]]
 name = "Matia Island"
 gh_issue_id = 79
 link = "https://parks.state.wa.us/544/Matia-Island"
