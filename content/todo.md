@@ -148,13 +148,6 @@ lat = 48.1417
 lon = -122.7657
 
 [[extra.parks]]
-name = "Goldendale Observatory"
-gh_issue_id = 7
-link = "https://parks.state.wa.us/512/Goldendale-Observatory"
-lat = 45.8389
-lon = -120.8154
-
-[[extra.parks]]
 name = "Hoko River"
 link = "https://parks.state.wa.us/321/Hoko-River"
 lat = 48.2791
