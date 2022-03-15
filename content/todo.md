@@ -154,13 +154,6 @@ lat = 48.2791
 lon = -124.3693
 
 [[extra.parks]]
-name = "Ike Kinswa"
-gh_issue_id = 136
-link = "https://parks.state.wa.us/519/Ike-Kinswa"
-lat = 46.5603
-lon = -122.5324
-
-[[extra.parks]]
 name = "James Island"
 gh_issue_id = 70
 link = "https://parks.state.wa.us/522/James-Island"
