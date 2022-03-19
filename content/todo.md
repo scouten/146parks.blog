@@ -399,13 +399,6 @@ lon = -120.2597
 summer_only = true
 
 [[extra.parks]]
-name = "Wallace Falls"
-gh_issue_id = 54
-link = "https://parks.state.wa.us/289/Wallace-Falls"
-lat = 47.8750
-lon = -121.6478
-
-[[extra.parks]]
 name = "Wanapum Recreation Area"
 gh_issue_id = 107
 link = "https://parks.state.wa.us/288/Ginkgo-Petrified-Forest"
