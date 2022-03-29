@@ -27,13 +27,6 @@ lon = -122.9371
 water_only = true
 
 [[extra.parks]]
-name = "Bridgeport"
-gh_issue_id = 11
-link = "https://parks.state.wa.us/480/Bridgeport"
-lat = 48.0152
-lon = -119.6071
-
-[[extra.parks]]
 name = "Camp Wooten"
 gh_issue_id = 127
 link = "https://parks.state.wa.us/368/Camp-Wooten"
