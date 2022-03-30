@@ -277,14 +277,6 @@ lat = 48.4878
 lon = -120.1469
 
 [[extra.parks]]
-name = "Peshastin Pinnacles"
-gh_issue_id = 18
-link = "https://parks.state.wa.us/565/Peshastin-Pinnacles"
-lat = 47.5404
-lon = -120.5199
-summer_only = true
-
-[[extra.parks]]
 name = "Posey Island"
 gh_issue_id = 75
 link = "https://parks.state.wa.us/567/Posey-Island"
