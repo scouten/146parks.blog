@@ -322,13 +322,6 @@ lon = -117.5299
 trail = true
 
 [[extra.parks]]
-name = "Squak Mountain"
-gh_issue_id = 93
-link = "https://parks.state.wa.us/588/Squak-Mountain"
-lat = 47.4863
-lon = -122.0516
-
-[[extra.parks]]
 name = "Squilchuck"
 gh_issue_id = 19
 link = "https://parks.state.wa.us/589/Squilchuck"
