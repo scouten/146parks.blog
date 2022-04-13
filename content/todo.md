@@ -11,14 +11,6 @@ lon = -119.9354
 summer_only = true
 
 [[extra.parks]]
-name = "Birch Bay"
-gh_issue_id = 46
-link = "https://parks.state.wa.us/170/Birch-Bay"
-lat = 48.9038
-lon = -122.7650
-closed = true
-
-[[extra.parks]]
 name = "Blind Island"
 gh_issue_id = 85
 link = "https://parks.state.wa.us/477/Blind-Island"
