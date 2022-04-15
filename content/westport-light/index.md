@@ -13,7 +13,7 @@ bounds = {sw = [46.881, -124.133], ne = [46.901, -124.113]}
 cover = "es-4328-031"
 +++
 
-Washington's coast line is often characterized as blustery. When I visited Westport Light State Park recently, that was definitely the case.
+Washington's coastline is often characterized as blustery. When I visited Westport Light State Park recently, that was definitely the case.
 
 <!-- more -->
 
