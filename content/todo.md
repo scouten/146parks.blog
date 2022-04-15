@@ -377,13 +377,6 @@ lon = -119.9896
 summer_only = true
 
 [[extra.parks]]
-name = "Westport Light"
-gh_issue_id = 66
-link = "https://parks.state.wa.us/284/Westport-Light"
-lat = 46.8997
-lon = -124.1305
-
-[[extra.parks]]
 name = "Willapa Hills Trail"
 gh_issue_id = 146
 link = "https://parks.state.wa.us/1023/Willapa-Hills-Trail"
