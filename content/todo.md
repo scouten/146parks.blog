@@ -50,14 +50,6 @@ lon = -118.3075
 trail = true
 
 [[extra.parks]]
-name = "Conconully"
-gh_issue_id = 8
-link = "https://parks.state.wa.us/491/Conconully"
-lat = 48.5558
-lon = -119.7528
-summer_only = true
-
-[[extra.parks]]
 name = "Crawford / Gardner Cave"
 gh_issue_id = 35
 link = "https://parks.state.wa.us/492/Crawford"
