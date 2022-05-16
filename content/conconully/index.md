@@ -9,7 +9,6 @@ near = "Conconully"
 lat = 48.556
 lon = -119.752
 markers = "markers.js"
-track = "trackxxx.kml"
 bounds = {sw = [48.546, -119.762], ne = [48.566, -119.742]}
 cover = "es-4334-112"
 +++
