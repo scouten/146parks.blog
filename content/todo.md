@@ -32,6 +32,7 @@ gh_issue_id = 61
 link = "https://parks.state.wa.us/486/Cape-Disappointment"
 lat = 46.2729
 lon = -124.0743
+visited = true
 
 [[extra.parks]]
 name = "Clark Island"
@@ -95,6 +96,7 @@ link = "https://parks.state.wa.us/502/Federation-Forest"
 lat = 47.1522
 lon = -121.6872
 summer_only = true
+visited = true
 
 [[extra.parks]]
 name = "Fields Spring"
@@ -175,6 +177,7 @@ gh_issue_id = 92
 link = "https://parks.state.wa.us/533/Lake-Sammamish"
 lat = 47.5587
 lon = -122.0617
+visited = true
 
 [[extra.parks]]
 name = "Lake Sylvia"
