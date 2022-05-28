@@ -90,15 +90,6 @@ lon = -122.7879
 water_only = true
 
 [[extra.parks]]
-name = "Federation Forest"
-gh_issue_id = 99
-link = "https://parks.state.wa.us/502/Federation-Forest"
-lat = 47.1522
-lon = -121.6872
-summer_only = true
-visited = true
-
-[[extra.parks]]
 name = "Fields Spring"
 gh_issue_id = 128
 link = "https://parks.state.wa.us/505/Fort-Casey"
