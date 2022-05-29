@@ -163,14 +163,6 @@ lat = 47.8749
 lon = -120.1968
 
 [[extra.parks]]
-name = "Lake Sammamish"
-gh_issue_id = 92
-link = "https://parks.state.wa.us/533/Lake-Sammamish"
-lat = 47.5587
-lon = -122.0617
-visited = true
-
-[[extra.parks]]
 name = "Lake Sylvia"
 gh_issue_id = 132
 link = "https://parks.state.wa.us/534/Lake-Sylvia"
