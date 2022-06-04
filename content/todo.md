@@ -27,14 +27,6 @@ lon = -117.6969
 summer_only = true
 
 [[extra.parks]]
-name = "Cape Disappointment"
-gh_issue_id = 61
-link = "https://parks.state.wa.us/486/Cape-Disappointment"
-lat = 46.2729
-lon = -124.0743
-visited = true
-
-[[extra.parks]]
 name = "Clark Island"
 gh_issue_id = 80
 link = "https://parks.state.wa.us/488/Clark-Island"
