@@ -269,13 +269,6 @@ lat = 46.2978
 lon = -122.8194
 
 [[extra.parks]]
-name = "South Whidbey"
-gh_issue_id = 33
-link = "https://parks.state.wa.us/585/South-Whidbey"
-lat = 48.0600
-lon = -122.5966
-
-[[extra.parks]]
 name = "Spokane River Centennial Trail"
 gh_issue_id = 38
 link = "https://parks.state.wa.us/487/Centennial-Trail"
