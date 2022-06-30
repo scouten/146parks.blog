@@ -125,14 +125,6 @@ lon = -123.0448
 water_only = true
 
 [[extra.parks]]
-name = "Joseph Whidbey"
-gh_issue_id = 42
-link = "https://parks.state.wa.us/526/Joseph-Whidbey"
-lat = 48.3090
-lon = -122.7143
-summer_only = true
-
-[[extra.parks]]
 name = "Klickitat Trail"
 gh_issue_id = 144
 link = "https://parks.state.wa.us/869/Klickitat-Trail"
