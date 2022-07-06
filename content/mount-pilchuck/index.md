@@ -47,11 +47,7 @@ As you climb up and out of the forest, the views become increasingly inspiring:
 {{ es_image(id="es-4236-117") }}
 {{ es_image(id="es-4236-108", caption="The lookout tower.") }}
 
-When we got to the very top (5300’ or a mile in altitude), my knees were giving me the stink eye. I paid attention and opted out of the final scramble up the rocks to the lookout tower. I'm bummed, but my friend and hiking partner Jeannie Page did go ahead and I'm sharing these three pictures with her permission:
-
-{{ es_image(id="jp-20210725_151828") }}
-{{ es_image(id="jp-20210725_152537") }}
-{{ es_image(id="jp-20210725_153647") }}
+When we got to the very top (5300’ or a mile in altitude), my knees were giving me the stink eye. I paid attention and opted out of the final scramble up the rocks to the lookout tower, so sadly I have no photos to share of that occasion.
 
 For more information:
 
