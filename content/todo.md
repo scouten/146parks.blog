@@ -9,6 +9,7 @@ link = "https://parks.state.wa.us/239/Alta-Lake"
 lat = 48.0278
 lon = -119.9354
 summer_only = true
+visited = true
 
 [[extra.parks]]
 name = "Blind Island"
@@ -49,6 +50,7 @@ link = "https://parks.state.wa.us/492/Crawford"
 lat = 48.9953
 lon = -117.3705
 summer_only = true
+visited = true
 
 [[extra.parks]]
 name = "Curlew Lake"
@@ -65,6 +67,7 @@ link = "https://parks.state.wa.us/495/Daroga"
 lat = 47.7115
 lon = -120.2055
 summer_only = true
+visited = true
 
 [[extra.parks]]
 name = "Deception Pass"
@@ -138,6 +141,7 @@ gh_issue_id = 13
 link = "https://parks.state.wa.us/531/Lake-Chelan"
 lat = 47.8749
 lon = -120.1968
+visited = true
 
 [[extra.parks]]
 name = "Lake Sylvia"
@@ -161,6 +165,7 @@ link = "https://parks.state.wa.us/541/Lincoln-Rock"
 lat = 47.5410
 lon = -120.2824
 summer_only = true
+visited = true
 
 [[extra.parks]]
 name = "Matia Island"
@@ -222,6 +227,7 @@ gh_issue_id = 9
 link = "https://parks.state.wa.us/563/Pearrygin-Lake"
 lat = 48.4878
 lon = -120.1469
+visited = true
 
 [[extra.parks]]
 name = "Posey Island"
@@ -275,6 +281,7 @@ gh_issue_id = 14
 link = "https://parks.state.wa.us/590/Steamboat-Rock"
 lat = 47.8600
 lon = -119.1250
+visited = true
 
 [[extra.parks]]
 name = "Stuart Island"
@@ -299,6 +306,7 @@ link = "https://parks.state.wa.us/298/Sun-Lakes-Dry-Falls"
 lat = 47.5909
 lon = -119.3850
 summer_only = true
+visited = true
 
 [[extra.parks]]
 name = "Turn Island"
@@ -315,6 +323,7 @@ link = "https://parks.state.wa.us/293/Twenty-Five-Mile-Creek"
 lat = 47.9927
 lon = -120.2597
 summer_only = true
+visited = true
 
 [[extra.parks]]
 name = "Wanapum Recreation Area"
