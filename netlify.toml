@@ -3,7 +3,9 @@ publish = "public"
 command = "zola build"
 
 [build.environment]
-ZOLA_VERSION = "0.15.2"
+ZOLA_VERSION = "0.15.3"
+# IMPORTANT: We are version locked at 0.15.3 due to
+# https://github.com/getzola/zola/issues/1934.
 
 # The magic for deploying previews of branches.
 # We need to override the base url with whatever url Netlify assigns to our
