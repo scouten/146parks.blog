@@ -159,15 +159,6 @@ lon = -118.0711
 summer_only = true
 
 [[extra.parks]]
-name = "Lincoln Rock"
-gh_issue_id = 21
-link = "https://parks.state.wa.us/541/Lincoln-Rock"
-lat = 47.5410
-lon = -120.2824
-summer_only = true
-visited = true
-
-[[extra.parks]]
 name = "Matia Island"
 gh_issue_id = 79
 link = "https://parks.state.wa.us/544/Matia-Island"
