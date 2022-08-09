@@ -9,7 +9,7 @@ near = "east of Winthrop"
 lat = 48.485
 lon = -120.142
 markers = "markers.js"
-track = "trackxxx.kml"
+track = "track.kml"
 bounds = {sw = [48.474, -120.152], ne = [48.494, -120.132]}
 cover = "es-4388-136"
 +++
