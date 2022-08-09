@@ -213,14 +213,6 @@ lon = -122.9536
 water_only = true
 
 [[extra.parks]]
-name = "Pearrygin Lake"
-gh_issue_id = 9
-link = "https://parks.state.wa.us/563/Pearrygin-Lake"
-lat = 48.4878
-lon = -120.1469
-visited = true
-
-[[extra.parks]]
 name = "Posey Island"
 gh_issue_id = 75
 link = "https://parks.state.wa.us/567/Posey-Island"
