@@ -3,7 +3,7 @@
 {% block content %}
 
 {% set parks = get_section(path="_index.md") %}
-{% set n_parks = parks | get(key="pages") | length %}
+{% set n_parks = parks | get(key="pages") | filter(attribute="extra.seq") |  length %}
 
 <div class="map-page">
   {{ page.content | safe }}
@@ -84,7 +84,7 @@
 
       map.fitBounds(bounds);
 
-      {% for page in parks.pages %}
+      {% for page in parks.pages | filter(attribute="extra.seq") %}
         {% set color = "blue" -%}
         {% if page.extra.seq > (n_parks - 10) -%}
           {% set color = "red" -%}

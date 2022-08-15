@@ -1,6 +1,7 @@
 +++
 title = ""
 template = "map.html"
+weight = 1000
 +++
 
 **Hi, I'm Eric.** I like maps.
