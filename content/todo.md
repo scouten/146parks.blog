@@ -3,15 +3,6 @@ title = ""
 template = "map-todo.html"
 
 [[extra.parks]]
-name = "Alta Lake"
-gh_issue_id = 10
-link = "https://parks.state.wa.us/239/Alta-Lake"
-lat = 48.0278
-lon = -119.9354
-summer_only = true
-visited = true
-
-[[extra.parks]]
 name = "Blind Island"
 gh_issue_id = 85
 link = "https://parks.state.wa.us/477/Blind-Island"
