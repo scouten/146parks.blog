@@ -1,27 +1,27 @@
-{% extends "base.html" %}
+{% extends "base.html" -%}
 
-{% block content %}
+{% block content -%}
 <div class="welcome">
 {{ section.content | safe }}
 </div>
 
 <div class="parks-list">
-{% set parks = get_section(path="_index.md") %}
-{% for page in parks.pages | reverse %}
+{% set parks = get_section(path="_index.md") -%}
+{% for page in parks.pages | filter(attribute="extra.seq") | reverse -%}
   <div class="park-entry">
     <div class="park-link">
       <div class="sequence-assembly">
         <a href="{{ page.permalink | safe }}"><img src="/common/wa-shape.png" alt="" width="49" height="32"></a>
-        <div class="sequence"><a href="{{ page.permalink | safe }}">{% if page.extra.seq %}{{ page.extra.seq }}{% endif %}</a></div>
+        <div class="sequence"><a href="{{ page.permalink | safe }}">{% if page.extra.seq -%}{{ page.extra.seq }}{% endif -%}</a></div>
       </div>
-      {% if page.title %}
+      {% if page.title -%}
       <div class="title">
         <a href="{{ page.permalink | safe }}">
         <span class="name">{{ page.title }}</span>
-        <span class="designator">{% if page.extra.designator %}{{ page.extra.designator }}{% else %}State Park{% endif %}</span>
+        <span class="designator">{% if page.extra.designator -%}{{ page.extra.designator }}{% else -%}State Park{% endif -%}</span>
         </a>
       </div>
-      {% endif %}
+      {% endif -%}
     </div>
     <div class="cover">
       <a href="{{ page.permalink | safe }}">
@@ -33,12 +33,12 @@
         <img src="/common/arrow-r.png" alt="" width="16" height="16">
       </a>
     </div>
-    {% if page.summary %}
+    {% if page.summary -%}
     <div class="summary">
       <a href="{{ page.permalink | safe }}">{{ page.summary | safe }}</a>
     </div>
-    {% endif %}
+    {% endif -%}
   </div>
-  {% endfor %}
+{% endfor -%}
 </div>
-{% endblock content %}
+{% endblock content -%}
