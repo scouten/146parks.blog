@@ -67,42 +67,42 @@
 </div>
 
 <div id="next_prev">
-  {% if page.heavier %}
+  {% if page.higher and page.higher.extra.seq %}
   <div id="next">
     <div class="arrow-l">
-      <a href="{{ page.heavier.permalink | safe }}"><img src="/common/arrow-l.png" alt="" width="32" height="32"></a>
+      <a href="{{ page.higher.permalink | safe }}"><img src="/common/arrow-l.png" alt="" width="32" height="32"></a>
     </div>
     <div class="sequence-assembly">
-      <a href="{{ page.heavier.permalink | safe }}"><img src="/common/wa-shape.png" alt="" width="49" height="32"></a>
-      <div class="sequence"><a href="{{ page.heavier.permalink | safe }}">{% if page.heavier.extra.seq %}{{ page.heavier.extra.seq }}{% endif %}</a></div>
+      <a href="{{ page.higher.permalink | safe }}"><img src="/common/wa-shape.png" alt="" width="49" height="32"></a>
+      <div class="sequence"><a href="{{ page.higher.permalink | safe }}">{% if page.higher.extra.seq %}{{ page.higher.extra.seq }}{% endif %}</a></div>
     </div>
-    {% if page.heavier.title %}
+    {% if page.higher.title %}
     <div class="title">
-      <a href="{{ page.heavier.permalink | safe }}">
-      <span class="name">{{ page.heavier.title }} </span><span class="designator">{% if page.heavier.extra.designator %}{{ page.heavier.extra.designator }}{% else %}State Park{% endif %}</span>
+      <a href="{{ page.higher.permalink | safe }}">
+      <span class="name">{{ page.higher.title }} </span><span class="designator">{% if page.higher.extra.designator %}{{ page.higher.extra.designator }}{% else %}State Park{% endif %}</span>
       </a>
     </div>
     {% endif %}
   </div>
   {% endif %}
-  {% if page.heavier and page.lighter %}
+  {% if page.higher and page.higher.extra.seq and page.lower %}
   <div id="divider"></div>
   {% endif %}
-  {% if page.lighter %}
+  {% if page.lower %}
   <div id="prev">
     <div class="sequence-assembly">
-      <a href="{{ page.lighter.permalink | safe }}"><img src="/common/wa-shape.png" alt="" width="49" height="32"></a>
-      <div class="sequence"><a href="{{ page.lighter.permalink | safe }}">{% if page.lighter.extra.seq %}{{ page.lighter.extra.seq }}{% endif %}</a></div>
+      <a href="{{ page.lower.permalink | safe }}"><img src="/common/wa-shape.png" alt="" width="49" height="32"></a>
+      <div class="sequence"><a href="{{ page.lower.permalink | safe }}">{% if page.lower.extra.seq %}{{ page.lower.extra.seq }}{% endif %}</a></div>
     </div>
-    {% if page.lighter.title %}
+    {% if page.lower.title %}
     <div class="title">
-      <a href="{{ page.lighter.permalink | safe }}">
-      <span class="name">{{ page.lighter.title }} </span><span class="designator">{% if page.lighter.extra.designator %}{{ page.lighter.extra.designator }}{% else %}State Park{% endif %}</span>
+      <a href="{{ page.lower.permalink | safe }}">
+      <span class="name">{{ page.lower.title }} </span><span class="designator">{% if page.lower.extra.designator %}{{ page.lower.extra.designator }}{% else %}State Park{% endif %}</span>
       </a>
     </div>
     {% endif %}
     <div class="arrow-r">
-      <a href="{{ page.lighter.permalink | safe }}"><img src="/common/arrow-r.png" alt="" width="32" height="32"></a>
+      <a href="{{ page.lower.permalink | safe }}"><img src="/common/arrow-r.png" alt="" width="32" height="32"></a>
     </div>
   </div>
   {% endif %}
