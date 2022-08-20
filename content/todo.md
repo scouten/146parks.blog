@@ -292,15 +292,6 @@ lon = -122.9725
 water_only = true
 
 [[extra.parks]]
-name = "Twenty-Five Mile Creek"
-gh_issue_id = 12
-link = "https://parks.state.wa.us/293/Twenty-Five-Mile-Creek"
-lat = 47.9927
-lon = -120.2597
-summer_only = true
-visited = true
-
-[[extra.parks]]
 name = "Wanapum Recreation Area"
 gh_issue_id = 107
 link = "https://parks.state.wa.us/288/Ginkgo-Petrified-Forest"
