@@ -128,14 +128,6 @@ lon = -121.2878
 trail = true
 
 [[extra.parks]]
-name = "Lake Chelan"
-gh_issue_id = 13
-link = "https://parks.state.wa.us/531/Lake-Chelan"
-lat = 47.8749
-lon = -120.1968
-visited = true
-
-[[extra.parks]]
 name = "Lake Sylvia"
 gh_issue_id = 132
 link = "https://parks.state.wa.us/534/Lake-Sylvia"
