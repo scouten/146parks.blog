@@ -14,7 +14,6 @@ track = "track.kml"
 bounds = {sw = [48.066, -122.802], ne = [48.086, -122.782]}
 cover = "es-4257-042"
 comments = true
-discourse_hack = true
 +++
 
 Once upon a time, a US Army fort was located here, but it burned more than 100 years ago and few traces remain. Today this park offers access to a beach on Port Townsend Bay and some nice hiking trails. If you time your visit well, there are some nice fall colors, too!

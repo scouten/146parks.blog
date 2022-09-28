@@ -12,7 +12,6 @@ markers = "markers.js"
 bounds = {sw = [46.842, -124.124], ne = [46.862, -124.104]}
 cover = "es-4244-034"
 comments = true
-discourse_hack = true
 +++
 
 Twin Harbors is the quintessential Washington coast experience: cool, grey, and blustery, even in the midst of summer. It was a great opportunity for a leisurely weekend stroll.
