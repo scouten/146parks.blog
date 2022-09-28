@@ -12,7 +12,6 @@ markers = "markers.js"
 track = "2020-11-27-larrabee.kml"
 cover = "es-4152-086p"
 comments = true
-discourse_hack = true
 +++
 
 {{ es_image(id="es-4152-003") }}

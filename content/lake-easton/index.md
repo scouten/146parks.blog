@@ -12,7 +12,6 @@ markers = "markers.js"
 track = "2020-10-24-lake-easton.kml"
 cover = "es-4136-070"
 comments = true
-discourse_hack = true
 +++
 
 {{ es_image(id="es-4136-026") }}

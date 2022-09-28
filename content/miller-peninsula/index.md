@@ -12,6 +12,8 @@ designator = "State Park Property"
 markers = "markers.js"
 track = "2020-12-11-miller-peninsula.kml"
 cover = "es-4156-112"
+comments = true
+discourse_hack = true
 +++
 
 You might be forgiven for thinking that this isn’t really a full-fledged state park. From the official description, the park isn’t developed yet due to lack of funding. But, if you are looking for a great place to hike, missing this park would be a big oversight. You should go.
