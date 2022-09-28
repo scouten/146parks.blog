@@ -13,6 +13,8 @@ markers = "markers.js"
 track = "2021-05-31-cutts-island-2.kml"
 bounds = {sw = [47.308, -122.696], ne = [47.328, -122.676]}
 cover = "es-4219-114p"
+comments = true
+discourse_hack = true
 +++
 
 I visited Cutts Island on Memorial Day 2021 as summer weather was just beginning and fears about the pandemic were waning. People were eager to get out and enjoy a day out on the water and breathe a sigh of relief; thus the island seemed transformed into one enormous "life resumes" party.
