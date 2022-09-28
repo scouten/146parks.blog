@@ -87,7 +87,7 @@
 
       map.fitBounds(bounds);
 
-      {% for park in page.extra.parks | filter(attribute="extra.seq") -%}
+      {% for park in page.extra.parks -%}
         {% set color = "red" -%}
         {% if park.summer_only -%}
           {% set color = "purple" -%}
