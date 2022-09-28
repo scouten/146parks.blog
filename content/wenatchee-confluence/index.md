@@ -10,6 +10,8 @@ lon = -120.3227
 near = "Wenatchee"
 markers = "markers.js"
 cover = "es-4173-068"
+comments = true
+discourse_hack = true
 +++
 
 Situated at the intersection of the Wenatchee and Columbia Rivers, Wenatchee Confluence State Park offers a place to enjoy some peace and quiet or some active fun in the heart of the city that is Wenatchee.

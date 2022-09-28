@@ -10,6 +10,8 @@ lon = -122.6518
 near = "north of Poulsbo"
 markers = "markers.js"
 cover = "es-4169-006"
+comments = true
+discourse_hack = true
 +++
 
 What a difference a week makes! A week earlier, my daughter and I were kayaking and enjoying the relatively warm weather. For this holiday weekend, I had hoped to drive (solo) to some parks that were farther from home. Alas, the weather had other plans. A heavy snowfall made it unwise to travel long distances, but it also rendered one of my local parks especially interesting.

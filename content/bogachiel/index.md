@@ -11,7 +11,6 @@ near = "south of Forks"
 markers = "markers.js"
 cover = "es-4167-049"
 comments = true
-discourse_hack = true
 +++
 
 Bogachiel is Washington’s sole state park on the outer reaches of the Olympic Peninsula. Situated on the banks of the Bogachiel River south of Forks, it offers camping and some short hiking trails. On this rainy winter day, it offered solitude, too. I had the park more or less to myself for much of an afternoon.

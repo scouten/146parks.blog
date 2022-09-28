@@ -11,7 +11,6 @@ near = "west of Aberdeen"
 markers = "markers.js"
 cover = "es-4164-102"
 comments = true
-discourse_hack = true
 +++
 
 Bottle Beach State Park offers more than a mile of pristine shoreline on the south shore of Grays Harbor. Known mostly for birding, this park was delightfully quiet when I visited on a gray January afternoon.

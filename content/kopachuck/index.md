@@ -11,7 +11,6 @@ near = "west of Gig Harbor"
 markers = "markers.js"
 cover = "es-4166-032"
 comments = true
-discourse_hack = true
 +++
 
 Kopachuck was once a popular camping park. It has since become a day-use park with some nice hiking trails and beach access. I visited on a blustery winter day and found myself wishing I, too, had brought a dog to walk in the park.
