@@ -12,6 +12,8 @@ markers = "markers.js"
 track = "track.kml"
 bounds = {sw = [46.9, -122.922], ne = [46.92, -122.902]}
 cover = "es-4227-017"
+comments = true
+discourse_hack = true
 +++
 
 Millersylvania, on the shores of Deep Lake south of Olympia, is a great place for relaxing and maybe a light hike.

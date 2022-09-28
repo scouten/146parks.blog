@@ -13,6 +13,8 @@ markers = "markers.js"
 track = "2021-07-31-eagle-island.kml"
 bounds = {sw = [47.178, -122.714], ne = [47.198, -122.694]}
 cover = "es-4237-148"
+comments = true
+discourse_hack = true
 +++
 
 Eagle Island is a small water-access only park in the south Puget Sound, located between Anderson and McNeil Islands. (You may remember that McNeil Island was, until a decade or so ago, a federal and then state penitentiary.)

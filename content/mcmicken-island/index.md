@@ -13,6 +13,8 @@ markers = "markers.js"
 track = "2021-07-31-mcmicken-island.kml"
 bounds = {sw = [47.225, -122.871], ne = [47.25, -122.81]}
 cover = "es-4237-058"
+comments = true
+discourse_hack = true
 +++
 
 Getting to McMicken Island is half the fun! Once there, you'll find a quiet island getaway popular with other boaters.

@@ -12,7 +12,6 @@ markers = "markers.js"
 bounds = {sw = [48.032, -123.037], ne = [48.052, -123.017]}
 cover = "es-4224-069"
 comments = true
-discourse_hack = true
 +++
 
 Sequim Bay is a popular spot for cyclists, campers, and boaters. This park offers a chance for some short hikes and a quiet getaway on the north side of the Olympic Peninsula.
