@@ -12,7 +12,6 @@ markers = "markers.js"
 bounds = {sw = [47.589, -122.607], ne = [47.609, -122.587]}
 cover = "es-4258-043"
 comments = true
-discourse_hack = true
 +++
 
 Tucked in the midst of Bremerton's north side, Illahee State Park includes hiking trails through dense forest, camping sites, and access to the beach on Puget Sound.

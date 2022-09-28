@@ -13,7 +13,6 @@ track = "2021-08-21-olallie.kml"
 bounds = {sw = [47.422, -121.766], ne = [47.442, -121.741]}
 cover = "es-4246-040"
 comments = true
-discourse_hack = true
 +++
 
 Olallie is one of our largest state parks, with many trails to explore a short drive outside of Seattle. I hiked the Cedar Butte trail with a friend on a gray and slightly rainy day.

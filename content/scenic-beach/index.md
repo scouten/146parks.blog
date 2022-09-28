@@ -12,6 +12,8 @@ markers = "markers.js"
 track = "track.kml"
 bounds = {sw = [47.637, -122.855], ne = [47.657, -122.835]}
 cover = "es-4269-119p"
+comments = true
+discourse_hack = true
 +++
 
 Located on the Hood Canal, several miles west of Silverdale, Scenic Beach State Park offers hiking trails, camping, and ... ah, yes ... a beach!

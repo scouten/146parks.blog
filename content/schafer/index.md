@@ -11,6 +11,8 @@ lon = -123.464
 markers = "markers.js"
 bounds = {sw = [47.089, -123.474], ne = [47.109, -123.454]}
 cover = "es-4261-093"
+comments = true
+discourse_hack = true
 +++
 
 One year ago today, I took the ferry to Lopez Island and started this project by making a few photos in [Spencer Spit State Park](../spencer-spit). Today's park, Schafer, offers a walk along the Satsop River and some fall colors.

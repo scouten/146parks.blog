@@ -12,7 +12,6 @@ markers = "markers.js"
 bounds = {sw = [47.363, -122.33], ne = [47.383, -122.31]}
 cover = "es-4239-038"
 comments = true
-discourse_hack = true
 +++
 
 Saltwater State Park lies right in the heart of the metropolis that is Seattle, Tacoma, and the many cities in between. The shallow tidelands appeal to divers and clam diggers and the rest of us who just like to explore a less-altered shoreline.
