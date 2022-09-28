@@ -10,6 +10,8 @@ lon = -122.6327
 near = "south of Port Ludlow"
 markers = "markers.js"
 cover = "es-4202-048p"
+comments = true
+discourse_hack = true
 +++
 
 Shine Tidelands State Park is a quiet day-use beach park located at the west end of the Hood Canal Bridge, not far from my home. A few mornings ago when I woke up, I noticed that it was foggy out. I knew it would be a good day to document this park.
