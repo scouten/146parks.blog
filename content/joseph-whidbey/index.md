@@ -14,7 +14,6 @@ markers = "markers.js"
 bounds = {sw = [48.301, -122.72], ne = [48.321, -122.7]}
 cover = "es-4364-174"
 comments = true
-discourse_hack = true
 +++
 
 Situated on the west shore of Whidbey Island west of Oak Harbor, Joseph Whidbey State Park offers a few miles of hiking trails through forest and wetlands and a long sandy beach.

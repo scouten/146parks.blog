@@ -13,7 +13,6 @@ track = "track.kml"
 bounds = {sw = [48.474, -120.152], ne = [48.494, -120.132]}
 cover = "es-4388-136"
 comments = true
-discourse_hack = true
 +++
 
 This park is located in the foothills of the North Cascade mountain range near the old-West themed village of Winthrop. There's plenty to do here on the water, in the campgrounds, or on its several miles of hiking trails.

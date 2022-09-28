@@ -14,7 +14,6 @@ markers = "markers.js"
 bounds = {sw = [48.017, -119.946], ne = [48.037, -119.926]}
 cover = "es-4388-188"
 comments = true
-discourse_hack = true
 +++
 
 Tucked into the mountains a half hour's drive from Lake Chelan, Alta Lake is a summer getaway with a large campground, swimming beach, and excellent mountain views.
