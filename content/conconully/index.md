@@ -12,7 +12,6 @@ markers = "markers.js"
 bounds = {sw = [48.546, -119.762], ne = [48.566, -119.742]}
 cover = "es-4334-112"
 comments = true
-discourse_hack = true
 +++
 
 Tucked away in the mountains west of Omak, the small town of Conconully reminds us all of a quieter time when life ran at a slower pace.

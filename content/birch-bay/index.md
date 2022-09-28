@@ -12,7 +12,6 @@ markers = "markers.js"
 bounds = {sw = [48.895, -122.778], ne = [48.915, -122.758]}
 cover = "es-4327-122"
 comments = true
-discourse_hack = true
 +++
 
 Birch Bay State Park is located on Washington's Pacific coast between Bellingham and the Canadian border. When I visited in early April, plenty of people were enjoying almost three miles of public shoreline.

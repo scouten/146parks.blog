@@ -11,6 +11,8 @@ lon = -122.766
 markers = "markers.js"
 bounds = {sw = [48.212, -122.776], ne = [48.232, -122.756]}
 cover = "es-4364-147"
+comments = true
+discourse_hack = true
 +++
 
 Fort Ebey was built as part of our coastal defense strategy in World War II and quickly deemed as a "surplus" facility after the war ended. You can now tour the abandoned gun batteries and explore many miles of hiking trails.
