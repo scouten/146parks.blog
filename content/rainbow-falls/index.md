@@ -10,7 +10,6 @@ lon = -123.2322
 near = "west of Chehalis"
 cover = "es-4135-013"
 comments = true
-discourse_hack = true
 +++
 
 {{ es_image(id="es-4135-013") }}
