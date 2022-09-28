@@ -12,6 +12,8 @@ near = "east of Lyle"
 markers = "markers.js"
 cover = "es-4186-204"
 visited = "27 March and 10 – 11 April 2021"
+comments = true
+discourse_hack = true
 +++
 
 At first, I wondered why Columbia Hills got the designation of _Historical_ State Park. Now as I review the photos I made on three separate visits, I see many important histories preserved here.
