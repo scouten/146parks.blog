@@ -11,7 +11,6 @@ near = "south of Washtucna"
 markers = "markers.js"
 cover = "es-4183-024p"
 comments = true
-discourse_hack = true
 +++
 
 This park is pretty much what it says on the tin: an epic waterfall in the middle of the rolling hills and grasslands of the Palouse in eastern Washington.
