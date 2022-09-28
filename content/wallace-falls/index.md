@@ -13,7 +13,6 @@ track = "track.kml"
 bounds = {sw = [47.86, -121.677], ne = [47.88, -121.657]}
 cover = "es-4317-018"
 comments = true
-discourse_hack = true
 +++
 
 Here in the Pacific Northwest, we have been blessed by an abundance of rain this winter. When hiking through Wallace Falls State Park, you are constantly reminded of this by the constant sound of rushing water.

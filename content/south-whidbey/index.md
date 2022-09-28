@@ -12,6 +12,8 @@ markers = "markers.js"
 track = "track.kml"
 bounds = {sw = [48.049, -122.603], ne = [48.069, -122.583]}
 cover = "es-4364-049"
+comments = true
+discourse_hack = true
 +++
 
 "Walk among the giants," says the official description of this park. This is definitely a park for forest lovers. I hiked about four miles through its (mostly) well-maintained trails on a damp spring morning.

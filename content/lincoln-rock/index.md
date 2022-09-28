@@ -11,6 +11,8 @@ lon = -120.285
 markers = "markers.js"
 bounds = {sw = [47.53, -120.295], ne = [47.55, -120.275]}
 cover = "es-4389-032"
+comments = true
+discourse_hack = true
 +++
 
 Some say the rock formation across the Columbia River from this park resembles Abe Lincoln. I don't quite see that resemblance myself, but -- regardless -- this park offers some nice views and access to the river itself.

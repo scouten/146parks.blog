@@ -11,6 +11,8 @@ lon = -120.261
 markers = "markers.js"
 bounds = {sw = [47.983, -120.271], ne = [48.003, -120.251]}
 cover = "es-4388-226"
+comments = true
+discourse_hack = true
 +++
 
 Halfway along the fifty-mile length of Lake Chelan, the roads end and the lake continues undeveloped. Twenty-Five Mile Creek State Park is situated right at the end of the road and offers beaches, camping, and a marina with access to the lake.
