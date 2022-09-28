@@ -9,6 +9,8 @@ lat = 48.0587
 lon = -122.6946
 near = "Marrowstone Island"
 cover = "es-4131-029"
+comments = true
+discourse_hack = true
 +++
 
 {{ es_image(id="es-4131-030") }}

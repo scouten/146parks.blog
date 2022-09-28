@@ -12,7 +12,6 @@ markers = "markers.js"
 track = "2020-10-09-spencer-spit.kml"
 cover = "es-4126-050"
 comments = true
-discourse_hack = true
 +++
 
 I decided to start this project in the San Juan Islands. I made time to visit Spencer Spit State Park on Lopez Island as a day trip on my way to Friday Harbor, where I am spending a long weekend vacation.
