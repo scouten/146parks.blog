@@ -14,7 +14,6 @@ track = "2021-06-19-skagit-island.kml"
 bounds = {sw = [48.403, -122.587], ne = [48.423, -122.567]}
 cover = "es-4221-102p"
 comments = true
-discourse_hack = true
 +++
 
 Your own private island (for a little while, anyway)? That was my experience when I visited Skagit Island earlier this summer. I had the island to myself for the hour or so that I visited this park.

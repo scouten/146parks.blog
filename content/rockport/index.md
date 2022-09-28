@@ -13,7 +13,6 @@ track = "2021-06-20-rockport.kml"
 bounds = {sw = [48.482, -121.624], ne = [48.502, -121.604]}
 cover = "es-4222-080"
 comments = true
-discourse_hack = true
 +++
 
 Hike through a rare old-growth forest in Washington State? Sure! That is what Rockport State Park offers you.

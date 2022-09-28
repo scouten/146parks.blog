@@ -14,7 +14,6 @@ track = "2021-06-19-hope-island-skagit.kml"
 bounds = {sw = [48.391, -122.579], ne = [48.411, -122.559]}
 cover = "es-4221-208"
 comments = true
-discourse_hack = true
 +++
 
 Hope Island State Park is a well-traveled marine state park. When I visited, there were several sailboats anchored just off the island to the north, several other kayakers, and a few people who motored right up onto the shore for a picnic on the beach.

@@ -12,6 +12,8 @@ markers = "markers.js"
 track = "2021-07-10-penrose-point.kml"
 bounds = {sw = [47.25, -122.755], ne = [47.27, -122.735]}
 cover = "es-4232-056"
+comments = true
+discourse_hack = true
 +++
 
 Two miles of beaches? Many trails? What's not to like! This is Penrose Point State Park, a perfect place for a visit on a sunny summer afternoon.
