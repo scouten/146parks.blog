@@ -13,6 +13,8 @@ lon = -121.687
 markers = "markers.js"
 bounds = {sw = [47.141, -121.697], ne = [47.161, -121.677]}
 cover = "es-4352-059"
+comments = true
+discourse_hack = true
 +++
 
 Nestled along the shores of the White River east of Enumclaw is a rare patch of Washington's old-growth forest, set aside due to the persistent work of the General Federation of Women's Clubs in Washington. For that reason, it was given the name of Federation Forest State Park when it was established in 1949.
