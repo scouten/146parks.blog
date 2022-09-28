@@ -13,6 +13,8 @@ markers = "markers.js"
 track = "2021-06-19-kukutali.kml"
 bounds = {sw = [48.409, -122.573], ne = [48.429, -122.553]}
 cover = "es-4221-055"
+comments = true
+discourse_hack = true
 +++
 
 Kukutali Preserve is the product of a unique collaboration between Washington state government and the Swinomish Indian Tribal Community. In 1990, they agreed to jointly purchase and operate this property and develop it into a public park. Today it is a quiet place to go for a walk and enjoy the woods and ocean.
