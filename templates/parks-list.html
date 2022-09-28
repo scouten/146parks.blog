@@ -5,6 +5,20 @@
 {{ section.content | safe }}
 </div>
 
+{% set todo = get_page(path="todo.md") | get(key = "extra") | get(key = "parks") | filter(attribute = "seq") | sort(attribute = "seq") -%}
+{% if todo | length > 0 -%}
+<div class="coming-soon">
+<h2>Coming Soon!</h2>
+<p>I have visited the following park{{ todo | length | pluralize }}, but not yet published articles about them:</p>
+<ul class="todo-parks">
+  {% for todo_park in todo -%}
+  <li><span class="name">{{ todo_park.name }}</span> <span class="seq">({{todo_park.seq}})</seq></li>
+  {% endfor -%}
+</ul>
+<div class="current">Current as of {{ now() | date(format = "%e %B %Y", timezone = "America/Los_Angeles") | safe }}.</div>
+</div>
+{% endif -%}
+
 <div class="parks-list">
 {% set parks = get_section(path="_index.md") -%}
 {% for page in parks.pages | filter(attribute="extra.seq") | reverse -%}
