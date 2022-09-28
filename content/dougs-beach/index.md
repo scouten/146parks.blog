@@ -14,7 +14,7 @@ cover = "es-4309-059"
 comments = true
 +++
 
-Doug's Beach is named for Doug Campbell, who was an early pioner of windsurfing. The park is popular today for that sport, but there were none at the time I visited. (Indeed, there were no other visitors to the park at all while I was there.)
+Doug's Beach is named for Doug Campbell, who was an early pioneer of windsurfing. The park is popular today for that sport, but there were none at the time I visited. (Indeed, there were no other visitors to the park at all while I was there.)
 
 <!-- more -->
 
