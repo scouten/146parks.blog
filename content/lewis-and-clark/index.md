@@ -14,8 +14,6 @@ bounds = {sw = [46.513, -122.823], ne = [46.533, -122.803]}
 cover = "es-4227-063"
 comments = true
 discourse_hack = true
-comments = true
-discourse_hack = true
 +++
 
 Need a quiet walk in the woods? Lewis and Clark is your place. Though this is ostensibly a horse-friendly park, I encountered none in my tour.
