@@ -12,6 +12,8 @@ markers = "markers.js"
 visited = "9 – 10 October 2020"
 track = "2020-10-09-lime-kiln-point.kml"
 cover = "es-4128-034"
+comments = true
+discourse_hack = true
 +++
 
 {{ es_image(id="es-4126-113" caption="The lime kiln from above.") }}

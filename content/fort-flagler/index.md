@@ -12,6 +12,8 @@ designator = "Historical State Park"
 markers = "markers.js"
 track = "2020-10-13-fort-flagler.kml"
 cover = "es-4131-093"
+comments = true
+discourse_hack = true
 +++
 
 {{ es_image(id="es-4131-061", caption="Looking across Port Townsend Bay to the city itself from the Lower Campground area.") }}
