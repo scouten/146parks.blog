@@ -11,6 +11,8 @@ lon = -124.058
 markers = "markers.js"
 bounds = {sw = [46.424, -124.068], ne = [46.444, -124.048]}
 cover = "es-4308-291"
+comments = true
+discourse_hack = true
 +++
 
 The sign that greets you at the parking lot for this park starts with the heading, "So where's the lake?" And there begins the irony of this park.

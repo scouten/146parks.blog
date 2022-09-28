@@ -11,6 +11,8 @@ lon = -117.112
 markers = "markers.js"
 bounds = {sw = [47.887, -117.131], ne = [47.922, -117.094]}
 cover = "es-4304-048"
+comments = true
+discourse_hack = true
 +++
 
 So ... a confession: I haven't been on a pair of skis in more years than I care to admit. Probably not since I moved from Minnesota to Washington almost 20 years ago.

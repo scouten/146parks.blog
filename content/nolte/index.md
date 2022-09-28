@@ -13,7 +13,6 @@ track = "track.kml"
 bounds = {sw = [47.264, -121.95], ne = [47.284, -121.93]}
 cover = "es-4285-088"
 comments = true
-discourse_hack = true
 +++
 
 Long ago, this was a family-oriented vacation spot. When the last of the owners' family passed, they willed it to the state for use as a state park.

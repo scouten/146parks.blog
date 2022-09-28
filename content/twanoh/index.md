@@ -12,7 +12,6 @@ markers = "markers.js"
 bounds = {sw = [47.368, -122.983], ne = [47.388, -122.963]}
 cover = "es-4260-168"
 comments = true
-discourse_hack = true
 +++
 
 In the peak of summer, this park is overrun with picnickers and swimmers. Come back in the fall and it's a much quieter site mostly occupied by geese and seagulls.
