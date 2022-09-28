@@ -43,6 +43,7 @@ lat = 48.9953
 lon = -117.3705
 summer_only = true
 visited = true
+seq = 112
 
 [[extra.parks]]
 name = "Curlew Lake"
@@ -60,6 +61,7 @@ lat = 47.7115
 lon = -120.2055
 summer_only = true
 visited = true
+seq = 109
 
 [[extra.parks]]
 name = "Deception Pass"
@@ -249,6 +251,7 @@ link = "https://parks.state.wa.us/590/Steamboat-Rock"
 lat = 47.8600
 lon = -119.1250
 visited = true
+seq = 111
 
 [[extra.parks]]
 name = "Stuart Island"
@@ -274,6 +277,7 @@ lat = 47.5909
 lon = -119.3850
 summer_only = true
 visited = true
+seq = 110
 
 [[extra.parks]]
 name = "Turn Island"

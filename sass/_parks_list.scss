@@ -1,3 +1,29 @@
+.coming-soon {
+    background-color: $dark-accent-background;
+    line-height: 1.5;
+    margin: .5rem auto;
+    max-width: 45rem;
+    padding: 1em;
+    border-radius: 1em;
+
+    h2 { margin: 0; }
+    p:first-of-type { font-size: 100%; }
+    
+    .todo-parks {
+        margin: 1em 0;
+
+        .seq {
+            font-size: 80%;
+            opacity: 60%;
+        }
+    }
+    .current {
+        font-size: 80%;
+        opacity: 60%;
+        margin: 1em 0 0 0;
+    }
+}
+
 .park-entry {
     position: relative;
     max-width: 1000px;
