@@ -12,6 +12,8 @@ designator = "Historical State Park"
 markers = "markers.js"
 bounds = {sw = [48.132, -122.524], ne = [48.152, -122.504]}
 cover = "es-4249-088"
+comments = true
+discourse_hack = true
 +++
 
 What makes Cama Beach State Park distinctive is its well-preserved family cabins dating back to the 1930s.
