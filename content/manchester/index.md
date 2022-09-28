@@ -11,6 +11,8 @@ near = "east of Port Orchard"
 markers = "markers.js"
 bounds = {sw = [47.568, -122.558], ne = [47.588, -122.538]}
 cover = "es-4226-025"
+comments = true
+discourse_hack = true
 +++
 
 Manchester State Park is one of many that are built on former military grounds in the Puget Sound region. It offers a nice combination of abandoned buildings, forested trails, camping, and waterfront views.
