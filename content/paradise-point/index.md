@@ -12,6 +12,8 @@ markers = "markers.js"
 track = "track.kml"
 bounds = {sw = [45.86, -122.715], ne = [45.88, -122.695]}
 cover = "es-4308-051"
+comments = true
+discourse_hack = true
 +++
 
 At first glance,  this park doesn't quite seem like "paradise." If you don't get out of your car, all you'll see is a disc golf course with a six-lane freeway running above it. It's pretty noisy, as you might imagine. 

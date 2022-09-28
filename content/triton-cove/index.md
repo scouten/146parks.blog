@@ -12,7 +12,6 @@ markers = "markers.js"
 bounds = {sw = [47.599, -122.995], ne = [47.619, -122.975]}
 cover = "es-4260-051"
 comments = true
-discourse_hack = true
 +++
 
 Triton Cove is apparently famous for its sunrises, but ... alas ... that was not on offer when I visited.

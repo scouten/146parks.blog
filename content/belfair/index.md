@@ -12,7 +12,6 @@ markers = "markers.js"
 bounds = {sw = [47.42, -122.888], ne = [47.44, -122.868]}
 cover = "es-4260-212"
 comments = true
-discourse_hack = true
 +++
 
 Belfair State Park and recently-visited [Twanoh State Park](../twanoh/) are like bookends at the south end of the Hood Canal. On this fall day, it was a great time for a walk along the coast and to enjoy moody cloudscapes.

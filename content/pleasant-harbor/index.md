@@ -13,7 +13,6 @@ markers = "markers.js"
 bounds = {sw = [47.655, -122.923], ne = [47.675, -122.903]}
 cover = "es-4271-041p"
 comments = true
-discourse_hack = true
 +++
 
 Pleasant Harbor is a small state park. It looks like it's mostly intended for boaters looking for a place to stay for a night or two.
