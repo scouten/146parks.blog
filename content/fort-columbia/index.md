@@ -13,7 +13,6 @@ markers = "markers.js"
 bounds = {sw = [46.242, -123.931], ne = [46.262, -123.911]}
 cover = "es-4308-150"
 comments = true
-discourse_hack = true
 +++
 
 First built around the turn of the 20th century to protect the Columbia River basin from maritime attackers, this fort now serves as a well-preserved reminder of life a century ago.

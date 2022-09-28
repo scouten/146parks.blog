@@ -11,6 +11,8 @@ lon = -120.521
 markers = "markers.js"
 bounds = {sw = [47.532, -120.531], ne = [47.552, -120.511]}
 cover = "es-4322-022"
+comments = true
+discourse_hack = true
 +++
 
 To visit this park is to be reminded of forces of nature that are larger than we are.

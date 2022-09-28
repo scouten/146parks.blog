@@ -13,6 +13,8 @@ lon = -122.062
 markers = "markers.js"
 bounds = {sw = [47.55, -122.072], ne = [47.57, -122.052]}
 cover = "es-4352-166"
+comments = true
+discourse_hack = true
 +++
 
 Lake Sammamish is a popular urban getaway, featuring beaches and hiking trails in the heart of the eastern suburbs.

@@ -11,6 +11,8 @@ lon = -119.606
 markers = "markers.js"
 bounds = {sw = [48.005, -119.616], ne = [48.025, -119.596]}
 cover = "es-4321-140"
+comments = true
+discourse_hack = true
 +++
 
 Bridgeport State Park is located on Rufus Woods Lake, formed by Chief Joseph Dam. It offers a view of central Washington's high desert landscape.

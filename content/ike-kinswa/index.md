@@ -15,6 +15,8 @@ markers = "markers.js"
 track = "trackxxx.kml"
 bounds = {sw = [46.54, -122.541], ne = [46.56, -122.521]}
 cover = "es-4309-241"
+comments = true
+discourse_hack = true
 +++
 
 Ike Kinswa is the quintessential summer camp-and-swim park. It's open year-round, so, of course, I visited in the midst of winter. I was fortunate to have sunny weather and a relatively quiet place to visit.

@@ -13,7 +13,6 @@ track = "trackxxx.kml"
 bounds = {sw = [47.196, -124.214], ne = [47.216, -124.194]}
 cover = "es-4303-100"
 comments = true
-discourse_hack = true
 +++
 
 Pacific Beach is a small state park on the coast northwest of Aberdeen. On this sunny day, it was popular with RVers and people out for a walk on the beach.
