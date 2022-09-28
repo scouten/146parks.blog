@@ -14,7 +14,6 @@ markers = "markers.js"
 bounds = {sw = [46.276, -124.078], ne = [46.299, -124.049]}
 cover = "es-4356-149"
 comments = true
-discourse_hack = true
 +++
 
 And now I present the 100th park in this series! Cape Disappointment did not disappoint. As it turned out, good friends of mine formerly from Bainbridge Island were manning the visitors' center. So we took a Saturday afternoon to visit them and explore the park.
