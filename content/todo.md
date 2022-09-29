@@ -54,16 +54,6 @@ lon = -118.6623
 summer_only = true
 
 [[extra.parks]]
-name = "Daroga"
-gh_issue_id = 16
-link = "https://parks.state.wa.us/495/Daroga"
-lat = 47.7115
-lon = -120.2055
-summer_only = true
-visited = true
-seq = 109
-
-[[extra.parks]]
 name = "Deception Pass"
 gh_issue_id = 43
 link = "https://parks.state.wa.us/497/Deception-Pass"
