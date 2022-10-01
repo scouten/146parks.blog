@@ -260,16 +260,6 @@ lon = -122.9536
 water_only = true
 
 [[extra.parks]]
-name = "Sun Lakes-Dry Falls"
-gh_issue_id = 15
-link = "https://parks.state.wa.us/298/Sun-Lakes-Dry-Falls"
-lat = 47.5909
-lon = -119.3850
-summer_only = true
-visited = true
-seq = 110
-
-[[extra.parks]]
 name = "Turn Island"
 gh_issue_id = 73
 link = "https://parks.state.wa.us/295/Turn-Island"
