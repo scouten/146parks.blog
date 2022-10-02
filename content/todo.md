@@ -156,6 +156,8 @@ link = "https://parks.state.wa.us/245/Mount-St-Helens"
 lat = 46.2944
 lon = -122.8223
 closed = true
+visited = true
+seq = 113
 
 [[extra.parks]]
 name = "Obstruction Pass"
