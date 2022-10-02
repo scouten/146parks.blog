@@ -12,7 +12,7 @@ visited = "19 March and 17 July 2022"
 lat = 47.593
 lon = -119.371
 markers = "markers.js"
-track = "trackxxx.kml"
+track = "track.kml"
 bounds = {sw = [47.583, -119.405], ne = [47.603, -119.337]}
 cover = "es-4390-091"
 comments = true
