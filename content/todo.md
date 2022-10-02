@@ -235,15 +235,6 @@ lon = -120.3731
 summer_only = true
 
 [[extra.parks]]
-name = "Steamboat Rock"
-gh_issue_id = 14
-link = "https://parks.state.wa.us/590/Steamboat-Rock"
-lat = 47.8600
-lon = -119.1250
-visited = true
-seq = 111
-
-[[extra.parks]]
 name = "Stuart Island"
 gh_issue_id = 76
 link = "https://parks.state.wa.us/593/Stuart-Island"
