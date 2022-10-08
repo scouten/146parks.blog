@@ -36,16 +36,6 @@ lon = -118.3075
 trail = true
 
 [[extra.parks]]
-name = "Crawford / Gardner Cave"
-gh_issue_id = 35
-link = "https://parks.state.wa.us/492/Crawford"
-lat = 48.9953
-lon = -117.3705
-summer_only = true
-visited = true
-seq = 112
-
-[[extra.parks]]
 name = "Curlew Lake"
 gh_issue_id = 34
 link = "https://parks.state.wa.us/493/Curlew-Lake"
