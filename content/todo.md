@@ -140,16 +140,6 @@ lat = 48.6778
 lon = -122.8316
 
 [[extra.parks]]
-name = "Mount Saint Helens"
-gh_issue_id = 138
-link = "https://parks.state.wa.us/245/Mount-St-Helens"
-lat = 46.2944
-lon = -122.8223
-closed = true
-visited = true
-seq = 113
-
-[[extra.parks]]
 name = "Obstruction Pass"
 gh_issue_id = 82
 link = "https://parks.state.wa.us/553/Obstruction-Pass"
