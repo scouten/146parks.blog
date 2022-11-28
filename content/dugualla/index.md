@@ -11,7 +11,6 @@ near = "Whidbey Island"
 markers = "markers.js"
 track = "2021-05-08-dugualla.kml"
 cover = "es-4201-101"
-comments = true
 +++
 
 Never heard of Dugualla State Park? Neither had I. A happy accident while surfing Google Maps pointed me in this direction, and I found a beach and a set of hiking trails popular with the locals, but seemingly unadvertised to the rest of the world.

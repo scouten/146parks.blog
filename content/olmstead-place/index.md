@@ -12,7 +12,6 @@ designator = "Historical State Park"
 markers = "markers.js"
 bounds = {sw = [46.965, -120.479], ne = [46.985, -120.459]}
 cover = "es-4213-576p"
-comments = true
 +++
 
 This park reflects an early chapter of European settlement in Washington: The Olmstead family started this farm in the late 1800s to raise beef and then dairy cattle for sale into the emerging Seattle market.

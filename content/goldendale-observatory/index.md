@@ -12,7 +12,6 @@ lon = -120.815
 markers = "markers.js"
 bounds = {sw = [45.827, -120.825], ne = [45.847, -120.805]}
 cover = "es-4309-147"
-comments = true
 +++
 
 Washington is home to one of the few large telescopes available for public viewing. I toured Goldendale Observatory on a Saturday afternoon when we could study the sun and see its sunspots.

@@ -12,7 +12,6 @@ markers = "markers.js"
 bounds = {sw = [47.215, -122.82], ne = [47.235, -122.8]}
 cover = "es-4234-042"
 visited = "10 and 23 July 2021"
-comments = true
 +++
 
 Joemma Beach is just what it says on the tin: a beach.

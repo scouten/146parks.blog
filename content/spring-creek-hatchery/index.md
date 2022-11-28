@@ -10,7 +10,6 @@ lon = -121.5577
 near = "west of Bingen"
 markers = "markers.js"
 cover = "es-4182-040"
-comments = true
 +++
 
 {{ es_image(id="es-4181-109") }}

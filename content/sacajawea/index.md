@@ -11,7 +11,6 @@ lon = -119.0396
 near = "Pasco"
 markers = "markers.js"
 cover = "es-4206-352"
-comments = true
 +++
 
 This park honors the confluence of the Snake and Columbia Rivers, the Lewis and Clark expedition that reached this point in October 1805, and, of course, it bears the name of the native Shoshone guide who helped them make this journey.

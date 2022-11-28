@@ -14,7 +14,6 @@ lon = -119.118
 markers = "markers.js"
 bounds = {sw = [47.839, -119.142], ne = [47.873, -119.093]}
 cover = "es-4390-109"
-comments = true
 +++
 
 There is only one Steamboat Rock. As a 600-foot tall basalt rock formation in an otherwise mostly-level landscape, it is no wonder it made an impression on early explorers.

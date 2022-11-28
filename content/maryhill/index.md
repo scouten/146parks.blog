@@ -12,7 +12,6 @@ markers = "markers.js"
 bounds = {sw = [45.673, -120.833], ne = [45.693, -120.813]}
 cover = "es-4309-171p"
 visited = "5 – 6 February 2022"
-comments = true
 +++
 
 Looking for a quiet place to camp, enjoy the sunrise, or set out for a morning fishing run? Maryhill is your spot.

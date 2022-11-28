@@ -12,7 +12,6 @@ markers = "markers.js"
 track = "2021-07-04-lewis-and-clark.kml"
 bounds = {sw = [46.513, -122.823], ne = [46.533, -122.803]}
 cover = "es-4227-063"
-comments = true
 +++
 
 Need a quiet walk in the woods? Lewis and Clark is your place. Though this is ostensibly a horse-friendly park, I encountered none in my tour.

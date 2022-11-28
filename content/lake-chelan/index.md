@@ -13,7 +13,6 @@ lon = -120.199
 markers = "markers.js"
 bounds = {sw = [47.865, -120.209], ne = [47.885, -120.189]}
 cover = "es-4388-274"
-comments = true
 +++
 
 Wanna know where the cool kids go to stay cool? In central Washington, it's Lake Chelan State Park!

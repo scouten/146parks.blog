@@ -14,8 +14,6 @@ lon = -122.82
 markers = "markers.js"
 bounds = {sw = [46.284, -122.83], ne = [46.304, -122.81]}
 cover = "es-4407-049"
-comments = true
-discourse_hack = true
 +++
 
 Those of us of a certain age remember where we were in May 1980 when Mount Saint Helens erupted. At the time, I was a youngster living in Minnesota, but even there our sunsets were affected for days afterward as the volcanic debris sifted its way eastward.

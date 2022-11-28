@@ -11,7 +11,6 @@ lon = -123.156
 markers = "markers.js"
 bounds = {sw = [47.351, -123.166], ne = [47.371, -123.146]}
 cover = "es-4253-070"
-comments = true
 +++
 
 The official description on the State Parks web site describes Potlatch as "unassuming," and I think I shall follow suit in describing the park myself.

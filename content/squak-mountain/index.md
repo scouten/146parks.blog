@@ -12,7 +12,6 @@ markers = "markers.js"
 track = "track.kml"
 bounds = {sw = [47.480, -122.061], ne = [47.506, -122.041]}
 cover = "es-4327-076"
-comments = true
 +++
 
 This park is _just_ what the doctor ordered. Literally. I was encouraged to get out and sweat more. Two words come to mind from this hike: _unrelentingly **up**_.

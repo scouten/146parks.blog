@@ -13,7 +13,6 @@ lon = -120.204
 markers = "markers.js"
 bounds = {sw = [47.698, -120.214], ne = [47.718, -120.194]}
 cover = "es-4388-298"
-comments = true
 +++
 
 Located on the Columbia River a few miles north of Wenatchee, Daroga State Park offers sandy beaches, camp sites, and some easy trails along the water.

@@ -12,7 +12,6 @@ markers = "markers.js"
 track = "2021-06-20-rasar.kml"
 bounds = {sw = [48.504, -121.913], ne = [48.524, -121.893]}
 cover = "es-4222-111p"
-comments = true
 +++
 
 Rasar is a compact park on the banks of the Skagit River, but it offers quite a variety of experiences nonetheless.

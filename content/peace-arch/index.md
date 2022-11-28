@@ -13,7 +13,6 @@ markers = "markers.js"
 track = "trackxxx.kml"
 bounds = {sw = [48.991, -122.764], ne = [49.011, -122.744]}
 cover = "es-4273-026"
-comments = true
 +++
 
 Peace Arch Historical State Park honors the peaceful relationship between the US and Canada. The arch itself was completed in 1921; the park and picnic grounds surrounding it on both sides followed in the 1930s. The principal highway between Seattle and Vancouver (I-5 / BC-99) straddles the Arch.

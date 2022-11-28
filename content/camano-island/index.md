@@ -11,7 +11,6 @@ lon = -122.491
 markers = "markers.js"
 bounds = {sw = [48.113, -122.501], ne = [48.133, -122.481]}
 cover = "es-4249-189"
-comments = true
 +++
 
 After visiting Cama Beach, my friend and I took an easy stroll around Camano Island State Park. The key attraction was the beach with lots of driftwood.

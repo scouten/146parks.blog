@@ -11,7 +11,6 @@ near = "Kirkland"
 markers = "markers.js"
 track = "2020-12-06-bridle-trails.kml"
 cover = "es-4156-046"
-comments = true
 +++
 
 This is perhaps less than a favorite park of mine: It’s urban, heavily traveled, and doesn’t offer the iconic views that many other parks in Washington’s system would. That said, it did offer a good opportunity for me to spend a couple of hours with a close friend who lives in Seattle as we walked the perimeter of the park grounds.
