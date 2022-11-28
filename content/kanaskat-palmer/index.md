@@ -12,7 +12,6 @@ markers = "markers.js"
 track = "track.kml"
 bounds = {sw = [47.309, -121.913], ne = [47.329, -121.893]}
 cover = "es-4285-056"
-comments = true
 +++
 
 This park feels like two parks in one: There is the park with the gentle hiking trails and campgrounds. And then there is the park that serves as launch point for some high-adrenaline kayak adventures.

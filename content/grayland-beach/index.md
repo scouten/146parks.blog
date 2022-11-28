@@ -11,7 +11,6 @@ near = "Grayland"
 markers = "markers.js"
 bounds = {sw = [46.782, -124.112], ne = [46.802, -124.092]}
 cover = "es-4244-060"
-comments = true
 +++
 
 Miles of sandy beach? Dozens of campsites? This is Grayland Beach State Park, where you've got lots of room to stretch out and take a moment for yourself.

@@ -11,7 +11,6 @@ lon = -122.884
 markers = "markers.js"
 bounds = {sw = [47.273, -122.894], ne = [47.293, -122.874]}
 cover = "es-4265-024"
-comments = true
 +++
 
 Jarrell Cove is reputed to be a busy and popular campsite for families. Situated on Harstine Island between Shelton and Bremerton on a corner of the south Puget Sound, it's home to some quiet campsites, some short hiking trails, and beautiful water views.

@@ -12,7 +12,6 @@ near = "east of Manchester"
 markers = "markers.js"
 track = "2021-04-18-blake-island.kml"
 cover = "es-4188-022"
-comments = true
 +++
 
 Blake Island Marine State Park is a popular island boating destination near my home. I've lived in this area for nearly two decades and not managed to visit it before this year. On the April day that I visited, there were people from all kinds of watercraft visiting: kayaks, sailboats, motorboats, and the Argosy tourist boat from Seattle.

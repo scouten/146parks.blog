@@ -10,7 +10,6 @@ lat = 46.5420
 lon = -122.8222
 near = "south of Chehalis"
 cover = "es-4159-005"
-comments = true
 +++
 
 Jackson House State Park is Washington’s second-oldest state park; it contains a reconstruction of one of the earliest white settlements in the precursor to Washington state.

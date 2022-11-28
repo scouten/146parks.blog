@@ -11,7 +11,6 @@ near = "northeast of Olympia"
 markers = "markers.js"
 bounds = {sw = [47.11, -122.787], ne = [47.13, -122.767]}
 cover = "es-4235-010"
-comments = true
 +++
 
 For those who live in the South Puget Sound region, Tolmie offers a big back yard: a place to dig for clams or just enjoy the beach. When I visited on a sunny Saturday afternoon, it was very popular.

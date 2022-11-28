@@ -11,7 +11,6 @@ near = "Vantage"
 markers = "markers.js"
 track = "track.kml"
 cover = "es-4176-039"
-comments = true
 +++
 
 The grasslands above the Columbia River near Vantage offer expansive views and a peek back in time. This park is named for a ginkgo and sequoia forest – preserved by volcanic activity – that existed some 15 million years ago.

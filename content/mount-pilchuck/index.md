@@ -12,7 +12,6 @@ markers = "markers.js"
 track = "2021-07-25-mount-pilchuck.kml"
 bounds = {sw = [48.052, -121.817], ne = [48.072, -121.797]}
 cover = "es-4236-109"
-comments = true
 +++
 
 Miles of boulders to climb over? Miles of man-eating potholes to drive through? One of the most difficult hikes in the State Park system? Sure! Sign me up!

@@ -11,7 +11,6 @@ lon = -122.261
 markers = "markers.js"
 bounds = {sw = [47.722, -122.271], ne = [47.742, -122.251]}
 cover = "es-4256-114"
-comments = true
 +++
 
 For decades, Saint Edward was the Northwest's preeminent Catholic seminary. It closed in 1976 and shortly thereafter became a state park.

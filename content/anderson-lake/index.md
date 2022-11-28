@@ -12,7 +12,6 @@ markers = "markers.js"
 track = "2021-06-27-anderson-lake.kml"
 bounds = {sw = [48.008, -122.812], ne = [48.028, -122.792]}
 cover = "es-4224-017"
-comments = true
 +++
 
 Sadly, the lake for which this park is named is no longer the chief attraction. A long-running algae bloom has made the lake water unsafe for most animals, including humans, to touch, so boating, swimming, and the like are now off limits.

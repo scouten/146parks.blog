@@ -12,7 +12,6 @@ markers = "markers.js"
 track = "track.kml"
 bounds = {sw = [47.023, -124.176], ne = [47.043, -124.157]}
 cover = "es-4303-063"
-comments = true
 +++
 
 For my first park of the new year, I went to the coast on a sunny Sunday afternoon. Ocean City State Park is nestled in an unassuming part of the coast just north of the city for which it is named.

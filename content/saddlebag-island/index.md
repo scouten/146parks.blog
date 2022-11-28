@@ -13,7 +13,6 @@ markers = "markers.js"
 track = "2021-07-11-saddlebag-island.kml"
 bounds = {sw = [48.485, -122.555], ne = [48.543, -122.475]}
 cover = "es-4233-105"
-comments = true
 +++
 
 Never have I ever seen _so_ many herons in one place! I didn't manage to capture the sound effects, but they make a sound that's a lot like pigs grunting. Lots of flying pigs having turf battles amongst the treetops.

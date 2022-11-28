@@ -10,7 +10,6 @@ lon = -122.3017
 near = "east of Washougal"
 markers = "markers.js"
 cover = "es-4204-057p"
-comments = true
 +++
 
 Reed Island State Park is, as the name might suggest, an island park. It's a bit east of Portland/Vancouver in a surprisingly quiet part of the Columbia River.

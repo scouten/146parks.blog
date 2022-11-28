@@ -11,7 +11,6 @@ near = "west of Mount Vernon"
 markers = "markers.js"
 bounds = {sw = [48.479, -122.492], ne = [48.499, -122.472]}
 cover = "es-4222-017"
-comments = true
 +++
 
 Bay View State Park borders the Padilla Bay National Estuarine Research Reserve, where marine biologists and other scientists study the plants and animals that call this bay home.

@@ -15,7 +15,6 @@ markers = "markers.js"
 track = "track.kml"
 bounds = {sw = [47.583, -119.405], ne = [47.603, -119.337]}
 cover = "es-4390-091"
-comments = true
 +++
 
 Back in the Ice Age, floods carved dramatic canyons out of the bedrock and left waterfalls much larger than Niagara Falls behind. Today, those falls have dried up but the scenery remains.

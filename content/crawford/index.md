@@ -14,7 +14,6 @@ lon = -117.371
 markers = "markers.js"
 bounds = {sw = [48.988, -117.381], ne = [49.008, -117.361]}
 cover = "es-4390-310"
-comments = true
 +++
 
 Located near the Canadian border, this park seems fairly basic on the surface. Dig a little deeper (i.e. arrange a tour at the right time) and you'll find some views unlike any other of Washington's state parks.

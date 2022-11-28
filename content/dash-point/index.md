@@ -12,7 +12,6 @@ markers = "markers.js"
 track = "track.kml"
 bounds = {sw = [47.304, -122.418], ne = [47.324, -122.398]}
 cover = "es-4286-059"
-comments = true
 +++
 
 The official description of this park says that the highlight is the beach. But, for me, it was the miles and miles of hiking trails.
