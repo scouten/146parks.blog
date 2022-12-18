@@ -23,17 +23,20 @@ Perhaps the more important thing is that there's a roughly half-mile hike from t
 
 {{ es_image(id="es-4433-093") }}
 {{ es_image(id="es-4433-095") }}
+{{ es_image(id="es-4433-096") }}
 {{ es_image(id="es-4433-098") }}
 {{ es_image(id="es-4433-102") }}
 {{ es_image(id="es-4433-103") }}
 {{ es_image(id="es-4433-106") }}
 {{ es_image(id="es-4433-109") }}
+{{ es_image(id="es-4433-112") }}
+{{ es_image(id="es-4433-118") }}
 
 Looks like somebody left a natural love note on the trail just before we hiked out ...
 
-{{ es_image(id="es-4433-118") }}
 {{ es_image(id="es-4433-122") }}
+{{ es_image(id="es-4433-130") }}
 
 For more information:
 
-* [State Parks web site](https://www.parks.wa.gov/553/Obstruction-Pass)
+* [State Parks web site](https://parks.state.wa.us/404/LostLake)
