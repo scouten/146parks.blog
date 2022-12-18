@@ -140,14 +140,6 @@ lat = 48.6778
 lon = -122.8316
 
 [[extra.parks]]
-name = "Obstruction Pass"
-gh_issue_id = 82
-link = "https://parks.state.wa.us/553/Obstruction-Pass"
-lat = 48.6020
-lon = -122.8285
-visited = true
-
-[[extra.parks]]
 name = "Pacific Pines"
 gh_issue_id = 62
 link = "https://parks.state.wa.us/558/Pacific-Pines"
