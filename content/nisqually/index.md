@@ -47,4 +47,4 @@ After a very rainy season, the river is running very fast!
 
 For more information:
 
-* [State Parks web site](https://parks.state.wa.us/404/LostLake)
+* [State Parks web site](https://www.parks.wa.gov/336/Nisqually-State-Park)
