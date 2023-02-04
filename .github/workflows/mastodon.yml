@@ -1,0 +1,31 @@
+name: Publish to Mastodon
+
+on:
+  repository_dispatch:
+  workflow_dispatch:
+
+jobs:
+  zoladon:
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+        # token: ${{ secrets.GH_ADMIN_COMMIT_TOKEN }} (needed?)
+
+    - name: Publish to Mastodon
+      run: .github/workflows/zoladon publish
+      env:
+        ZOLADON_SITE: ${{ secrets.ZOLADON_SITE }}
+        ZOLADON_TOKEN: ${{ secrets.ZOLADON_TOKEN }}
+
+    - name: Commit updated files
+      uses: stefanzweifel/git-auto-commit-action@v4
+      id: commit
+      with:
+        commit_message: Add Mastodon publish links
+        commit_user_name: Zoladon bot
+        commit_user_email: zoladon@scouten.me
+        file_pattern: "content"
