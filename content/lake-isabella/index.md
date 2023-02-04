@@ -6,6 +6,7 @@ weight = 116
 [taxonomies]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@146parks/109803936188667012"
 seq = 116
 near = "south of Shelton"
 lat = 47.165
