@@ -21,4 +21,5 @@ mastodon_site_account = "@146parks@ericscouten.social"
 mastodon_site_url = "https://ericscouten.social/@146parks"
 credits = "by @scouten@techhub.social"
 hashtags = "#travel #photography #waparks #pnw"
+es_site = "146p"
 map_clustering = false

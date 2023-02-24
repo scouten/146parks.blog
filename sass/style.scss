@@ -67,6 +67,10 @@ ul {
     margin: -1em auto;
 }
 
+cta {
+    background-color: darken($main-section-background, 10%);
+}
+
 cta inner {
     font-size: 90%;
     line-height: 1.5em;
