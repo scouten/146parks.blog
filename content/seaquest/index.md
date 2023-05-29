@@ -4,6 +4,7 @@ date = 2023-05-20
 weight = 117
 
 [extra]
+mastodon_url = "https://ericscouten.social/@146parks/110449984694547732"
 seq = 117
 distance = "4.5 km / 2.8 mi"
 near = "east of Castle Rock"
