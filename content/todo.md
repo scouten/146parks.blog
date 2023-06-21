@@ -117,14 +117,6 @@ lat = 46.9970
 lon = -123.5945
 
 [[extra.parks]]
-name = "Lewis and Clark Trail"
-gh_issue_id = 122
-link = "https://parks.state.wa.us/539/Lewis-Clark-Trail"
-lat = 46.2889
-lon = -118.0711
-summer_only = true
-
-[[extra.parks]]
 name = "Matia Island"
 gh_issue_id = 79
 link = "https://parks.state.wa.us/544/Matia-Island"
@@ -178,13 +170,6 @@ link = "https://parks.state.wa.us/573/Riverside"
 lat = 47.7826
 lon = -117.5416
 summer_only = true
-
-[[extra.parks]]
-name = "Seaquest"
-gh_issue_id = 137
-link = "https://parks.state.wa.us/581/Seaquest"
-lat = 46.2978
-lon = -122.8194
 
 [[extra.parks]]
 name = "Spokane River Centennial Trail"
