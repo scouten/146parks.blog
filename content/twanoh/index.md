@@ -34,4 +34,4 @@ In the peak of summer, this park is overrun with picnickers and swimmers. Come b
 
 For more information:
 
-* [State Parks web site](https://parks.state.wa.us/404/LostLake)
+* [State Parks web site](https://www.parks.wa.gov/294/Twanoh)
