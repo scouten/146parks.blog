@@ -39,4 +39,4 @@ Looks like somebody left a natural love note on the trail just before we hiked o
 
 For more information:
 
-* [State Parks web site](https://parks.state.wa.us/404/LostLake)
+* [State Parks web site](https://www.parks.wa.gov/553/Obstruction-Pass)
