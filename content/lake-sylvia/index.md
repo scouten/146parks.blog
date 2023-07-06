@@ -4,6 +4,7 @@ date = 2023-07-04
 weight = 119
 
 [extra]
+mastodon_url = "https://ericscouten.social/@146parks/110667654047648768"
 seq = 119
 near = "north of Montesano"
 lat = 46.998
