@@ -110,13 +110,6 @@ lon = -121.2878
 trail = true
 
 [[extra.parks]]
-name = "Lake Sylvia"
-gh_issue_id = 132
-link = "https://parks.state.wa.us/534/Lake-Sylvia"
-lat = 46.9970
-lon = -123.5945
-
-[[extra.parks]]
 name = "Matia Island"
 gh_issue_id = 79
 link = "https://parks.state.wa.us/544/Matia-Island"
