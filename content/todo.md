@@ -73,13 +73,6 @@ lat = 48.1571
 lon = -122.6767
 
 [[extra.parks]]
-name = "Fort Worden"
-gh_issue_id = 29
-link = "https://parks.state.wa.us/511/Fort-Worden"
-lat = 48.1417
-lon = -122.7657
-
-[[extra.parks]]
 name = "Hoko River"
 link = "https://parks.state.wa.us/321/Hoko-River"
 lat = 48.2791
