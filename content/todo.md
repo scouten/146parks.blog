@@ -79,14 +79,6 @@ lat = 48.2791
 lon = -124.3693
 
 [[extra.parks]]
-name = "James Island"
-gh_issue_id = 70
-link = "https://parks.state.wa.us/522/James-Island"
-lat = 48.5112
-lon = -122.7752
-water_only = true
-
-[[extra.parks]]
 name = "Jones Island"
 gh_issue_id = 74
 link = "https://parks.state.wa.us/525/Jones-Island"
