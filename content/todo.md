@@ -66,13 +66,6 @@ lat = 46.0855
 lon = -117.1687
 
 [[extra.parks]]
-name = "Fort Casey"
-gh_issue_id = 40
-link = "https://parks.state.wa.us/505/Fort-Casey"
-lat = 48.1571
-lon = -122.6767
-
-[[extra.parks]]
 name = "Hoko River"
 link = "https://parks.state.wa.us/321/Hoko-River"
 lat = 48.2791
