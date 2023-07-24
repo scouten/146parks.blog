@@ -96,13 +96,6 @@ lon = -122.8417
 water_only = true
 
 [[extra.parks]]
-name = "Moran"
-gh_issue_id = 81
-link = "https://parks.state.wa.us/547/Moran"
-lat = 48.6778
-lon = -122.8316
-
-[[extra.parks]]
 name = "Pacific Pines"
 gh_issue_id = 62
 link = "https://parks.state.wa.us/558/Pacific-Pines"
