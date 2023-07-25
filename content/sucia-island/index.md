@@ -4,6 +4,7 @@ date = 2023-07-24
 weight = 124
 
 [extra]
+mastodon_url = "https://ericscouten.social/@146parks/110776268793680855"
 seq = 124
 designator = "Marine State Park"
 near = "north of Eastsound"
