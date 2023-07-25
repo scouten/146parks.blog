@@ -5,7 +5,7 @@ weight = 124
 
 [extra]
 seq = 124
-desighnator = "Marine State Park"
+designator = "Marine State Park"
 near = "north of Eastsound"
 lat = 48.740
 lon = -122.905
@@ -78,6 +78,8 @@ This tree has stories to tell!
 I totally got photo-bombed here, and I kind of love it:
 
 {{ es_image(id = "es-4559-256") }}
+
+(That, by the way, is a view of Mount Constitution from [Moran State Park](/moran/), which I had visited two days prior, as seen from the south beach of Sucia Island.)
 
 For more information:
 
