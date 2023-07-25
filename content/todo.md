@@ -44,13 +44,6 @@ lon = -118.6623
 summer_only = true
 
 [[extra.parks]]
-name = "Deception Pass"
-gh_issue_id = 43
-link = "https://parks.state.wa.us/497/Deception-Pass"
-lat = 48.4071
-lon = -122.6447
-
-[[extra.parks]]
 name = "Doe Island"
 gh_issue_id = 84
 link = "https://parks.state.wa.us/498/Doe-Island"
