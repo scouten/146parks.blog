@@ -16,7 +16,7 @@ bounds = {sw = [48.711, -122.920], ne = [48.769, -122.889]}
 cover = "es-4559-256"
 +++
 
-The name Sucia comes from an early Spanish explorer who in 1791 declared the island "dirty" and named it _Isla Sucia_ (literally: "Dirty Island). I have no idea why -- it's one of the cleanest and prettiest places I've seen in a long time.
+The name Sucia comes from an early Spanish explorer who in 1791 declared the island "dirty" and named it _Isla Sucia_ (literally: "Dirty Island"). I have no idea why -- it's one of the cleanest and prettiest places I've seen in a long time.
 
 <!-- more -->
 
