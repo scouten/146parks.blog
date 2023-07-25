@@ -160,14 +160,6 @@ lon = -122.9044
 water_only = true
 
 [[extra.parks]]
-name = "Sucia Island"
-gh_issue_id = 78
-link = "https://parks.state.wa.us/594/Sucia-Island"
-lat = 48.7840
-lon = -122.9536
-water_only = true
-
-[[extra.parks]]
 name = "Turn Island"
 gh_issue_id = 73
 link = "https://parks.state.wa.us/295/Turn-Island"
