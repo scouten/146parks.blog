@@ -4,6 +4,7 @@ date = 2023-07-25
 weight = 125
 
 [extra]
+mastodon_url = "https://ericscouten.social/@146parks/110778615859144865"
 seq = 125
 near = "south of Anacortes"
 visited = "many times 2007 – 2023"
