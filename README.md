@@ -14,7 +14,7 @@ Everything else is pretty much of my own construction.
 
 ## (Non-)License
 
-The content in this repo is copyrighted 1996-2022 by Eric Scouten and not generally available under any open-source license.
+The content in this repo is copyrighted 1996-2023 by Eric Scouten and not generally available under any open-source license.
 
 I prefer to think of this as "inspire-ware."
 
