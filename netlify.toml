@@ -1,9 +1,11 @@
 [build]
 publish = "public"
-command = "zola build"
+command = "zola build" # -- restore when back to published version
+# command = "curl -sL https://github.com/scouten/zola/releases/download/v0.16.1.es1/zola.tar.gz | tar zxv && chmod +x ./zola && ./zola build"
+
 
 [build.environment]
-ZOLA_VERSION = "0.17.2"
+ZOLA_VERSION = "0.17.2" # -- restore when back to published version
 
 # The magic for deploying previews of branches.
 # We need to override the base url with whatever url Netlify assigns to our
@@ -11,7 +13,8 @@ ZOLA_VERSION = "0.17.2"
 # `$DEPLOY_PRIME_URL`.
 
 [context.deploy-preview]
-command = "zola build --base-url $DEPLOY_PRIME_URL"
+command = "zola build --base-url $DEPLOY_PRIME_URL" # -- restore when back to published version
+# command = "curl -sL https://github.com/scouten/zola/releases/download/v0.16.1.es1/zola.tar.gz | tar zxv && chmod +x ./zola && ./zola build --base-url $DEPLOY_PRIME_URL"
 
 # Using 302 (temporary) redirects because I might someday
 # want to have a separate welcome page. We'll see.
