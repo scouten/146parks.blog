@@ -89,14 +89,6 @@ lon = -122.8417
 water_only = true
 
 [[extra.parks]]
-name = "Pacific Pines"
-gh_issue_id = 62
-link = "https://parks.state.wa.us/558/Pacific-Pines"
-lat = 46.5015
-lon = -124.0551
-summer_only = true
-
-[[extra.parks]]
 name = "Palouse to Cascades"
 gh_issue_id = 94
 link = "https://parks.state.wa.us/521/Palouse-to-Cascades"
