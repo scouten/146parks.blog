@@ -35,8 +35,9 @@ miniheader {
         height: 32px;
         color: $dark-accent-background;
         font-family: interstate, sans-serif;
-        font-size: 90%;
+        font-size: 85%;
         font-weight: 700;
+        line-height: 2.25em;
 
         a {
             color: $dark-accent-background !important;
