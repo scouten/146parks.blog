@@ -21,7 +21,7 @@ The bridge at Deception Pass has to be one of the most-photographed locations in
 
 I've lived in Washington for nearly 20 years and yet had not explored the _rest_ of this park until this year. I was happy to find so much more beyond the iconic photos here.
 
-But first ... the bridge. I spent a long weekend here with my friend [Peter Hawkins](https://www.phawkinsphoto.com), when he came through for a visit in 2007. We had the luck of a colorful sunset one evening and foggy weather the next morning. Here's what I made of those conditions:
+But first ... the bridge. I spent a long weekend here with my friend [Peter Hawkins](https://www.phawkinsphoto.com) when he came through for a visit in 2007. We had the luck of a colorful sunset one evening and foggy weather the next morning. Here's what I made of those conditions:
 
 {{ es_image(id = "es-1083-047") }}
 
