@@ -16,7 +16,7 @@ bounds = {sw = [46.847, -122.34], ne = [46.867, -122.32]}
 cover = "es-4461-076"
 +++
 
-This is a quiet and modest park -- officially titled as "under development," but there are some good hikes to be had here.
+This is a quiet and modest park -- officially titled as "under development" -- but there are some good hikes to be had here.
 
 <!-- more -->
 
