@@ -22,10 +22,8 @@ $footer-font-family: interstate, sans-serif;
 
 header {
     background: $dark-accent-background;
-    height: 13em;
-    padding: 2em 0;
+    display: none; // until we re-establish search
     color: white;
-    position: static;
 
     .brand {
         margin-top: 1em;

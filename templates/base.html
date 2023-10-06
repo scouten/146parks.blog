@@ -11,23 +11,9 @@
 {% endblock favicon %}
 
 {% block brand %}
-  <div class="brand">
-    <a href="/"><img src="/common/146-parks.png" width="246" height="80"></a>
-  </div>
 {% endblock brand %}
 
 {% block nav %}
-  {% if current_path and current_path == "/" %}
-    {% set current_section = "parks" %}
-  {% elif current_path %}
-    {% set current_section = current_path | as_str | split(pat="/") | nth(n=1) %}
-  {% else %}
-    {% set current_section = "404" %}
-  {% endif %}
-  <ul class="nav {{ current_section }}">
-    <li class="parks"><a href="/">Blog</a></li>
-    <li class="map"><a href="/map">Map</a></li>
-  </ul>
 {% endblock nav %}
 
 {% block miniheader %}
