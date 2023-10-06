@@ -1,6 +1,15 @@
 {% extends "base.html" -%}
 
 {% block content -%}
+<div class="logo" style="background-color: red;">
+  <p>
+    <a href="/"><img src="/common/146-parks.png" width="246" height="80"></a>
+  </p>
+  <div class="146p-search" style="background-color: blue; position: absolute; max-width: 15em; top: 0; right: 0;">
+    {%- include "search.html" -%}
+  </div>
+</div>
+
 <div class="welcome">
 {{ section.content | safe }}
 </div>
