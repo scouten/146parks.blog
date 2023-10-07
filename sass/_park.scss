@@ -2,7 +2,7 @@
     .title-assembly {
         display: flex;
         max-width: $preferred-text-width;
-        margin: 3em auto 4em auto;
+        margin: 3em auto 3em auto;
         color: white;
 
         .sequence-assembly {
@@ -73,12 +73,19 @@
             }
         }
 
-        .visited {
+        .visited, .home-link {
             color: white;
             opacity: 50%;
             font-family: interstate, sans-serif;
             font-size: 80%;
             font-weight: 400;
+
+            a { color: white !important; }
+
+            .icon {
+                width: 1.7em;
+                padding-right: .5em;
+            }
         }
     }
 
