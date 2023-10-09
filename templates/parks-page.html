@@ -74,9 +74,6 @@
 <div id="next_prev">
   {% if page.higher and page.higher.extra.seq %}
   <div id="next">
-    <div class="arrow-l">
-      <a href="{{ page.higher.permalink | safe }}"><img src="/common/arrow-l.png" alt="" width="32" height="32"></a>
-    </div>
     <div class="sequence-assembly">
       <a href="{{ page.higher.permalink | safe }}"><img src="/common/wa-shape.png" alt="" width="49" height="32"></a>
       <div class="sequence"><a href="{{ page.higher.permalink | safe }}">{% if page.higher.extra.seq %}{{ page.higher.extra.seq }}{% endif %}</a></div>
@@ -88,6 +85,9 @@
       </a>
     </div>
     {% endif %}
+    <div class="arrow-r">
+      <a href="{{ page.higher.permalink | safe }}"><img src="/common/arrow-r.png" alt="" width="32" height="32"></a>
+    </div>
   </div>
   {% endif %}
   {% if page.higher and page.higher.extra.seq and page.lower %}
@@ -95,6 +95,9 @@
   {% endif %}
   {% if page.lower %}
   <div id="prev">
+    <div class="arrow-l">
+      <a href="{{ page.lower.permalink | safe }}"><img src="/common/arrow-l.png" alt="" width="32" height="32"></a>
+    </div>
     <div class="sequence-assembly">
       <a href="{{ page.lower.permalink | safe }}"><img src="/common/wa-shape.png" alt="" width="49" height="32"></a>
       <div class="sequence"><a href="{{ page.lower.permalink | safe }}">{% if page.lower.extra.seq %}{{ page.lower.extra.seq }}{% endif %}</a></div>
@@ -106,9 +109,6 @@
       </a>
     </div>
     {% endif %}
-    <div class="arrow-r">
-      <a href="{{ page.lower.permalink | safe }}"><img src="/common/arrow-r.png" alt="" width="32" height="32"></a>
-    </div>
   </div>
   {% endif %}
 </div>
