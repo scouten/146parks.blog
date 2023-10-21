@@ -28,3 +28,5 @@ es_site = "146p"
 map_clustering = false
 article_type = "park blogs"
 fathom_site_id = "JFNVYDSS"
+hyvor_site_id = 9838
+comments_enabled_default = true
