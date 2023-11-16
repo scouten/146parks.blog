@@ -39,7 +39,7 @@ We hiked the Woody Trail from the main park entrance as far as Middle Falls. Thi
 Middle Falls is the iconic view from this park and very well worth the hike.
 
 {{ es_image(id="es-4317-018", caption = "Middle Falls") }}
-{{ es_image(id="lr-1709", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-223-1709", creator = "Lisa Rozmyn") }}
 
 {{ es_image(id="es-4317-032") }}
 {{ es_image(id="es-4317-042") }}
