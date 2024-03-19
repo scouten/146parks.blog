@@ -20,6 +20,7 @@ Battle Ground Lake State Park is a quiet retreat from the busy-ness that surroun
 I spent a couple hours hiking on the trails that surround the park’s namesake lake and barely saw another soul, aside from a few people riding their horses.
 
 {{ es_image(id="es-4162-021") }}
+
 Not a bad way to welcome in the new year.
 
 Some day I shall have to return to check out the rental cabins.
@@ -33,6 +34,10 @@ Some day I shall have to return to check out the rental cabins.
 {{ es_image(id="es-4162-031") }}
 {{ es_image(id="es-4162-032") }}
 {{ es_image(id="es-4162-038") }}
+
+The eagles seemed to enjoy the park, too:
+
+{{ es_vimeo(id="es-4162-010" vmid="924857271") }}
 
 For more information:
 
