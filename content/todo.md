@@ -52,13 +52,6 @@ lon = -122.7879
 water_only = true
 
 [[extra.parks]]
-name = "Fields Spring"
-gh_issue_id = 128
-link = "https://parks.state.wa.us/505/Fort-Casey"
-lat = 46.0855
-lon = -117.1687
-
-[[extra.parks]]
 name = "Hoko River"
 link = "https://parks.state.wa.us/321/Hoko-River"
 lat = 48.2791
