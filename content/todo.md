@@ -112,6 +112,7 @@ link = "https://parks.state.wa.us/573/Riverside"
 lat = 47.7826
 lon = -117.5416
 summer_only = true
+seq = 129
 
 [[extra.parks]]
 name = "Spokane River Centennial Trail"
