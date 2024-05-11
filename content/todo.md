@@ -106,15 +106,6 @@ lon = -123.1681
 water_only = true
 
 [[extra.parks]]
-name = "Riverside / Nine Mile Rec Area"
-gh_issue_id = 37
-link = "https://parks.state.wa.us/573/Riverside"
-lat = 47.7826
-lon = -117.5416
-summer_only = true
-seq = 129
-
-[[extra.parks]]
 name = "Spokane River Centennial Trail"
 gh_issue_id = 38
 link = "https://parks.state.wa.us/487/Centennial-Trail"
