@@ -36,6 +36,6 @@ Meanwhile, this monument is a dismal rock pyramid that sits in a dreary field. T
 
 That's probably for the best.
 
-{{ es_image(id = "es-4645-009", caption = "Spokane Plains Battlefield State Park Heritage Site, north of Medical Lake, Washington") }}
+{{ es_image(id = "es-4645-009") }}
 
-{{ es_image(id = "es-4645-011", caption = "Spokane Plains Battlefield State Park Heritage Site, north of Medical Lake, Washington") }}
+{{ es_image(id = "es-4645-011") }}
