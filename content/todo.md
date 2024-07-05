@@ -42,6 +42,7 @@ link = "https://parks.state.wa.us/493/Curlew-Lake"
 lat = 48.7212
 lon = -118.6623
 summer_only = true
+seq = 130
 
 [[extra.parks]]
 name = "Doe Island"
@@ -106,6 +107,15 @@ lon = -123.1681
 water_only = true
 
 [[extra.parks]]
+name = "Ranald MacDonald"
+gh_issue_id = 34
+link = "https://parks.state.wa.us/493/Curlew-Lake"
+lat = 48.9473
+lon = -118.7676
+summer_only = true
+seq = 131
+
+[[extra.parks]]
 name = "Spokane River Centennial Trail"
 gh_issue_id = 38
 link = "https://parks.state.wa.us/487/Centennial-Trail"
@@ -120,6 +130,7 @@ link = "https://parks.state.wa.us/589/Squilchuck"
 lat = 47.3059
 lon = -120.3731
 summer_only = true
+seq = 132
 
 [[extra.parks]]
 name = "Stuart Island"
