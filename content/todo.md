@@ -36,15 +36,6 @@ lon = -118.3075
 trail = true
 
 [[extra.parks]]
-name = "Curlew Lake"
-gh_issue_id = 34
-link = "https://parks.state.wa.us/493/Curlew-Lake"
-lat = 48.7212
-lon = -118.6623
-summer_only = true
-seq = 130
-
-[[extra.parks]]
 name = "Doe Island"
 gh_issue_id = 84
 link = "https://parks.state.wa.us/498/Doe-Island"
