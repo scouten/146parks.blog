@@ -98,15 +98,6 @@ lon = -123.1681
 water_only = true
 
 [[extra.parks]]
-name = "Ranald MacDonald"
-gh_issue_id = 34
-link = "https://parks.state.wa.us/493/Curlew-Lake"
-lat = 48.9473
-lon = -118.7676
-summer_only = true
-seq = 131
-
-[[extra.parks]]
 name = "Spokane River Centennial Trail"
 gh_issue_id = 38
 link = "https://parks.state.wa.us/487/Centennial-Trail"
