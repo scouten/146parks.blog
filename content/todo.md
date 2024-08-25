@@ -106,15 +106,6 @@ lon = -117.5299
 trail = true
 
 [[extra.parks]]
-name = "Squilchuck"
-gh_issue_id = 19
-link = "https://parks.state.wa.us/589/Squilchuck"
-lat = 47.3059
-lon = -120.3731
-summer_only = true
-seq = 132
-
-[[extra.parks]]
 name = "Stuart Island"
 gh_issue_id = 76
 link = "https://parks.state.wa.us/593/Stuart-Island"
