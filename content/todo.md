@@ -122,14 +122,6 @@ lon = -122.9725
 water_only = true
 
 [[extra.parks]]
-name = "Wanapum Recreation Area"
-gh_issue_id = 107
-link = "https://parks.state.wa.us/288/Ginkgo-Petrified-Forest"
-lat = 46.9013
-lon = -119.9896
-summer_only = true
-
-[[extra.parks]]
 name = "Willapa Hills Trail"
 gh_issue_id = 146
 link = "https://parks.state.wa.us/1023/Willapa-Hills-Trail"
