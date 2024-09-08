@@ -4,6 +4,7 @@ date = 2024-06-30
 weight = 131
 
 [extra]
+mastodon_url = "https://ericscouten.social/@146parks/113099108730258207"
 seq = 131
 lat = 48.941
 lon = -118.759
