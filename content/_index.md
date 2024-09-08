@@ -11,6 +11,6 @@ There's a handy [map](/map) of parks I've visited. Or they're listed below with 
 
 ## See You in Spring 2025!
 
-There are relatively few parks remaining and most of them are bike trails or islands which will be easier or more comfortable to visit during the warmer months next year. I encourage you to <a href="#subscribe">subscribe to my mailing list</a> to follow along on my other travels and catch up when the park-visiting resumes next spring!
+There are relatively few parks remaining and most of them are bike trails or islands which will be easier or more comfortable to visit during the warmer months next year. I encourage you to <a href="#subscribe">subscribe to my mailing list</a> to follow along on [my other travels](https://ericscouten.travel) and catch up when the park-visiting resumes next spring!
 
 See you soon!
