@@ -4,6 +4,7 @@ date = 2024-05-04
 weight = 127
 
 [extra]
+mastodon_url = "https://ericscouten.social/@146parks/113099108461666650"
 seq = 127
 distance = "3.5 km / 2.2 mi"
 lat = 46.075

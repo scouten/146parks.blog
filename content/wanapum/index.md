@@ -4,6 +4,7 @@ date = 2024-09-07
 weight = 133
 
 [extra]
+mastodon_url = "https://ericscouten.social/@146parks/113099109246040123"
 seq = 133
 designator = "Recreation Area"
 lat = 46.908
