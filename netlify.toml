@@ -5,7 +5,7 @@ command = "zola build" # -- restore when back to published version
 
 
 [build.environment]
-ZOLA_VERSION = "0.17.2" # -- restore when back to published version
+ZOLA_VERSION = "0.19.2" # -- restore when back to published version
 
 # The magic for deploying previews of branches.
 # We need to override the base url with whatever url Netlify assigns to our
