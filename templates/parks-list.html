@@ -45,7 +45,11 @@
     </div>
     <div class="cover">
       <a href="{{ page.permalink | safe }}">
-        <img src="{{ page.permalink | safe }}/cover-{{ page.extra.cover | safe}}.jpg" width="1000" height="562">
+        {%- if page.extra.cover_cdn_key -%}
+          <img src="https://img.ericscouten.com/{{ page.extra.cover_cdn_key | safe}}/cover-{{ page.extra.cover | safe}}-1000w.jpg" width="1000" height="562">
+        {%- else -%}
+          <img src="{{ page.permalink | safe }}/cover-{{ page.extra.cover | safe}}.jpg" width="1000" height="562">
+        {%- endif -%}
       </a>
     </div>
     <div class="read-more">
