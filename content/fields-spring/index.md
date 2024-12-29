@@ -11,9 +11,10 @@ lat = 46.075
 lon = -117.172
 near = "south of Anatone"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2024/05/2024-05-04-fields-spring.kml"
 bounds = {sw = [46.065, -117.182], ne = [46.085, -117.162]}
 cover = "es-4644-193p"
+cover_cdn_key = "img/v1/2024/05/es-4644-193p"
 +++
 
 It's been a while since I've done a park visit. The 20 or so parks that remain on my to-do list are mostly open seasonally, so the project necessarily took a bit of a hiatus this past winter.
@@ -28,31 +29,31 @@ I corresponded briefly with this park's ranger before making this trip. She info
 
 Ah well.
 
-{{ es_image(id = "es-4644-165") }}
+{{ es_cdn_image(id = "es-4644-165", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4644-165") }}
 
-{{ es_image(id = "es-4644-174") }}
+{{ es_cdn_image(id = "es-4644-174", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4644-174") }}
 
-{{ es_image(id = "es-4644-180") }}
+{{ es_cdn_image(id = "es-4644-180", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4644-180") }}
 
-{{ es_image(id = "es-4644-184", caption = "Looking up through a group of trees.") }}
+{{ es_cdn_image(id = "es-4644-184", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4644-184", caption = "Looking up through a group of trees.") }}
 
-{{ es_image(id = "es-4644-188", caption = "A fallen tree in a grassy field.") }}
+{{ es_cdn_image(id = "es-4644-188", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4644-188", caption = "A fallen tree in a grassy field.") }}
 
-{{ es_image(id = "es-4644-191", caption = "Puffer Butte Warming Hut") }}
+{{ es_cdn_image(id = "es-4644-191", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4644-191", caption = "Puffer Butte Warming Hut") }}
 
-{{ es_image(id = "es-4644-193p") }}
+{{ es_cdn_image(id = "es-4644-193p", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4644-193p") }}
 
-{{ es_image(id = "es-4644-212") }}
+{{ es_cdn_image(id = "es-4644-212", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4644-212") }}
 
-{{ es_image(id = "es-4644-213") }}
+{{ es_cdn_image(id = "es-4644-213", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4644-213") }}
 
-{{ es_image(id = "es-4644-215") }}
+{{ es_cdn_image(id = "es-4644-215", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4644-215") }}
 
-{{ es_image(id = "es-4644-216", caption = "A tree trunk with moss growing on it.") }}
+{{ es_cdn_image(id = "es-4644-216", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4644-216", caption = "A tree trunk with moss growing on it.") }}
 
-{{ es_image(id = "es-4644-218") }}
+{{ es_cdn_image(id = "es-4644-218", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4644-218") }}
 
-{{ es_image(id = "es-4644-230") }}
+{{ es_cdn_image(id = "es-4644-230", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4644-230") }}
 
 For more information:
 
