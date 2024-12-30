@@ -13,6 +13,7 @@ designator = "Historical State Park"
 markers = "markers.js"
 bounds = {sw = [47.633, -117.658], ne = [47.653, -117.638]}
 cover = "es-4645-011"
+cover_cdn_key = "img/v1/2024/05/es-4645-011"
 +++
 
 I learned about this "park" only a few weeks ago. I knew that I would have to add it to this site, and that doing so would be uncomfortable.
@@ -37,6 +38,6 @@ Meanwhile, this monument is a dismal rock pyramid that sits in a dreary field. T
 
 That's probably for the best.
 
-{{ es_image(id = "es-4645-009") }}
+{{ es_cdn_image(id = "es-4645-009", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-009") }}
 
-{{ es_image(id = "es-4645-011") }}
+{{ es_cdn_image(id = "es-4645-011", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-011") }}
