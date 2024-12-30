@@ -13,6 +13,7 @@ near = "south of Vantage"
 markers = "markers.js"
 bounds = {sw = [46.898, -120.000], ne = [46.918, -119.980]}
 cover = "es-4690-072"
+cover_cdn_key = "img/v1/2024/09/es-4690-072"
 +++
 
 This morning I visited Wanapum Recreation Area on the shores of the Columbia River.
@@ -21,37 +22,37 @@ This morning I visited Wanapum Recreation Area on the shores of the Columbia Riv
 
 I arrived at sunrise, thinking that the sun would lend extra color and vibrance to the scenery. It did.
 
-{{ es_image(id = "es-4690-018") }}
+{{ es_cdn_image(id = "es-4690-018", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4690-018") }}
 
 The site offers about 50 tent and RV camp sites nestled amongst trees along the river. So as not to disturb anyone, I took my photo of the campground from the highway above.
 
-{{ es_image(id = "es-4690-021") }}
+{{ es_cdn_image(id = "es-4690-021", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4690-021") }}
 
 Once in Wanapum, I walked around the picnic grounds and beaches, which I had almost entirely to myself.
 
-{{ es_image(id = "es-4690-028") }}
+{{ es_cdn_image(id = "es-4690-028", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4690-028") }}
 
 {{ es_vimeo(id = "es-4690-036", vmid = "1007308160") }}
 
 You might notice it's a bit hazy. There are some forest fires around today. Later during the day, it became much more obvious.
 
-{{ es_image(id = "es-4690-039") }}
+{{ es_cdn_image(id = "es-4690-039", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4690-039") }}
 
-{{ es_image(id = "es-4690-054") }}
+{{ es_cdn_image(id = "es-4690-054", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4690-054") }}
 
-{{ es_image(id = "es-4690-057") }}
+{{ es_cdn_image(id = "es-4690-057", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4690-057") }}
 
-{{ es_image(id = "es-4690-063") }}
+{{ es_cdn_image(id = "es-4690-063", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4690-063") }}
 
-{{ es_image(id = "es-4690-072") }}
+{{ es_cdn_image(id = "es-4690-072", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4690-072") }}
 
-{{ es_image(id = "es-4690-078") }}
+{{ es_cdn_image(id = "es-4690-078", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4690-078") }}
 
-{{ es_image(id = "es-4690-079") }}
+{{ es_cdn_image(id = "es-4690-079", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4690-079") }}
 
-{{ es_image(id = "es-4690-081") }}
+{{ es_cdn_image(id = "es-4690-081", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4690-081") }}
 
-{{ es_image(id = "es-4690-082") }}
+{{ es_cdn_image(id = "es-4690-082", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4690-082") }}
 
 For more information:
 
