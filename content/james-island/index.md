@@ -13,6 +13,7 @@ markers = "markers.js"
 near = "west of Anacortes"
 bounds = {sw = [48.500, -122.782], ne = [48.520, -122.762]}
 cover = "es-4553-099"
+cover_cdn_key = "img/v1/2023/07/es-4553-099"
 +++
 
 This is a story of beauty, strength, and misadventure.
@@ -27,47 +28,47 @@ I paddled over from [Washington Park](https://www.anacorteswa.gov/560/Washington
 
 Here is the island as seen from maybe a quarter mile to its southeast:
 
-{{ es_image(id = "es-4553-045", caption = "Rosario Strait, near Anacortes, Washington") }}
+{{ es_cdn_image(id = "es-4553-045", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4553-045", caption = "Rosario Strait, near Anacortes, Washington") }}
 
 On this day it was super clear and I could see Mount Baker.
 
-{{ es_image(id = "es-4553-053", caption = "Rosario Strait, near Anacortes, Washington") }}
+{{ es_cdn_image(id = "es-4553-053", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4553-053", caption = "Rosario Strait, near Anacortes, Washington") }}
 
 I saw one writer refer to the island as being shaped like a dog bone and I think that analogy fits. (See <a href="#map">map</a> at bottom of this page and zoom in a bit.) The north half of the island is off-limits to the public as a Natural Forest Area, but there's plenty to do in the neck and south half of the island.
 
 The "neck" of the island, if you will, forms two crescent-shaped harbors on the east and west sides. I put in on the east side.
 
-{{ es_image(id = "es-4553-061") }}
+{{ es_cdn_image(id = "es-4553-061", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4553-061") }}
 
 There are some hiking trails on the south half of the island which I explored for a while and had totally to myself:
 
-{{ es_image(id = "es-4553-070") }}
+{{ es_cdn_image(id = "es-4553-070", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4553-070") }}
 
-{{ es_image(id = "es-4553-075") }}
+{{ es_cdn_image(id = "es-4553-075", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4553-075") }}
 
-{{ es_image(id = "es-4553-082") }}
+{{ es_cdn_image(id = "es-4553-082", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4553-082") }}
 
-{{ es_image(id = "es-4553-088") }}
+{{ es_cdn_image(id = "es-4553-088", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4553-088") }}
 
 Midway around the bluff trail, I got some nice views of nearby Decatur Island.
 
-{{ es_image(id = "es-4553-093") }}
+{{ es_cdn_image(id = "es-4553-093", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4553-093") }}
 
-{{ es_image(id = "es-4553-099") }}
+{{ es_cdn_image(id = "es-4553-099", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4553-099") }}
 
-{{ es_image(id = "es-4553-112") }}
+{{ es_cdn_image(id = "es-4553-112", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4553-112") }}
 
-{{ es_image(id = "es-4553-121") }}
+{{ es_cdn_image(id = "es-4553-121", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4553-121") }}
 
-{{ es_image(id = "es-4553-126") }}
+{{ es_cdn_image(id = "es-4553-126", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4553-126") }}
 
-{{ es_image(id = "es-4553-129") }}
+{{ es_cdn_image(id = "es-4553-129", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4553-129") }}
 
 And a couple of last photos before it was time to head back to Anacortes.
 
-{{ es_image(id = "es-4553-130") }}
+{{ es_cdn_image(id = "es-4553-130", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4553-130") }}
 
-{{ es_image(id = "es-4553-133") }}
+{{ es_cdn_image(id = "es-4553-133", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4553-133") }}
 
 So, that's the beauty of James Island.
 
