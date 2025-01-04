@@ -14,6 +14,7 @@ lon = -123.107
 markers = "markers.js"
 bounds = {sw = [47.155, -123.117], ne = [47.175, -123.097]}
 cover = "es-4470-055"
+cover_cdn_key = "img/v1/2023/01/es-4470-055"
 +++
 
 Lake Isabella State Park is quietly nestled in the woods south of Shelton. It's about half wide-open spaces and half forest. Supposedly, it's an "undeveloped" park, but there are a good set of hiking trails through the park.
@@ -22,20 +23,20 @@ Lake Isabella State Park is quietly nestled in the woods south of Shelton. It's 
 
 I started with the meadow just to the north of the main parking lot.
 
-{{ es_image(id="es-4470-025") }}
-{{ es_image(id="es-4470-029") }}
-{{ es_image(id="es-4470-031") }}
-{{ es_image(id="es-4470-040") }}
-{{ es_image(id="es-4470-046") }}
-{{ es_image(id="es-4470-048") }}
-{{ es_image(id="es-4470-049") }}
-{{ es_image(id="es-4470-055") }}
+{{ es_cdn_image(id = "es-4470-025", cdn_version = "v1", cdn_key = "img/v1/2023/01/es-4470-025") }}
+{{ es_cdn_image(id = "es-4470-029", cdn_version = "v1", cdn_key = "img/v1/2023/01/es-4470-029") }}
+{{ es_cdn_image(id = "es-4470-031", cdn_version = "v1", cdn_key = "img/v1/2023/01/es-4470-031") }}
+{{ es_cdn_image(id = "es-4470-040", cdn_version = "v1", cdn_key = "img/v1/2023/01/es-4470-040") }}
+{{ es_cdn_image(id = "es-4470-046", cdn_version = "v1", cdn_key = "img/v1/2023/01/es-4470-046") }}
+{{ es_cdn_image(id = "es-4470-048", cdn_version = "v1", cdn_key = "img/v1/2023/01/es-4470-048") }}
+{{ es_cdn_image(id = "es-4470-049", cdn_version = "v1", cdn_key = "img/v1/2023/01/es-4470-049") }}
+{{ es_cdn_image(id = "es-4470-055", cdn_version = "v1", cdn_key = "img/v1/2023/01/es-4470-055") }}
 
 And then I explored the woods to the south of the lot.
 
-{{ es_image(id="es-4470-059") }}
-{{ es_image(id="es-4470-069") }}
-{{ es_image(id="es-4470-076") }}
+{{ es_cdn_image(id = "es-4470-059", cdn_version = "v1", cdn_key = "img/v1/2023/01/es-4470-059") }}
+{{ es_cdn_image(id = "es-4470-069", cdn_version = "v1", cdn_key = "img/v1/2023/01/es-4470-069") }}
+{{ es_cdn_image(id = "es-4470-076", cdn_version = "v1", cdn_key = "img/v1/2023/01/es-4470-076") }}
 
 All told, it took me roughly an hour to explore most of the trails in the park. And it was surprisingly busy, given that there is really no publicity and no official listing (as of this writing, anyway) for this park on the [Washington State Parks](https://www.parks.wa.gov) site.
 
