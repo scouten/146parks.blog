@@ -13,6 +13,7 @@ lon = -122.829
 markers = "markers.js"
 bounds = {sw = [48.593, -122.839], ne = [48.613, -122.819]}
 cover = "es-4433-106"
+cover_cdn_key = "img/v1/2022/11/es-4433-106"
 +++
 
 Obstruction Pass State Park offers access to one of the few public beaches on Orcas Island and some explanations for how nature has reclaimed the landscape after the last glacial age retreated.
@@ -21,21 +22,21 @@ Obstruction Pass State Park offers access to one of the few public beaches on Or
 
 Perhaps the more important thing is that there's a roughly half-mile hike from the parking lot to a beach and camping area on the south edge of Orcas Island. Both the hiking trail and the beach offer a delightful natural setting.
 
-{{ es_image(id="es-4433-093") }}
-{{ es_image(id="es-4433-095") }}
-{{ es_image(id="es-4433-096") }}
-{{ es_image(id="es-4433-098") }}
-{{ es_image(id="es-4433-102") }}
-{{ es_image(id="es-4433-103") }}
-{{ es_image(id="es-4433-106") }}
-{{ es_image(id="es-4433-109") }}
-{{ es_image(id="es-4433-112") }}
-{{ es_image(id="es-4433-118") }}
+{{ es_cdn_image(id = "es-4433-093", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4433-093") }}
+{{ es_cdn_image(id = "es-4433-095", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4433-095") }}
+{{ es_cdn_image(id = "es-4433-096", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4433-096") }}
+{{ es_cdn_image(id = "es-4433-098", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4433-098") }}
+{{ es_cdn_image(id = "es-4433-102", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4433-102") }}
+{{ es_cdn_image(id = "es-4433-103", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4433-103") }}
+{{ es_cdn_image(id = "es-4433-106", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4433-106") }}
+{{ es_cdn_image(id = "es-4433-109", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4433-109") }}
+{{ es_cdn_image(id = "es-4433-112", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4433-112") }}
+{{ es_cdn_image(id = "es-4433-118", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4433-118") }}
 
 Looks like somebody left a natural love note on the trail just before we hiked out ...
 
-{{ es_image(id="es-4433-122") }}
-{{ es_image(id="es-4433-130") }}
+{{ es_cdn_image(id = "es-4433-122", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4433-122") }}
+{{ es_cdn_image(id = "es-4433-130", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4433-130") }}
 
 For more information:
 
