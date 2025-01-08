@@ -14,6 +14,7 @@ lon = -122.82
 markers = "markers.js"
 bounds = {sw = [46.284, -122.83], ne = [46.304, -122.81]}
 cover = "es-4407-049"
+cover_cdn_key = "img/v1/2022/08/es-4407-049"
 +++
 
 Those of us of a certain age remember where we were in May 1980 when Mount Saint Helens erupted. At the time, I was a youngster living in Minnesota, but even there our sunsets were affected for days afterward as the volcanic debris sifted its way eastward.
@@ -24,26 +25,26 @@ The mountain itself is part of a National Monument, and thus not in scope for th
 
 <!-- more -->
 
-{{ es_image(id="es-4407-017") }}
+{{ es_cdn_image(id = "es-4407-017", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4407-017") }}
 
 Step inside and you'll find many photographs and news articles preserved from the days and weeks leading up to the eruption.
 
-{{ es_image(id="es-4407-023") }}
-{{ es_image(id="es-4407-024") }}
-{{ es_image(id="es-4407-025") }}
-{{ es_image(id="es-4407-027") }}
-{{ es_image(id="es-4407-029") }}
-{{ es_image(id="es-4407-030") }}
-{{ es_image(id="es-4407-035") }}
+{{ es_cdn_image(id = "es-4407-023", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4407-023") }}
+{{ es_cdn_image(id = "es-4407-024", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4407-024") }}
+{{ es_cdn_image(id = "es-4407-025", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4407-025") }}
+{{ es_cdn_image(id = "es-4407-027", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4407-027") }}
+{{ es_cdn_image(id = "es-4407-029", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4407-029") }}
+{{ es_cdn_image(id = "es-4407-030", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4407-030") }}
+{{ es_cdn_image(id = "es-4407-035", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4407-035") }}
 
 Step outside of the Visitor Center building itself and there's a short hiking trail (roughly a mile long) that offers some views of the mountain and Silver Lake.
 
-{{ es_image(id="es-4407-043") }}
-{{ es_image(id="es-4407-045") }}
-{{ es_image(id="es-4407-047") }}
-{{ es_image(id="es-4407-049") }}
-{{ es_image(id="es-4407-052") }}
-{{ es_image(id="es-4407-068") }}
+{{ es_cdn_image(id = "es-4407-043", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4407-043") }}
+{{ es_cdn_image(id = "es-4407-045", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4407-045") }}
+{{ es_cdn_image(id = "es-4407-047", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4407-047") }}
+{{ es_cdn_image(id = "es-4407-049", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4407-049") }}
+{{ es_cdn_image(id = "es-4407-052", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4407-052") }}
+{{ es_cdn_image(id = "es-4407-068", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4407-068") }}
 
 For more information:
 
