@@ -13,6 +13,7 @@ lon = -119.936
 markers = "markers.js"
 bounds = {sw = [48.017, -119.946], ne = [48.037, -119.926]}
 cover = "es-4388-188"
+cover_cdn_key = "img/v1/2022/07/es-4388-188"
 +++
 
 Tucked into the mountains a half hour's drive from Lake Chelan, Alta Lake is a summer getaway with a large campground, swimming beach, and excellent mountain views.
@@ -23,15 +24,15 @@ I showed up in the morning of one of our hottest summer days and found people al
 
 The park was damaged in a forest fire in 2014, but much of the vegetation has regrown since then.
 
-{{ es_image(id="es-4388-181") }}
-{{ es_image(id="es-4388-186") }}
-{{ es_image(id="es-4388-188") }}
-{{ es_image(id="es-4388-190") }}
-{{ es_image(id="es-4388-191") }}
-{{ es_image(id="es-4388-192p") }}
-{{ es_image(id="es-4388-211") }}
-{{ es_image(id="es-4388-216") }}
-{{ es_image(id="es-4388-219") }}
+{{ es_cdn_image(id = "es-4388-181", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4388-181") }}
+{{ es_cdn_image(id = "es-4388-186", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4388-186") }}
+{{ es_cdn_image(id = "es-4388-188", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4388-188") }}
+{{ es_cdn_image(id = "es-4388-190", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4388-190") }}
+{{ es_cdn_image(id = "es-4388-191", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4388-191") }}
+{{ es_cdn_image(id = "es-4388-192p", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4388-192p") }}
+{{ es_cdn_image(id = "es-4388-211", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4388-211") }}
+{{ es_cdn_image(id = "es-4388-216", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4388-216") }}
+{{ es_cdn_image(id = "es-4388-219", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4388-219") }}
 
 For more information:
 
