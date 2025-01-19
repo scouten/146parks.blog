@@ -13,6 +13,7 @@ lon = -122.71
 markers = "markers.js"
 bounds = {sw = [48.301, -122.72], ne = [48.321, -122.7]}
 cover = "es-4364-174"
+cover_cdn_key = "img/v1/2022/06/es-4364-174"
 +++
 
 Situated on the west shore of Whidbey Island west of Oak Harbor, Joseph Whidbey State Park offers a few miles of hiking trails through forest and wetlands and a long sandy beach.
@@ -23,18 +24,18 @@ I'm told it is a great place for storm watching, but on the late spring day when
 
 I started with the hiking trails and found my way to the beach later.
 
-{{ es_image(id="es-4364-159") }}
-{{ es_image(id="es-4364-161") }}
-{{ es_image(id="es-4364-162") }}
-{{ es_image(id="es-4364-165") }}
+{{ es_cdn_image(id = "es-4364-159", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-159") }}
+{{ es_cdn_image(id = "es-4364-161", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-161") }}
+{{ es_cdn_image(id = "es-4364-162", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-162") }}
+{{ es_cdn_image(id = "es-4364-165", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-165") }}
 
 With the rainy spring we've had, some of the trails got pretty muddy:
 
-{{ es_image(id="es-4364-168") }}
-{{ es_image(id="es-4364-170") }}
-{{ es_image(id="es-4364-174") }}
-{{ es_image(id="es-4364-175p") }}
-{{ es_image(id="es-4364-200") }}
+{{ es_cdn_image(id = "es-4364-168", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-168") }}
+{{ es_cdn_image(id = "es-4364-170", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-170") }}
+{{ es_cdn_image(id = "es-4364-174", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-174") }}
+{{ es_cdn_image(id = "es-4364-175p", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-175p") }}
+{{ es_cdn_image(id = "es-4364-200", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-200") }}
 
 For more information:
 
