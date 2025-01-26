@@ -47,9 +47,13 @@
 
       map.setOptions('TERRAIN');
  
-      {% if page.extra.track %}
+      {% if page.extra.track or page.extra.track_log_key %}
       var kmlLayer = new google.maps.KmlLayer({
+        {%- if page.extra.track_log_key -%}
+        url: 'https://img.ericscouten.com/{{ page.extra.track_log_key | safe }}',
+        {%- else -%}
         url: '{{ current_url | safe }}{{ page.extra.track }}',
+        {%- endif -%}
         preserveViewport: true,
         map: map
       });
