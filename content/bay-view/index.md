@@ -11,6 +11,7 @@ near = "west of Mount Vernon"
 markers = "markers.js"
 bounds = {sw = [48.479, -122.492], ne = [48.499, -122.472]}
 cover = "es-4222-017"
+cover_cdn_key = "img/v1/2021/06/es-4222-017"
 +++
 
 Bay View State Park borders the Padilla Bay National Estuarine Research Reserve, where marine biologists and other scientists study the plants and animals that call this bay home.
@@ -23,15 +24,15 @@ I'll likely be back later in the summer, as it looks like an ideal launching poi
 
 Across the bay are the major oil refineries serving Washington and Oregon.
 
-{{ es_image(id="es-4222-002") }}
-{{ es_image(id="es-4222-009") }}
-{{ es_image(id="es-4222-010") }}
-{{ es_image(id="es-4222-011") }}
-{{ es_image(id="es-4222-013") }}
-{{ es_image(id="es-4222-015") }}
-{{ es_image(id="es-4222-017") }}
-{{ es_image(id="es-4222-044") }}
-{{ es_image(id="es-4222-066") }}
+{{ es_cdn_image(id = "es-4222-002", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4222-002") }}
+{{ es_cdn_image(id = "es-4222-009", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4222-009") }}
+{{ es_cdn_image(id = "es-4222-010", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4222-010") }}
+{{ es_cdn_image(id = "es-4222-011", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4222-011") }}
+{{ es_cdn_image(id = "es-4222-013", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4222-013") }}
+{{ es_cdn_image(id = "es-4222-015", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4222-015") }}
+{{ es_cdn_image(id = "es-4222-017", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4222-017") }}
+{{ es_cdn_image(id = "es-4222-044", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4222-044") }}
+{{ es_cdn_image(id = "es-4222-066", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4222-066") }}
 
 For more information:
 
