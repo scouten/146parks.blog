@@ -11,6 +11,7 @@ lon = -121.0970
 near = "east of Lyle"
 markers = "markers.js"
 cover = "es-4186-204"
+cover_cdn_key = "img/v1/2021/04/es-4186-204"
 visited = "27 March and 10 – 11 April 2021"
 +++
 
@@ -22,43 +23,43 @@ First, there is the natural history, a reminder of a time when human's impact on
 
 This park offers many miles of hiking trails with little more than fenceposts and the trail itself to distract you from the landscape as it might have appeared centuries ago.
 
-{{ es_image(id="es-4181-260p", caption="Horsethief Butte") }}
-{{ es_image(id="es-4181-302p", caption="Crawford Oaks area") }}
-{{ es_image(id="es-4181-151", caption="Dalles Mountain Ranch area") }}
-{{ es_image(id="es-4181-155") }}
-{{ es_image(id="es-4181-184") }}
+{{ es_cdn_image(id = "es-4181-260p", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-260p", caption="Horsethief Butte") }}
+{{ es_cdn_image(id = "es-4181-302p", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-302p", caption="Crawford Oaks area") }}
+{{ es_cdn_image(id = "es-4181-151", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-151", caption="Dalles Mountain Ranch area") }}
+{{ es_cdn_image(id = "es-4181-155", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-155") }}
+{{ es_cdn_image(id = "es-4181-184", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-184") }}
 
 Sunrise as it washes over the Columbia Valley is a special treat. Many other photographers were here on this April morning in the Dalles Mountain Ranch area, but we all had plenty of view for ourselves:
 
-{{ es_image(id="es-4186-201") }}
-{{ es_image(id="es-4186-204") }}
-{{ es_image(id="es-4186-209") }}
-{{ es_image(id="es-4186-213") }}
-{{ es_image(id="es-4186-236p") }}
-{{ es_image(id="es-4187-024") }}
-{{ es_image(id="es-4187-029") }}
-{{ es_image(id="es-4186-242") }}
-{{ es_image(id="es-4186-246") }}
+{{ es_cdn_image(id = "es-4186-201", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-201") }}
+{{ es_cdn_image(id = "es-4186-204", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-204") }}
+{{ es_cdn_image(id = "es-4186-209", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-209") }}
+{{ es_cdn_image(id = "es-4186-213", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-213") }}
+{{ es_cdn_image(id = "es-4186-236p", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-236p") }}
+{{ es_cdn_image(id = "es-4187-024", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4187-024") }}
+{{ es_cdn_image(id = "es-4187-029", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4187-029") }}
+{{ es_cdn_image(id = "es-4186-242", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-242") }}
+{{ es_cdn_image(id = "es-4186-246", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-246") }}
 
 Then there is the history of the native peoples of this region. Images carved into the river valley walls were preserved and eventually relocated to this park prior to construction of The Dalles Dam in the 1950s. I am thankful that these images are still available for us all to see and respect today.
 
-{{ es_image(id="es-4187-006") }}
-{{ es_image(id="es-4187-010") }}
-{{ es_image(id="es-4187-002") }}
-{{ es_image(id="es-4187-005") }}
-{{ es_image(id="es-4187-012") }}
+{{ es_cdn_image(id = "es-4187-006", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4187-006") }}
+{{ es_cdn_image(id = "es-4187-010", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4187-010") }}
+{{ es_cdn_image(id = "es-4187-002", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4187-002") }}
+{{ es_cdn_image(id = "es-4187-005", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4187-005") }}
+{{ es_cdn_image(id = "es-4187-012", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4187-012") }}
 
 The history of the European settlers, who began farming this region in the late 19th century, is preserved through The Dalles Mountain Ranch's historic buildings and farm equipment from that era.
 
-{{ es_image(id="es-4181-122p") }}
-{{ es_image(id="es-4187-019") }}
-{{ es_image(id="es-4187-037") }}
-{{ es_image(id="es-4186-250") }}
-{{ es_image(id="es-4186-255") }}
+{{ es_cdn_image(id = "es-4181-122p", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-122p") }}
+{{ es_cdn_image(id = "es-4187-019", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4187-019") }}
+{{ es_cdn_image(id = "es-4187-037", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4187-037") }}
+{{ es_cdn_image(id = "es-4186-250", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-250") }}
+{{ es_cdn_image(id = "es-4186-255", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-255") }}
 
 And, finally, of course, there is the story of the still-active railroad carved into the edges of the now-flooded Columbia Valley, seen here from the trails near Horsethief Butte.
 
-{{ es_image(id="es-4181-236p") }}
+{{ es_cdn_image(id = "es-4181-236p", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-236p") }}
 
 For more information:
 
