@@ -10,9 +10,10 @@ lon = -122.563
 near = "north of La Conner"
 designator = "Preserve"
 markers = "markers.js"
-track = "2021-06-19-kukutali.kml"
+track_log_key = "kml/v1/2021/06/2021-06-19-kukutali.kml"
 bounds = {sw = [48.409, -122.573], ne = [48.429, -122.553]}
 cover = "es-4221-055"
+cover_cdn_key = "img/v1/2021/06/es-4221-055"
 +++
 
 Kukutali Preserve is the product of a unique collaboration between Washington state government and the Swinomish Indian Tribal Community. In 1990, they agreed to jointly purchase and operate this property and develop it into a public park. Today it is a quiet place to go for a walk and enjoy the woods and ocean.
@@ -25,36 +26,36 @@ The island is also sometimes referred to as Kiket Island, a name bestowed by ear
 
 Access to the park is via a parking lot located off Snee Oosh Road and then a short walk on a gravel road:
 
-{{ es_image(id="es-4221-005") }}
+{{ es_cdn_image(id = "es-4221-005", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4221-005") }}
 
 The road once continued onto the island, but has been closed to all traffic for a decade or so now. A recent environmental restoration returned the connection between Kiket Island and the mainland to a more natural state. That means it _can_ flood at higher tides, so plan your visit carefully.
 
-{{ es_image(id="es-4221-007") }}
-{{ es_image(id="es-4221-009") }}
-{{ es_image(id="es-4221-010") }}
+{{ es_cdn_image(id = "es-4221-007", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4221-007") }}
+{{ es_cdn_image(id = "es-4221-009", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4221-009") }}
+{{ es_cdn_image(id = "es-4221-010", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4221-010") }}
 
 From the south side of the island, you can see Hope Island, which is another state park I visited later in the day.
 
-{{ es_image(id="es-4221-028") }}
+{{ es_cdn_image(id = "es-4221-028", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4221-028") }}
 
 What remains of the access road has become a comfortable hiking trail:
 
-{{ es_image(id="es-4221-029") }}
-{{ es_image(id="es-4221-035") }}
+{{ es_cdn_image(id = "es-4221-029", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4221-029") }}
+{{ es_cdn_image(id = "es-4221-035", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4221-035") }}
 
 At the far end of the island is Flagstaff Island, a small rocky outcropping. This island is off-limits to ordinary visitors in an effort to preserve and restore its habitat. (Sadly, I did see some people who chose to ignore the signs and proceed onto the island. I don't approve.)
 
-{{ es_image(id="es-4221-055") }}
-{{ es_image(id="es-4221-056", caption="In the background is Skagit Island State Park.") }}
-{{ es_image(id="es-4221-057") }}
-{{ es_image(id="es-4221-059") }}
+{{ es_cdn_image(id = "es-4221-055", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4221-055") }}
+{{ es_cdn_image(id = "es-4221-056", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4221-056", caption="In the background is Skagit Island State Park.") }}
+{{ es_cdn_image(id = "es-4221-057", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4221-057") }}
+{{ es_cdn_image(id = "es-4221-059", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4221-059") }}
 
 Walking back to the parking lot, I made some time to explore the north and south trails, which offer alternatives to the main (former road) trail:
 
-{{ es_image(id="es-4221-068") }}
-{{ es_image(id="es-4221-069") }}
-{{ es_image(id="es-4221-070") }}
-{{ es_image(id="es-4221-071") }}
+{{ es_cdn_image(id = "es-4221-068", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4221-068") }}
+{{ es_cdn_image(id = "es-4221-069", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4221-069") }}
+{{ es_cdn_image(id = "es-4221-070", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4221-070") }}
+{{ es_cdn_image(id = "es-4221-071", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4221-071") }}
 
 For more information:
 
