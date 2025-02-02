@@ -10,13 +10,14 @@ lat = 46.5420
 lon = -122.8222
 near = "south of Chehalis"
 cover = "es-4159-005"
+cover_cdn_key = "img/v1/2020/12/es-4159-005"
 +++
 
 Jackson House State Park is Washington’s second-oldest state park; it contains a reconstruction of one of the earliest white settlements in the precursor to Washington state.
 
 <!-- more -->
 
-{{ es_image(id="es-4159-011") }}
+{{ es_cdn_image(id = "es-4159-011", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4159-011") }}
 
 This article is, to be plain, a difficult one to write.
 
@@ -30,10 +31,10 @@ But where are the parks that celebrate the rich culture that predated our arriva
 
 You can request a tour of the site, though I don’t know if that is still possible in COVID times. I did not plan ahead in that fashion, so the few pictures here are from walking around the premises and peeking in through the windows.
 
-{{ es_image(id="es-4159-005") }}
-{{ es_image(id="es-4159-006") }}
-{{ es_image(id="es-4159-008") }}
-{{ es_image(id="es-4159-001") }}
+{{ es_cdn_image(id = "es-4159-005", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4159-005") }}
+{{ es_cdn_image(id = "es-4159-006", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4159-006") }}
+{{ es_cdn_image(id = "es-4159-008", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4159-008") }}
+{{ es_cdn_image(id = "es-4159-001", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4159-001") }}
 
 For more information:
 
