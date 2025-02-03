@@ -11,6 +11,7 @@ lon = -124.058
 markers = "markers.js"
 bounds = {sw = [46.424, -124.068], ne = [46.444, -124.048]}
 cover = "es-4308-291"
+cover_cdn_key = "img/v1/2022/01/es-4308-291"
 +++
 
 The sign that greets you at the parking lot for this park starts with the heading, "So where's the lake?" And there begins the irony of this park.
@@ -23,16 +24,16 @@ So, for now, Loomis Lake is a state park without a lake.
 
 My partner and I explored the short trail from the road to the lakeshore. Here's what we found on a cool but sunny Sunday afternoon:
 
-{{ es_image(id="es-4308-278") }}
-{{ es_image(id="es-4308-280") }}
-{{ es_image(id="es-4308-282") }}
-{{ es_image(id="es-4308-288") }}
-{{ es_image(id="es-4308-291") }}
-{{ es_image(id="es-4308-296") }}
-{{ es_image(id="es-4308-297") }}
-{{ es_image(id="es-4308-302") }}
-{{ es_image(id="es-4308-306") }}
-{{ es_image(id="es-4308-313") }}
+{{ es_cdn_image(id = "es-4308-278", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4308-278") }}
+{{ es_cdn_image(id = "es-4308-280", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4308-280") }}
+{{ es_cdn_image(id = "es-4308-282", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4308-282") }}
+{{ es_cdn_image(id = "es-4308-288", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4308-288") }}
+{{ es_cdn_image(id = "es-4308-291", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4308-291") }}
+{{ es_cdn_image(id = "es-4308-296", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4308-296") }}
+{{ es_cdn_image(id = "es-4308-297", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4308-297") }}
+{{ es_cdn_image(id = "es-4308-302", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4308-302") }}
+{{ es_cdn_image(id = "es-4308-306", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4308-306") }}
+{{ es_cdn_image(id = "es-4308-313", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4308-313") }}
 
 For more information:
 
