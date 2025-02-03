@@ -10,11 +10,12 @@ lon = -123.1524
 near = "San Juan Island"
 markers = "markers.js"
 visited = "9 – 10 October 2020"
-track = "2020-10-09-lime-kiln-point.kml"
+track_log_key = "kml/v1/2020/10/2020-10-09-lime-kiln-point.kml"
 cover = "es-4128-034"
+cover_cdn_key = "img/v1/2020/10/es-4128-034"
 +++
 
-{{ es_image(id="es-4126-113" caption="The lime kiln from above.") }}
+{{ es_cdn_image(id = "es-4126-113", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-113" caption="The lime kiln from above.") }}
 
 The only state park on San Juan Island faces Canada’s Vancouver Island. It’s a small and busy park, containing a lighthouse that now houses an orca research project and the remains of a lime kiln built just over 100 years ago.
 
@@ -24,23 +25,23 @@ The lighthouse is an easy walk from the parking lot and, even on this blustery f
 
 Or, you could do as I did, and sit on a nearby rock and admire the structure and the surrounding waters.
 
-{{ es_image(id="es-4126-100") }}
-{{ es_image(id="es-4127-044") }}
-{{ es_image(id="es-4127-046") }}
-{{ es_image(id="es-4126-105") }}
+{{ es_cdn_image(id = "es-4126-100", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-100") }}
+{{ es_cdn_image(id = "es-4127-044", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4127-044") }}
+{{ es_cdn_image(id = "es-4127-046", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4127-046") }}
+{{ es_cdn_image(id = "es-4126-105", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-105") }}
 
 This is also a fantastic place to sit and watch sunset or waves crashing onto the shore.
 
-{{ es_image(id="es-4130-015") }}
-{{ es_image(id="es-4128-034") }}
+{{ es_cdn_image(id = "es-4130-015", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4130-015") }}
+{{ es_cdn_image(id = "es-4128-034", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4128-034") }}
 {{ es_vimeo(id="es-4130-009" vmid="552713303") }}
 
 A short hike from the lighthouse brings you to the remains of a lime kiln originally built in 1918.
 
-{{ es_image(id="es-4126-129") }}
-{{ es_image(id="es-4126-133") }}
-{{ es_image(id="es-4126-141") }}
-{{ es_image(id="es-4126-144") }}
+{{ es_cdn_image(id = "es-4126-129", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-129") }}
+{{ es_cdn_image(id = "es-4126-133", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-133") }}
+{{ es_cdn_image(id = "es-4126-141", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-141") }}
+{{ es_cdn_image(id = "es-4126-144", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-144") }}
 
 For more information:
 
