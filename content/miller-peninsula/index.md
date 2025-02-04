@@ -10,44 +10,45 @@ lon = -122.9464
 near = "east of Sequim"
 designator = "State Park Property"
 markers = "markers.js"
-track = "2020-12-11-miller-peninsula.kml"
+track_log_key = "kml/v1/2020/12/2020-12-11-miller-peninsula.kml"
 cover = "es-4156-112"
+cover_cdn_key = "img/v1/2020/12/es-4156-112"
 +++
 
 You might be forgiven for thinking that this isn’t really a full-fledged state park. From the official description, the park isn’t developed yet due to lack of funding. But, if you are looking for a great place to hike, missing this park would be a big oversight. You should go.
 
 <!-- more -->
 
-{{ es_image(id="es-4156-098", caption="Miller Peninsula State Park offers miles of well-groomed hiking trails.") }}
+{{ es_cdn_image(id = "es-4156-098", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4156-098", caption="Miller Peninsula State Park offers miles of well-groomed hiking trails.") }}
 
 This supposedly “undeveloped” park actually offers miles of well-groomed and well-marked hiking and biking trails. When I visited (admittedly on a cold December morning), they were little used.
 
-{{ es_image(id="es-4156-084") }}
-{{ es_image(id="es-4156-097") }}
+{{ es_cdn_image(id = "es-4156-084", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4156-084") }}
+{{ es_cdn_image(id = "es-4156-097", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4156-097") }}
 
 That said, somebody did take the time to decorate one of the trails in Christmas style:
 
-{{ es_image(id="es-4156-070") }}
-{{ es_image(id="es-4156-072") }}
+{{ es_cdn_image(id = "es-4156-070", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4156-070") }}
+{{ es_cdn_image(id = "es-4156-072", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4156-072") }}
 
 It takes a few miles of hiking to get there, but the park offers a quiet beach with very quiet access to and views of the Strait of Juan de Fuca.
 
-{{ es_image(id="es-4156-108") }}
-{{ es_image(id="es-4156-112") }}
-{{ es_image(id="es-4156-106") }}
-{{ es_image(id="es-4156-107") }}
-{{ es_image(id="es-4156-121") }}
-{{ es_image(id="es-4156-122") }}
-{{ es_image(id="es-4156-126") }}
-{{ es_image(id="es-4156-129") }}
-{{ es_image(id="es-4156-133") }}
+{{ es_cdn_image(id = "es-4156-108", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4156-108") }}
+{{ es_cdn_image(id = "es-4156-112", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4156-112") }}
+{{ es_cdn_image(id = "es-4156-106", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4156-106") }}
+{{ es_cdn_image(id = "es-4156-107", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4156-107") }}
+{{ es_cdn_image(id = "es-4156-121", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4156-121") }}
+{{ es_cdn_image(id = "es-4156-122", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4156-122") }}
+{{ es_cdn_image(id = "es-4156-126", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4156-126") }}
+{{ es_cdn_image(id = "es-4156-129", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4156-129") }}
+{{ es_cdn_image(id = "es-4156-133", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4156-133") }}
 
 After spending some quiet time on the beach, I hiked two hours to get back to my car.
 
 I didn’t see another person the entire time.
 
-{{ es_image(id="es-4156-153") }}
-{{ es_image(id="es-4156-165") }}
+{{ es_cdn_image(id = "es-4156-153", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4156-153") }}
+{{ es_cdn_image(id = "es-4156-165", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4156-165") }}
 
 **A funny story about this park and the 146 Parks site:** A month or so after I had launched this site (which included counting the parks, registering the domain, and building the logo, among other things), I discovered that I had entered one of the parks twice in my inventory of the parks.
 
