@@ -9,7 +9,6 @@ lat = 46.91
 lon = -122.912
 near = "south of Olympia"
 markers = "markers.js"
-track = "track.kml"
 bounds = {sw = [46.9, -122.922], ne = [46.92, -122.902]}
 cover = "es-4227-017"
 +++
