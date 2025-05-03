@@ -28,7 +28,7 @@ Imagine having an entire state park to yourself and 100 of your closest friends?
 
 Originally built as a Civilian Conservation Corps project, it subsequently became a Methodist church camp and 4-H camp before joining the state parks system in the 1950s.
 
-Today, it hosts groups of 100 to 150 for family reunions, weddings, and similar events through the summer months.
+Today it hosts groups of 100 to 150 for family reunions, weddings, and similar events through the summer months.
 
 This park is typically open only to those groups and not to the general public. I am grateful to the park ranger who made arrangements for me to visit and to the group using the center for agreeing to let me be present on the periphery of their event. Out of respect for their group, I did not enter the common spaces, so you'll have to imagine the dining area and pool.
 
