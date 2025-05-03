@@ -12,14 +12,6 @@ lon = -122.9371
 water_only = true
 
 [[extra.parks]]
-name = "Camp Wooten"
-gh_issue_id = 127
-link = "https://parks.state.wa.us/368/Camp-Wooten"
-lat = 46.2385
-lon = -117.6969
-summer_only = true
-
-[[extra.parks]]
 name = "Clark Island"
 gh_issue_id = 80
 link = "https://parks.state.wa.us/488/Clark-Island"
