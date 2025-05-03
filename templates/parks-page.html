@@ -47,6 +47,13 @@
 
       map.setOptions('TERRAIN');
  
+      {%- if page.extra.bounds -%}
+      const sw = new google.maps.LatLng({{ page.extra.bounds.sw[0] }}, {{ page.extra.bounds.sw[1] }});
+      const ne = new google.maps.LatLng({{ page.extra.bounds.ne[0] }}, {{ page.extra.bounds.ne[1] }});
+      const bounds = new google.maps.LatLngBounds(sw, ne);
+      map.fitBounds(bounds);
+      {%- endif -%}
+
       {% if page.extra.track or page.extra.track_log_key %}
       var kmlLayer = new google.maps.KmlLayer({
         {%- if page.extra.track_log_key -%}
