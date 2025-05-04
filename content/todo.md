@@ -90,14 +90,6 @@ lon = -123.1681
 water_only = true
 
 [[extra.parks]]
-name = "Spokane River Centennial Trail"
-gh_issue_id = 38
-link = "https://parks.state.wa.us/487/Centennial-Trail"
-lat = 47.7486
-lon = -117.5299
-trail = true
-
-[[extra.parks]]
 name = "Stuart Island"
 gh_issue_id = 76
 link = "https://parks.state.wa.us/593/Stuart-Island"
