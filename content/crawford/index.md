@@ -28,16 +28,23 @@ A visit to Crawford State Park starts off with a simple-enough hiking trail ...
 But then you are confronted with this mysterious gate surrounding some steps down into the ground:
 
 {{ es_cdn_image(id = "es-4390-226", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-226") }}
+
 {{ es_cdn_image(id = "es-4390-228", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-228") }}
 
 Fortunately, I had arranged for just such a tour. The tour explores roughly 1/3 of a mile underground in a cave first discovered around the beginning of the previous century. There are walkways and lights throughout the cave which make it easy to see the various limestone formations.
 
 {{ es_cdn_image(id = "es-4390-241", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-241") }}
+
 {{ es_cdn_image(id = "es-4390-245", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-245") }}
+
 {{ es_cdn_image(id = "es-4390-259", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-259") }}
+
 {{ es_cdn_image(id = "es-4390-270", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-270") }}
+
 {{ es_cdn_image(id = "es-4390-295", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-295") }}
+
 {{ es_cdn_image(id = "es-4390-297", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-297") }}
+
 {{ es_cdn_image(id = "es-4390-304", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-304") }}
 
 A highlight of the tour was at the end of the walkway. Our tour guide turned off the lights and turned on (I think ... if I remember correctly) ultraviolet lights, which lit up some of the rock formations above us in this other-worldly fashion:
@@ -46,7 +53,7 @@ A highlight of the tour was at the end of the walkway. Our tour guide turned off
 
 When nobody talks in the cave, it is incredibly quiet in there.
 
-{{ es_vimeo(id="es-4390-316" vmid="758154342") }}
+{{ es_cdn_video(id = "es-4390-316", cdn_version = "v1", cdn_key = "vid/v1/2022/07/es-4390-316") }}
 
 {{ es_cdn_image(id = "es-4390-319", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-319") }}
 
@@ -62,4 +69,4 @@ I did mention this park was _near_ the Canadian border. Yeah, it's _that_ near t
 
 For more information:
 
-* [State Parks web site](https://www.parks.wa.gov/492/Crawford)
+* [State Parks web site](https://parks.wa.gov/find-parks/state-parks/crawford-state-park-heritage-site)
