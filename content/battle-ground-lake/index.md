@@ -27,19 +27,27 @@ Not a bad way to welcome in the new year.
 Some day I shall have to return to check out the rental cabins.
 
 {{ es_cdn_image(id = "es-4162-004", cdn_version = "v1", cdn_key = "img/v1/2021/01/es-4162-004") }}
+
 {{ es_cdn_image(id = "es-4162-007", cdn_version = "v1", cdn_key = "img/v1/2021/01/es-4162-007") }}
+
 {{ es_cdn_image(id = "es-4162-013", cdn_version = "v1", cdn_key = "img/v1/2021/01/es-4162-013") }}
+
 {{ es_cdn_image(id = "es-4162-016", cdn_version = "v1", cdn_key = "img/v1/2021/01/es-4162-016") }}
+
 {{ es_cdn_image(id = "es-4162-019", cdn_version = "v1", cdn_key = "img/v1/2021/01/es-4162-019") }}
+
 {{ es_cdn_image(id = "es-4162-027", cdn_version = "v1", cdn_key = "img/v1/2021/01/es-4162-027") }}
+
 {{ es_cdn_image(id = "es-4162-031", cdn_version = "v1", cdn_key = "img/v1/2021/01/es-4162-031") }}
+
 {{ es_cdn_image(id = "es-4162-032", cdn_version = "v1", cdn_key = "img/v1/2021/01/es-4162-032") }}
+
 {{ es_cdn_image(id = "es-4162-038", cdn_version = "v1", cdn_key = "img/v1/2021/01/es-4162-038") }}
 
 The eagles seemed to enjoy the park, too:
 
-{{ es_vimeo(id="es-4162-010" vmid="924857271") }}
+{{ es_cdn_video(id = "es-4162-010", cdn_version = "v1", cdn_key = "vid/v1/2021/01/es-4162-010") }}
 
 For more information:
 
-* [State Parks web site](https://parks.state.wa.us/472/Battle-Ground-Lake)
+* [State Parks web site](https://parks.wa.gov/find-parks/state-parks/battle-ground-lake-state-park)
