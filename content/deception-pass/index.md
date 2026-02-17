@@ -64,7 +64,7 @@ On another day, I started with an early-morning trek through Cranberry Lake and 
 
 Did I mention the waters were choppy? Watch as this fishing(?) boat fights its way through the waves to the open ocean beyond. (Notice the sailboat rocking back and forth near the end of the video!)
 
-{{ es_vimeo(id = "es-4554-030", vmid = "848511519") }}
+{{ es_cdn_video(id = "es-4554-030", cdn_version = "v1", cdn_key = "vid/v1/2023/07/es-4554-030") }}
 
 {{ es_cdn_image(id = "es-4554-035", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4554-035") }}
 
@@ -88,4 +88,4 @@ Did I mention the waters were choppy? Watch as this fishing(?) boat fights its w
 
 For more information:
 
-* [State Parks web site](https://www.parks.wa.gov/497/Deception-Pass)
+* [State Parks web site](https://parks.wa.gov/find-parks/state-parks/deception-pass-state-park)
