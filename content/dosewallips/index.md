@@ -24,8 +24,11 @@ This park offers a lot more.
 At a second glance, there is a long and peaceful marshy shoreline only a few steps from the highway:
 
 {{ es_cdn_image(id = "es-4158-021", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4158-021") }}
+
 {{ es_cdn_image(id = "es-4158-118", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4158-118") }}
+
 {{ es_cdn_image(id = "es-4158-121", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4158-121") }}
+
 {{ es_cdn_image(id = "es-4158-127", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4158-127") }}
 
 The real treasure awaits those who have a couple of hours to spend on Dosewallip’s hiking trails. I hiked a loop of the Steam Donkey and Maple Valley trails.
@@ -33,22 +36,33 @@ The real treasure awaits those who have a couple of hours to spend on Dosewallip
 A delightful mossy landscape was there for me:
 
 {{ es_cdn_image(id = "es-4158-035", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4158-035") }}
+
 {{ es_cdn_image(id = "es-4158-050", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4158-050") }}
+
 {{ es_cdn_image(id = "es-4158-059", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4158-059") }}
+
 {{ es_cdn_image(id = "es-4158-055", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4158-055") }}
+
 {{ es_cdn_image(id = "es-4158-066", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4158-066") }}
+
 {{ es_cdn_image(id = "es-4158-085", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4158-085") }}
+
 {{ es_cdn_image(id = "es-4158-077", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4158-077") }}
+
 {{ es_cdn_image(id = "es-4158-098", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4158-098") }}
+
 {{ es_cdn_image(id = "es-4158-100", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4158-100") }}
+
 {{ es_cdn_image(id = "es-4158-102", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4158-102") }}
+
 {{ es_cdn_image(id = "es-4158-110", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4158-110") }}
+
 {{ es_cdn_image(id = "es-4158-117", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4158-117") }}
 
 Who could miss the waterfall at Phantom Creek?
 
-{{ es_vimeo(id="es-4158-103" vmid="552708640") }}
+{{ es_cdn_video(id = "es-4158-103", cdn_version = "v1", cdn_key = "vid/v1/2020/12/es-4158-103") }}
 
 For more information:
 
-* [State Parks web site](https://parks.state.wa.us/499/Dosewallips)
+* [State Parks web site](https://parks.wa.gov/find-parks/state-parks/dosewallips-state-park)
