@@ -24,15 +24,18 @@ Washington is home to one of the few large telescopes available for public viewi
 {{ es_cdn_image(id = "es-4309-108p", cdn_version = "v1", cdn_key = "img/v1/2022/02/es-4309-108p", caption = "The park is situated high on a hill and thus offers panoramic views of the Columbia Valley to its south.") }}
 
 {{ es_cdn_image(id = "es-4309-123", cdn_version = "v1", cdn_key = "img/v1/2022/02/es-4309-123") }}
+
 {{ es_cdn_image(id = "es-4309-124", cdn_version = "v1", cdn_key = "img/v1/2022/02/es-4309-124", caption = "Let’s … umm … not discuss my weight on Jupiter.") }}
+
 {{ es_cdn_image(id = "es-4309-134", cdn_version = "v1", cdn_key = "img/v1/2022/02/es-4309-134") }}
 
 {{ es_cdn_image(id = "es-4309-136", cdn_version = "v1", cdn_key = "img/v1/2022/02/es-4309-136", caption = "This is the original 24.5ʺ Cassegrain mirror, which was in service until a 2018 upgrade.") }}
 
 {{ es_cdn_image(id = "es-4309-140", cdn_version = "v1", cdn_key = "img/v1/2022/02/es-4309-140") }}
+
 {{ es_cdn_image(id = "es-4309-142", cdn_version = "v1", cdn_key = "img/v1/2022/02/es-4309-142") }}
 
-{{ es_vimeo(id="es-4309-144" vmid="676863639", title = "The Special Equipment for Kids?", caption = "While the telescope is being moved into place, a young observer asks about the equipment to filter the light. Is it available for kids?") }}
+{{ es_cdn_video(id = "es-4309-144", cdn_version = "v1", cdn_key = "vid/v1/2022/02/es-4309-144", title = "The Special Equipment for Kids?", caption = "While the telescope is being moved into place, a young observer asks about the equipment to filter the light. Is it available for kids?") }}
 
 {{ es_cdn_image(id = "es-4309-147", cdn_version = "v1", cdn_key = "img/v1/2022/02/es-4309-147", caption = "The park ranger / astronomer adjusts the telescope’s position for optimal viewing.") }}
 
@@ -40,4 +43,4 @@ Washington is home to one of the few large telescopes available for public viewi
 
 For more information:
 
-* [State Parks web site](https://www.parks.wa.gov/512/Goldendale-Observatory)
+* [State Parks web site](https://parks.wa.gov/find-parks/state-parks/goldendale-observatory-state-park-heritage-site)

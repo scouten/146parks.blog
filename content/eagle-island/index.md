@@ -25,24 +25,30 @@ Surprisingly it is not named for our national bird, but rather for one Harry Eag
 I put in from a public road-end a bit south of Longbranch, which made for a fairly easy 2½ mile paddle each way to the island.
 
 {{ es_cdn_image(id = "es-4237-148", cdn_version = "v1", cdn_key = "img/v1/2021/07/es-4237-148") }}
+
 {{ es_cdn_image(id = "es-4237-158p", cdn_version = "v1", cdn_key = "img/v1/2021/07/es-4237-158p") }}
+
 {{ es_cdn_image(id = "es-4237-166", cdn_version = "v1", cdn_key = "img/v1/2021/07/es-4237-166") }}
+
 {{ es_cdn_image(id = "es-4237-199", cdn_version = "v1", cdn_key = "img/v1/2021/07/es-4237-199") }}
 
 The best experience of the island is to arrive at a lower tide and walk around its shore ...
 
 {{ es_cdn_image(id = "es-4237-177", cdn_version = "v1", cdn_key = "img/v1/2021/07/es-4237-177") }}
 
-
 {{ es_cdn_image(id = "es-4237-181", cdn_version = "v1", cdn_key = "img/v1/2021/07/es-4237-181") }}
+
 {{ es_cdn_image(id = "es-4237-183", cdn_version = "v1", cdn_key = "img/v1/2021/07/es-4237-183") }}
+
 {{ es_cdn_image(id = "es-4237-184", cdn_version = "v1", cdn_key = "img/v1/2021/07/es-4237-184") }}
+
 {{ es_cdn_image(id = "es-4237-185", cdn_version = "v1", cdn_key = "img/v1/2021/07/es-4237-185") }}
+
 {{ es_cdn_image(id = "es-4237-186", cdn_version = "v1", cdn_key = "img/v1/2021/07/es-4237-186") }}
 
 ... or enjoy the sound of waves crashing onto shore.
 
-{{ es_vimeo(id="es-4237-180" vmid="588990130") }}
+{{ es_cdn_video(id = "es-4237-180", cdn_version = "v1", cdn_key = "vid/v1/2021/07/es-4237-180") }}
 
 Once on the island, you'll find a picnic table ...
 
@@ -51,9 +57,11 @@ Once on the island, you'll find a picnic table ...
 ... and some occasionally-trimmed areas that might charitably be described as a "trail."
 
 {{ es_cdn_image(id = "es-4237-173", cdn_version = "v1", cdn_key = "img/v1/2021/07/es-4237-173") }}
+
 {{ es_cdn_image(id = "es-4237-193", cdn_version = "v1", cdn_key = "img/v1/2021/07/es-4237-193") }}
+
 {{ es_cdn_image(id = "es-4237-197", cdn_version = "v1", cdn_key = "img/v1/2021/07/es-4237-197") }}
 
 For more information:
 
-* [State Parks web site](https://parks.state.wa.us/501/Eagle-Island)
+* [State Parks web site](https://parks.wa.gov/find-parks/state-parks/eagle-island-marine-state-park)
