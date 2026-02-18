@@ -3,8 +3,6 @@ title = "Lake Sammamish"
 date = 2022-05-15
 weight = 99
 
-[taxonomies]
-
 [extra]
 seq = 99
 near = "Issaquah"
@@ -27,23 +25,31 @@ The beaches look large enough to handle large crowds of sun-worshippers, but on 
 I found a hiking trail out to the end of Issaquah Creek and found a few intrepid dog-walkers; otherwise, the park was very quiet.
 
 {{ es_cdn_image(id = "es-4352-107", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4352-107") }}
+
 {{ es_cdn_image(id = "es-4352-111", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4352-111") }}
+
 {{ es_cdn_image(id = "es-4352-113", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4352-113") }}
 
 Here is the view from the point at the end of the trail, looking across the lake and then back to the swimming beach:
 
 {{ es_cdn_image(id = "es-4352-115p", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4352-115p") }}
+
 {{ es_cdn_image(id = "es-4352-147", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4352-147") }}
-{{ es_vimeo(id="es-4352-148" vmid="714999920") }}
+
+{{ es_cdn_video(id = "es-4352-148", cdn_version = "v1", cdn_key = "vid/v1/2022/05/es-4352-148") }}
+
 {{ es_cdn_image(id = "es-4352-157", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4352-157") }}
 
 I then followed the trail back inland for a bit. Aside from a bit of traffic noise, one could imagine being in a much more rural environment and not in the heart of the city.
 
 {{ es_cdn_image(id = "es-4352-158", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4352-158") }}
+
 {{ es_cdn_image(id = "es-4352-160", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4352-160") }}
+
 {{ es_cdn_image(id = "es-4352-162", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4352-162") }}
+
 {{ es_cdn_image(id = "es-4352-166", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4352-166") }}
 
 For more information:
 
-* [State Parks web site](https://www.parks.wa.gov/533/Lake-Sammamish)
+* [State Parks web site](https://parks.wa.gov/find-parks/state-parks/lake-sammamish-state-park)
