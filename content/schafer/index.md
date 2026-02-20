@@ -23,18 +23,29 @@ I've recently learned that the concept of an exact count of Washington's state p
 So, I don't know. Maybe I don't have the exact count either, but ... let's assume for the moment that 146 is accurate. If so, I made it halfway to my goal of all of the parks. Hope you've enjoyed following along as much as I've enjoyed visiting and blogging about the parks.
 
 {{ es_cdn_image(id = "es-4261-034", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4261-034") }}
-{{ es_vimeo(id="es-4261-019" vmid="627848192") }}
+
+{{ es_cdn_video(id = "es-4261-019", cdn_version = "v1", cdn_key = "vid/v1/2021/10/es-4261-019") }}
+
 {{ es_cdn_image(id = "es-4261-020", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4261-020") }}
+
 {{ es_cdn_image(id = "es-4261-021", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4261-021") }}
+
 {{ es_cdn_image(id = "es-4261-029", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4261-029") }}
+
 {{ es_cdn_image(id = "es-4261-047", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4261-047") }}
+
 {{ es_cdn_image(id = "es-4261-049", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4261-049") }}
+
 {{ es_cdn_image(id = "es-4261-051", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4261-051") }}
+
 {{ es_cdn_image(id = "es-4261-093", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4261-093") }}
+
 {{ es_cdn_image(id = "es-4261-094", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4261-094") }}
+
 {{ es_cdn_image(id = "es-4261-096", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4261-096") }}
+
 {{ es_cdn_image(id = "es-4261-100", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4261-100") }}
 
 For more information:
 
-* [State Parks web site](https://parks.state.wa.us/580/Schafer)
+* [State Parks web site](https://parks.wa.gov/find-parks/state-parks/schafer-state-park)

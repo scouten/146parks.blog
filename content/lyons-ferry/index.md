@@ -24,13 +24,21 @@ I visited on a spring weekend and found the park delightfully quiet.
 Sometime long ago, somebody decided -- at what must have been great expense -- to build a pier out to an island in the middle of the river. Whatever purpose that served has long since passed, but the walkway remains as a hiking trail that I enjoyed:
 
 {{ es_cdn_image(id = "es-4206-212", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4206-212") }}
+
 {{ es_cdn_image(id = "es-4206-235p", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4206-235p") }}
+
 {{ es_cdn_image(id = "es-4206-266p", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4206-266p") }}
+
 {{ es_cdn_image(id = "es-4206-269p", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4206-269p") }}
+
 {{ es_cdn_image(id = "es-4206-271p", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4206-271p") }}
-{{ es_vimeo(id="es-4206-298" vmid="557909598") }}
+
+{{ es_cdn_video(id = "es-4206-298", cdn_version = "v1", cdn_key = "vid/v1/2021/05/es-4206-298") }}
+
 {{ es_cdn_image(id = "es-4206-304", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4206-304") }}
+
 {{ es_cdn_image(id = "es-4206-307", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4206-307") }}
+
 {{ es_cdn_image(id = "es-4206-310", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4206-310") }}
 
 As for the historic ferry, there was lots of signage such as this warning visitors to stay away from the structure itself:
@@ -43,4 +51,4 @@ If this is the ferry, I'm not inclined to doubt them:
 
 For more information:
 
-* [State Parks web site](https://parks.state.wa.us/915/Lyons-Ferry)
+* [State Parks web site](https://parks.wa.gov/find-parks/state-parks/lyons-ferry-state-park)

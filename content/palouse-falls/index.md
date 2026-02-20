@@ -18,7 +18,8 @@ This park is pretty much what it says on the tin: an epic waterfall in the middl
 <!-- more -->
 
 {{ es_cdn_image(id = "es-4183-024p", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4183-024p") }}
-{{ es_vimeo(id="es-4183-036" vmid="552715037") }}
+
+{{ es_cdn_video(id = "es-4183-036", cdn_version = "v1", cdn_key = "vid/v1/2021/03/es-4183-036") }}
 
 If you've read my other park pages, you've probably noticed that I avoid showing the same scene multiple times.
 
@@ -29,12 +30,15 @@ That's ... rather more difficult to avoid here, as the park offers several diffe
 Here we see the Palouse River after going through the falls:
 
 {{ es_cdn_image(id = "es-4183-037", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4183-037") }}
+
 {{ es_cdn_image(id = "es-4183-050p", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4183-050p") }}
 
 There is a small network of hiking trails. We are told they are _very dangerous,_ but assuming you are wise enough to stay back from the edge, they offer a view of the Palouse before the falls:
 
 {{ es_cdn_image(id = "es-4183-070", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4183-070") }}
+
 {{ es_cdn_image(id = "es-4183-072", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4183-072") }}
+
 {{ es_cdn_image(id = "es-4183-074", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4183-074") }}
 
 Every so often, while observing the falls, the rumbling gets a bit louder for a few minutes. I didn't manage to see a train on these tracks, but I presume this is the source. (Impressive excavation effort, right?)
@@ -43,4 +47,4 @@ Every so often, while observing the falls, the rumbling gets a bit louder for a 
 
 For more information:
 
-* [State Parks web site](https://parks.state.wa.us/559/Palouse-Falls)
+* [State Parks web site](https://parks.wa.gov/find-parks/state-parks/palouse-falls-state-park-heritage-site)

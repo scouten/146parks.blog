@@ -25,17 +25,23 @@ I wasn’t able to explore those lakes on my visit, but I did get a chance to en
 {{ es_cdn_image(id = "es-4176-179", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4176-179", caption="Waterfront cabin!") }}
 
 {{ es_cdn_image(id = "es-4176-172", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4176-172") }}
+
 {{ es_cdn_image(id = "es-4176-171", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4176-171") }}
+
 {{ es_cdn_image(id = "es-4176-178", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4176-178") }}
 
 Inland a bit from the camping area there is a trail along an unnamed creek.
 
-{{ es_vimeo(id="es-4176-219" vmid="552716573") }}
+{{ es_cdn_video(id = "es-4176-219", cdn_version = "v1", cdn_key = "vid/v1/2021/03/es-4176-219") }}
+
 {{ es_cdn_image(id = "es-4176-196p", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4176-196p") }}
+
 {{ es_cdn_image(id = "es-4176-215", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4176-215") }}
+
 {{ es_cdn_image(id = "es-4178-010", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4178-010") }}
+
 {{ es_cdn_image(id = "es-4176-194", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4176-194") }}
 
 For more information:
 
-* [State Parks web site](https://parks.state.wa.us/568/Potholes)
+* [State Parks web site](https://parks.wa.gov/find-parks/state-parks/potholes-state-park)

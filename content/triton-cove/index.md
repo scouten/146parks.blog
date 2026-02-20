@@ -21,12 +21,17 @@ Triton Cove is apparently famous for its sunrises, but ... alas ... that was not
 I'm perhaps a contrarian in Washington in that I enjoy our cloudy days, too. I find that they make for fun texture studies and that was what I found when I visited Triton Cove.
 
 {{ es_cdn_image(id = "es-4260-003", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4260-003") }}
+
 {{ es_cdn_image(id = "es-4260-006", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4260-006") }}
-{{ es_vimeo(id="es-4260-009" vmid="624976252") }}
+
+{{ es_cdn_video(id = "es-4260-009", cdn_version = "v1", cdn_key = "vid/v1/2021/10/es-4260-009") }}
+
 {{ es_cdn_image(id = "es-4260-035", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4260-035") }}
+
 {{ es_cdn_image(id = "es-4260-036p", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4260-036p") }}
+
 {{ es_cdn_image(id = "es-4260-051", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4260-051") }}
 
 For more information:
 
-* [State Parks web site](https://parks.state.wa.us/296/Triton-Cove)
+* [State Parks web site](https://parks.wa.gov/find-parks/state-parks/triton-cove-state-park)

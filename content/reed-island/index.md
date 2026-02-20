@@ -21,7 +21,7 @@ Sadly, my track log for this trip is lost to a software bug, but I put in from [
 
 {{ es_cdn_image(id = "es-4204-026p", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4204-026p") }}
 
-{{ es_vimeo(id="es-4204-055" vmid="552618116", caption="Birdsong dominates the soundscape on the north side of Reed Island.") }}
+{{ es_cdn_video(id = "es-4204-055", cdn_version = "v1", cdn_key = "vid/v1/2021/05/es-4204-055", caption="Birdsong dominates the soundscape on the north side of Reed Island.") }}
 
 {{ es_cdn_image(id = "es-4204-056", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4204-056") }}
 
@@ -34,13 +34,19 @@ Had I known that this small slice of the island on the northeast corner was the 
 Instead, I wound up circumnavigating the island in my kayak, which was a delightful trip in itself.
 
 {{ es_cdn_image(id = "es-4204-069", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4204-069") }}
+
 {{ es_cdn_image(id = "es-4204-072p", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4204-072p") }}
+
 {{ es_cdn_image(id = "es-4204-091", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4204-091") }}
+
 {{ es_cdn_image(id = "es-4204-097", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4204-097") }}
+
 {{ es_cdn_image(id = "es-4204-105", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4204-105") }}
+
 {{ es_cdn_image(id = "es-4204-108", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4204-108", caption="Yours truly, returning to the launch site") }}
+
 {{ es_cdn_image(id = "es-4204-116", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4204-116", caption="Lost in the *cough* reeds") }}
 
 For more information:
 
-* [State Parks web site](https://parks.state.wa.us/572/Reed-Island)
+* [State Parks web site](https://parks.wa.gov/find-parks/state-parks/reed-island-state-park)

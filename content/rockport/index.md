@@ -22,22 +22,31 @@ Hike through a rare old-growth forest in Washington State? Sure! That is what Ro
 The three-mile-long Evergreen Loop Trail is a gentle and well-maintained trail with a nice variety of forest experiences. Here's what caught my eye on my hike of that trail:
 
 {{ es_cdn_image(id = "es-4222-073", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4222-073") }}
+
 {{ es_cdn_image(id = "es-4222-075", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4222-075") }}
+
 {{ es_cdn_image(id = "es-4222-076", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4222-076") }}
+
 {{ es_cdn_image(id = "es-4222-077", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4222-077") }}
+
 {{ es_cdn_image(id = "es-4222-080", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4222-080") }}
 
 {{ es_cdn_image(id = "es-4222-081", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4222-081", caption="Labeled the “Broken Fir,” this tree lived from 1660 to 1974.") }}
 
 {{ es_cdn_image(id = "es-4222-085", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4222-085") }}
+
 {{ es_cdn_image(id = "es-4222-087", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4222-087") }}
+
 {{ es_cdn_image(id = "es-4222-089", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4222-089") }}
+
 {{ es_cdn_image(id = "es-4222-091", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4222-091") }}
+
 {{ es_cdn_image(id = "es-4222-095", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4222-095") }}
 
-{{ es_vimeo(id="es-4222-096" vmid="573824616") }}
+{{ es_cdn_video(id = "es-4222-096", cdn_version = "v1", cdn_key = "vid/v1/2021/06/es-4222-096") }}
 
 {{ es_cdn_image(id = "es-4222-099", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4222-099") }}
+
 {{ es_cdn_image(id = "es-4222-104", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4222-104") }}
 
 Sadly, the campground is now permanently closed due the risk posed by diseased trees.
@@ -46,5 +55,5 @@ Sadly, the campground is now permanently closed due the risk posed by diseased t
 
 For more information:
 
-* [State Parks web site](https://parks.state.wa.us/574/Rockport)
+* [State Parks web site](https://parks.wa.gov/find-parks/state-parks/rockport-state-park)
 * [Washington Trails Association](https://www.wta.org/go-hiking/hikes/rockport-state-park)

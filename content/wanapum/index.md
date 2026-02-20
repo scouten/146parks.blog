@@ -32,7 +32,7 @@ Once in Wanapum, I walked around the picnic grounds and beaches, which I had alm
 
 {{ es_cdn_image(id = "es-4690-028", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4690-028") }}
 
-{{ es_vimeo(id = "es-4690-036", vmid = "1007308160") }}
+{{ es_cdn_video(id = "es-4690-036", cdn_version = "v1", cdn_key = "vid/v1/2024/09/es-4690-036") }}
 
 You might notice it's a bit hazy. There are some forest fires around today. Later during the day, it became much more obvious.
 

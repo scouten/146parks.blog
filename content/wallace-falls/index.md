@@ -30,22 +30,29 @@ When we hiked the park on a sunny Saturday afternoon, we were far from alone.
 We hiked the Woody Trail from the main park entrance as far as Middle Falls. This trail crosses over the North Fork of the Wallace River and then follows the main part of the Wallace River through its many waterfalls.
 
 {{ es_cdn_image(id = "es-4316-078", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4316-078") }}
+
 {{ es_cdn_image(id = "es-4316-081", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4316-081") }}
+
 {{ es_cdn_image(id = "es-4316-084", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4316-084") }}
+
 {{ es_cdn_image(id = "es-4317-011", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4317-011") }}
 
-{{ es_vimeo(id="es-4317-014" vmid="690006825", caption = "Lower Falls") }}
+{{ es_cdn_video(id = "es-4317-014", cdn_version = "v1", cdn_key = "vid/v1/2022/03/es-4317-014", caption = "Lower Falls") }}
+
 {{ es_cdn_image(id = "es-4317-016", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4317-016", caption = "Lower Falls") }}
 
 Middle Falls is the iconic view from this park and very well worth the hike.
 
 {{ es_cdn_image(id = "es-4317-018", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4317-018", caption = "Middle Falls") }}
+
 {{ es_cdn_image(id = "lr-223-1709", cdn_version = "v1", cdn_key = "img/v1/2022/03/lr-223-1709", creator = "Lisa Rozmyn") }}
 
 {{ es_cdn_image(id = "es-4317-032", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4317-032") }}
+
 {{ es_cdn_image(id = "es-4317-042", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4317-042") }}
+
 {{ es_cdn_image(id = "es-4317-049", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4317-049") }}
 
 For more information:
 
-* [State Parks web site](https://www.parks.wa.gov/289/Wallace-Falls)
+* [State Parks web site](https://parks.wa.gov/find-parks/state-parks/wallace-falls-state-park)

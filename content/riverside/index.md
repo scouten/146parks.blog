@@ -53,7 +53,7 @@ Nine Mile Falls was converted into a hydroelectric station in the early 1900s. T
 
 Spring snowmelt and this day's rains meant that there was lots of water flow to capture. It made an impressive sound as I stood on the bridge near the dam.
 
-{{ es_vimeo(id = "es-4645-050", vmid = "945023639", caption = "Nine Mile Dam, Spokane River") }}
+{{ es_cdn_video(id = "es-4645-050", cdn_version = "v1", cdn_key = "vid/v1/2024/05/es-4645-050", caption = "Nine Mile Dam, Spokane River") }}
 
 ## Deep Creek Trail
 
