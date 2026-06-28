@@ -26,7 +26,7 @@ He passed away while visiting his neice in Washington state in 1894. The family'
 
 {{ es_cdn_image(id = "es-4676-080", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4676-080", caption = "Ranald MacDonald’s Grave State Park Heritage Site, west of Curlew, Washington") }}
 
-{{ es_cdn_image(id = "es-4676-083", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4676-083", caption = "Ranald MacDonald’s Grave State Park Heritage Site, west of Curlew, Washington") }}
+{{ es_cdn_image(id = "es-4676-083", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4676-083", caption = "Ranald MacDonald’s Grave State Park Heritage Site, west of Curlew, Washington", alt = "A gray granite gravestone for Ranald MacDonald (1824–1894) standing in a dry grassy meadow, ringed with river rocks and decorated with a small American flag, pink artificial flowers, and small mementos. Tall pine trees and a forested hillside rise behind it under a bright blue sky with scattered white clouds.") }}
 
 {{ es_cdn_image(id = "es-4676-096", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4676-096", caption = "Ranald MacDonald’s Grave State Park Heritage Site, west of Curlew, Washington") }}
 

@@ -25,15 +25,15 @@ The first part of my visit to Riverside happened completely by accident. I was d
 
 I circled back and went for a walk. The trail was enigmatically named "Trail 220" but was well worth my time. Here are a few views from along the way:
 
-{{ es_cdn_image(id = "es-4645-014", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-014") }}
+{{ es_cdn_image(id = "es-4645-014", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-014", alt = "A winding dirt trail curves through an open ponderosa pine forest, bordered by clusters of bright yellow arrowleaf balsamroot wildflowers and green spring grass under an overcast sky.") }}
 
-{{ es_cdn_image(id = "es-4645-015", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-015") }}
+{{ es_cdn_image(id = "es-4645-015", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-015", alt = "Tall ponderosa pine trees stand in a grassy meadow scattered with bright yellow arrowleaf balsamroot wildflowers and pine cones, under an overcast gray sky. Open fields and a low forested ridge fade into the misty distance.") }}
 
-{{ es_cdn_image(id = "es-4645-019", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-019") }}
+{{ es_cdn_image(id = "es-4645-019", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-019", alt = "A narrow dirt trail winds through an open ponderosa pine forest, bordered by green grass and clusters of bright yellow arrowleaf balsamroot wildflowers under an overcast sky.") }}
 
-{{ es_cdn_image(id = "es-4645-030", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-030") }}
+{{ es_cdn_image(id = "es-4645-030", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-030", alt = "A reddish dirt path winds through an open ponderosa pine forest, flanked by fields of bright yellow arrowleaf balsamroot wildflowers under an overcast, hazy sky.") }}
 
-{{ es_cdn_image(id = "es-4645-037", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-037") }}
+{{ es_cdn_image(id = "es-4645-037", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-037", alt = "A narrow reddish-brown dirt trail winds through an open ponderosa pine forest carpeted with green grass and clusters of yellow arrowleaf balsamroot wildflowers, under an overcast pale sky.") }}
 
 ## Nine Mile Falls Area
 
@@ -41,7 +41,7 @@ A major part of this park is in the Spokane River Valley, so I spent some time a
 
 {{ es_cdn_image(id = "es-4645-039", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-039") }}
 
-{{ es_cdn_image(id = "es-4645-043", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-043") }}
+{{ es_cdn_image(id = "es-4645-043", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-043", alt = "A calm stretch of the Spokane River seen through tall ponderosa pines from a forested hillside, with yellow arrowleaf balsamroot wildflowers blooming among green leaves in the foreground under an overcast gray sky.") }}
 
 I captured a similar view during [a winter visit to the area](https://ericscouten.travel/2022/01-14-eastern-washington/) a couple years ago:
 
@@ -63,19 +63,19 @@ Oh how right he was!
 
 The trail starts off modestly enough along a forest service road ...
 
-{{ es_cdn_image(id = "es-4645-056", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-056") }}
+{{ es_cdn_image(id = "es-4645-056", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-056", alt = "A wet dirt road runs straight through a forest of tall pine trees under a heavy, overcast gray sky. Grass and pine-needle-covered ground line both sides of the road, with a fallen log on the right.") }}
 
 ... but very quickly gets into deep scenery. I started down the trail into Deep Creek. They weren't kidding about the name! From what I can tell, the creekbed is something like 120ft / 35m below the surrounding landscape.
 
-{{ es_cdn_image(id = "es-4645-061", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-061", caption = "Starting down the canyon into Deep Creek.") }}
+{{ es_cdn_image(id = "es-4645-061", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-061", caption = "Starting down the canyon into Deep Creek.", alt = "A narrow dirt hiking trail winding through a misty evergreen forest, flanked by lush green undergrowth, ferns, and tall pine trees, with a small cluster of yellow flowers growing beside the path.") }}
 
 I went back up to the edge of the creek and continued toward the overlook. It was foggy/misty afternoon and I was rewarded with moody rockscapes on the opposite bank, such as this one:
 
-{{ es_cdn_image(id = "es-4645-066", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-066") }}
+{{ es_cdn_image(id = "es-4645-066", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-066", alt = "A misty, fog-shrouded forested hillside of evergreen pines and firs, with a prominent rocky crag jutting up from the trees in the center and tall pines silhouetted in the foreground against a pale gray sky.") }}
 
 I found the overlook itself and it offered more moody landscapes:
 
-{{ es_cdn_image(id = "es-4645-078", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-078", caption = "Deep Creek Trail Overlook") }}
+{{ es_cdn_image(id = "es-4645-078", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-078", caption = "Deep Creek Trail Overlook", alt = "A gravel trail winds toward a low stone retaining wall at an overlook on a misty, overcast day, flanked by tall pine and fir trees and a leafy spring shrub. Fog hangs over the forested hills and rocky slopes in the background.") }}
 
 {{ es_cdn_image(id = "es-4645-085", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-085", caption = "Looking across Deep Creek from the overlook.") }}
 
