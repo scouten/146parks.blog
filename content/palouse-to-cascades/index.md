@@ -19,7 +19,7 @@ cover_cdn_key = "img/v1/2026/06/es-266-1213"
 cover_alt = "A mountain reservoir with low water levels revealing exposed sandy shoreline dotted with weathered tree stumps, backed by forested ridges partly shrouded in low clouds under a bright, cloud-filled sky. Green brush fills the foreground and a small island sits in the calm gray-blue water."
 +++
 
-Here in Washington state, we are blessed to have several long-running rails-to-trails projects. The premiere one is the 404 km / 251-mile Palouse to Cascades State Park Trail, running from just outside Seattle to the Idaho border along the former Milwaukee Line railroad.
+Here in Washington state, we are blessed to have several long-running rails-to-trails projects. The premiere one is the 404-km / 251-mile Palouse to Cascades State Park Trail, running from just outside Seattle to the Idaho border along the former Milwaukee Line railroad.
 
 <!-- more -->
 
