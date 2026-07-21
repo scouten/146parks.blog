@@ -66,14 +66,6 @@ lon = -122.8417
 water_only = true
 
 [[extra.parks]]
-name = "Palouse to Cascades"
-gh_issue_id = 94
-link = "https://parks.state.wa.us/521/Palouse-to-Cascades"
-lat = 47.3949
-lon = -121.4473
-trail = true
-
-[[extra.parks]]
 name = "Patos Island"
 gh_issue_id = 77
 link = "https://parks.state.wa.us/561/Patos-Island"
