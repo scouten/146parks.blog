@@ -31,6 +31,7 @@ function addGpxMarkers(map) {
         addCdnGpxMarker(map, "es-266-1194", 47.347000, -121.375333, "img/v1/2026/06/es-266-1194"),
         addGpxMarker(map, "es-266-1200", 47.328600, -121.369700),
         addCdnGpxMarker(map, "es-266-1213", 47.328500, -121.369667, "img/v1/2026/06/es-266-1213"),
+        addCdnGpxMarker(map, "es-266-1216", 47.340530, -121.374580, "img/v1/2026/06/es-266-1216"),
         addCdnGpxMarker(map, "es-266-1228", 47.343833, -121.374833, "img/v1/2026/06/es-266-1228"),
         addCdnGpxMarker(map, "es-266-1236", 47.415667, -121.413333, "img/v1/2026/06/es-266-1236"),
     ]

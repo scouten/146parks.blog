@@ -123,6 +123,8 @@ My last segment was a segment along Keechelus Lake on the opposite side from I-9
 
 {{ es_cdn_image(id = "es-266-1213", cdn_version = "v1", cdn_key = "img/v1/2026/06/es-266-1213", caption = "Keechelus Lake, Palouse to Cascades State Park Trail, south of Snoqualmie Pass, Washington", alt = "A mountain reservoir with low water levels revealing exposed sandy shoreline dotted with weathered tree stumps, backed by forested ridges partly shrouded in low clouds under a bright, cloud-filled sky. Green brush fills the foreground and a small island sits in the calm gray-blue water.") }}
 
+{{ es_cdn_image(id = "es-266-1216", cdn_version = "v1", cdn_key = "img/v1/2026/06/es-266-1216", caption = "Palouse to Cascades State Park Trail, south of Snoqualmie Pass, Washington", alt = "A gravel double-track trail with a grassy strip down the middle runs straight ahead through a dense evergreen forest, flanked by ferns and leafy green shrubs, under a bright blue sky with scattered white clouds. Power lines cross above the trail on the left.") }}
+
 {{ es_cdn_image(id = "es-266-1228", cdn_version = "v1", cdn_key = "img/v1/2026/06/es-266-1228", caption = "Keechelus Lake, Palouse to Cascades State Park Trail, south of Snoqualmie Pass, Washington", alt = "A calm mountain reservoir under an overcast sky, ringed by forested slopes of evergreen trees, with a low water line exposing rocky shoreline and a highway bridge on stilts crossing the far side. Tall fir trees and green brush with pink foxglove frame the foreground on a grassy bank.") }}
 
 ## Postscript
