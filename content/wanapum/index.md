@@ -31,7 +31,7 @@ The site offers about 50 tent and RV camp sites nestled amongst trees along the 
 
 Once in Wanapum, I walked around the picnic grounds and beaches, which I had almost entirely to myself.
 
-{{ es_cdn_image(id = "es-4690-028", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4690-028") }}
+{{ es_cdn_image(id = "es-4690-028", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4690-028", alt = "A quiet lakeshore beach at dawn with calm water reflecting soft yellow and orange light near the horizon, framed by tall cottonwood trees on the left and low brushy shrubs, with distant rolling hills across the water. A picnic table sits at the edge of the sandy shore and a swimming-area rope line stretches into the water.") }}
 
 {{ es_cdn_video(id = "es-4690-036", cdn_version = "v1", cdn_key = "vid/v1/2024/09/es-4690-036") }}
 
@@ -51,7 +51,7 @@ You might notice it's a bit hazy. There are some forest fires around today. Late
 
 {{ es_cdn_image(id = "es-4690-079", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4690-079", alt = "The sun rises low over a wide, calm river with low rolling hills along the far shore, casting a glowing orange reflection across the water. Green shrubs and a rocky bank line the foreground under a hazy pastel sky.") }}
 
-{{ es_cdn_image(id = "es-4690-081", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4690-081") }}
+{{ es_cdn_image(id = "es-4690-081", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4690-081", alt = "A calm stretch of the Columbia River at dawn, with green trees and dry grassy shoreline in the foreground giving way to a rocky beach, and low arid hills fading into the hazy distance under a soft blue and pale gold sky.") }}
 
 {{ es_cdn_image(id = "es-4690-082", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4690-082", alt = "A narrow dirt trail winds along a dry, grassy hillside dotted with sagebrush and scattered green shrubs, leading toward a calm body of water with low hills in the distance under a hazy pastel sky at early morning.") }}
 

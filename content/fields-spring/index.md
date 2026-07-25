@@ -43,9 +43,9 @@ Ah well.
 
 {{ es_cdn_image(id = "es-4644-193p", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4644-193p") }}
 
-{{ es_cdn_image(id = "es-4644-212", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4644-212") }}
+{{ es_cdn_image(id = "es-4644-212", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4644-212", alt = "A narrow, rocky dirt trail winds up a grassy hillside dotted with sagebrush and yellow wildflowers, leading toward tall ponderosa pine trees, with rolling green hills and a distant blue ridge under a cloudy sky beyond.") }}
 
-{{ es_cdn_image(id = "es-4644-213", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4644-213") }}
+{{ es_cdn_image(id = "es-4644-213", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4644-213", alt = "A narrow dirt hiking trail winds up a grassy hillside dotted with clumps of bunchgrass and small yellow wildflowers, leading toward a stand of tall ponderosa pines and fir trees under an overcast, lavender-gray sky at Fields Spring State Park.") }}
 
 {{ es_cdn_image(id = "es-4644-215", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4644-215", alt = "A blue trail marker with a black directional arrow pointing right is nailed to a large ponderosa pine trunk with thick, reddish, plated bark. Behind it, conifer forest descends to rolling green hills and hazy blue mountains in the distance.") }}
 

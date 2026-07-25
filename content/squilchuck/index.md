@@ -14,6 +14,7 @@ markers = "markers.js"
 bounds = {sw = [47.300, -120.382], ne = [47.320, -120.362]}
 cover = "es-4677-046"
 cover_cdn_key = "img/v1/2024/07/es-4677-046"
+cover_alt = "A forested mountain landscape with dense green conifers filling the foreground and slopes, a rocky ridge in the distance, and a bright blue sky dotted with puffy white clouds. A ponderosa pine branch frames the right side of the frame."
 +++
 
 Squilchuck State Park is tucked into the mountains south of Wenatchee. It's primarily a park for mountain bikers and cross-country skiiers. I'm neither, but I did get a chance to stretch my legs on its several miles of hiking trails recently.
@@ -38,11 +39,11 @@ Squilchuck State Park is tucked into the mountains south of Wenatchee. It's prim
 
 {{ es_cdn_image(id = "es-4677-019", cdn_version = "v1", cdn_key = "img/v1/2024/07/es-4677-019", alt = "A weathered wooden plank boardwalk winds through dense green undergrowth in a sunlit forest, with tall pine trunks rising around it and small orange trail markers tacked to the trees. The bridge of gray boards crosses low brush in a clearing dappled with midday sunlight.") }}
 
-{{ es_cdn_image(id = "es-4677-025", cdn_version = "v1", cdn_key = "img/v1/2024/07/es-4677-025") }}
+{{ es_cdn_image(id = "es-4677-025", cdn_version = "v1", cdn_key = "img/v1/2024/07/es-4677-025", alt = "Tall evergreen conifers frame a forested mountain slope with exposed rocky patches under a deep blue sky dotted with a few white clouds, in a sunny summer landscape at Squilchuck State Park near Wenatchee, Washington.") }}
 
 {{ es_cdn_image(id = "es-4677-033", cdn_version = "v1", cdn_key = "img/v1/2024/07/es-4677-033", alt = "A narrow dirt hiking trail winds through a sunlit pine forest, flanked by lush green undergrowth, with tall conifer trunks and a patchy blue sky overhead. A cut tree stump sits beside the path in the lower right.") }}
 
-{{ es_cdn_image(id = "es-4677-046", cdn_version = "v1", cdn_key = "img/v1/2024/07/es-4677-046") }}
+{{ es_cdn_image(id = "es-4677-046", cdn_version = "v1", cdn_key = "img/v1/2024/07/es-4677-046", alt = "A forested mountain landscape with dense green conifers filling the foreground and slopes, a rocky ridge in the distance, and a bright blue sky dotted with puffy white clouds. A ponderosa pine branch frames the right side of the frame.") }}
 
 {{ es_cdn_image(id = "es-4677-054", cdn_version = "v1", cdn_key = "img/v1/2024/07/es-4677-054", alt = "A narrow dirt hiking trail winds up a sloped, sunlit hillside through a forest of tall pine and fir trees, bordered by lush green undergrowth under a clear blue sky.") }}
 

@@ -13,6 +13,7 @@ near = "west of Spokane"
 bounds = {sw = [47.723, -117.552], ne = [47.777, -117.530]}
 cover = "es-4645-085"
 cover_cdn_key = "img/v1/2024/05/es-4645-085"
+cover_alt = "A misty forested hillside of pine and evergreen trees rising above rugged basalt cliffs, with low fog softening the ridge and pale gray sky beyond."
 +++
 
 Riverside is really many parks rolled together under one name. I had a few hours in one afternoon to explore it, which was not nearly enough, but what I saw I truly enjoyed.
@@ -39,7 +40,7 @@ I circled back and went for a walk. The trail was enigmatically named "Trail 220
 
 A major part of this park is in the Spokane River Valley, so I spent some time along the river especially near Nine Mile Falls.
 
-{{ es_cdn_image(id = "es-4645-039", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-039") }}
+{{ es_cdn_image(id = "es-4645-039", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-039", alt = "A grassy hillside dotted with pine trees slopes down toward a calm river under a heavy overcast sky, with forested green banks and distant tree-covered hills fading into misty gray on the horizon.") }}
 
 {{ es_cdn_image(id = "es-4645-043", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-043", alt = "A calm stretch of the Spokane River seen through tall ponderosa pines from a forested hillside, with yellow arrowleaf balsamroot wildflowers blooming among green leaves in the foreground under an overcast gray sky.") }}
 
@@ -77,7 +78,7 @@ I found the overlook itself and it offered more moody landscapes:
 
 {{ es_cdn_image(id = "es-4645-078", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-078", caption = "Deep Creek Trail Overlook", alt = "A gravel trail winds toward a low stone retaining wall at an overlook on a misty, overcast day, flanked by tall pine and fir trees and a leafy spring shrub. Fog hangs over the forested hills and rocky slopes in the background.") }}
 
-{{ es_cdn_image(id = "es-4645-085", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-085", caption = "Looking across Deep Creek from the overlook.") }}
+{{ es_cdn_image(id = "es-4645-085", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4645-085", caption = "Looking across Deep Creek from the overlook.", alt = "A misty forested hillside of pine and evergreen trees rising above rugged basalt cliffs, with low fog softening the ridge and pale gray sky beyond.") }}
 
 There's a lot more to this park and I look forward to exploring more on future visits to eastern Washington.
 

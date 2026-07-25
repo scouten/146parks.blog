@@ -24,7 +24,7 @@ We visited on a summer afternoon and found it popular with a wide variety of boa
 
 {{ es_cdn_image(id = "es-4676-007", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4676-007", caption = "Curlew Lake State Park, north of Republic, Washington", alt = "A grassy lakeshore with a dirt path curving along the water’s edge at Curlew Lake State Park, where a yellow rope-and-buoy line marks off a swimming area and two people swim near it. Tall pine trees stand at right, with forested hills, scattered lakeside houses, and a boat visible across the water under a bright blue sky filled with billowing white clouds.") }}
 
-{{ es_cdn_image(id = "es-4676-011", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4676-011", caption = "Curlew Lake State Park, north of Republic, Washington") }}
+{{ es_cdn_image(id = "es-4676-011", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4676-011", caption = "Curlew Lake State Park, north of Republic, Washington", alt = "A person paddles an orange and gray kayak across the rippling blue water of Curlew Lake, with an evergreen-forested hillside and grassy slopes rising along the far shore under a cloudy sky. A couple of houses sit atop the hill on the left.") }}
 
 There's a small network of trails within the park and along the lake.
 
@@ -44,11 +44,11 @@ Even on this weekend, just ahead of the July 4th holiday, there were plenty of c
 
 {{ es_cdn_image(id = "es-4676-062", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4676-062", caption = "Curlew Lake State Park, north of Republic, Washington") }}
 
-{{ es_cdn_image(id = "es-4676-066", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4676-066", caption = "Curlew Lake State Park, north of Republic, Washington") }}
+{{ es_cdn_image(id = "es-4676-066", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4676-066", caption = "Curlew Lake State Park, north of Republic, Washington", alt = "A dirt hiking trail winds through a grassy hillside dotted with purple and yellow wildflowers, bordered by tall pine trees on the right that overlook a lake below, all beneath a dramatic blue sky filled with billowing white clouds.") }}
 
 The landscape on the east side of the park is a bit unusual in that Ferry County has built its regional airport between the park and State Highway 21.
 
-{{ es_cdn_image(id = "es-4676-070", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4676-070", caption = "Curlew Lake State Park, north of Republic, Washington") }}
+{{ es_cdn_image(id = "es-4676-070", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4676-070", caption = "Curlew Lake State Park, north of Republic, Washington", alt = "Rolling green grassy hills lead up to a pine-forested ridge under a dramatic sky of heavy gray and white clouds, with an orange-and-white striped pole and a small orange windsock visible in the mid-ground.") }}
 
 For more information:
 
