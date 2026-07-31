@@ -84,7 +84,7 @@ Did I mention the waters were choppy? Watch as this fishing(?) boat fights its w
 
 {{ es_cdn_image(id = "es-4554-080", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4554-080") }}
 
-{{ es_cdn_image(id = "es-4560-007", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4560-007") }}
+{{ es_cdn_image(id = "es-4560-007", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4560-007", alt = "A narrow dirt hiking trail winds up a forested slope past the tall, lichen-covered trunks of evergreen conifers, with lush green ferns and undergrowth carpeting the ground under an overcast white sky.") }}
 
 For more information:
 
