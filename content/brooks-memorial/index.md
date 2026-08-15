@@ -32,7 +32,7 @@ This loop allows you to a explore a sparse forest with wildflowers. In the sprin
 {{ es_cdn_image(id = "es-4213-020", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4213-020") }}
 {{ es_cdn_image(id = "es-4213-023", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4213-023") }}
 
-I've heard it said that golfers appreciate a course with some good challenges – a worthy opponent, if you will. If so, and especially if that also applies to disc golf, then my hat is off to whoever placed this goal.
+I've heard it said that golfers appreciate a course with some good challenges — a worthy opponent, if you will. If so, and especially if that also applies to disc golf, then my hat is off to whoever placed this goal.
 
 {{ es_cdn_image(id = "es-4213-031", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4213-031", caption="Points for creative use of a power line!") }}
 

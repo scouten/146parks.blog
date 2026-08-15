@@ -22,7 +22,7 @@ I learned about this "park" only a few weeks ago. I knew that I would have to ad
 
 Let's start with the elephant in the room.
 
-I'm a white person. This monument commemorates the forceful taking of large parts of what we now call eastern Washington from the native peoples -- the Palouse, Nez Perce, and others -- who had lived here for time immemorial.
+I'm a white person. This monument commemorates the forceful taking of large parts of what we now call eastern Washington from the native peoples — the Palouse, Nez Perce, and others — who had lived here for time immemorial.
 
 By people who look like me.
 
@@ -30,7 +30,7 @@ I contemplated not adding this "park" to my site. But ... it _is_ technically pa
 
 Fellow state parks quester Lauren Danner [wrote eloquently about this park](https://laurendanner.com/spokane-plains-battlefield-state-park/) on her blog and I encourage you to read her retelling of the history of this site.
 
-If there's any good news to be found here, it's that the Washington State Historical Society [has pledged to revisit monuments](https://www.washingtonhistory.org/across-washington/monuments-project/) -- including this one -- that were placed decades ago and that present a culturally incomplete version of our mutual history.
+If there's any good news to be found here, it's that the Washington State Historical Society [has pledged to revisit monuments](https://www.washingtonhistory.org/across-washington/monuments-project/) — including this one — that were placed decades ago and that present a culturally incomplete version of our mutual history.
 
 I look forward to that update.
 

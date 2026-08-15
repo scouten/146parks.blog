@@ -12,7 +12,7 @@ markers = "markers.js"
 track_log_key = "kml/v1/2021/03/2021-03-27-beacon-rock.kml"
 cover = "es-4186-289"
 cover_cdn_key = "img/v1/2021/04/es-4186-289"
-visited = "27 March and 10 – 11 April 2021"
+visited = "27 March and 10–11 April 2021"
 +++
 
 Beacon Rock is so many parks in one: an iconic rock along the Columbia River, comfortable flatlands along the river, and a deep inventory of hiking trails. It took me three separate visits to feel like I had truly understood this park.

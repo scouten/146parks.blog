@@ -21,7 +21,7 @@ I visited on a spring weekend and found the park delightfully quiet.
 
 {{ es_cdn_image(id = "es-4206-203p", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4206-203p") }}
 
-Sometime long ago, somebody decided -- at what must have been great expense -- to build a pier out to an island in the middle of the river. Whatever purpose that served has long since passed, but the walkway remains as a hiking trail that I enjoyed:
+Sometime long ago, somebody decided — at what must have been great expense — to build a pier out to an island in the middle of the river. Whatever purpose that served has long since passed, but the walkway remains as a hiking trail that I enjoyed:
 
 {{ es_cdn_image(id = "es-4206-212", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4206-212") }}
 

@@ -39,7 +39,7 @@ I _did_ notice a worn, but unmarked, path leading out of one side of a parking l
 
 {{ es_cdn_image(id = "es-4533-040", cdn_version = "v1", cdn_key = "img/v1/2023/05/es-4533-040") }}
 
-It turns out that there is a nice network of trails here and -- aside from the lack of signage from the campground/picnic area -- they are quite well maintained and documented:
+It turns out that there is a nice network of trails here and — aside from the lack of signage from the campground/picnic area — they are quite well maintained and documented:
 
 {{ es_cdn_image(id = "es-4533-042", cdn_version = "v1", cdn_key = "img/v1/2023/05/es-4533-042") }}
 

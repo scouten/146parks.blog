@@ -1,5 +1,5 @@
 +++
-title = "Sun Lakes – Dry Falls"
+title = "Sun Lakes–Dry Falls"
 date = 2022-07-17
 weight = 110
 

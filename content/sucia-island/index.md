@@ -18,7 +18,7 @@ cover_cdn_key = "img/v1/2023/07/es-4559-256"
 cover_alt = "A grassy shoreline strewn with bleached driftwood logs looks out across calm gray water toward a forested mountain and distant islands under a heavy overcast sky, with a bird in flight in the upper left."
 +++
 
-The name Sucia comes from an early Spanish explorer who in 1791 declared the island "dirty" and named it _Isla Sucia_ (literally: "Dirty Island"). I have no idea why -- it's one of the cleanest and prettiest places I've seen in a long time.
+The name Sucia comes from an early Spanish explorer who in 1791 declared the island "dirty" and named it _Isla Sucia_ (literally: "Dirty Island"). I have no idea why — it's one of the cleanest and prettiest places I've seen in a long time.
 
 <!-- more -->
 

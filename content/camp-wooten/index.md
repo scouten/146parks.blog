@@ -19,7 +19,7 @@ cover_cdn_key = "img/v1/2025/05/es-255-4323"
 cover_alt = "Tall ponderosa pine trees in the foreground frame a view of grassy, rolling hills dotted with scattered conifers under a clear blue sky. A green forested valley below holds a small cabin with a green roof, viewed from a hillside near Camp Wooten Retreat Center."
 +++
 
-Imagine having an entire state park to yourself and 100 of your closest friends? It's possible – and that's the entire point of Camp Wooten Retreat Center.
+Imagine having an entire state park to yourself and 100 of your closest friends? It's possible — and that's the entire point of Camp Wooten Retreat Center.
 
 <!-- more -->
 

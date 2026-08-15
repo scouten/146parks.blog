@@ -14,7 +14,7 @@ cover = "es-4389-032"
 cover_cdn_key = "img/v1/2022/07/es-4389-032"
 +++
 
-Some say the rock formation across the Columbia River from this park resembles Abe Lincoln. I don't quite see that resemblance myself, but -- regardless -- this park offers some nice views and access to the river itself.
+Some say the rock formation across the Columbia River from this park resembles Abe Lincoln. I don't quite see that resemblance myself, but — regardless — this park offers some nice views and access to the river itself.
 
 <!-- more -->
 

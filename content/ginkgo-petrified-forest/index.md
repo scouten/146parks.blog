@@ -14,7 +14,7 @@ cover = "es-4176-039"
 cover_cdn_key = "img/v1/2021/03/es-4176-039"
 +++
 
-The grasslands above the Columbia River near Vantage offer expansive views and a peek back in time. This park is named for a ginkgo and sequoia forest – preserved by volcanic activity – that existed some 15 million years ago.
+The grasslands above the Columbia River near Vantage offer expansive views and a peek back in time. This park is named for a ginkgo and sequoia forest — preserved by volcanic activity — that existed some 15 million years ago.
 
 <!-- more -->
 

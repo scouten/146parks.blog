@@ -20,7 +20,7 @@ This is perhaps less than a favorite park of mine: It’s urban, heavily travele
 
 {{ es_cdn_image(id = "es-4156-046", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4156-046") }}
 
-I am not currently a city dweller. For those who do live in the city, this is a delightful and convenient retreat. To have easy access to the professional and cultural opportunities that city life provided is a gift. To have the opportunity to walk into nature – combined with those proximate opportunities – is a blessing.
+I am not currently a city dweller. For those who do live in the city, this is a delightful and convenient retreat. To have easy access to the professional and cultural opportunities that city life provided is a gift. To have the opportunity to walk into nature — combined with those proximate opportunities — is a blessing.
 
 This is called Bridle Trails State Park, but only a few of the visitors we saw in our hour or so in the park were equine; most visitors were on two feet.
 

@@ -18,7 +18,7 @@ Saltwater State Park lies right in the heart of the metropolis that is Seattle, 
 
 <!-- more -->
 
-The park's location a few miles south of our primary airport means that any visit is frequently punctuated by the sound of jetliners hauling themselves into the sky or preparing for their imminent arrival -- a noisy ordeal either way.
+The park's location a few miles south of our primary airport means that any visit is frequently punctuated by the sound of jetliners hauling themselves into the sky or preparing for their imminent arrival — a noisy ordeal either way.
 
 {{ es_cdn_image(id = "es-4239-038", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4239-038") }}
 {{ es_cdn_image(id = "es-4239-040", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4239-040") }}

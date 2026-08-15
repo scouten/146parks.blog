@@ -8,7 +8,7 @@ mastodon_url = "https://ericscouten.social/@146parks/110766752472513697"
 seq = 123
 lat = 48.664
 lon = -122.839
-visited = "22 – 23 July 2023"
+visited = "22–23 July 2023"
 near = "Orcas Island"
 markers = "markers.js"
 bounds = {sw = [48.650, -122.863], ne = [48.678, -122.816]}

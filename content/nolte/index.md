@@ -19,7 +19,7 @@ Long ago, this was a family-oriented vacation spot. When the last of the owners'
 
 <!-- more -->
 
-This park looks geared for a lot of traffic in the summer. But it was not exactly quiet on this cold and sunny December afternoon. Lots of people -- and lots of their dogs -- were out enjoying the 1.4 mile loop around Deep Lake.
+This park looks geared for a lot of traffic in the summer. But it was not exactly quiet on this cold and sunny December afternoon. Lots of people — and lots of their dogs — were out enjoying the 1.4 mile loop around Deep Lake.
 
 {{ es_cdn_image(id = "es-4285-080", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4285-080") }}
 {{ es_cdn_image(id = "es-4285-083", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4285-083") }}

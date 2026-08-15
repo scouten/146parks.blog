@@ -56,7 +56,7 @@ A funny story about this next photo, with which I'll close this post: As I was w
 
 It happened once, briefly. I got the shot I thought I wanted. But when I came back to review my work later, I found it kind of boring.
 
-Instead I'm sharing the exact photo I had been working so hard to _avoid_ -- a photo with people in it. I especially enjoyed this one of a couple and their dogs contemplating the cannon. Hope you enjoy it too!
+Instead I'm sharing the exact photo I had been working so hard to _avoid_ — a photo with people in it. I especially enjoyed this one of a couple and their dogs contemplating the cannon. Hope you enjoy it too!
 
 {{ es_cdn_image(id = "es-4556-072", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4556-072") }}
 

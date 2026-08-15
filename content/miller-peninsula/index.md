@@ -56,7 +56,7 @@ If so, that would mean there would only be _145_ parks.
 
 Awkward!
 
-And then, while on my way to visit Dungeness Spit (also a worthy hike, though not a state park), I drove past a sign pointing to “Miller Peninsula State Park Property.” Hmmm. I had -- as my introduction above suggested -- overlooked this park, thinking it was not really a park yet. I made a mental note to reconsider. Further research showed that it was, in fact, worth visiting.
+And then, while on my way to visit Dungeness Spit (also a worthy hike, though not a state park), I drove past a sign pointing to “Miller Peninsula State Park Property.” Hmmm. I had — as my introduction above suggested — overlooked this park, thinking it was not really a park yet. I made a mental note to reconsider. Further research showed that it was, in fact, worth visiting.
 
 So now, once again, I believe there are 146 state parks in Washington. I look forward to visiting and documenting the remaining 135 of them.
 
