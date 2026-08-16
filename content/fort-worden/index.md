@@ -25,23 +25,23 @@ Fort Worden was an active US Army base from 1902 to 1953, then briefly a juvenil
 
 Even though I live nearby, this park is one of our larger parks and it's taken me a few times through to represent it adequately. Let's start with its many historical buildings that now serve as museums, theatres, college grounds, and wedding sites:
 
-{{ es_cdn_image(id = "es-4552-018", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4552-018") }}
+{{ es_cdn_image(id = "es-4552-018", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4552-018", alt = "A two-story white clapboard building with wraparound porches and columns housing the Coast Artillery Museum, fronted by a concrete walkway, a central staircase, and two large black artillery shells flanking the steps under a clear blue sky. An American flag hangs by the entrance and another flies on a pole to the right.") }}
 
-{{ es_cdn_image(id = "es-4552-024", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4552-024") }}
+{{ es_cdn_image(id = "es-4552-024", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4552-024", alt = "A large white clapboard barracks building with green-trimmed windows and a covered arched veranda, standing on a grassy rise under a deep blue sky at Fort Worden Historical State Park. A concrete walkway runs alongside the building past low shrubs, with distant water and mountains visible on the right and a few people and parked cars in the background.") }}
 
-{{ es_cdn_image(id = "es-4552-027", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4552-027") }}
+{{ es_cdn_image(id = "es-4552-027", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4552-027", alt = "A white two-story wooden building with double-decker porches, white columns, and green railings, seen from ground level over a patch of dry, brown grass. The dark windows have green trim, a black folding chair sits on the lower porch, and green lattice encloses the crawl space beneath the raised deck.") }}
 
-{{ es_cdn_image(id = "es-4552-032", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4552-032") }}
+{{ es_cdn_image(id = "es-4552-032", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4552-032", alt = "A large white two-story wooden military barracks building with wraparound porches supported by columns, set on a bluff above blue water with distant mountains under a clear blue sky. Dry golden grass grows in the foreground, and a couple, one wearing a white dress, walks along the building’s lower level.") }}
 
-{{ es_cdn_image(id = "es-4552-033", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4552-033") }}
+{{ es_cdn_image(id = "es-4552-033", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4552-033", alt = "A red brick tower with castle-like crenellations rises above an attached brick house with white-trimmed windows and a covered porch, set atop a dry, sun-browned grassy hill under a clear blue sky. Green trees and shrubs flank the building at Fort Worden Historical State Park.") }}
 
 While walking around this area, I happened upon a volunteer (whose name I sadly didn't catch) with [Friends of Fort Worden State Park](https://www.fwfriends.org). I asked him what I should see in an afternoon's tour of the park. His advice: Hike up Artillery Hill and view the many gun batteries that were left behind when the Army closed the fort.
 
 Great advice! This was a bounty of textures, shapes, and contours.
 
-{{ es_cdn_image(id = "es-4552-038", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4552-038") }}
+{{ es_cdn_image(id = "es-4552-038", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4552-038", alt = "A weathered concrete military bunker with three sets of black metal doors set into its olive-green facade, topped by a mound of dry grasses, under a clear deep-blue sky. A white sign reading “HALDIMAND PUTNAM” is mounted above the central doorway.") }}
 
-{{ es_cdn_image(id = "es-4552-039", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4552-039") }}
+{{ es_cdn_image(id = "es-4552-039", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4552-039", alt = "A weathered concrete military bunker set into a grass-covered hillside, its earthen roof topped with tall golden dry grass under a deep blue sky. The facade has a heavy black riveted steel double door, chained and padlocked, flanked by stained and cracked concrete walls, with a paved apron in the foreground.") }}
 
 {{ es_cdn_image(id = "es-4552-042", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4552-042") }}
 
