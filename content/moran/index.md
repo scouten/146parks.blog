@@ -27,29 +27,29 @@ It was foggy yesterday morning when I came across on the ferry from Anacortes. S
 
 I first stopped at Cascade Lake, the point where the road to Olga village passes through the park. By this point, the fog was just starting to burn off.
 
-{{ es_cdn_image(id = "es-4557-016", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4557-016") }}
+{{ es_cdn_image(id = "es-4557-016", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4557-016", alt = "A calm dark-green lake with rippled water in the foreground, its far shore lined with an evergreen forest partly obscured by low fog that rises off the water and drifts across a bright blue sky.") }}
 
-{{ es_cdn_image(id = "es-4557-017", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4557-017") }}
+{{ es_cdn_image(id = "es-4557-017", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4557-017", alt = "A rustic stone-walled building with a moss-covered shingled roof houses a closed ice cream stand, marked by a hand-painted sign reading “The Sugar Shack” and an “Ice Cream Shoppe” placard. Colorful triangular bunting hangs across the front, tall evergreen trees rise behind the building, and a gravel path runs in front under bright daylight.") }}
 
-{{ es_cdn_image(id = "es-4557-018", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4557-018") }}
+{{ es_cdn_image(id = "es-4557-018", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4557-018", alt = "A row of overturned kayaks and canoes in bright orange, red, and yellow rests on a grassy lakeshore beside a small “Kayak Rentals” sign, with mist rising off Cascade Lake and forested hills fading into fog under a blue sky.") }}
 
 Next up was the road to the summit of Mount Constitution:
 
-{{ es_cdn_image(id = "es-4557-021", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4557-021") }}
+{{ es_cdn_image(id = "es-4557-021", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4557-021", alt = "A curving paved road crosses an old concrete bridge with mossy, arch-detailed balustrade railings, winding through a dense evergreen forest. Green ferns, shrubs and towering conifers fill the surrounding hillsides in dappled morning light.") }}
 
 I got to the summit around 9:30am, in time to catch _some_ of the fog still on the water below.
 
-{{ es_cdn_image(id = "es-4557-024", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4557-024") }}
+{{ es_cdn_image(id = "es-4557-024", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4557-024", alt = "A dirt hiking trail descends through evergreen conifers toward a sweeping view of blue coastal waters dotted with islands and low clouds, with distant mainland and mountains under a clear blue sky.") }}
 
 During the Great Depression, the Civilian Conservation Corps invested heavily in building infrastructure for us to enjoy the outdoors. One of their larger projects was in the recently-opened Moran State Park. Among many other projects in this park, they built an observation tower at the summit of Mount Constitution. The top of this tower offers some amazing panoramic views of the surrounding area:
 
-{{ es_cdn_image(id = "es-4557-032", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4557-032") }}
+{{ es_cdn_image(id = "es-4557-032", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4557-032", alt = "An elevated view from Mount Constitution over the San Juan Islands, with forested slopes in the foreground descending to blue water dotted with small islands, a long band of low white cloud lying over the sound, and distant hazy mountain ranges under a clear blue sky.") }}
 
-{{ es_cdn_image(id = "es-4557-034p", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4557-034p") }}
+{{ es_cdn_image(id = "es-4557-034p", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4557-034p", alt = "A wide panoramic view from a forested mountaintop overlooking a calm blue sea dotted with green islands under a clear pale-blue sky, with evergreen trees framing the foreground and distant islands fading into haze on the horizon.") }}
 
 Heading back down the mountain, I stopped to explore the Cold Spring area:
 
-{{ es_cdn_image(id = "es-4557-063", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4557-063") }}
+{{ es_cdn_image(id = "es-4557-063", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4557-063", alt = "A sunlit clearing of bright green grasses and ferns bordered by tall evergreen conifers under a clear deep blue sky at Cold Spring in Moran State Park, Orcas Island.") }}
 
 {{ es_cdn_image(id = "es-4557-069", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4557-069", alt = "A dirt hiking trail winds through a dense conifer forest of tall evergreen trees, with dappled sunlight filtering through the canopy. A large fallen mossy log lies across the forest floor to the right of the path.") }}
 
