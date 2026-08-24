@@ -14,6 +14,7 @@ near = "Port Townsend"
 bounds = {sw = [48.129, -122.771], ne = [48.149, -122.751]}
 cover = "es-4457-030"
 cover_cdn_key = "img/v1/2022/12/es-4457-030"
+cover_alt = "A dry, golden grassy field in the foreground gives way to a distant shoreline with low wooded hills across a calm stretch of water, all beneath a dramatic sky of towering white and gray clouds with patches of blue and sunlight breaking through."
 visited = "18 January 2004, 18 December 2022, and 15 July 2023"
 +++
 
@@ -61,31 +62,31 @@ Great advice! This was a bounty of textures, shapes, and contours.
 
 {{ es_cdn_image(id = "es-4552-170", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4552-170", alt = "Crumbling brick and concrete foundation ruins overtaken by trees and tall dry grass in a sunlit forest clearing, with a pine and slender saplings growing directly out of a moss-covered mound of old masonry.") }}
 
-{{ es_cdn_image(id = "es-4457-033", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4457-033") }}
+{{ es_cdn_image(id = "es-4457-033", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4457-033", alt = "An abandoned concrete bunker with empty window and door openings sits beside a wet, curving paved road, surrounded by dune grass. A wind-shaped conifer tree grows directly out of the structure’s flat roof beneath a partly cloudy sky.") }}
 
-{{ es_cdn_image(id = "es-4457-038", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4457-038") }}
+{{ es_cdn_image(id = "es-4457-038", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4457-038", alt = "Two heavy, rusted metal doors stand open on either side of a dark concrete bunker entrance at Fort Worden, revealing a shadowy passage inside. The cracked, weathered concrete wall shows moss and age, with a stepped walkway leading up to the doorway.") }}
 
-{{ es_cdn_image(id = "es-4457-043", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4457-043") }}
+{{ es_cdn_image(id = "es-4457-043", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4457-043", alt = "A weathered concrete circular gun emplacement at an abandoned coastal artillery battery, with curved tiered steps and a central mounting pad, surrounded by a curving wall of peeling paint in patches of green, pink, and gray beneath a blue sky with clouds. Red doors and a small window are set into the wall, with a lone shrub visible above the parapet.") }}
 
-{{ es_cdn_image(id = "es-4457-051", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4457-051") }}
+{{ es_cdn_image(id = "es-4457-051", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4457-051", alt = "An abandoned two-story concrete military structure with peeling paint, moss-stained columns, and metal railings, fronted by a paved walkway and a set of concrete stairs leading to the upper level. A mowed green lawn is in the foreground and a windswept pine tree stands against an overcast sky at left.") }}
 
 The US Coast Guard also has a long history in this site, having operated a lighthouse at this location since 1879. The current structure opened in 1914 and remains active today.
 
 {{ es_cdn_image(id = "es-0725-004", cdn_version = "v1", cdn_key = "img/v1/2004/01/es-0725-004", title = "Point Wilson Lighthouse") }}
 
-{{ es_cdn_image(id = "es-4457-081", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4457-081") }}
+{{ es_cdn_image(id = "es-4457-081", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4457-081", alt = "A white clapboard lighthouse keeper’s house with a red shingled roof and green-trimmed windows, topped by a small white lighthouse tower with a rust-colored dome, set on a grassy coastal point beside a small weathered outbuilding. Golden dune grass fills the foreground with calm water, a distant wooded shoreline, and a cloudy sky behind.") }}
 
-{{ es_cdn_image(id = "es-4457-032", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4457-032") }}
+{{ es_cdn_image(id = "es-4457-032", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4457-032", alt = "A white clapboard keeper’s house with a dark red roof stands beside a short white lighthouse with a red-topped lantern room, set on flat grassy coastal ground under a sky of large white and gray clouds over blue. A wet asphalt lot with puddles lies in the foreground, with a small shed and an orange fire hydrant nearby.") }}
 
 And, of course, there are the long sandy beaches, which draw lots of visitors on summer weekends:
 
 {{ es_cdn_image(id = "es-4552-046", cdn_version = "v1", cdn_key = "img/v1/2023/07/es-4552-046") }}
 
-{{ es_cdn_image(id = "es-4457-030", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4457-030") }}
+{{ es_cdn_image(id = "es-4457-030", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4457-030", alt = "A dry, golden grassy field in the foreground gives way to a distant shoreline with low wooded hills across a calm stretch of water, all beneath a dramatic sky of towering white and gray clouds with patches of blue and sunlight breaking through.") }}
 
-{{ es_cdn_image(id = "es-4457-072", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4457-072") }}
+{{ es_cdn_image(id = "es-4457-072", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4457-072", alt = "A sandy beach with dry golden grass and footprints in the foreground meets calm gray water under a bright blue sky dotted with white and gray clouds, with a low distant shoreline on the horizon.") }}
 
-{{ es_cdn_image(id = "es-4457-082", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4457-082") }}
+{{ es_cdn_image(id = "es-4457-082", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4457-082", alt = "Wind-sculpted evergreen trees stand atop a grassy dune covered in tall golden dune grass, under a dramatic sky of heavy gray and white clouds. In the distance, a forested shoreline and low bluffs are visible beyond a low structure and a curving road.") }}
 
 For more information:
 

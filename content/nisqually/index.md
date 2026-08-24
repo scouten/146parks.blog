@@ -13,6 +13,7 @@ track_log_key = "kml/v1/2022/12/2022-12-30-nisqually.kml"
 bounds = {sw = [46.847, -122.34], ne = [46.867, -122.32]}
 cover = "es-4461-076"
 cover_cdn_key = "img/v1/2022/12/es-4461-076"
+cover_alt = "A soft dirt trail winds through a dense conifer forest with tall, straight tree trunks draped in moss and wispy lichen, flanked by ferns and green undergrowth under an overcast sky."
 +++
 
 This is a quiet and modest park — officially titled as "under development" — but there are some good hikes to be had here.
@@ -27,17 +28,17 @@ On a sunnier day, I think there might have been some nice views of nearby Mount 
 
 {{ es_cdn_image(id = "es-4461-016", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4461-016") }}
 
-{{ es_cdn_image(id = "es-4461-022", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4461-022") }}
+{{ es_cdn_image(id = "es-4461-022", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4461-022", alt = "A fallen, decaying log covered in pale grey-green lichen and moss cradles a small pool of dark rainwater in a hollow split, reflecting bare branches and sky. Bright green sword ferns and brown fallen leaves surround the rotting wood on the forest floor.") }}
 
 Perhaps they are preparing to do more trail development here?
 
 {{ es_cdn_image(id = "es-4461-025", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4461-025") }}
 
-{{ es_cdn_image(id = "es-4461-028", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4461-028") }}
+{{ es_cdn_image(id = "es-4461-028", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4461-028", alt = "A view down a forested hillside through evergreen and bare-branched trees toward a muddy, brown river below at Nisqually State Park in Washington, with a splintered, broken tree stump and green undergrowth in the foreground.") }}
 
 {{ es_cdn_image(id = "es-4461-032", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4461-032") }}
 
-{{ es_cdn_image(id = "es-4461-037", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4461-037") }}
+{{ es_cdn_image(id = "es-4461-037", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4461-037", alt = "A dense temperate forest with moss-covered tree trunks and branches leaning at various angles, backed by tall evergreen conifers and a pale overcast sky. Lush ferns and low green undergrowth cover the forest floor.") }}
 
 After a very rainy season, the river is running very fast!
 
@@ -49,11 +50,11 @@ After a very rainy season, the river is running very fast!
 
 {{ es_cdn_image(id = "es-4461-057", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4461-057") }}
 
-{{ es_cdn_image(id = "es-4461-060", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4461-060") }}
+{{ es_cdn_image(id = "es-4461-060", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4461-060", alt = "A single pale green leaf beaded with water droplets rests on wet dark gravel scattered with fallen pine needles, twigs, bits of lichen, and a small pine cone.") }}
 
 {{ es_cdn_image(id = "es-4461-062", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4461-062") }}
 
-{{ es_cdn_image(id = "es-4461-076", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4461-076") }}
+{{ es_cdn_image(id = "es-4461-076", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4461-076", alt = "A soft dirt trail winds through a dense conifer forest with tall, straight tree trunks draped in moss and wispy lichen, flanked by ferns and green undergrowth under an overcast sky.") }}
 
 For more information:
 
