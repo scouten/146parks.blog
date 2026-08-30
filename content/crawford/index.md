@@ -15,6 +15,7 @@ markers = "markers.js"
 bounds = {sw = [48.988, -117.381], ne = [49.008, -117.361]}
 cover = "es-4390-310"
 cover_cdn_key = "img/v1/2022/07/es-4390-310"
+cover_alt = "A cave ceiling and rock formations glowing intense blue and violet under ultraviolet light, with a cluster of bright, sparkling white and pale mineral spots at the center where the rock fluoresces. Stalactite-like textures and drips are silhouetted against the deep blue darkness."
 +++
 
 Located near the Canadian border, this park seems fairly basic on the surface. Dig a little deeper (i.e. arrange a tour at the right time) and you'll find some views unlike any other of Washington's state parks.
@@ -45,17 +46,17 @@ Fortunately, I had arranged for just such a tour. The tour explores roughly 1/3 
 
 {{ es_cdn_image(id = "es-4390-297", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-297") }}
 
-{{ es_cdn_image(id = "es-4390-304", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-304") }}
+{{ es_cdn_image(id = "es-4390-304", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-304", alt = "A metal staircase with grated steps and dark railings leading up through a dimly lit cave interior, with a large tan flowstone column rising beside a lit walkway on the right and rugged rock formations on the left.") }}
 
 A highlight of the tour was at the end of the walkway. Our tour guide turned off the lights and turned on (I think ... if I remember correctly) ultraviolet lights, which lit up some of the rock formations above us in this other-worldly fashion:
 
-{{ es_cdn_image(id = "es-4390-310", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-310") }}
+{{ es_cdn_image(id = "es-4390-310", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-310", alt = "A cave ceiling and rock formations glowing intense blue and violet under ultraviolet light, with a cluster of bright, sparkling white and pale mineral spots at the center where the rock fluoresces. Stalactite-like textures and drips are silhouetted against the deep blue darkness.") }}
 
 When nobody talks in the cave, it is incredibly quiet in there.
 
 {{ es_cdn_video(id = "es-4390-316", cdn_version = "v1", cdn_key = "vid/v1/2022/07/es-4390-316") }}
 
-{{ es_cdn_image(id = "es-4390-319", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-319") }}
+{{ es_cdn_image(id = "es-4390-319", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-319", alt = "Illuminated interior of a limestone cave showing lumpy, bulbous rock formations with rounded, cauliflower-like textures, the pale tan and gray surfaces lit against dark recesses in the background.") }}
 
 There's also a hiking trail north of the cave which leads to this picnic table with a rather unusual view:
 
