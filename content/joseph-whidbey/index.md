@@ -14,6 +14,7 @@ markers = "markers.js"
 bounds = {sw = [48.301, -122.72], ne = [48.321, -122.7]}
 cover = "es-4364-174"
 cover_cdn_key = "img/v1/2022/06/es-4364-174"
+cover_alt = "A pebble beach strewn with large sun-bleached driftwood logs curving along a calm bay, with grassy dunes on the right, distant tree-covered shoreline and mountains across the water, and a bright blue sky filled with scattered clouds."
 +++
 
 Situated on the west shore of Whidbey Island west of Oak Harbor, Joseph Whidbey State Park offers a few miles of hiking trails through forest and wetlands and a long sandy beach.
@@ -25,16 +26,23 @@ I'm told it is a great place for storm watching, but on the late spring day when
 I started with the hiking trails and found my way to the beach later.
 
 {{ es_cdn_image(id = "es-4364-159", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-159") }}
+
 {{ es_cdn_image(id = "es-4364-161", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-161") }}
+
 {{ es_cdn_image(id = "es-4364-162", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-162") }}
-{{ es_cdn_image(id = "es-4364-165", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-165") }}
+
+{{ es_cdn_image(id = "es-4364-165", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-165", alt = "A grassy mown footpath winds through a lush green meadow bordered by leafy trees and shrubs, beneath a dramatic blue sky filled with scattered white and gray clouds at Joseph Whidbey State Park.") }}
 
 With the rainy spring we've had, some of the trails got pretty muddy:
 
-{{ es_cdn_image(id = "es-4364-168", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-168") }}
+{{ es_cdn_image(id = "es-4364-168", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-168", alt = "A muddy, waterlogged section of trail winding through dense green undergrowth, with a weathered wooden plank laid across a stretch of standing water and thick brown mud in the foreground.") }}
+
 {{ es_cdn_image(id = "es-4364-170", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-170") }}
-{{ es_cdn_image(id = "es-4364-174", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-174") }}
+
+{{ es_cdn_image(id = "es-4364-174", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-174", alt = "A pebble beach strewn with large sun-bleached driftwood logs curving along a calm bay, with grassy dunes on the right, distant tree-covered shoreline and mountains across the water, and a bright blue sky filled with scattered clouds.") }}
+
 {{ es_cdn_image(id = "es-4364-175p", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-175p") }}
+
 {{ es_cdn_image(id = "es-4364-200", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-200") }}
 
 For more information:

@@ -19,19 +19,32 @@ Fort Ebey was built as part of our coastal defense strategy in World War II and 
 <!-- more -->
 
 {{ es_cdn_image(id = "es-4364-083", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-083") }}
+
 {{ es_cdn_image(id = "es-4364-085p", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-085p") }}
+
 {{ es_cdn_image(id = "es-4364-100", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-100") }}
+
 {{ es_cdn_image(id = "es-4364-101", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-101") }}
+
 {{ es_cdn_image(id = "es-4364-104", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-104") }}
+
 {{ es_cdn_image(id = "es-4364-108", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-108") }}
+
 {{ es_cdn_image(id = "es-4364-113", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-113") }}
+
 {{ es_cdn_image(id = "es-4364-118", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-118") }}
+
 {{ es_cdn_image(id = "es-4364-121p", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-121p") }}
+
 {{ es_cdn_image(id = "es-4364-143", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-143") }}
+
 {{ es_cdn_image(id = "es-4364-147", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-147") }}
+
 {{ es_cdn_image(id = "es-4364-150", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-150") }}
+
 {{ es_cdn_image(id = "es-4364-152", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-152") }}
-{{ es_cdn_image(id = "es-4364-153", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-153") }}
+
+{{ es_cdn_image(id = "es-4364-153", cdn_version = "v1", cdn_key = "img/v1/2022/06/es-4364-153", alt = "A grassy hillside trail with weathered wooden and gravel steps flanked by a rustic wooden railing, leading up toward a line of tall evergreen trees under a blue sky with scattered clouds. Yellow dandelions dot the tall grass along the path at Fort Ebey State Park.") }}
 
 For more information:
 

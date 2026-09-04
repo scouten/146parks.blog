@@ -30,21 +30,21 @@ But then you are confronted with this mysterious gate surrounding some steps dow
 
 {{ es_cdn_image(id = "es-4390-226", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-226") }}
 
-{{ es_cdn_image(id = "es-4390-228", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-228") }}
+{{ es_cdn_image(id = "es-4390-228", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-228", alt = "A metal staircase with grated steps and handrails descends into a rocky cave opening in a forested hillside, surrounded by large green leaves and undergrowth, with a black iron fence and a concrete viewing platform at the top.") }}
 
 Fortunately, I had arranged for just such a tour. The tour explores roughly 1/3 of a mile underground in a cave first discovered around the beginning of the previous century. There are walkways and lights throughout the cave which make it easy to see the various limestone formations.
 
 {{ es_cdn_image(id = "es-4390-241", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-241") }}
 
-{{ es_cdn_image(id = "es-4390-245", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-245") }}
+{{ es_cdn_image(id = "es-4390-245", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-245", alt = "A close-up of a cave wall covered in flowstone and popcorn-like mineral deposits, showing brown, tan, and white calcite formations with a bumpy, draping texture.") }}
 
-{{ es_cdn_image(id = "es-4390-259", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-259") }}
+{{ es_cdn_image(id = "es-4390-259", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-259", alt = "A metal grated walkway with railings leads through a large underground cavern illuminated by lamp posts, with rugged rock walls and formations rising overhead.") }}
 
-{{ es_cdn_image(id = "es-4390-270", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-270") }}
+{{ es_cdn_image(id = "es-4390-270", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-270", alt = "Cave interior with tan and cream-colored limestone formations, including a large column and flowstone draping down textured rock walls, lit warmly against deep shadows.") }}
 
-{{ es_cdn_image(id = "es-4390-295", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-295") }}
+{{ es_cdn_image(id = "es-4390-295", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-295", alt = "The interior of a limestone cave with smooth, rounded rock formations and flowstone in tan and gray tones, a dark passage opening into shadow at the center, and lighter, glistening mineral surfaces on the right.") }}
 
-{{ es_cdn_image(id = "es-4390-297", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-297") }}
+{{ es_cdn_image(id = "es-4390-297", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-297", alt = "A close-up of a cave wall covered in a delicate, ripple-like network of pale mineral deposits, with darker rock visible along the top and lower right where lamplight fades into shadow.") }}
 
 {{ es_cdn_image(id = "es-4390-304", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4390-304", alt = "A metal staircase with grated steps and dark railings leading up through a dimly lit cave interior, with a large tan flowstone column rising beside a lit walkway on the right and rugged rock formations on the left.") }}
 
