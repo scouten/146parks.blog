@@ -58,6 +58,12 @@ lon = -121.2878
 trail = true
 
 [[extra.parks]]
+name = "Lilliwaup Tidelands"
+link = "https://wdfw.wa.gov/places-to-go/shellfish-beaches/270310"
+lat = 47.46167
+lon = -123.10633
+
+[[extra.parks]]
 name = "Matia Island"
 gh_issue_id = 79
 link = "https://parks.state.wa.us/544/Matia-Island"
