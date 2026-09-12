@@ -36,6 +36,12 @@ lon = -122.7879
 water_only = true
 
 [[extra.parks]]
+name = "Haley"
+link = "https://www.wta.org/go-hiking/hikes/haley-state-park"
+lat = 47.2918
+lon = -122.7861
+
+[[extra.parks]]
 name = "Hoko River"
 link = "https://parks.state.wa.us/321/Hoko-River"
 lat = 48.2791
@@ -85,6 +91,13 @@ gh_issue_id = 75
 link = "https://parks.state.wa.us/567/Posey-Island"
 lat = 48.6183
 lon = -123.1681
+water_only = true
+
+[[extra.parks]]
+name = "Stretch Point"
+link = "https://waparks.org/parks/stretch-point/"
+lat = 47.3283
+lon = -122.8211
 water_only = true
 
 [[extra.parks]]
