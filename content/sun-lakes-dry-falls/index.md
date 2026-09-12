@@ -25,11 +25,11 @@ Back in the Ice Age, floods carved dramatic canyons out of the bedrock and left 
 
 I first visited this park at the end of winter and was taken by its other-worldly landscape.
 
-{{ es_cdn_image(id = "es-4321-072", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4321-072") }}
+{{ es_cdn_image(id = "es-4321-072", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4321-072", alt = "A small pond ringed by silvery-green sagebrush and reddish brush sits at the base of dark basalt cliffs and coulee walls under a heavily overcast gray sky at Sun Lakes–Dry Falls State Park.") }}
 
-{{ es_cdn_image(id = "es-4321-076", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4321-076") }}
+{{ es_cdn_image(id = "es-4321-076", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4321-076", alt = "A gravel trail winds through a sagebrush-covered slope beneath layered basalt cliffs rising against an overcast gray sky at Sun Lakes–Dry Falls State Park in Washington.") }}
 
-{{ es_cdn_image(id = "es-4321-078", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4321-078") }}
+{{ es_cdn_image(id = "es-4321-078", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4321-078", alt = "A calm channel of water winds between tall stands of golden dry reeds toward a lake, with dark layered basalt cliffs rising in the background under an overcast gray sky.") }}
 
 Much of the park was closed for the winter season, so I knew I had to plan another visit. That happened this summer and I found a very much busier and vibrant park this time.
 

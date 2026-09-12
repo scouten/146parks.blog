@@ -24,17 +24,17 @@ There is only one Steamboat Rock. As a 600-foot tall basalt rock formation in an
 
 I visited this park at the end of the winter season and captured a few frames before an approaching snowstorm caused me to cut my hike short and change my plans.
 
-{{ es_cdn_image(id = "es-4321-099", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4321-099") }}
+{{ es_cdn_image(id = "es-4321-099", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4321-099", alt = "A flat-topped basalt butte with columnar cliffs rises above a talus slope under an overcast gray sky, with silvery sagebrush and a couple of scattered pine trees filling the arid foreground at Steamboat Rock State Park.") }}
 
-{{ es_cdn_image(id = "es-4321-100", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4321-100") }}
+{{ es_cdn_image(id = "es-4321-100", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4321-100", alt = "A high basalt cliff and rocky plateau rising above a dry, sagebrush-covered slope dotted with scattered ponderosa pines, under a heavy overcast gray sky.") }}
 
-{{ es_cdn_image(id = "es-4321-102", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4321-102") }}
+{{ es_cdn_image(id = "es-4321-102", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4321-102", alt = "A gravel road winds through arid high-desert terrain under an overcast gray sky, flanked by sagebrush and dry grasses, with several ponderosa pines on the left and a dark basalt rock outcrop on the right.") }}
 
-{{ es_cdn_image(id = "es-4321-107", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4321-107") }}
+{{ es_cdn_image(id = "es-4321-107", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4321-107", alt = "A flat-topped basalt cliff rises above a talus slope dotted with scattered ponderosa pines under an overcast gray sky. In the foreground, dry golden grasses and pale sagebrush cover the ground, framed by two larger pine trees on the left and right.") }}
 
-{{ es_cdn_image(id = "es-4321-123", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4321-123") }}
+{{ es_cdn_image(id = "es-4321-123", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4321-123", alt = "A faint dirt trail winds through pale sagebrush and dry grassland dotted with ponderosa pines, with dark basalt cliffs rising on the left and a distant blue lake and rocky headlands visible under an overcast gray sky.") }}
 
-{{ es_cdn_image(id = "es-4321-126", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4321-126") }}
+{{ es_cdn_image(id = "es-4321-126", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4321-126", alt = "A faint dirt trail winds through a hillside of pale sagebrush and dry grass dotted with scattered ponderosa pines, with basalt cliffs rising in the distance under a heavily overcast gray sky.") }}
 
 When I came back in the summer, I found lush greens and a busy campground.
 

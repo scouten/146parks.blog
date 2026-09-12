@@ -21,11 +21,11 @@ To visit this park is to be reminded of forces of nature that are larger than we
 
 This park offers moderate hikes, panoramic views of its area west of Wenatchee, and for the adventurous souls (not including me) some good rock climbing.
 
-{{ es_cdn_image(id = "es-4322-009", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4322-009") }}
+{{ es_cdn_image(id = "es-4322-009", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4322-009", alt = "A dirt hiking trail winds up a grassy hillside toward a jagged, weathered sandstone rock formation topped with a pointed pinnacle and scattered pine trees, all beneath a deep blue sky.") }}
 
 {{ es_cdn_image(id = "es-4322-010", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4322-010", caption = "Not sure who got eaten here, but this is a blunt reminder of the cycle of life.") }}
 
-{{ es_cdn_image(id = "es-4322-018", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4322-018") }}
+{{ es_cdn_image(id = "es-4322-018", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4322-018", alt = "A rugged, weathered rock outcrop of pale sandstone rises against a bright blue sky dotted with wispy clouds, with a jagged spire jutting up at its peak. A grassy hillside scattered with dry brush and small pine trees slopes down toward a sandy trail in the foreground.") }}
 {{ es_cdn_image(id = "es-4322-022", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4322-022", alt = "A small, wind-shaped pine tree growing atop a jagged sandstone rock formation, seen from below against a deep purple-blue sky with wisps of white cloud.") }}
 {{ es_cdn_image(id = "es-4322-031", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4322-031", alt = "A jagged, finger-like rock spire rises in the foreground with a small windblown pine growing from its lower ledge, set against snow-dusted mountains, forested slopes, and a partly cloudy sky.") }}
 {{ es_cdn_image(id = "es-4322-032p", cdn_version = "v1", cdn_key = "img/v1/2022/03/es-4322-032p", alt = "A wide panoramic view over a valley of leafless orchards and farmland, with a river winding through the distance and rolling brown hills leading up to snow-dusted mountains under a bright blue sky filled with white clouds. A jagged rock outcrop juts up on the left edge of the frame.") }}
