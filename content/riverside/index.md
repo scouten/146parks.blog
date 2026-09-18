@@ -46,7 +46,7 @@ A major part of this park is in the Spokane River Valley, so I spent some time a
 
 I captured a similar view during [a winter visit to the area](https://ericscouten.travel/2022/01-14-eastern-washington/) a couple years ago:
 
-{{ es_cdn_image(id = "es-4305-016", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4305-016", caption = "January 2022") }}
+{{ es_cdn_image(id = "es-4305-016", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4305-016", caption = "January 2022", alt = "A river bends through a snowy pine forest under a hazy, overcast winter sky, with tall ponderosa pines framing the view and fog obscuring the distant treed hills.") }}
 
 Nine Mile Falls was converted into a hydroelectric station in the early 1900s. The dam continues to power some parts of the city and surrounding area today.
 
