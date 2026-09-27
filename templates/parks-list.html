@@ -28,7 +28,7 @@
 <div class="parks-list">
 {% set parks = get_section(path="_index.md") -%}
 {% for page in parks.pages | filter(attribute="extra.seq") | reverse -%}
-  <div class="park-entry">
+  <div class="park-entry" data-seq="{{ page.extra.seq }}">
     <div class="park-link">
       <div class="sequence-assembly">
         <a href="{{ page.permalink | safe }}"><img src="/common/wa-shape.png" alt="" width="49" height="32"></a>
@@ -65,4 +65,70 @@
   </div>
 {% endfor -%}
 </div>
+
+{#- The home page's corner map: Washington, with the park in view highlighted (static/common/wa-parks-map.js). -#}
+{%- if config.extra.track_map -%}
+{%- set tm = config.extra.track_map -%}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@5/dist/maplibre-gl.css">
+<script defer src="https://cdn.jsdelivr.net/npm/maplibre-gl@5/dist/maplibre-gl.js"></script>
+
+<script type="application/json" id="wa-parks-config">{
+  "basemap": {{ tm.basemap | default(value="") | json_encode() | safe }},
+  "detail": {{ tm.detail | default(value="minimal") | json_encode() | safe }},
+  "hillshade": {{ tm.hillshade | default(value=true) | json_encode() }},
+  "regionOutline": {{ tm.region_outline | default(value="") | json_encode() | safe }},
+  "hideRouteNumbers": {{ tm.hide_route_numbers | default(value=false) | json_encode() }},
+  "glyphs": {{ tm.glyphs | default(value="") | json_encode() | safe }},
+  "labelFont": {% if tm.label_font %}{{ tm.label_font | json_encode() | safe }}{% else %}[]{% endif %},
+  "dim": {{ tm.dim_over_photos | default(value=true) | json_encode() }},
+  "mobileCollapsed": {{ tm.mobile_collapsed | default(value=true) | json_encode() }},
+  "parks": [
+    {%- for page in parks.pages | filter(attribute="extra.seq") %}
+    {"seq": {{ page.extra.seq }}, "name": {{ page.title | json_encode() | safe }}, "designator": {{ page.extra.designator | default(value="State Park") | json_encode() | safe }}, "near": {{ page.extra.near | default(value="") | json_encode() | safe }}, "visited": {% if page.extra.visited %}{{ page.extra.visited | json_encode() | safe }}{% else %}{{ page.date | date(format="%-d %B %Y") | json_encode() | safe }}{% endif %}, "lat": {{ page.extra.lat }}, "lon": {{ page.extra.lon }}, "url": {{ page.permalink | json_encode() | safe }}, "cover": {% if page.extra.cover_cdn_key %}{{ "https://img.ericscouten.com/" ~ page.extra.cover_cdn_key ~ "/cover-" ~ page.extra.cover ~ "-1000w.jpg" | json_encode() | safe }}{% elif page.extra.cover %}{{ page.permalink ~ "cover-" ~ page.extra.cover ~ ".jpg" | json_encode() | safe }}{% else %}""{% endif %}}{% if not loop.last %},{% endif %}
+    {%- endfor %}
+  ],
+  "todo": [
+    {%- set all_todo = get_page(path="todo.md") | get(key = "extra") | get(key = "parks") %}
+    {%- for p in all_todo %}
+    {"seq": {{ p.seq | default(value=0) }}, "name": {{ p.name | json_encode() | safe }}, "lat": {{ p.lat }}, "lon": {{ p.lon }}}{% if not loop.last %},{% endif %}
+    {%- endfor %}
+  ]
+}</script>
+
+<div id="es-track-widget" class="es-track-widget is-corner is-section{% if tm.corner | default(value="left") == "right" %} pos-right{% endif %}" hidden>
+  <div class="es-track-map">
+    <div id="es-track-canvas"></div>
+    <div class="es-track-notice" id="es-track-notice" hidden></div>
+    <svg class="es-track-badge-tail" id="es-track-thumb-tail" hidden aria-hidden="true"><polygon points="0,0 0,0 0,0"/></svg>
+    <div class="es-track-thumb" id="es-track-thumb" hidden><img alt=""><div class="es-track-thumb-loc" id="es-track-thumb-loc"></div></div>
+    <button type="button" class="es-track-btn es-track-expand" id="es-track-expand" aria-label="Expand map">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
+    </button>
+    <button type="button" class="es-track-btn es-track-close" id="es-track-close" aria-label="Close map">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+    </button>
+    <div class="es-track-zoom">
+      <button type="button" class="es-track-btn es-track-fit" id="es-track-fit" aria-label="Show all of Washington" title="All of Washington"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V4h5M15 4h5v5M20 15v5h-5M9 20H4v-5"/></svg></button>
+      <button type="button" class="es-track-btn" id="es-track-zoom-in" aria-label="Zoom in"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg></button>
+      <button type="button" class="es-track-btn" id="es-track-zoom-out" aria-label="Zoom out"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M5 12h14"/></svg></button>
+    </div>
+    <button type="button" class="es-track-btn es-track-attr-btn" id="es-track-attr-btn" aria-label="Map credits" aria-expanded="false">i</button>
+    <div class="es-track-attr">© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors · <a href="https://openfreemap.org">OpenFreeMap</a> · Terrain: Mapzen, AWS</div>
+  </div>
+  <div class="es-track-bar">
+    <div class="es-track-caption">
+      <span class="es-track-ico" id="es-track-ico" aria-hidden="true"></span>
+      <span class="es-track-text" id="es-track-text"></span>
+      <button type="button" class="es-track-bar-btn es-track-collapse" id="es-track-collapse" aria-label="Collapse map" aria-expanded="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 15l6-6 6 6"/></svg>
+      </button>
+    </div>
+  </div>
+</div>
+
+<div id="es-track-modal" class="es-track-modal" hidden></div>
+
+<script defer src="/common/track-common.js"></script>
+<script defer src="/common/wa-parks-map.js"></script>
+{%- endif %}
 {% endblock content -%}
