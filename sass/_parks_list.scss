@@ -26,6 +26,9 @@
 
 .park-entry {
     position: relative;
+
+    // Keep the title and summary overlays' z-indexes inside the card, beneath the corner map.
+    isolation: isolate;
     max-width: 1000px;
     margin: 2.5em auto;
 

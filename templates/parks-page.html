@@ -29,57 +29,63 @@
       </div>
     </div>
   </div>
+  <div id="es-content">
   {{ page.content | safe }}
-  <div id="map"></div>
-  {% if page.extra.markers %}
-  <script src="/common/add-gps-markers.js"></script>
-  <script src="{{ page.extra.markers }}"></script>
-  {% endif %}
-  <script>
-    let map;
+  </div>
+  {%- if config.extra.track_map and (page.extra.track_key or page.extra.track_url) %}
+  {%- include "track_map.html" %}
+  {%- else %}
+    <div id="map"></div>
+    {% if page.extra.markers %}
+    <script src="/common/add-gps-markers.js"></script>
+    <script src="{{ page.extra.markers }}"></script>
+    {% endif %}
+    <script>
+      let map;
 
-    function initMap() {
-      const map = new google.maps.Map(document.getElementById("map"), {
-        zoom: 12,
-        center: { lat: {{ page.extra.lat }}, lng: {{ page.extra.lon }} },
-        mapTypeId: "terrain",
-      });
+      function initMap() {
+        const map = new google.maps.Map(document.getElementById("map"), {
+          zoom: 12,
+          center: { lat: {{ page.extra.lat }}, lng: {{ page.extra.lon }} },
+          mapTypeId: "terrain",
+        });
 
-      map.setOptions('TERRAIN');
+        map.setOptions('TERRAIN');
  
-      {%- if page.extra.bounds -%}
-      const sw = new google.maps.LatLng({{ page.extra.bounds.sw[0] }}, {{ page.extra.bounds.sw[1] }});
-      const ne = new google.maps.LatLng({{ page.extra.bounds.ne[0] }}, {{ page.extra.bounds.ne[1] }});
-      const bounds = new google.maps.LatLngBounds(sw, ne);
-      map.fitBounds(bounds);
-      {%- endif -%}
-
-      {% if page.extra.track or page.extra.track_log_key %}
-      var kmlLayer = new google.maps.KmlLayer({
-        {%- if page.extra.track_log_key -%}
-        url: 'https://img.ericscouten.com/{{ page.extra.track_log_key | safe }}',
-        {%- else -%}
-        url: '{{ current_url | safe }}{{ page.extra.track }}',
+        {%- if page.extra.bounds -%}
+        const sw = new google.maps.LatLng({{ page.extra.bounds.sw[0] }}, {{ page.extra.bounds.sw[1] }});
+        const ne = new google.maps.LatLng({{ page.extra.bounds.ne[0] }}, {{ page.extra.bounds.ne[1] }});
+        const bounds = new google.maps.LatLngBounds(sw, ne);
+        map.fitBounds(bounds);
         {%- endif -%}
-        preserveViewport: true,
-        map: map
-      });
-      {% endif %}
-      {% if page.extra.markers %}
-      markers = addGpxMarkers(map);
-      {% else %}
-      const marker = new google.maps.Marker({
-        position: { lat: {{ page.extra.lat }}, lng: {{ page.extra.lon }} },
-        map: map,
-        preserveViewport: false,
-      });
-      {% endif %}
-    }
-  </script>
-  <script
-    src="https://maps.googleapis.com/maps/api/js?key={{ get_env(name="GOOGLE_API_KEY", default="none") }}&callback=initMap&libraries=&v=weekly"
-    async>
-  </script>
+
+        {% if page.extra.track or page.extra.track_log_key %}
+        var kmlLayer = new google.maps.KmlLayer({
+          {%- if page.extra.track_log_key -%}
+          url: 'https://img.ericscouten.com/{{ page.extra.track_log_key | safe }}',
+          {%- else -%}
+          url: '{{ current_url | safe }}{{ page.extra.track }}',
+          {%- endif -%}
+          preserveViewport: true,
+          map: map
+        });
+        {% endif %}
+        {% if page.extra.markers %}
+        markers = addGpxMarkers(map);
+        {% else %}
+        const marker = new google.maps.Marker({
+          position: { lat: {{ page.extra.lat }}, lng: {{ page.extra.lon }} },
+          map: map,
+          preserveViewport: false,
+        });
+        {% endif %}
+      }
+    </script>
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key={{ get_env(name="GOOGLE_API_KEY", default="none") }}&callback=initMap&libraries=&v=weekly"
+      async>
+    </script>
+  {%- endif %}
 </div>
 
 <div id="next_prev">

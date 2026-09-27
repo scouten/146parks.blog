@@ -4,6 +4,7 @@ date = 2023-07-24
 weight = 124
 
 [extra]
+distance = "29 km / 18 mi"
 mastodon_url = "https://ericscouten.social/@146parks/110776268793680855"
 seq = 124
 designator = "Marine State Park"
@@ -11,7 +12,8 @@ near = "north of Eastsound"
 lat = 48.740
 lon = -122.905
 markers = "markers.js"
-track_log_key = "kml/v1/2023/07/2023-07-24-sucia-island.kml"
+track_key = "track/v2/2023/07/2023-07-24.json"
+parks = ["relation/5929857"]  # Sucia Island Marine State Park
 bounds = {sw = [48.711, -122.920], ne = [48.769, -122.889]}
 cover = "es-4559-256"
 cover_cdn_key = "img/v1/2023/07/es-4559-256"
