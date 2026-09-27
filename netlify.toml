@@ -19,6 +19,19 @@ ZOLA_VERSION = "0.19.2" # -- restore when back to published version
 command = "zola build --base-url $DEPLOY_PRIME_URL && printf '/track/* https://img.ericscouten.com/track/:splat 200\\n' >> public/_redirects" # -- restore when back to published version
 # command = "curl -sL https://github.com/scouten/zola/releases/download/v0.16.1.es1/zola.tar.gz | tar zxv && chmod +x ./zola && ./zola build --base-url $DEPLOY_PRIME_URL"
 
+# The parks map and to-do map pages gave way to the home page's Washington map.
+[[redirects]]
+  from = "/map/*"
+  to = "/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/todo/*"
+  to = "/"
+  status = 301
+  force = true
+
 # Using 302 (temporary) redirects because I might someday
 # want to have a separate welcome page. We'll see.
 

@@ -14,7 +14,6 @@ $footer-font-family: interstate, sans-serif;
 @import url('https://use.typekit.net/gyv3tia.css');
 @import "../themes/zola-es-theme/sass/style.scss";
 
-@import "./map";
 @import "./track_map";
 @import "./miniheader";
 @import "./park";
@@ -43,7 +42,7 @@ header {
 
     a, a:hover { text-decoration: none; }
 
-    .parks .parks a, .map .map a, .about .about a {
+    .parks .parks a, .about .about a {
         border-bottom: 2px solid white;
     }
 }

@@ -1,7 +1,10 @@
 +++
 title = ""
-template = "map-todo.html"
 weight = 1001
+
+# Not a page: the parks still to visit (and, with `seq`, visited but not yet written up), read by the home page's
+# "Coming Soon" list and its Washington map.
+render = false
 
 [[extra.parks]]
 name = "Blind Island"
