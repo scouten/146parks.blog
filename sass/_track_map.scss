@@ -140,3 +140,42 @@
 .es-track-widget .es-track-thumb.wa-no-photo .es-track-thumb-loc {
     padding-top: 2px;
 }
+
+// The home page map's summary: "146" scribbled out with two hasty strokes, and the new count written in beside it,
+// a little askew.
+.es-track-widget.is-section .es-track-text .wa-quest {
+    overflow: visible;
+
+    .wa-was {
+        position: relative;
+        color: var(--es-track-muted);
+
+        &::before, &::after {
+            content: "";
+            position: absolute;
+            left: -3px;
+            right: -3px;
+            height: 2px;
+            border-radius: 2px;
+            background: var(--es-track-todo);
+        }
+
+        &::before {
+            top: 45%;
+            transform: rotate(-9deg);
+        }
+
+        &::after {
+            top: 60%;
+            transform: rotate(-3deg);
+        }
+    }
+
+    .wa-now {
+        display: inline-block;
+        margin-left: .1em;
+        color: var(--es-track-todo);
+        font-weight: 700;
+        transform: rotate(-7deg) translateY(-1px);
+    }
+}

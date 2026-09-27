@@ -48,6 +48,10 @@
   const unpublished = todo.filter(p => p.seq > 0);
   const toGo = todo.length - unpublished.length;
 
+  // Full-screen, the most recent parks I've visited stand out.
+  const RECENT = 10;
+  const latestSeq = Math.max(0, ...parks.concat(todo).map(p => p.seq || 0));
+
   const cards = Array.from(document.querySelectorAll('.park-entry[data-seq]'))
     .map(el => ({ el, park: bySeq.get(+el.dataset.seq) }))
     .filter(c => c.park);
@@ -71,10 +75,12 @@
   });
 
   const seq = ['get', 'seq'];
-  const at = () => focus >= 0 ? cards[focus].park.seq : -1;
+  // The park in view, highlighted on the corner map; full-screen, every park is drawn alike.
+  const at = () => focus >= 0 && !expanded ? cards[focus].park.seq : -1;
   const FILTERS = {
     'wa-todo': () => ['==', seq, 0],
     'wa-visited': () => ['all', ['>', seq, 0], ['!=', seq, at()]],
+    'wa-recent': () => expanded ? ['>', seq, latestSeq - RECENT] : ['==', seq, -2],
     'wa-current-halo': () => ['==', seq, at()],
     'wa-current-ring': () => ['==', seq, at()],
     'wa-current': () => ['==', seq, at()],
@@ -96,6 +102,7 @@
     style.layers.push(
       dot('wa-todo', { 'circle-radius': 3 * z, 'circle-color': tok('todo'), 'circle-stroke-color': tok('casing'), 'circle-stroke-width': .8 * z }),
       dot('wa-visited', { 'circle-radius': 3 * z, 'circle-color': tok('accent'), 'circle-stroke-color': tok('casing'), 'circle-stroke-width': .8 * z }),
+      dot('wa-recent', { 'circle-radius': 3 * z, 'circle-color': cur, 'circle-stroke-color': tok('casing'), 'circle-stroke-width': .8 * z }),
 
       // The park in view, highlighted as the page map highlights its position dot: a soft halo, a ring, and a white dot.
       dot('wa-current-halo', { 'circle-radius': 11, 'circle-color': cur, 'circle-opacity': .3, 'circle-blur': .4 }),
@@ -113,18 +120,19 @@
     if (mapReady) Object.keys(FILTERS).forEach(id => map.setFilter(id, FILTERS[id]()));
   }
 
-  // The whole state, filling the corner map, or with room around it full-screen.
+  // The whole state, filling the corner map, or with room around it full-screen. The corner map leaves room at the top
+  // for its expand button, so the parks in the state's northeast corner stay in sight.
   function frame(animate) {
     if (!mapReady || collapsed) return;
-    const padding = expanded ? (isPhone() ? 20 : 50) : isPhone() ? 4 : 12;
+    const padding = expanded ? (isPhone() ? 20 : 50) : isPhone() ? 4 : { top: 46, right: 12, bottom: 12, left: 12 };
     map.fitBounds(WASHINGTON, { padding, duration: animate ? 600 : 0 });
   }
 
   // ------------------------------------------------------------ caption
   // The park in view: its name and designator, where it is, and when I visited, as its own page puts them. Before
-  // the first card, the quest so far.
+  // the first card, and full-screen, where every park is drawn alike, the quest so far.
   function caption() {
-    const c = focus >= 0 ? cards[focus] : null;
+    const c = focus >= 0 && !expanded ? cards[focus] : null;
     const line = (cls, t) => {
       const el = document.createElement('span');
       el.className = cls;
@@ -142,8 +150,20 @@
       title.append(line('wa-park-name', p.name), ' ' + p.designator);
       lines = [title, p.near && line('label', `${p.near}, Washington`), p.visited && line('label', `visited ${p.visited}`)];
     } else {
-      const visited = parks.length + unpublished.length;
-      lines = [line('mode', '146 Parks'), line('label', `${visited} parks visited${toGo ? ` · ${toGo} to go` : ''}`)];
+      // The project's name is 146 Parks, but the count has grown since: the old number scribbled out and the new one
+      // written in beside it.
+      const visited = parks.length + unpublished.length, total = parks.length + todo.length;
+      const title = line('mode wa-quest', '');
+      if (total !== 146) {
+        title.append(line('wa-was', '146'), ' ', line('wa-now', String(total)), ' Parks');
+        title.title = `Found more parks: now headed for ${total}!`;
+      } else {
+        title.textContent = '146 Parks';
+      }
+      lines = [title, line('label', `${visited} parks visited${toGo ? ` · ${toGo} to go` : ''}`)];
+
+      // Full-screen, a key to the green dots.
+      if (expanded) lines.push(line('label', `The ${RECENT} most recent in green`));
     }
     ico.innerHTML = iconSvg('pin');
     text.replaceChildren(...lines.filter(Boolean));
@@ -225,6 +245,7 @@
     if (v === expanded || !mapReady) return;
     expanded = v;
     hideCard();
+    caption();
     widget.classList.toggle('is-corner', !v);
     widget.classList.toggle('is-expanded', v);
     if (v) modal.appendChild(widget);
