@@ -30,3 +30,17 @@ article_type = "park blogs"
 fathom_site_id = "JFNVYDSS"
 hyvor_site_id = 9838
 comments_enabled_default = true
+
+# Corner map for park pages with a track_key / track_url (themes/zola-es-theme/docs/track-map.md),
+# and the Washington map on the home page (static/common/wa-parks-map.js).
+[extra.track_map]
+basemap = "dark"
+detail = "minimal"
+hillshade = true
+photo_dots = true
+dim_over_photos = true
+mobile_collapsed = true
+corner = "left"
+region_outline = "/common/washington.geojson"  # Every map sets Washington apart from its surroundings.
+hide_route_numbers = true  # The maps are about parks, not how to drive there.
+start_span_km = 200  # Park pages open on the park's region, about a third of the state, until the reader scrolls.

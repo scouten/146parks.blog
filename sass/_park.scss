@@ -89,7 +89,8 @@
         }
     }
 
-    #map {
+    // The Google map only; the track map's slot sizes itself.
+    #map:not(.es-track-slot) {
         margin-top: 3em;
         height: 60vh;
     }

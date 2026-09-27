@@ -1,0 +1,142 @@
+// The theme's track map (themes/zola-es-theme/sass/_track_map.scss), recoloured for the white-on-brown scheme.
+// This site doesn't set `is_dark`, so the widget would otherwise get the theme's light palette. These follow the
+// theme's dark palette, warmed toward the site's browns.
+.es-track-widget {
+    --es-track-accent: #f2a65a;
+    --es-track-accent-dim: #9c6128;
+    --es-track-current: #4ce07a;
+    --es-track-current-dim: #237a42;
+    --es-track-current-halo: #2a4430;
+    --es-track-label: #cdc5bd;
+    --es-track-ahead: #b3aca5;
+    --es-track-ahead-dim: #6f6760;
+    --es-track-park-fill: rgba(140, 126, 104, .14);
+    --es-track-casing: #1f1a17;
+    --es-track-water: #1d2c4f;
+    --es-track-coast: #0c1428;
+    --es-track-road: #2e2824;
+    --es-track-road-major: #4a423c;
+    --es-track-map-bg: #231e1b;
+    --es-track-ground-deep: #{$scheme-main};
+    --es-track-panel: rgba(31, 26, 23, .9);
+    --es-track-panel-solid: #241f1b;
+    --es-track-edge: rgba(255, 255, 255, .13);
+    --es-track-edge-strong: rgba(255, 255, 255, .3);
+    --es-track-text: #ece8e4;
+    --es-track-text-soft: #d2ccc6;
+    --es-track-muted: #a39b94;
+    --es-track-shadow: 0 14px 34px rgba(0, 0, 0, .5);
+    --es-track-hillshade-highlight: #857c74;
+    --es-track-basemap: dark;
+    --es-track-vignette: rgba(0, 0, 0, .32);
+    --es-track-todo: #e2574c;  // the home page map's parks still to visit
+}
+
+// Park pages wrap their text in #es-content for the track map, which reads the prose there. Keep the
+// theme's flex layout for that element (a larger first paragraph) off these pages.
+.park #es-content {
+    display: block;
+}
+
+// The theme recedes roads further in the corner map, in its light colours unless the page is in dark mode.
+.es-track-widget.is-corner {
+    --es-track-road: #28221f;
+    --es-track-road-major: #3a332e;
+}
+
+// The secondary lines of the caption and of the badge at the position dot, in Interstate Light.
+.es-track-text .label, .es-track-badge .label {
+    font-weight: 300;
+}
+
+// The home page map's caption and card: the park's designator follows its name, lighter, as in the park titles. The
+// line takes the designator's style and the name its own, so an ellipsis that cuts the designator short matches it.
+.es-track-widget .es-track-text .wa-park-title, .es-track-widget .es-track-thumb .wa-card-title {
+    font-weight: 300;
+    color: var(--es-track-muted);
+
+    .wa-park-name {
+        font-weight: 600;
+        color: var(--es-track-text);
+    }
+}
+
+// No zoom buttons on the corner maps: they're pictures to glance at, and zooming is for the docked and full-screen
+// views.
+.es-track-widget.is-corner .es-track-zoom {
+    display: none;
+}
+
+// The home page map's caption opens the park in view.
+.es-track-widget.is-section .es-track-bar {
+    cursor: pointer;
+}
+
+// The home page's full-screen map names a park under its cover photo, with its number on the state's shape. Nested
+// under the widget and card so these outrank the theme's rule for the card's photo.
+.es-track-widget .es-track-thumb {
+    .es-track-thumb-loc {
+        .wa-card-row {
+            display: flex;
+            align-items: flex-end;
+            gap: .6rem;
+        }
+
+        .wa-card-text {
+            flex: 1 1 auto;
+            min-width: 0;
+
+            // Each line on one line, cut short with an ellipsis when it doesn't fit.
+            .wa-card-title, .wa-card-note {
+                display: block;
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis;
+            }
+        }
+
+        // The park's number on the state's shape, as in the parks list.
+        .sequence-assembly {
+            flex: none;
+            position: relative;
+            width: 49px;
+            height: 32px;
+            overflow: hidden;
+
+            img {
+                display: block;
+                width: 49px;
+                height: 32px;
+                border-radius: 0;
+
+                // Quieter than in the parks list, to sit with the card's muted text.
+                opacity: .6;
+            }
+        }
+
+        .sequence {
+            position: absolute;
+            bottom: 2px;
+            right: 0;
+            width: 32px;
+            height: 32px;
+            text-align: center;
+            color: $dark-accent-background;
+            font-family: interstate, sans-serif;
+            font-size: 16.85px;  // As in the parks list, where it's 81% of the list's type.
+            font-weight: 700;
+            line-height: 2em;
+        }
+
+        .wa-card-note {
+            display: block;
+            font-weight: 300;
+            color: var(--es-track-muted);
+        }
+    }
+}
+
+// A card without a photo (a park still to visit): no gap above the text where the photo would be.
+.es-track-widget .es-track-thumb.wa-no-photo .es-track-thumb-loc {
+    padding-top: 2px;
+}
