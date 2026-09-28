@@ -129,13 +129,14 @@
   }
 
   // The whole state, filling the corner map, or with room around it full-screen. The corner map leaves room at the top
-  // for its expand button, so the parks in the state's northeast corner stay in sight. There's nothing to frame while
-  // the map has no size: collapsed to its caption, or hidden on a phone until it's opened full-screen.
+  // for its expand button, so the parks in the state's northeast corner stay in sight, and room all round for the
+  // highlight's ring, which reaches about 8 px past a park at the state's edge (5 px on the strip). There's nothing
+  // to frame while the map has no size: collapsed to its caption.
   function frame(animate) {
     if (!mapReady) return;
     const box = map.getContainer();
     if (!box.clientWidth || !box.clientHeight) return;
-    const padding = expanded ? (isPhone() ? 20 : 50) : isPhone() ? 4 : { top: 46, right: 12, bottom: 12, left: 12 };
+    const padding = expanded ? (isPhone() ? 20 : 50) : isPhone() ? 9 : { top: 46, right: 14, bottom: 14, left: 14 };
     map.fitBounds(WASHINGTON, { padding, duration: animate ? 600 : 0 });
   }
 
