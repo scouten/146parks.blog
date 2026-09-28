@@ -8,7 +8,7 @@ This site is built using the [Zola](https://www.getzola.org/documentation) stati
 
 Zola uses the [Tera](https://tera.netlify.app) templating framework.
 
-The theme that I've built uses the [Bulma](https://bulma.io/documentation/customize/with-sass-cli/) SCSS framework.
+The theme is my own [zola-es-theme](https://github.com/scouten/zola-es-theme), shared across my sites. It carries a small slice of styles ported from [Bulma](https://bulma.io) 0.9.4; the full Bulma tree is no longer vendored here.
 
 Everything else is pretty much of my own construction.
 
