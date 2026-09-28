@@ -4,7 +4,8 @@
  * Built on the theme's track map (themes/zola-es-theme/docs/track-map.md): the same widget markup and styles, and the
  * basemap from track-common.js. Unlike the theme's listing map, the view never moves: it stays on the whole state,
  * and the park in view is marked on it. Clicking it opens it full-screen, as a park page's map expands, where the reader
- * can pan and zoom, see a park's cover photo by pointing at it, and open its page. Reads:
+ * can pan and zoom, see a park's cover photo by pointing at it, and open its page. On a phone the corner map is the
+ * theme's bottom strip, a 76 px picture of the state, which draws only the park in view. Reads:
  *   - #wa-parks-config          JSON written by parks-list.html (the parks, the parks still to do, basemap options)
  *   - the site's `region_outline`, the state's outline (from OpenStreetMap), which the map sets apart from its
  *     surroundings with the theme's `addRegion`
@@ -17,10 +18,9 @@
   const cfgEl = document.getElementById('wa-parks-config');
   const widget = document.getElementById('es-track-widget');
   if (!cfgEl || !widget || !window.esTrack) return;
-  const { iconSvg } = window.esTrack;
+  const { iconSvg, isPhone } = window.esTrack;
   const CFG = JSON.parse(cfgEl.textContent);
   const tok = n => getComputedStyle(widget).getPropertyValue('--es-track-' + n).trim();
-  const isPhone = () => innerWidth <= 720;
 
   // The state's extent, [[west, south], [east, north]].
   const WASHINGTON = [[-124.85, 45.54], [-116.91, 49.0]];
@@ -77,10 +77,15 @@
   const seq = ['get', 'seq'];
   // The park in view, highlighted on the corner map; full-screen, every park is drawn alike.
   const at = () => focus >= 0 && !expanded ? cards[focus].park.seq : -1;
+
+  // A phone's strip is too small a picture of the state for every park: while a card is in view, only its park is
+  // drawn there. Before the first card, the summary shows them all, as the caption counts them.
+  const strip = () => isPhone() && !expanded;
+  const NONE = ['==', seq, -2];
   const FILTERS = {
-    'wa-todo': () => ['==', seq, 0],
-    'wa-visited': () => ['all', ['>', seq, 0], ['!=', seq, at()]],
-    'wa-recent': () => expanded ? ['>', seq, latestSeq - RECENT] : ['==', seq, -2],
+    'wa-todo': () => strip() && at() >= 0 ? NONE : ['==', seq, 0],
+    'wa-visited': () => strip() && at() >= 0 ? NONE : ['all', ['>', seq, 0], ['!=', seq, at()]],
+    'wa-recent': () => expanded ? ['>', seq, latestSeq - RECENT] : NONE,
     'wa-current-halo': () => ['==', seq, at()],
     'wa-current-ring': () => ['==', seq, at()],
     'wa-current': () => ['==', seq, at()],
@@ -90,6 +95,9 @@
   function buildStyle() {
     const style = window.esTrack.basemapStyle(base, { cfg: CFG, tok, detail: expanded ? 'standard' : CFG.detail || 'minimal' });
     const z = expanded ? 1.6 : 1;
+
+    // The highlight is drawn smaller on a phone's strip, where it would otherwise cover a third of the state.
+    const h = strip() ? .6 : 1;
 
     // The map is all about Washington, so it doesn't need to name it.
     style.layers = style.layers.filter(l => l.id !== 'place_state');
@@ -105,9 +113,9 @@
       dot('wa-recent', { 'circle-radius': 3 * z, 'circle-color': cur, 'circle-stroke-color': tok('casing'), 'circle-stroke-width': .8 * z }),
 
       // The park in view, highlighted as the page map highlights its position dot: a soft halo, a ring, and a white dot.
-      dot('wa-current-halo', { 'circle-radius': 11, 'circle-color': cur, 'circle-opacity': .3, 'circle-blur': .4 }),
-      dot('wa-current-ring', { 'circle-radius': 11, 'circle-color': cur, 'circle-opacity': 0, 'circle-stroke-color': cur, 'circle-stroke-width': 3 }),
-      dot('wa-current', { 'circle-radius': 5, 'circle-color': tok('dot'), 'circle-stroke-color': cur, 'circle-stroke-width': 2.5 }),
+      dot('wa-current-halo', { 'circle-radius': 11 * h, 'circle-color': cur, 'circle-opacity': .3, 'circle-blur': .4 }),
+      dot('wa-current-ring', { 'circle-radius': 11 * h, 'circle-color': cur, 'circle-opacity': 0, 'circle-stroke-color': cur, 'circle-stroke-width': 3 * h }),
+      dot('wa-current', { 'circle-radius': 5 * h, 'circle-color': tok('dot'), 'circle-stroke-color': cur, 'circle-stroke-width': 2.5 * h }),
 
       // What the pointer finds: every park, a little larger than it's drawn.
       { id: 'wa-hit', type: 'circle', source: 'parks', paint: { 'circle-radius': 10, 'circle-opacity': 0 } },
@@ -121,9 +129,12 @@
   }
 
   // The whole state, filling the corner map, or with room around it full-screen. The corner map leaves room at the top
-  // for its expand button, so the parks in the state's northeast corner stay in sight.
+  // for its expand button, so the parks in the state's northeast corner stay in sight. There's nothing to frame while
+  // the map has no size: collapsed to its caption, or hidden on a phone until it's opened full-screen.
   function frame(animate) {
-    if (!mapReady || collapsed) return;
+    if (!mapReady) return;
+    const box = map.getContainer();
+    if (!box.clientWidth || !box.clientHeight) return;
     const padding = expanded ? (isPhone() ? 20 : 50) : isPhone() ? 4 : { top: 46, right: 12, bottom: 12, left: 12 };
     map.fitBounds(WASHINGTON, { padding, duration: animate ? 600 : 0 });
   }
@@ -226,7 +237,7 @@
     collapseBtn.setAttribute('aria-expanded', String(!v));
     collapseBtn.setAttribute('aria-label', v ? 'Show map' : 'Collapse map');
     if (remember) { try { localStorage.setItem('es-track-collapsed', v ? '1' : '0'); } catch (e) { /* Private mode. */ } }
-    if (!v && mapReady) requestAnimationFrame(() => { map.resize(); frame(false); });
+    if (mapReady) requestAnimationFrame(() => { map.resize(); frame(false); });
     updateOverlap();
   }
 
@@ -409,7 +420,18 @@
     focus = focusIndex();
     caption();
     addEventListener('scroll', onScroll, { passive: true });
-    addEventListener('resize', () => { onScroll(); if (mapReady) { map.resize(); frame(false); hideCard(); } });
+
+    // Turning a phone, or resizing a window, may move the map between the strip and the corner, which draw the parks
+    // differently: the style is rebuilt when that happens.
+    let phone = isPhone();
+    addEventListener('resize', () => {
+      onScroll();
+      if (!mapReady) return;
+      map.resize();
+      if (phone !== isPhone()) { phone = isPhone(); map.setStyle(buildStyle()); }
+      frame(false);
+      hideCard();
+    });
 
     const [basemap, shape] = await Promise.all([
       window.esTrack.loadBasemap(CFG, tok),
@@ -421,8 +443,9 @@
     if (!window.maplibregl) { showNotice('The map library could not be loaded.'); return; }
     if (!base) showNotice('Map tiles unavailable. Showing the parks alone.');
 
-    // Interactive only full-screen: the corner map is a picture of the state, and a click on it opens it.
-    map = new maplibregl.Map({ container: 'es-track-canvas', style: buildStyle(), bounds: WASHINGTON, attributionControl: false, fadeDuration: 0, maxZoom: 16, minZoom: 3 });
+    // Interactive only full-screen: the corner map is a picture of the state, and a click on it opens it. The state
+    // fits the corner map above zoom 3, but a phone's 76 px strip needs about 2.5.
+    map = new maplibregl.Map({ container: 'es-track-canvas', style: buildStyle(), bounds: WASHINGTON, attributionControl: false, fadeDuration: 0, maxZoom: 16, minZoom: 1 });
     setInteractive(false);
     wireMap();
     map.on('load', () => {
