@@ -5,7 +5,8 @@
  * basemap from track-common.js. Unlike the theme's listing map, the view never moves: it stays on the whole state,
  * and the park in view is marked on it. Clicking it opens it full-screen, as a park page's map expands, where the reader
  * can pan and zoom, see a park's cover photo by pointing at it, and open its page. On a phone the corner map is the
- * theme's bottom strip, a 76 px picture of the state, which draws only the park in view. Reads:
+ * theme's bottom strip, a 76 px picture of the state, which draws only the park in view and stays out of the way
+ * until a card is in view. Reads:
  *   - #wa-parks-config          JSON written by parks-list.html (the parks, the parks still to do, basemap options)
  *   - the site's `region_outline`, the state's outline (from OpenStreetMap), which the map sets apart from its
  *     surroundings with the theme's `addRegion`
@@ -78,13 +79,13 @@
   // The park in view, highlighted on the corner map; full-screen, every park is drawn alike.
   const at = () => focus >= 0 && !expanded ? cards[focus].park.seq : -1;
 
-  // A phone's strip is too small a picture of the state for every park: while a card is in view, only its park is
-  // drawn there. Before the first card, the summary shows them all, as the caption counts them.
+  // A phone's strip is too small a picture of the state for every park: only the park in view is drawn there (and
+  // before the first card is in view, the strip is hidden).
   const strip = () => isPhone() && !expanded;
   const NONE = ['==', seq, -2];
   const FILTERS = {
-    'wa-todo': () => strip() && at() >= 0 ? NONE : ['==', seq, 0],
-    'wa-visited': () => strip() && at() >= 0 ? NONE : ['all', ['>', seq, 0], ['!=', seq, at()]],
+    'wa-todo': () => strip() ? NONE : ['==', seq, 0],
+    'wa-visited': () => strip() ? NONE : ['all', ['>', seq, 0], ['!=', seq, at()]],
     'wa-recent': () => expanded ? ['>', seq, latestSeq - RECENT] : NONE,
     'wa-current-halo': () => ['==', seq, at()],
     'wa-current-ring': () => ['==', seq, at()],
@@ -200,11 +201,18 @@
     return best;
   }
 
+  // On a phone, the strip has nothing to show before the first card is in view, so it fades out as the theme's
+  // listing map does over a card without a track.
+  function updateIdle() {
+    widget.classList.toggle('is-idle', strip() && focus < 0);
+  }
+
   function setFocus(i) {
     if (i === focus) return;
     focus = i;
     caption();
     applyFilters();
+    updateIdle();
   }
 
   let ticking = false;
@@ -271,6 +279,7 @@
       frame(false);
     });
     updateOverlap();
+    updateIdle();
   }
 
   // ------------------------------------------------------------ park card
@@ -420,6 +429,7 @@
     setCollapsed(collapsed, false);
     focus = focusIndex();
     caption();
+    updateIdle();
     addEventListener('scroll', onScroll, { passive: true });
 
     // Turning a phone, or resizing a window, may move the map between the strip and the corner, which draw the parks
@@ -427,6 +437,7 @@
     let phone = isPhone();
     addEventListener('resize', () => {
       onScroll();
+      updateIdle();
       if (!mapReady) return;
       map.resize();
       if (phone !== isPhone()) { phone = isPhone(); map.setStyle(buildStyle()); }
