@@ -4,6 +4,7 @@ date = 2024-06-30
 weight = 130
 
 [extra]
+distance = "1.5 km / 0.9 mi"
 mastodon_url = "https://ericscouten.social/@146parks/113099108350706384"
 seq = 130
 lat = 48.719
@@ -14,6 +15,8 @@ bounds = {sw = [48.709, -118.674], ne = [48.729, -118.654]}
 cover = "es-4676-052"
 cover_cdn_key = "img/v1/2024/06/es-4676-052"
 cover_alt = "A grassy point with tall pine trees juts into Curlew Lake under a dramatic sky filled with billowing white clouds and patches of blue. A personal watercraft sits near a sandy launch at left, with a tent and campsite among trees in the background and forested hills lining the far shore."
+track_key = "track/v2/2024/06/2024-06-30-curlew-lake.json"
+parks = ["relation/11002468"]  # Curlew Lake State Park
 +++
 
 Curlew Lake is a quiet lake-and-campground park tucked away in the hills of northeastern Washington.
