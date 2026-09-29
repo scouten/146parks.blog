@@ -12,7 +12,7 @@ near = "Cedar Falls to Beverly"
 lat = 47.136
 lon = -120.849
 markers = "markers.js"
-track_log_key = "kml/v1/2026/06/2026-06-28+sanitized-2.kml"
+track_key = "track/v2/2026/06/2026-06-28.json"
 bounds = {sw = [46.831, -121.767], ne = [47.442, -119.931]}
 cover = "es-266-1213"
 cover_cdn_key = "img/v1/2026/06/es-266-1213"
