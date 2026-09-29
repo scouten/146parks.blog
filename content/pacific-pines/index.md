@@ -4,6 +4,7 @@ date = 2023-08-06
 weight = 126
 
 [extra]
+distance = "650 m / 0.4 mi"
 mastodon_url = "https://ericscouten.social/@146parks/113099108581984066"
 seq = 126
 lat = 46.502
@@ -14,6 +15,8 @@ bounds = {sw = [46.492, -124.068], ne = [46.511, -124.048]}
 cover = "es-4569-019"
 cover_cdn_key = "img/v1/2023/08/es-4569-019"
 cover_alt = "A narrow sandy trail cuts through green and golden dune grass toward a wide, flat beach under a hazy gray overcast sky, where a few small figures walk near gentle surf along the ocean’s edge."
+track_key = "track/v2/2023/08/2023-08-06-pacific-pines.json"
+parks = ["way/396313817"]  # Pacific Pines State Park
 +++
 
 Midway along the Long Beach Peninsula, Pacific Pines State Park offers access to the long, sandy beaches that typify southwest Washington's coast.

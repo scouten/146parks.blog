@@ -4,6 +4,7 @@ date = 2023-07-25
 weight = 125
 
 [extra]
+distance = "18 km / 11 mi"
 mastodon_url = "https://ericscouten.social/@146parks/110778615859144865"
 seq = 125
 near = "south of Anacortes"
@@ -14,6 +15,8 @@ markers = "markers.js"
 bounds = {sw = [48.393, -122.665], ne = [48.418, -122.617]}
 cover = "es-1083-037"
 cover_cdn_key = "img/v1/2007/01/es-1083-037"
+track_key = "track/v2/2023/06/2023-06-04+deception-pass.json"
+parks = ["relation/3125105"]  # Deception Pass State Park
 +++
 
 The bridge at Deception Pass has to be one of the most-photographed locations in Washington state. It's easy to see why: The turbulent waters and rugged landscapes create textures not often seen elsewhere. Pair that with sunset colors or foggy weather and it's just sublime.
