@@ -4,6 +4,7 @@ date = 2024-06-30
 weight = 131
 
 [extra]
+distance = "2.1 km / 1.3 mi"
 mastodon_url = "https://ericscouten.social/@146parks/113099108730258207"
 seq = 131
 lat = 48.941
@@ -14,6 +15,7 @@ bounds = {sw = [48.931, -118.769], ne = [48.951, -118.749]}
 designator = "State Park Heritage Site"
 cover = "es-4676-096"
 cover_cdn_key = "img/v1/2024/06/es-4676-096"
+track_key = "track/v2/2024/06/2024-06-30-ranald-macdonald.json"
 +++
 
 This small state park commemorates the life of Ranald MacDonald, a 19th-century pioneer and explorer.
