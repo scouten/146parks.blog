@@ -4,6 +4,7 @@ date = 2024-05-05
 weight = 128
 
 [extra]
+distance = "120 m / 380 ft"
 mastodon_url = "https://ericscouten.social/@146parks/113099108972613211"
 seq = 128
 lat = 47.643
@@ -14,6 +15,8 @@ markers = "markers.js"
 bounds = {sw = [47.633, -117.658], ne = [47.653, -117.638]}
 cover = "es-4645-011"
 cover_cdn_key = "img/v1/2024/05/es-4645-011"
+track_key = "track/v2/2024/05/2024-05-05-spokane-battlefield.json"
+parks = ["way/299382242"]  # Spokane Plains Battlefield State Park Heritage Site
 +++
 
 I learned about this "park" only a few weeks ago. I knew that I would have to add it to this site, and that doing so would be uncomfortable.
