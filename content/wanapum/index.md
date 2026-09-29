@@ -4,6 +4,7 @@ date = 2024-09-07
 weight = 133
 
 [extra]
+distance = "4.7 km / 2.9 mi"
 mastodon_url = "https://ericscouten.social/@146parks/113099109246040123"
 seq = 133
 designator = "Recreation Area"
@@ -15,6 +16,8 @@ bounds = {sw = [46.898, -120.000], ne = [46.918, -119.980]}
 cover = "es-4690-072"
 cover_cdn_key = "img/v1/2024/09/es-4690-072"
 cover_alt = "A calm river at dawn with a low floating dock extending into the water near a pebbly, grassy shoreline and a leafy tree on the right; distant hills and bluffs line the far bank under a soft orange-to-blue sky."
+track_key = "track/v2/2024/09/2024-09-07-wanapum.json"
+parks = ["way/1299858052"]  # Wanapum Recreation Area
 +++
 
 This morning I visited Wanapum Recreation Area on the shores of the Columbia River.
