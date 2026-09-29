@@ -4,6 +4,7 @@ date = 2026-09-12
 weight = 137
 
 [extra]
+distance = "2.0 km / 1.2 mi"
 seq = 137
 lat = 47.464
 lon = -123.102
@@ -14,6 +15,8 @@ bounds = {sw = [47.454, -123.112], ne = [47.474, -123.092]}
 cover = "es-269-2007"
 cover_cdn_key = "img/v1/2026/09/es-269-2007"
 cover_alt = "A rocky, driftwood-strewn beach along a calm inlet under an overcast gray sky, with a dense stand of conifers and deciduous trees showing early fall color leaning over the shoreline on the left, and low forested hills across the water in the distance."
+track_key = "track/v2/2026/09/2026-09-12a.json"
+parks = ["way/397153260"]  # Lilliwaup Tidelands State Park
 +++
 
 Nestled along the west shore of Hood Canal, Lilliwaup Tidelands State Park is ... shall we say ... subtly marked, but offers some nice views of the rocky shoreline.
