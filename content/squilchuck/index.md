@@ -4,6 +4,7 @@ date = 2024-07-01
 weight = 132
 
 [extra]
+distance = "6.4 km / 4.0 mi"
 mastodon_url = "https://ericscouten.social/@146parks/113099109103618145"
 seq = 132
 lat = 47.310
@@ -15,6 +16,8 @@ bounds = {sw = [47.300, -120.382], ne = [47.320, -120.362]}
 cover = "es-4677-046"
 cover_cdn_key = "img/v1/2024/07/es-4677-046"
 cover_alt = "A forested mountain landscape with dense green conifers filling the foreground and slopes, a rocky ridge in the distance, and a bright blue sky dotted with puffy white clouds. A ponderosa pine branch frames the right side of the frame."
+track_key = "track/v2/2024/07/2024-07-01.json"
+parks = ["relation/11009479"]  # Squilchuck State Park
 +++
 
 Squilchuck State Park is tucked into the mountains south of Wenatchee. It's primarily a park for mountain bikers and cross-country skiiers. I'm neither, but I did get a chance to stretch my legs on its several miles of hiking trails recently.
