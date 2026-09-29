@@ -43,4 +43,5 @@ mobile_collapsed = false
 corner = "left"
 region_outline = "/common/washington.geojson"  # Every map sets Washington apart from its surroundings.
 hide_route_numbers = true  # The maps are about parks, not how to drive there.
+hide_state_names = true  # The region outline already sets Washington apart, and the label just sits over the track.
 start_span_km = 200  # Park pages open on the park's region, about a third of the state, until the reader scrolls.
