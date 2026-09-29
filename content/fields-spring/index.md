@@ -11,7 +11,8 @@ lat = 46.075
 lon = -117.172
 near = "south of Anatone"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/05/2024-05-04-fields-spring.kml"
+track_key = "track/v2/2024/05/2024-05-04-field-spring.json"
+parks = ["relation/10528587"]  # Fields Spring State Park
 bounds = {sw = [46.065, -117.182], ne = [46.085, -117.162]}
 cover = "es-4644-193p"
 cover_cdn_key = "img/v1/2024/05/es-4644-193p"
