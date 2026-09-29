@@ -12,7 +12,8 @@ route = "around Camp Wooten Retreat Center"
 lat = 46.363
 lon = -117.828
 markers = "markers.js"
-track_log_key = "kml/v1/2025/05/2025-05-02-camp-wooten.kml"
+track_key = "track/v2/2025/05/2025-05-02-camp-wooten.json"
+parks = ["relation/11008629"]  # Camp Wooten Retreat Center
 bounds = {sw = [46.235, -117.962], ne = [46.490, -117.694]}
 cover = "es-255-4323"
 cover_cdn_key = "img/v1/2025/05/es-255-4323"
