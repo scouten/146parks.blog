@@ -4,6 +4,7 @@ date = 2024-05-05
 weight = 129
 
 [extra]
+distance = "34 km / 21 mi"
 mastodon_url = "https://ericscouten.social/@146parks/113099108848299809"
 seq = 129
 lat = 47.750
@@ -14,6 +15,8 @@ bounds = {sw = [47.723, -117.552], ne = [47.777, -117.530]}
 cover = "es-4645-085"
 cover_cdn_key = "img/v1/2024/05/es-4645-085"
 cover_alt = "A misty forested hillside of pine and evergreen trees rising above rugged basalt cliffs, with low fog softening the ridge and pale gray sky beyond."
+track_key = "track/v2/2024/05/2024-05-05-riverside.json"
+parks = ["relation/5908559"]  # Riverside State Park
 +++
 
 Riverside is really many parks rolled together under one name. I had a few hours in one afternoon to explore it, which was not nearly enough, but what I saw I truly enjoyed.
