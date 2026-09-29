@@ -4,13 +4,14 @@ date = 2025-05-03
 weight = 135
 
 [extra]
+distance = "17 km / 11 mi"
 seq = 135
 designator = "State Park Trail"
 near = "near Spokane"
 lat = 47.742
 lon = -117.304
 markers = "markers.js"
-track_log_key = "kml/v1/2025/05/2025-05-03-segmented.kml"
+track_key = "track/v2/2025/05/2025-05-03.json"
 bounds = {sw = [47.690, -117.568], ne = [47.794, -117.041]}
 cover = "es-255-4375"
 cover_cdn_key = "img/v1/2025/05/es-255-4375"
