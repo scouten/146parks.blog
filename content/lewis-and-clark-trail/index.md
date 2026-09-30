@@ -4,6 +4,7 @@ date = 2023-06-21
 weight = 118
 
 [extra]
+distance = "2.0 km / 1.3 mi"
 mastodon_url = "https://ericscouten.social/@146parks/110584159337767399"
 seq = 118
 lat = 46.288
@@ -14,6 +15,8 @@ bounds = {sw = [46.278, -118.082], ne = [46.298, -118.062]}
 cover = "es-4539-051"
 cover_cdn_key = "img/v1/2023/06/es-4539-051"
 cover_alt = "A small creek winding through tall green grasses and leafy brush in the foreground, with a rounded green wheat-covered hill rising beyond dry brushy slopes under a bright blue sky dotted with puffy white clouds. Power line poles stand along the ridge to the right."
+track_key = "track/v2/2023/06/2023-06-21-lewis-and-clark.json"
+parks = ["relation/10525177"]  # Lewis & Clark Trail State Park
 +++
 
 Some 217 years ago, Captains Lewis and Clark supposedly spent the night in this location on their way home from the Pacific Ocean. You can, too, though it might not be _quite_ as noteworthy.
