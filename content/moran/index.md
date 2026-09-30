@@ -4,6 +4,7 @@ date = 2023-07-23
 weight = 123
 
 [extra]
+distance = "31 km / 19 mi"
 mastodon_url = "https://ericscouten.social/@146parks/110766752472513697"
 seq = 123
 lat = 48.664
@@ -15,6 +16,8 @@ bounds = {sw = [48.650, -122.863], ne = [48.678, -122.816]}
 cover = "es-4558-005"
 cover_cdn_key = "img/v1/2023/07/es-4558-005"
 cover_alt = "A white stone archway spanning a two-lane road reads “MORAN STATE PARK” with stars on either side, flanked by short white posts linked with chains and yellow-and-black striped barriers, surrounded by dense green forest."
+track_key = "track/v2/2023/07/2023-07-22+moran.json"
+parks = ["relation/3722676"]  # Moran State Park
 +++
 
 The San Juan Islands are rich with state parks (many of them islands I haven't yet visited), but if there's any one state park that stands out as the iconic park of the islands, it would have to be Moran State Park.
