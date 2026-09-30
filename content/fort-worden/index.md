@@ -4,6 +4,7 @@ date = 2023-07-15
 weight = 120
 
 [extra]
+distance = "5.4 km / 3.4 mi"
 mastodon_url = "https://ericscouten.social/@146parks/110738857320350200"
 seq = 120
 lat = 48.139
@@ -16,6 +17,8 @@ cover = "es-4457-030"
 cover_cdn_key = "img/v1/2022/12/es-4457-030"
 cover_alt = "A dry, golden grassy field in the foreground gives way to a distant shoreline with low wooded hills across a calm stretch of water, all beneath a dramatic sky of towering white and gray clouds with patches of blue and sunlight breaking through."
 visited = "18 January 2004, 18 December 2022, and 15 July 2023"
+track_key = "track/v2/2023/07/2023-07-15-fort-worden.json"
+parks = ["relation/10473386"]  # Fort Worden Historical State Park
 +++
 
 One of many forts constructed to protect Washington's Pacific coast from foreign attack a century or more ago, Fort Worden now serves as a tourist attraction and conference center at the northeast tip of the Olympic Peninsula.
