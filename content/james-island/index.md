@@ -4,6 +4,7 @@ date = 2023-07-19
 weight = 121
 
 [extra]
+distance = "22 km / 14 mi"
 mastodon_url = "https://ericscouten.social/@146parks/110764384160849026"
 seq = 121
 lat = 48.510
@@ -15,6 +16,8 @@ bounds = {sw = [48.500, -122.782], ne = [48.520, -122.762]}
 cover = "es-4553-099"
 cover_cdn_key = "img/v1/2023/07/es-4553-099"
 cover_alt = "A view from a wooded shoreline bluff looking across calm blue-green water toward a forested island and rocky headland under a clear blue sky. Weathered evergreen tree trunks frame the scene, with dry golden grass, driftwood, and lichen-covered rocks in the foreground and a few small boats visible in the distant cove."
+track_key = "track/v2/2023/07/2023-07-19-james-island.json"
+parks = ["relation/5583313"]  # James Island Marine State Park
 +++
 
 This is a story of beauty, strength, and misadventure.
