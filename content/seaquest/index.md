@@ -6,12 +6,13 @@ weight = 117
 [extra]
 mastodon_url = "https://ericscouten.social/@146parks/110449984694547732"
 seq = 117
-distance = "4.5 km / 2.8 mi"
+distance = "3.5 km / 2.2 mi"
 near = "east of Castle Rock"
 lat = 46.302
 lon = -122.818
 markers = "markers.js"
-track_log_key = "kml/v1/2023/05/2023-05-20-seaquest.kml"
+track_key = "track/v2/2023/05/2023-05-20-seaquest.json"
+parks = ["relation/2909117"]  # Seaquest State Park
 bounds = {sw = [46.292, -122.828], ne = [46.312, -122.808]}
 cover = "es-4533-055"
 cover_cdn_key = "img/v1/2023/05/es-4533-055"
@@ -44,7 +45,7 @@ It turns out that there is a nice network of trails here and — aside from the 
 
 {{ es_cdn_image(id = "es-4533-042", cdn_version = "v1", cdn_key = "img/v1/2023/05/es-4533-042") }}
 
-Being here in late May, the forest was full of lush green foliage. I did a roughly 3 mile / 5 km hike through this forest. It was delightfully quiet; I never saw anyone else the entire time.
+Being here in late May, the forest was full of lush green foliage. I did a roughly 4 km / 2 mile hike through this forest. It was delightfully quiet; I never saw anyone else the entire time.
 
 {{ es_cdn_image(id = "es-4533-046", cdn_version = "v1", cdn_key = "img/v1/2023/05/es-4533-046", alt = "A narrow dirt trail winds through a lush green deciduous forest at Seaquest State Park, flanked by dense sword ferns and moss-covered tree trunks under bright spring foliage.") }}
 
