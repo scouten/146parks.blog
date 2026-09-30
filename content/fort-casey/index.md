@@ -4,6 +4,7 @@ date = 2023-07-21
 weight = 122
 
 [extra]
+distance = "2.4 km / 1.5 mi"
 mastodon_url = "https://ericscouten.social/@146parks/110764384065685117"
 seq = 122
 lat = 48.158
@@ -15,6 +16,8 @@ bounds = {sw = [48.148, -122.688], ne = [48.168, -122.668]}
 cover = "es-4556-072"
 cover_cdn_key = "img/v1/2023/07/es-4556-072"
 cover_alt = "A large historic coastal artillery gun mounted on a concrete emplacement at Fort Casey, where a person walks a dog beside it in golden evening light. In the distance a snow-capped mountain rises above the horizon, with dry grass fields, brushy embankments, and a concrete tower in the foreground under a clear pale-blue sky."
+track_key = "track/v2/2023/07/2023-07-21-fort-casey.json"
+parks = ["relation/3738461"]  # Fort Casey State Park
 +++
 
 Like Fort Worden, which [I visited recently](/fort-worden), Fort Casey was built as part of our coastal defense system at the turn of the last century.
