@@ -4,6 +4,7 @@ date = 2023-07-04
 weight = 119
 
 [extra]
+distance = "4.0 km / 2.5 mi"
 mastodon_url = "https://ericscouten.social/@146parks/110667654047648768"
 seq = 119
 near = "north of Montesano"
@@ -14,6 +15,8 @@ bounds = {sw = [46.988, -123.602], ne = [47.008, -123.582]}
 cover = "es-4550-057"
 cover_cdn_key = "img/v1/2023/07/es-4550-057"
 cover_alt = "Moss-draped tree trunks and branches lean out over a calm green lake, their leafy canopy filtering dappled sunlight onto the rippled water below in a lush forest setting."
+track_key = "track/v2/2023/07/2023-07-04-lake-sylvia.json"
+parks = ["way/281481465"]  # Lake Sylvia State Park
 +++
 
 To honor our nation's birthday and to get outside for a bit, my daughter and I brought our kayak and explored Lake Sylvia.
