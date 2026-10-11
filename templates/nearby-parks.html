@@ -1,0 +1,12 @@
+{#- Every park, visited or not, for the other places the park pages' maps draw faintly (`nearby_places`). -#}
+{%- set root = get_section(path="_index.md") -%}
+{%- set all_todo = get_page(path="todo.md") | get(key="extra") | get(key="parks") -%}
+[
+{%- for page in root.pages | filter(attribute="extra.seq") %}
+  {%- if page.extra.visited %}{% set when = page.extra.visited %}{% else %}{% set when = page.date | date(format="%-d %B %Y") %}{% endif %}
+  {"name": {{ page.title | json_encode() | safe }}, "lat": {{ page.extra.lat }}, "lon": {{ page.extra.lon }}, "url": {{ page.permalink | json_encode() | safe }}, "note": {{ "visited " ~ when | json_encode() | safe }}, "cover": {% if page.extra.cover_cdn_key %}{{ "https://img.ericscouten.com/" ~ page.extra.cover_cdn_key ~ "/cover-" ~ page.extra.cover ~ "-1000w.jpg" | json_encode() | safe }}{% elif page.extra.cover %}{{ page.permalink ~ "cover-" ~ page.extra.cover ~ ".jpg" | json_encode() | safe }}{% else %}""{% endif %}},
+{%- endfor %}
+{%- for p in all_todo %}
+  {"name": {{ p.name | json_encode() | safe }}, "lat": {{ p.lat }}, "lon": {{ p.lon }}, "note": {% if p.seq %}"visited, not yet written up"{% else %}"not yet visited"{% endif %}}{% if not loop.last %},{% endif %}
+{%- endfor %}
+]
