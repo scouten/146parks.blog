@@ -34,7 +34,7 @@ This loop allows you to a explore a sparse forest with wildflowers. In the sprin
 
 I've heard it said that golfers appreciate a course with some good challenges — a worthy opponent, if you will. If so, and especially if that also applies to disc golf, then my hat is off to whoever placed this goal.
 
-{{ es_cdn_image(id = "es-4213-031", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4213-031", caption="Points for creative use of a power line!") }}
+{{ es_cdn_image(id = "es-4213-031", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4213-031", caption="Points for creative use of a power line!", alt = "A blue disc golf basket stands in a grassy clearing directly beneath the steel lattice legs of a large electrical transmission tower, with evergreen pine trees and an overcast sky in the background.") }}
 
 That's the easy hiking loop.
 
