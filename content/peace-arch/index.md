@@ -13,6 +13,7 @@ markers = "markers.js"
 bounds = {sw = [48.991, -122.764], ne = [49.011, -122.744]}
 cover = "es-4273-026"
 cover_cdn_key = "img/v1/2021/11/es-4273-026"
+cover_alt = "The white Peace Arch monument stands on a green lawn under an overcast gray sky, flying the American and Canadian flags on top and inscribed with “Children of a Common Mother.” Bare winter trees flank the arch, with manicured shrubs and roadways visible in the background."
 +++
 
 Peace Arch Historical State Park honors the peaceful relationship between the US and Canada. The arch itself was completed in 1921; the park and picnic grounds surrounding it on both sides followed in the 1930s. The principal highway between Seattle and Vancouver (I-5 / BC-99) straddles the Arch.
@@ -24,8 +25,8 @@ There is a sister park managed by British Columbia named Peace Arch Provincial P
 {{ es_cdn_image(id = "es-4273-020", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4273-020") }}
 {{ es_cdn_image(id = "es-4273-022", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4273-022", caption = "The border here is almost surreal. The playground and most of the people here are in the US. The houses just beyond are in Canada.") }}
 {{ es_cdn_image(id = "es-4273-023", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4273-023") }}
-{{ es_cdn_image(id = "es-4273-026", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4273-026") }}
-{{ es_cdn_image(id = "es-4273-029", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4273-029") }}
+{{ es_cdn_image(id = "es-4273-026", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4273-026", alt = "The white Peace Arch monument stands on a green lawn under an overcast gray sky, flying the American and Canadian flags on top and inscribed with “Children of a Common Mother.” Bare winter trees flank the arch, with manicured shrubs and roadways visible in the background.") }}
+{{ es_cdn_image(id = "es-4273-029", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4273-029", alt = "The white Peace Arch monument on the US/Canada border, inscribed “CHILDREN OF A COMMON MOTHER,” with an American flag and a Canadian flag flying from its top beneath an overcast gray sky, surrounded by green lawn and bare winter trees.") }}
 {{ es_cdn_image(id = "es-4273-030", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4273-030") }}
 {{ es_cdn_image(id = "es-4273-033", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4273-033") }}
 {{ es_cdn_image(id = "es-4273-034", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4273-034") }}

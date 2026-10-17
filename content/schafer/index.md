@@ -26,7 +26,7 @@ So, I don't know. Maybe I don't have the exact count either, but ... let's assum
 
 {{ es_cdn_video(id = "es-4261-019", cdn_version = "v1", cdn_key = "vid/v1/2021/10/es-4261-019") }}
 
-{{ es_cdn_image(id = "es-4261-020", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4261-020") }}
+{{ es_cdn_image(id = "es-4261-020", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4261-020", alt = "A shallow river winds through a forested valley under an overcast gray sky, lined on both banks by tall evergreen conifers and green brushy trees, with a gravel bar visible along the right side and low hills in the distance.") }}
 
 {{ es_cdn_image(id = "es-4261-021", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4261-021") }}
 

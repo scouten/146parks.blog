@@ -21,9 +21,9 @@ This park feels like two parks in one: There is the park with the gentle hiking 
 
 I started with the part of the park that borders the Green River.
 
-{{ es_cdn_image(id = "es-4285-006", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4285-006") }}
+{{ es_cdn_image(id = "es-4285-006", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4285-006", alt = "A dirt trail winds through a Pacific Northwest forest lined with lush green sword ferns, passing moss-covered bare deciduous trees and tall evergreen conifers, with a river glimpsed through the trees under a pale blue sky.") }}
 
-{{ es_cdn_image(id = "es-4285-011", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4285-011") }}
+{{ es_cdn_image(id = "es-4285-011", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4285-011", alt = "A rushing river flows over rocks and rapids past a rocky gravel bank, bordered by a forest of evergreen conifers and bare deciduous trees under a moody purple-blue clouded sky.") }}
 
 {{ es_cdn_image(id = "es-4285-016", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4285-016", caption = "Looks like beavers had some ideas about this tree that didn’t pan out.") }}
 
@@ -47,9 +47,9 @@ So, flush from all that adventure, I set out to check out the hiking trails. I h
 
 {{ es_cdn_image(id = "es-4285-064", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4285-064") }}
 
-{{ es_cdn_image(id = "es-4285-065", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4285-065") }}
+{{ es_cdn_image(id = "es-4285-065", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4285-065", alt = "A wide forest river winds through dense evergreen conifers, with rippling water reflecting the bright sky and tall fir trees silhouetted along the right bank beneath a blue sky streaked with wispy clouds.") }}
 
-{{ es_cdn_image(id = "es-4285-072", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4285-072") }}
+{{ es_cdn_image(id = "es-4285-072", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4285-072", alt = "A narrow dirt and moss-covered trail winds through a leafless winter forest, with bare deciduous trees and moss-draped trunks lining both sides and the sun breaking through the branches against a blue sky. Fallen brown leaves cover the forest floor, with ferns and green moss visible along the left bank.") }}
 
 {{ es_cdn_image(id = "es-4285-073", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4285-073") }}
 
