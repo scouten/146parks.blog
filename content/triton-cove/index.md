@@ -12,6 +12,7 @@ markers = "markers.js"
 bounds = {sw = [47.599, -122.995], ne = [47.619, -122.975]}
 cover = "es-4260-051"
 cover_cdn_key = "img/v1/2021/10/es-4260-051"
+cover_alt = "A rocky, barnacle-covered shoreline at low tide under an overcast gray sky, with tall evergreen trees crowding the right side of the frame and calm cove water stretching to a distant forested shore dotted with houses and a dock."
 +++
 
 Triton Cove is apparently famous for its sunrises, but ... alas ... that was not on offer when I visited.
@@ -28,9 +29,9 @@ I'm perhaps a contrarian in Washington in that I enjoy our cloudy days, too. I f
 
 {{ es_cdn_image(id = "es-4260-035", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4260-035", alt = "A panoramic view of a quiet cove under an overcast gray sky, with a concrete boat launch ramp on the left and a wide expanse of rocky, oyster-strewn shoreline on the right. A single tall wooden or metal piling rises from the calm water, with tree-covered hills and distant shoreline homes along the far side.") }}
 
-{{ es_cdn_image(id = "es-4260-036p", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4260-036p") }}
+{{ es_cdn_image(id = "es-4260-036p", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4260-036p", alt = "A rocky, oyster-strewn shoreline at low tide under an overcast gray sky, with tall evergreen conifers rising from a wooded bluff and a calm inlet with distant tree-lined shore and scattered houses to the left.") }}
 
-{{ es_cdn_image(id = "es-4260-051", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4260-051") }}
+{{ es_cdn_image(id = "es-4260-051", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4260-051", alt = "A rocky, barnacle-covered shoreline at low tide under an overcast gray sky, with tall evergreen trees crowding the right side of the frame and calm cove water stretching to a distant forested shore dotted with houses and a dock.") }}
 
 For more information:
 
