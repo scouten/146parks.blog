@@ -6,6 +6,7 @@ weight = 112
 [taxonomies]
 
 [extra]
+distance = "1.4 km / 0.9 mi"
 seq = 112
 near = "north of Metaline Falls"
 designator = "State Park Heritage Site"
@@ -16,6 +17,8 @@ bounds = {sw = [48.988, -117.381], ne = [49.008, -117.361]}
 cover = "es-4390-310"
 cover_cdn_key = "img/v1/2022/07/es-4390-310"
 cover_alt = "A cave ceiling and rock formations glowing intense blue and violet under ultraviolet light, with a cluster of bright, sparkling white and pale mineral spots at the center where the rock fluoresces. Stalactite-like textures and drips are silhouetted against the deep blue darkness."
+track_key = "track/v2/2022/07/2022-07-17-crawford.json"
+parks = ["relation/11009368"]  # Crawford State Park
 +++
 
 Located near the Canadian border, this park seems fairly basic on the surface. Dig a little deeper (i.e. arrange a tour at the right time) and you'll find some views unlike any other of Washington's state parks.
