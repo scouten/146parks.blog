@@ -6,13 +6,15 @@ weight = 110
 [taxonomies]
 
 [extra]
+distance = "36 km / 23 mi"
 seq = 110
 near = "west of Coulee City"
 visited = "19 March and 17 July 2022"
 lat = 47.593
 lon = -119.371
 markers = "markers.js"
-track_log_key = "kml/v1/2022/07/2022-07-17-sun-lakes-dry-falls.kml"
+track_key = "track/v2/2022/07/2022-07-17-sun-lakes.json"
+parks = ["relation/6191328"]  # Sun Lakes-Dry Falls State Park
 bounds = {sw = [47.583, -119.405], ne = [47.603, -119.337]}
 cover = "es-4390-091"
 cover_cdn_key = "img/v1/2022/07/es-4390-091"

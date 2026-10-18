@@ -6,6 +6,7 @@ weight = 111
 [taxonomies]
 
 [extra]
+distance = "20 km / 13 mi"
 seq = 111
 visited = "19 March and 17 July 2022"
 near = "southwest of Electric City"
@@ -16,6 +17,8 @@ bounds = {sw = [47.839, -119.142], ne = [47.873, -119.093]}
 cover = "es-4390-109"
 cover_cdn_key = "img/v1/2022/07/es-4390-109"
 cover_alt = "A two-lane paved road stretches straight ahead through dry grassland and sagebrush toward the flat-topped basalt mesa of Steamboat Rock under a clear deep-blue sky."
+track_key = "track/v2/2022/07/2022-07-17-steamboat.json"
+parks = ["relation/5903817"]  # Steamboat Rock State Park
 +++
 
 There is only one Steamboat Rock. As a 600-foot tall basalt rock formation in an otherwise mostly-level landscape, it is no wonder it made an impression on early explorers.
