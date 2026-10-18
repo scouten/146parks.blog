@@ -4,12 +4,14 @@ date = 2022-12-30
 weight = 115
 
 [extra]
+distance = "4.2 km / 2.6 mi"
 seq = 115
 near = "west of Eatonville"
 lat = 46.857
 lon = -122.33
 markers = "markers.js"
-track_log_key = "kml/v1/2022/12/2022-12-30-nisqually.kml"
+track_key = "track/v2/2022/12/2022-12-30-nisqually.json"
+parks = ["relation/3740418"]  # Nisqually State Park
 bounds = {sw = [46.847, -122.34], ne = [46.867, -122.32]}
 cover = "es-4461-076"
 cover_cdn_key = "img/v1/2022/12/es-4461-076"

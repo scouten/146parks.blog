@@ -6,6 +6,7 @@ weight = 114
 [taxonomies]
 
 [extra]
+distance = "1.9 km / 1.2 mi"
 seq = 114
 near = "south of Olga"
 lat = 48.603
@@ -15,6 +16,8 @@ bounds = {sw = [48.593, -122.839], ne = [48.613, -122.819]}
 cover = "es-4433-106"
 cover_cdn_key = "img/v1/2022/11/es-4433-106"
 cover_alt = "A single white sailboat anchored on calm blue water in a sheltered cove, with forested hills and rocky shoreline in the background under a clear blue sky."
+track_key = "track/v2/2022/11/2022-11-12-obstruction-pass.json"
+parks = ["way/395105730"]  # Obstruction Pass State Park
 +++
 
 Obstruction Pass State Park offers access to one of the few public beaches on Orcas Island and some explanations for how nature has reclaimed the landscape after the last glacial age retreated.
