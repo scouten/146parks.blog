@@ -41,11 +41,11 @@ So, I don't know. Maybe I don't have the exact count either, but ... let's assum
 
 {{ es_cdn_image(id = "es-4261-093", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4261-093", alt = "A spray of Oregon grape leaves on a forest floor, with individual leaflets transitioning from green through yellow to vivid red, dotted with water droplets. Green ferns, mossy twigs, and other foliage fill the surrounding shaded understory.") }}
 
-{{ es_cdn_image(id = "es-4261-094", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4261-094") }}
+{{ es_cdn_image(id = "es-4261-094", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4261-094", alt = "A dense, mossy woodland scene with maple and other trees whose leaves are turning yellow and orange amid green foliage, with moss-covered branches and a glimpse of a grassy clearing visible through the trees.") }}
 
-{{ es_cdn_image(id = "es-4261-096", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4261-096") }}
+{{ es_cdn_image(id = "es-4261-096", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4261-096", alt = "A narrow dirt hiking trail winding through a lush green forest, bordered on the right by a rustic split-rail wooden fence and flanked by abundant sword ferns, mossy tree trunks, and fallen autumn leaves scattered across the path.") }}
 
-{{ es_cdn_image(id = "es-4261-100", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4261-100") }}
+{{ es_cdn_image(id = "es-4261-100", cdn_version = "v1", cdn_key = "img/v1/2021/10/es-4261-100", alt = "A moss-covered deciduous tree with twisting branches and leaves turning gold and orange reaches upward against a pale sky, surrounded by lush green undergrowth in an autumn forest.") }}
 
 For more information:
 

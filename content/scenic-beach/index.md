@@ -30,25 +30,25 @@ The house wasn't open when I visited the park, but I caught a few nice pictures 
 {{ es_cdn_image(id = "es-4269-055a", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4269-055a", title = "Emel House") }}
 {{ es_cdn_image(id = "es-4269-056", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4269-056") }}
 {{ es_cdn_image(id = "es-4269-058", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4269-058", alt = "A manicured lawn and garden with two spiky potted plants flank a gravel path leading to a wooden split-rail fence overlooking calm water, with low fog hugging the base of forested mountains and a cloudy sky above.") }}
-{{ es_cdn_image(id = "es-4269-066", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4269-066") }}
+{{ es_cdn_image(id = "es-4269-066", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4269-066", alt = "A small rustic log cabin with an open covered porch sits in a mossy forest, its roof blanketed in green moss, ferns, and fallen reddish autumn leaves. A gravel clearing lies in front, with tall moss-covered trees and evergreens filling the background.") }}
 
 There are a few miles of hiking trails in this park. Aside from the occasional jogger, they were mostly deserted during my time here.
 
-{{ es_cdn_image(id = "es-4269-070", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4269-070") }}
-{{ es_cdn_image(id = "es-4269-082", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4269-082") }}
-{{ es_cdn_image(id = "es-4269-084", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4269-084") }}
-{{ es_cdn_image(id = "es-4269-086", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4269-086") }}
-{{ es_cdn_image(id = "es-4269-088", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4269-088") }}
-{{ es_cdn_image(id = "es-4269-092", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4269-092") }}
-{{ es_cdn_image(id = "es-4269-103", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4269-103") }}
+{{ es_cdn_image(id = "es-4269-070", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4269-070", alt = "A narrow reddish-brown dirt trail covered in fallen conifer needles winds through a dense evergreen forest, flanked by low green shrubs and tall moss-covered tree trunks rising into the canopy.") }}
+{{ es_cdn_image(id = "es-4269-082", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4269-082", alt = "A close-up of thick green moss draped over a tree branch in a damp forest, with strands hanging down and water droplets clinging to the growth. In the background, more moss-covered branches and tree trunks fade into a soft, dim woodland floor.") }}
+{{ es_cdn_image(id = "es-4269-084", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4269-084", alt = "A network of exposed tree roots fanning out across a damp forest floor, surrounded by patches of bright green moss, scattered pine needles, small rocks, and low leafy plants at Scenic Beach State Park.") }}
+{{ es_cdn_image(id = "es-4269-086", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4269-086", alt = "A narrow dirt footpath winds through a dense, mossy evergreen forest of tall conifers, flanked by ferns, low green shrubs, and underbrush under soft overcast light.") }}
+{{ es_cdn_image(id = "es-4269-088", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4269-088", alt = "A damp, reddish-brown tree trunk draped in cascading strands of bright yellow-green moss, set against a lush, misty forest of ferns and tall conifers in the background.") }}
+{{ es_cdn_image(id = "es-4269-092", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4269-092", alt = "Wet, decaying brown maple leaves pressed flat against the damp, weathered bark of a fallen log, with blurred autumn leaf litter and green ferns on the forest floor behind.") }}
+{{ es_cdn_image(id = "es-4269-103", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4269-103", alt = "Slender reddish stems with glossy green serrated leaves trail across a thick carpet of moss covering a log or rock, scattered with fallen conifer needles.") }}
 
 Oh yes, the name of this park _did_ include "Beach," didn't it?
 
 Here is the view from said beach, looking roughly in the direction of Dosewallips State Park, which [I visited almost a year ago](../dosewallips) as part of this project.
 
 {{ es_cdn_image(id = "es-4269-119p", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4269-119p", alt = "A wide panoramic view across calm gray water toward distant, cloud-capped mountains under an overcast sky, with a leaning tree and a rocky, pebbled shoreline framing the right side of the frame.") }}
-{{ es_cdn_image(id = "es-4269-148", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4269-148") }}
-{{ es_cdn_image(id = "es-4269-156", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4269-156") }}
+{{ es_cdn_image(id = "es-4269-148", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4269-148", alt = "Large weathered driftwood stumps rest on a pebbly beach in the foreground, overlooking a calm gray body of water with misty, cloud-draped mountains across the far shore under an overcast sky.") }}
+{{ es_cdn_image(id = "es-4269-156", cdn_version = "v1", cdn_key = "img/v1/2021/11/es-4269-156", alt = "A calm, grey body of water under an overcast sky, with low tree-covered hills and a forested point in the misty distance. A slender branch with scattered green and yellowing leaves arches across the top and right of the frame.") }}
 
 For more information:
 
