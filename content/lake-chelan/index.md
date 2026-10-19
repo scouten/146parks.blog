@@ -6,6 +6,7 @@ weight = 108
 [taxonomies]
 
 [extra]
+distance = "1.6 km / 1.0 mi"
 seq = 108
 near = "west of Chelan"
 lat = 47.875
@@ -15,13 +16,15 @@ bounds = {sw = [47.865, -120.209], ne = [47.885, -120.189]}
 cover = "es-4388-274"
 cover_cdn_key = "img/v1/2022/07/es-4388-274"
 cover_alt = "A busy lakeside beach on a clear summer day, with people wading and floating on inflatable rafts in the clear water, a person on a red-and-black jet ski at left, and colorful inflatable tubes resting on the sandy shore in the foreground. Forested hills rise across the far side of the lake beneath a bright blue sky."
+track_key = "track/v2/2022/07/2022-07-16-lake-chelan.json"
+parks = ["relation/5947360"]  # Lake Chelan State Park
 +++
 
 Wanna know where the cool kids go to stay cool? In central Washington, it's Lake Chelan State Park!
 
 <!-- more -->
 
-When I arrived in mid-afternoon, it was already well into the 90s and the park was bursting at the seams with people enjoying the sandy lake shore and campgrounds.
+When I arrived in mid-afternoon, the temperature was already very hot (~35°C / 95°F) and the park was bursting at the seams with people enjoying the sandy lake shore and campgrounds.
 
 {{ es_cdn_image(id = "es-4388-266", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4388-266") }}
 
