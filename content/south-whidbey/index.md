@@ -4,12 +4,14 @@ date = 2022-06-11
 weight = 101
 
 [extra]
+distance = "5.9 km / 3.7 mi"
 seq = 101
 near = "north of Freeland"
 lat = 48.059
 lon = -122.593
 markers = "markers.js"
-track_log_key = "kml/v1/2022/06/2022-06-11-south-whidbey.kml"
+track_key = "track/v2/2022/06/2022-06-11-south-whidbey-sp.json"
+parks = ["way/759100391"]  # South Whidbey State Park
 bounds = {sw = [48.049, -122.603], ne = [48.069, -122.583]}
 cover = "es-4364-049"
 cover_cdn_key = "img/v1/2022/06/es-4364-049"
