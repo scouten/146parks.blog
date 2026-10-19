@@ -6,6 +6,7 @@ weight = 109
 [taxonomies]
 
 [extra]
+distance = "3.9 km / 2.4 mi"
 seq = 109
 near = "north of Orondo"
 lat = 47.708
@@ -15,6 +16,8 @@ bounds = {sw = [47.698, -120.214], ne = [47.718, -120.194]}
 cover = "es-4388-298"
 cover_cdn_key = "img/v1/2022/07/es-4388-298"
 cover_alt = "A calm stretch of the Columbia River bordered by a grassy shoreline and tall poplar trees, with a small beach where a few people relax and swim under a yellow umbrella. Arid, treeless brown hills rise across the water beneath a clear deep-blue sky."
+track_key = "track/v2/2022/07/2022-07-16-daroga.json"
+parks = ["relation/11004404"]  # Daroga State Park
 +++
 
 Located on the Columbia River a few miles north of Wenatchee, Daroga State Park offers sandy beaches, camp sites, and some easy trails along the water.
