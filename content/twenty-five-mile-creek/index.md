@@ -4,6 +4,7 @@ date = 2022-07-16
 weight = 107
 
 [extra]
+distance = "400 m / 0.2 mi"
 seq = 107
 near = "northwest of Chelan"
 lat = 47.993
@@ -13,6 +14,8 @@ bounds = {sw = [47.983, -120.271], ne = [48.003, -120.251]}
 cover = "es-4388-226"
 cover_cdn_key = "img/v1/2022/07/es-4388-226"
 cover_alt = "A rocky, tree-lined shoreline juts into the deep blue water of a lake, with a small white powerboat moored at a dock in the distance. Dry, forested mountains rise on the far side beneath a clear blue sky."
+track_key = "track/v2/2022/07/2022-07-16-25-mile-creek.json"
+parks = ["relation/5951461"]  # Twenty-Five Mile Creek State Park
 +++
 
 Halfway along the fifty-mile length of Lake Chelan, the roads end and the lake continues undeveloped. Twenty-Five Mile Creek State Park is situated right at the end of the road and offers beaches, camping, and a marina with access to the lake.
