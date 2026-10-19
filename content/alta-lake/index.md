@@ -6,6 +6,7 @@ weight = 106
 [taxonomies]
 
 [extra]
+distance = "820 m / 0.5 mi"
 seq = 106
 near = "southwest of Pateros"
 lat = 48.027
@@ -15,6 +16,8 @@ bounds = {sw = [48.017, -119.946], ne = [48.037, -119.926]}
 cover = "es-4388-188"
 cover_cdn_key = "img/v1/2022/07/es-4388-188"
 cover_alt = "A weathered wooden dock extends from the lower left into the blue waters of Alta Lake, which is flanked by pine-forested mountains under a clear sky. Tall grassy reeds grow along the shore at the right, and swimmers and a roped-off area are visible across the lake."
+track_key = "track/v2/2022/07/2022-07-16-alta-lake.json"
+parks = ["relation/5959484"]  # Alta Lake State Park
 +++
 
 Tucked into the mountains a half hour's drive from Lake Chelan, Alta Lake is a summer getaway with a large campground, swimming beach, and excellent mountain views.

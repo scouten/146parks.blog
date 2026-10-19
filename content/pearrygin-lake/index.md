@@ -4,12 +4,14 @@ date = 2022-07-16
 weight = 105
 
 [extra]
+distance = "5.7 km / 3.6 mi"
 seq = 105
 near = "east of Winthrop"
 lat = 48.485
 lon = -120.142
 markers = "markers.js"
-track_log_key = "kml/v1/2022/07/2022-07-16-pearrygin-lake.kml"
+track_key = "track/v2/2022/07/2022-07-16-pearrygin.json"
+parks = ["relation/6191326"]  # Pearrygin Lake State Park
 bounds = {sw = [48.474, -120.152], ne = [48.494, -120.132]}
 cover = "es-4388-136"
 cover_cdn_key = "img/v1/2022/07/es-4388-136"
@@ -38,7 +40,7 @@ I set forth on the Rex Derr hiking trail, dedicated in memory of a former direct
 
 {{ es_cdn_image(id = "es-4388-132", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4388-132", alt = "A narrow dirt singletrack trail winds up a grassy hillside dotted with sagebrush and green shrubs, with forested slopes and distant hazy mountains under a clear deep-blue sky.") }}
 
-My route wound up taking me about three miles through the hills above the lake.
+My route wound up taking me about 6 km / 4 miles through the hills above the lake.
 
 {{ es_cdn_image(id = "es-4388-136", cdn_version = "v1", cdn_key = "img/v1/2022/07/es-4388-136", alt = "A calm lake surrounded by rolling green and golden hills under a clear deep-blue sky, with tall grasses and shrubs in the foreground and stands of pine trees lining the far shore.") }}
 

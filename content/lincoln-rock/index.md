@@ -4,6 +4,7 @@ date = 2022-07-16
 weight = 104
 
 [extra]
+distance = "1.7 km / 1.0 mi"
 seq = 104
 near = "north of East Wenatchee"
 lat = 47.54
@@ -13,6 +14,8 @@ bounds = {sw = [47.53, -120.295], ne = [47.55, -120.275]}
 cover = "es-4389-032"
 cover_cdn_key = "img/v1/2022/07/es-4389-032"
 cover_alt = "A black Tracker motorboat with several people aboard cruises across calm river water in the early morning, leaving a small wake, with a bank of sunlit green trees and sagebrush-covered hillside behind."
+track_key = "track/v2/2022/07/2022-07-16-lincoln-rock.json"
+parks = ["relation/11005337"]  # Lincoln Rock State Park
 +++
 
 Some say the rock formation across the Columbia River from this park resembles Abe Lincoln. I don't quite see that resemblance myself, but — regardless — this park offers some nice views and access to the river itself.
