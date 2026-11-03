@@ -19,9 +19,9 @@ Miles of sandy beach? Dozens of campsites? This is Grayland Beach State Park, wh
 
 <!-- more -->
 
-{{ es_cdn_image(id = "es-4244-051", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4244-051") }}
-{{ es_cdn_image(id = "es-4244-053", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4244-053") }}
-{{ es_cdn_image(id = "es-4244-054", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4244-054") }}
+{{ es_cdn_image(id = "es-4244-051", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4244-051", alt = "A narrow sandy trail winds through coastal dune vegetation at Grayland Beach State Park, flanked by lush green pine trees, shore pines, dune grasses, and leafy shrubs under overcast daylight.") }}
+{{ es_cdn_image(id = "es-4244-053", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4244-053", alt = "A sandy trail winds through dune grass and low shrubs under a flat, overcast sky, with a weathered wooden bench beside the path and a small blue trail marker numbered 4 on a post in the distance.") }}
+{{ es_cdn_image(id = "es-4244-054", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4244-054", alt = "A narrow sandy footpath winds through grassy coastal dunes dotted with yellow wildflowers and dried seed heads under a heavy, overcast gray sky at Grayland Beach State Park in Washington.") }}
 {{ es_cdn_image(id = "es-4244-058", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4244-058", alt = "Rippled sand dunes dotted with clumps of tall green and tan beach grass under an overcast gray sky, with a low line of distant trees on the horizon at Grayland Beach State Park.") }}
 {{ es_cdn_image(id = "es-4244-060", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4244-060", alt = "A pinkish-brown Dungeness crab shell (carapace) lies upside-down on gray wet sand at the beach, with a thin strand of green seaweed draped over its edge and scattered marks in the surrounding sand.") }}
 {{ es_cdn_image(id = "es-4244-063", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4244-063", alt = "A wide, flat gray sand beach at low tide under an overcast sky, with a shallow tidal channel of water winding toward the surf in the distance. Small distant figures and a vehicle are visible near the waterline on the hazy horizon.") }}
