@@ -25,7 +25,7 @@ Getting there is half the fun. I put in from [Ala Spit County Park](https://www.
 
 Signs at the park warn of difficult currents and tides. I was fortunate not to encounter any challenges getting to Skagit Island, but do be careful and be aware of tides, currents, and wakes from nearby boats.
 
-{{ es_cdn_image(id = "es-4221-086", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4221-086", caption="First sighting of the island from Skagit Bay.") }}
+{{ es_cdn_image(id = "es-4221-086", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4221-086", caption="First sighting of the island from Skagit Bay.", alt = "The blue bow of a kayak glides across the calm, rippled waters of Skagit Bay toward a small forested island with rocky, grassy bluffs and a crown of evergreen trees, under a wide sky of soft gray and blue clouds.") }}
 
 {{ es_cdn_image(id = "es-4221-089", cdn_version = "v1", cdn_key = "img/v1/2021/06/es-4221-089", alt = "A calm, dark-green stretch of water meets a rocky, driftwood-strewn beach backed by a dense wall of evergreen conifers at Skagit Island Marine State Park. In the distance a forested hill and a few shoreline buildings sit beneath a wide sky filled with dappled, mottled clouds.") }}
 
