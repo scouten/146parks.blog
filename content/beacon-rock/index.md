@@ -12,6 +12,7 @@ markers = "markers.js"
 track_log_key = "kml/v1/2021/03/2021-03-27-beacon-rock.kml"
 cover = "es-4186-289"
 cover_cdn_key = "img/v1/2021/04/es-4186-289"
+cover_alt = "A sweeping view from a forested ridge in Beacon Rock State Park, looking out over dense evergreen conifer forest toward the Columbia River winding between steep, rounded ridges under a clear deep-blue sky with a few wispy clouds."
 visited = "27 March and 10–11 April 2021"
 +++
 
@@ -43,7 +44,7 @@ Trains make a big impression as they pass through the park:
 
 {{ es_cdn_image(id = "es-4181-084", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-084") }}
 
-{{ es_cdn_image(id = "es-4186-183", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-183", caption="I love this entrance sign to the park.") }}
+{{ es_cdn_image(id = "es-4186-183", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-183", caption="I love this entrance sign to the park.", alt = "The entrance sign for Beacon Rock State Park, with white lettering on a dark brown panel reading “Beacon Rock State Park” set atop a weathered stone base on a green lawn. A red-flowering rhododendron, a blossoming white tree, and tall evergreen and bare deciduous trees fill the background under a cloudy sky, with a small stone building to the right.") }}
 
 To stay near the river would be to miss some of the highlights of the back part of this park. There are many miles of hiking trails. If nothing else, you should take the time to climb up to The Saddle and Hamilton Mountain:
 
@@ -51,7 +52,7 @@ To stay near the river would be to miss some of the highlights of the back part 
 
 {{ es_cdn_image(id = "es-4186-124", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-124") }}
 
-{{ es_cdn_image(id = "es-4186-173", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-173") }}
+{{ es_cdn_image(id = "es-4186-173", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-173", alt = "A rocky, moss-covered mountain ridge trail leading toward a tree-topped rocky summit under a dramatic, heavily clouded gray sky, with forested slopes and snow-dusted mountains in the distance.") }}
 
 {{ es_cdn_image(id = "es-4181-025", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-025") }}
 
@@ -61,31 +62,31 @@ To stay near the river would be to miss some of the highlights of the back part 
 
 {{ es_cdn_video(id = "es-4186-277", cdn_version = "v1", cdn_key = "vid/v1/2021/04/es-4186-277") }}
 
-{{ es_cdn_image(id = "es-4186-279", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-279") }}
+{{ es_cdn_image(id = "es-4186-279", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-279", alt = "A tiered waterfall tumbles down a steep, moss-covered rocky gorge in a lush evergreen forest, with a rustic wooden log footbridge and railing crossing in front of the cascades and a dirt trail winding uphill alongside. Tall conifers, ferns, and vivid green moss blanket the ravine under soft overcast light.") }}
 
 {{ es_cdn_image(id = "es-4186-341", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-341", caption="The trails near Rodney Falls can be, shall we say, a bit muddy.") }}
 
-{{ es_cdn_image(id = "es-4186-281", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-281") }}
+{{ es_cdn_image(id = "es-4186-281", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-281", alt = "A narrow dirt hiking trail curves along a steep forested hillside lined with tall evergreen trees, their trunks silhouetted against a hazy blue sky, with a distant ridge of the Columbia River Gorge visible through the trees.") }}
 
-{{ es_cdn_image(id = "es-4186-283", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-283") }}
+{{ es_cdn_image(id = "es-4186-283", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-283", alt = "A dirt hiking trail winds uphill through a forest of tall conifers, with sunlight casting long tree-trunk shadows across the path. Ferns, moss-covered rocks, and green undergrowth line the trail, and patches of blue sky show through the bare and evergreen branches above.") }}
 
 {{ es_cdn_image(id = "es-4186-285", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-285", caption="A peek-a-boo view of Beacon Rock from the Hamilton Mountain trail.") }}
 
-{{ es_cdn_image(id = "es-4186-289", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-289") }}
+{{ es_cdn_image(id = "es-4186-289", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-289", alt = "A sweeping view from a forested ridge in Beacon Rock State Park, looking out over dense evergreen conifer forest toward the Columbia River winding between steep, rounded ridges under a clear deep-blue sky with a few wispy clouds.") }}
 
-{{ es_cdn_image(id = "es-4186-290", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-290") }}
+{{ es_cdn_image(id = "es-4186-290", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-290", alt = "A narrow dirt hiking trail winds along a forested hillside, lined with mossy banks and bare, tangled branches, opening to a view of evergreen-covered ridges and a distant mountain under a clear blue sky.") }}
 
-{{ es_cdn_image(id = "es-4186-292", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-292") }}
+{{ es_cdn_image(id = "es-4186-292", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-292", alt = "A narrow dirt hiking trail hugs a grassy, rocky ridge leading toward a towering columnar basalt cliff topped with dense evergreen forest, under a clear deep-blue sky at Hamilton Mountain in Beacon Rock State Park, Washington.") }}
 
-{{ es_cdn_image(id = "es-4186-295", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-295") }}
+{{ es_cdn_image(id = "es-4186-295", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-295", alt = "A sweeping view from a mossy clifftop on Hamilton Mountain overlooking the Columbia River Gorge, with evergreen-forested slopes, patches of golden spring grass, and the river winding past the town of Stevenson toward hazy blue mountains under a clear sky.") }}
 
-{{ es_cdn_image(id = "es-4186-297", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-297") }}
+{{ es_cdn_image(id = "es-4186-297", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-297", alt = "An elevated view over the Columbia River Gorge from Hamilton Mountain, with evergreen conifer forests sloping down toward the broad river below and tall ridges and mountains rising across the water under a clear deep-blue sky.") }}
 
-{{ es_cdn_image(id = "es-4186-317p", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-317p") }}
+{{ es_cdn_image(id = "es-4186-317p", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-317p", alt = "A sweeping panoramic view from The Saddle at Hamilton Mountain, overlooking forested ridges and rocky outcrops that descend toward the Columbia River Gorge, with distant hazy mountains under a deep blue sky and a rocky, moss-dappled foreground.") }}
 
-{{ es_cdn_image(id = "es-4186-334", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-334", caption="A fellow hiker was flying a kite at The Saddle.") }}
+{{ es_cdn_image(id = "es-4186-334", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-334", caption="A fellow hiker was flying a kite at The Saddle.", alt = "A pink and purple kite with a long ribbon tail flies against a clear deep-blue sky over a forested mountain ridge, while two people relax on a rocky, grassy saddle in the foreground dotted with stones and dry brush.") }}
 
-{{ es_cdn_image(id = "es-4186-354", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-354") }}
+{{ es_cdn_image(id = "es-4186-354", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-354", alt = "A powerful waterfall rushes down between moss-streaked rock walls at the Pool of the Winds, churning into a frothy turquoise plunge pool below. Sunlight filters onto the wet, textured stone framing the cascade.") }}
 
 Ironically, the best view that I could find of Beacon Rock itself was from across the river in Oregon's [John B. Yeon State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=114):
 
