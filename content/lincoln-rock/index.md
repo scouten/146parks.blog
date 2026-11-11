@@ -56,7 +56,7 @@ This park, and a few others in the area, are a product of a partnership between 
 
 I have to throw in one panorama I enjoy taken on an earlier attempt to visit this park in February 2021. The park is not quite as inspiring in the winter as it is in the summer, so I decided then to save this park for another day.
 
-{{ es_cdn_image(id = "es-4173-089p", cdn_version = "v1", cdn_key = "img/v1/2021/02/es-4173-089p") }}
+{{ es_cdn_image(id = "es-4173-089p", cdn_version = "v1", cdn_key = "img/v1/2021/02/es-4173-089p", alt = "A wide panoramic view across a calm river toward dry, treeless brown hills and rocky bluffs under a deep blue sky, with evergreen trees on a point of land at the left shore.") }}
 
 For more information:
 

@@ -24,15 +24,15 @@ You might be tempted to start with the parts of the park that are easily accesib
 
 From the former Doetsch Ranch property, you can see Beacon Rock itself and some of the nearby rivers as they approach the Columbia:
 
-{{ es_cdn_image(id = "es-4181-030", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-030") }}
+{{ es_cdn_image(id = "es-4181-030", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-030", alt = "A tall, forested basalt monolith rises above a dense evergreen forest under a deep blue sky, with a prominent conifer in the left foreground and a grassy meadow at the base. Beacon Rock stands out as a rugged rock outcrop in the Columbia River Gorge landscape.") }}
 
-{{ es_cdn_image(id = "es-4181-032p", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-032p") }}
+{{ es_cdn_image(id = "es-4181-032p", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-032p", alt = "A broad grassy meadow with patches of dried grass stretches toward bare deciduous trees and dense evergreen forest, backed by forested mountain ridges under a vivid blue sky streaked with wispy clouds and contrails at Beacon Rock State Park, Washington.") }}
 
 {{ es_cdn_image(id = "es-4181-051", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-051") }}
 
 {{ es_cdn_video(id = "es-4181-055", cdn_version = "v1", cdn_key = "vid/v1/2021/03/es-4181-055") }}
 
-{{ es_cdn_image(id = "es-4181-059", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-059") }}
+{{ es_cdn_image(id = "es-4181-059", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-059", alt = "A tall evergreen conifer dominates the right side of a landscape at Beacon Rock State Park, with a mossy concrete railroad underpass, a small metal footbridge, and overgrown brush in the foreground. A hazy forested mountain ridge rises in the distance under a deep blue sky crossed by a vertical jet contrail.") }}
 
 Trains make a big impression as they pass through the park:
 
@@ -48,15 +48,15 @@ Trains make a big impression as they pass through the park:
 
 To stay near the river would be to miss some of the highlights of the back part of this park. There are many miles of hiking trails. If nothing else, you should take the time to climb up to The Saddle and Hamilton Mountain:
 
-{{ es_cdn_image(id = "es-4181-014", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-014") }}
+{{ es_cdn_image(id = "es-4181-014", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-014", alt = "A gravel forest trail winding through a dense stand of tall, straight evergreen conifers, with long morning shadows stretching across the path and sunlight filtering through the canopy. Ferns, moss, and undergrowth line the mossy banks on either side of the trail at Beacon Rock State Park.") }}
 
-{{ es_cdn_image(id = "es-4186-124", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-124") }}
+{{ es_cdn_image(id = "es-4186-124", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-124", alt = "A grassy, rocky ridgeline at the Saddle on Hamilton Mountain under a heavy overcast sky, with evergreen trees in the foreground and layered, partly snow-dusted mountains and a forested valley stretching into the distance.") }}
 
 {{ es_cdn_image(id = "es-4186-173", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-173", alt = "A rocky, moss-covered mountain ridge trail leading toward a tree-topped rocky summit under a dramatic, heavily clouded gray sky, with forested slopes and snow-dusted mountains in the distance.") }}
 
 {{ es_cdn_image(id = "es-4181-025", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-025") }}
 
-{{ es_cdn_image(id = "es-4186-122", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-122") }}
+{{ es_cdn_image(id = "es-4186-122", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-122", alt = "A rocky, gravel-covered trail winds through a forest, flanked by bare brush and evergreen conifers, with patches of blue sky and white clouds overhead on a sunny spring day.") }}
 
 {{ es_cdn_image(id = "es-4186-264", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-264") }}
 
@@ -90,7 +90,7 @@ To stay near the river would be to miss some of the highlights of the back part 
 
 Ironically, the best view that I could find of Beacon Rock itself was from across the river in Oregon's [John B. Yeon State Park](https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=114):
 
-{{ es_cdn_image(id = "es-4182-004", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4182-004") }}
+{{ es_cdn_image(id = "es-4182-004", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4182-004", alt = "A tall, craggy basalt pinnacle topped with evergreen trees rises above a dense conifer forest, with forested ridges and a patch of lingering snow visible on the distant mountains under a clear blue sky. Bare, leafless deciduous trees fill the foreground.") }}
 
 For more information:
 

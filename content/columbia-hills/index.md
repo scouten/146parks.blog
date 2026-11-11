@@ -24,15 +24,15 @@ First, there is the natural history, a reminder of a time when human's impact on
 
 This park offers many miles of hiking trails with little more than fenceposts and the trail itself to distract you from the landscape as it might have appeared centuries ago.
 
-{{ es_cdn_image(id = "es-4181-260p", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-260p", caption="Horsethief Butte") }}
+{{ es_cdn_image(id = "es-4181-260p", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-260p", caption="Horsethief Butte", alt = "A broad panorama of a dark basalt butte rising above a sparse high-desert landscape of rocky ground, dry golden grass, and scattered sagebrush, under a vivid blue sky with wispy clouds. Rolling tan hills stretch across the horizon to the right, and a faint trail cuts through the foreground.") }}
 
-{{ es_cdn_image(id = "es-4181-302p", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-302p", caption="Crawford Oaks area") }}
+{{ es_cdn_image(id = "es-4181-302p", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-302p", caption="Crawford Oaks area", alt = "A wide panoramic view of a dirt trail curving through a grassy, arid canyon landscape, flanked by dark basalt rock cliffs on the left with a solitary budding tree, under a vivid blue sky streaked with wispy clouds. Rolling golden-green hills and a distant river valley stretch across the background at Columbia Hills Historical State Park.") }}
 
-{{ es_cdn_image(id = "es-4181-151", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-151", caption="Dalles Mountain Ranch area") }}
+{{ es_cdn_image(id = "es-4181-151", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-151", caption="Dalles Mountain Ranch area", alt = "A narrow dirt singletrack trail winds through rolling green grassland dotted with weathered fence posts and barbed wire, leading toward distant tree-filled draws and layered hills under a vast blue sky streaked with wispy clouds and contrails.") }}
 
-{{ es_cdn_image(id = "es-4181-155", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-155") }}
+{{ es_cdn_image(id = "es-4181-155", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-155", alt = "A weathered wooden fence line and wire fencing run along a dry, golden grassland leading toward rolling treeless hills under a deep blue sky with wispy clouds.") }}
 
-{{ es_cdn_image(id = "es-4181-184", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-184") }}
+{{ es_cdn_image(id = "es-4181-184", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-184", alt = "A narrow dirt footpath winds through grassy rolling hills under a deep blue sky, passing an old weathered wooden gate and fence line, with low treeless mountains on the horizon at Columbia Hills Historical State Park.") }}
 
 Sunrise as it washes over the Columbia Valley is a special treat. Many other photographers were here on this April morning in the Dalles Mountain Ranch area, but we all had plenty of view for ourselves:
 
@@ -68,7 +68,7 @@ Then there is the history of the native peoples of this region. Images carved in
 
 The history of the European settlers, who began farming this region in the late 19th century, is preserved through The Dalles Mountain Ranch's historic buildings and farm equipment from that era.
 
-{{ es_cdn_image(id = "es-4181-122p", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-122p") }}
+{{ es_cdn_image(id = "es-4181-122p", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-122p", alt = "A wide panoramic view of rolling grassland hills under a bright blue sky with wispy clouds, where a narrow dirt footpath winds through green and golden grasses toward distant ridges, with a weathered barn and a few trees visible on the right.") }}
 
 {{ es_cdn_image(id = "es-4187-019", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4187-019", alt = "A large weathered white wooden barn with a metal roof and cupola sits amid green grassy hills at dawn, with wooden corral fences in the foreground and the snow-capped peak of Mount Hood rising against a soft pink and lavender sky in the distance.") }}
 
@@ -80,7 +80,7 @@ The history of the European settlers, who began farming this region in the late 
 
 And, finally, of course, there is the story of the still-active railroad carved into the edges of the now-flooded Columbia Valley, seen here from the trails near Horsethief Butte.
 
-{{ es_cdn_image(id = "es-4181-236p", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-236p") }}
+{{ es_cdn_image(id = "es-4181-236p", cdn_version = "v1", cdn_key = "img/v1/2021/03/es-4181-236p", alt = "A wide panorama of the Columbia River flowing between basalt cliffs and rolling grassy hills under a deep blue sky streaked with wispy clouds and contrails, with railroad tracks running along both banks near Horsethief Butte in Columbia Hills Historical State Park.") }}
 
 For more information:
 
