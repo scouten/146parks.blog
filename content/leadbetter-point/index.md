@@ -19,13 +19,13 @@ Situated at the tip of Long Beach Peninsula, Leadbetter Point State Park offers 
 
 <!-- more -->
 
-{{ es_cdn_image(id = "es-4146-075", cdn_version = "v1", cdn_key = "img/v1/2020/11/es-4146-075", caption="On the east side of the peninsula, long stretches of marshy shoreline bring in birdwatchers and dog-walkers.") }}
+{{ es_cdn_image(id = "es-4146-075", cdn_version = "v1", cdn_key = "img/v1/2020/11/es-4146-075", caption="On the east side of the peninsula, long stretches of marshy shoreline bring in birdwatchers and dog-walkers.", alt = "A wide panoramic view of a coastal salt marsh with golden-brown grasses and tidal flats stretching toward distant calm water and low hills under a deep blue, cloudless sky. A stand of dark evergreen trees frames the left edge of the scene.") }}
 
 {{ es_cdn_image(id = "es-4147-072", cdn_version = "v1", cdn_key = "img/v1/2020/11/es-4147-072", caption="Digging for clams.") }}
 
-{{ es_cdn_image(id = "es-4147-074", cdn_version = "v1", cdn_key = "img/v1/2020/11/es-4147-074") }}
+{{ es_cdn_image(id = "es-4147-074", cdn_version = "v1", cdn_key = "img/v1/2020/11/es-4147-074", alt = "A large weathered driftwood stump bleached pale by sun and salt rests on a sandy beach, its gnarled roots splayed outward, with clumps of dark seaweed scattered across the rippled sand around it.") }}
 
-{{ es_cdn_image(id = "es-4147-077", cdn_version = "v1", cdn_key = "img/v1/2020/11/es-4147-077") }}
+{{ es_cdn_image(id = "es-4147-077", cdn_version = "v1", cdn_key = "img/v1/2020/11/es-4147-077", alt = "Rippled wet sand on a tidal flat at low tide, the ridges catching bluish light while the troughs glow warm tan, scattered with bits of dark seaweed and debris.") }}
 
 From the main parking lot, you can hike the Weather Beach Trail (about a mile) through the forest and dunes and find yourself on a long sandy beach, which you may have almost entirely to yourself.
 
