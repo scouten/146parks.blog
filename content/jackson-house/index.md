@@ -32,8 +32,11 @@ But where are the parks that celebrate the rich culture that predated our arriva
 You can request a tour of the site, though I don’t know if that is still possible in COVID times. I did not plan ahead in that fashion, so the few pictures here are from walking around the premises and peeking in through the windows.
 
 {{ es_cdn_image(id = "es-4159-005", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4159-005") }}
-{{ es_cdn_image(id = "es-4159-006", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4159-006") }}
+
+{{ es_cdn_image(id = "es-4159-006", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4159-006", alt = "The dim interior of a historic log cabin with weathered wood-plank walls, a plank floor, and a whitewashed beamed ceiling, lit by a single multi-pane window at the back. A large spinning wheel stands at left, a ladder-back chair with a woven seat sits in the center near a small dark table, and a dark cabinet occupies the right side of the room.") }}
+
 {{ es_cdn_image(id = "es-4159-008", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4159-008") }}
+
 {{ es_cdn_image(id = "es-4159-001", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4159-001") }}
 
 For more information:

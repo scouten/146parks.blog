@@ -28,11 +28,11 @@ Dubbed Bubbling Geyser, this one has an interesting appearance because the metha
 
 {{ es_cdn_image(id = "es-4165-021", cdn_version = "v1", cdn_key = "img/v1/2021/01/es-4165-021" caption="Cristy Creek is swollen with winter rainfall.", alt = "A fast-moving, swollen creek churns with whitewater and foam as it rushes over rocks through a forested ravine, flanked by banks of green ferns, moss-covered logs, and fallen brown autumn leaves.") }}
 
-{{ es_cdn_image(id = "es-4165-007", cdn_version = "v1", cdn_key = "img/v1/2021/01/es-4165-007" caption="Cristy Creek, eager to merge with the Green River, spills through an area typically used for picnicking.") }}
+{{ es_cdn_image(id = "es-4165-007", cdn_version = "v1", cdn_key = "img/v1/2021/01/es-4165-007" caption="Cristy Creek, eager to merge with the Green River, spills through an area typically used for picnicking.", alt = "A wet, moss-covered forest floor with runoff water streaming over gravel and fallen leaves, scattered with evergreen and mossy deciduous trees, ferns, and cedars under an overcast winter sky.") }}
 
 {{ es_cdn_image(id = "es-4165-014", cdn_version = "v1", cdn_key = "img/v1/2021/01/es-4165-014" caption="Putting down roots? Mission accomplished.", alt = "A dense web of exposed tree roots sprawling across a bare, eroded hillside in a misty forest, the moss-covered roots fanning out from the base of a large tree amid fallen leaves, ferns, and foggy trees in the background.") }}
 
-{{ es_cdn_image(id = "es-4165-003", cdn_version = "v1", cdn_key = "img/v1/2021/01/es-4165-003") }}
+{{ es_cdn_image(id = "es-4165-003", cdn_version = "v1", cdn_key = "img/v1/2021/01/es-4165-003", alt = "A dense evergreen and bare-branch forest climbing a hillside under a heavy, overcast sky, with low fog rolling through the treetops and softening the ridgeline in the distance.") }}
 
 {{ es_cdn_image(id = "es-4165-012", cdn_version = "v1", cdn_key = "img/v1/2021/01/es-4165-012", alt = "The massive base of a tree with thick reddish-brown bark largely blanketed in vivid green moss, photographed up close in a damp forest. Blurred evergreen foliage and another tree trunk appear in the background to the right.") }}
 
